@@ -63,8 +63,9 @@
       </div>
     </body>
   </text>
+
   <standOff type="wordsplit" corresp="#KT271">
-    <interp type="alignment" select="0">40MR19MG3MG13MG14ML21ML7M2G2M,126MG</interp>
+    <interp type="alignment" select="0">40MR19MG3MG13M2G14ML21ML7M2G2M,127MG</interp>
     <entry>
       <form>aruvi</form>
       <def>waterfall</def>
@@ -100,7 +101,7 @@
     <entry>
       <form>nāṭaṉai<pc>+</pc></form>
       <def>land-he</def>
-      <gram type="role">accusative</gram>
+      <gramGrp><gram type="role">accusative</gram></gramGrp>
     </entry>
     <entry>
       <form>tēṟi</form>
@@ -110,7 +111,7 @@
       <form><pc>~</pc>uṟṟatu-maṉ-<pc>+</pc>um</form>
       <def>had-itmaṉ-</def>
       <form type="simple">uṟṟatu-maṉ</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>oru</form>
@@ -121,16 +122,16 @@
       <def>day</def>
     </entry>
     <entry>
-      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def></def>
-      <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
+      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-</form>
+      <def>maṟṟu</def>
+      <gramGrp type="particle"><m>maṟṟu</m></gramGrp>
     </entry>
     <entry>
       <form>atu</form>
       <def>that</def>
     </entry>
     <entry>
-      <form>tava<pc>+</pc></form>
+      <form>Tava<pc>+</pc></form>
       <def>very</def>
     </entry>
     <entry>
@@ -156,7 +157,7 @@
     <entry>
       <form>paṇpiṉ</form>
       <def>nature</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>nōy</form>
@@ -166,7 +167,7 @@
       <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
       <def>it-became</def>
       <form type="simple">ākiṉṟu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>
