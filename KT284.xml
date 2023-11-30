@@ -58,7 +58,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT284">
-    <interp type="alignment" select="0">75MR27MR10MG9MG54MG10MG20MG2M,213MG</interp>
+    <interp type="alignment" select="0">75MR27MR10MG9MG34MG20MG10MG20MG2M,214MG</interp>
     <entry>
       <form>poruta</form>
       <def>struck-</def>
@@ -78,7 +78,7 @@
     <entry>
       <form>kaṭuppa</form>
       <def>resemble</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>maṉṟam</form>
@@ -103,7 +103,7 @@
     <entry>
       <form>pala</form>
       <def>many</def>
-      <gram type="role">neuter plural</gram>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>uṭaṉ</form>
@@ -153,25 +153,25 @@
       <form><pc>+</pc>ēcuvar-ō</form>
       <def>abuse-they</def>
       <form type="simple">ēcuvar</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
       <form>tam</form>
       <def>self-</def>
-      <gram type="role">plural</gram>
+      <gramGrp><gram type="role">plural</gram></gramGrp>
     </entry>
     <entry>
       <form><pc>+</pc>ilar-kollō</form>
       <def>not-they</def>
       <form type="simple">ilar</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
+      <gramGrp type="particle"><m>kollō</m></gramGrp>
     </entry>
     <entry>
       <form>varaiyiṉ</form>
       <def>mountain</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>tāḻnta</form>
@@ -190,18 +190,15 @@
       <def>waterfall</def>
     </entry>
     <entry>
-      <form>koṉ</form>
-      <def></def>
-      <gramGrp type="particle"><form>koṉ</form></gramGrp>
-    </entry>
-    <entry>
-      <form>nilai<pc>+</pc></form>
+      <form>koṉ-nilai<pc>+</pc></form>
       <def>leaf</def>
+      <form type="simple">nilai</form>
+      <gramGrp type="particle"><m>koṉ</m></gramGrp>
     </entry>
     <entry>
       <form>kurampaiyiṉ</form>
       <def>hut</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>iḻi-tarum</form>
@@ -227,8 +224,8 @@
       <form>kuṭiyōr-ē</form>
       <def>home-they</def>
       <form type="simple">kuṭiyōr</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>
