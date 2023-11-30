@@ -13,7 +13,8 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary>
+              <p></p>
             </summary>
           </msContents>
         </msDesc>
@@ -64,16 +65,16 @@
       </div>
     </body>
   </text>
+
   <standOff type="wordsplit" corresp="#KT230">
-    <interp type="alignment" select="0">83MG3MG7MG44MG6MG2M,150M</interp>
+    <interp type="alignment" select="0">4MG79MG3MG7MG44MG6MG2M,150MG</interp>
     <entry>
-      <form>amma</form>
-      <def></def>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
+      <form>amma-vāḻi</form>
       <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle">
+        <m>amma</m>
+      </gramGrp>
     </entry>
     <entry>
       <form>tōḻi</form>
@@ -110,7 +111,9 @@
     <entry>
       <form>pētaimaiyāl</form>
       <def>folly</def>
-      <gram type="role">instrumental</gram>
+      <gramGrp>
+        <gram type="role">instrumental</gram>
+      </gramGrp>
     </entry>
     <entry>
       <form>perum</form>
@@ -131,7 +134,9 @@
     <entry>
       <form>taka<pc>+</pc></form>
       <def>fit</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
     </entry>
     <entry>
       <form>ceytat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -145,7 +150,9 @@
       <form>uṭaiyēṉ-kollō</form>
       <def>possess-I</def>
       <form type="simple">uṭaiyēṉ</form>
-      <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <gramGrp type="particle">
+        <m>kollō</m>
+      </gramGrp>
     </entry>
     <entry>
       <form>vaya<pc>+</pc></form>
@@ -187,7 +194,9 @@
       <form>aṟiyāṉ-ē</form>
       <def>he-didn't-know</def>
       <form type="simple">aṟiyāṉ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
     </entry>
   </standOff>
 </TEI>
