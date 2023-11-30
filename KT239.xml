@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 239. <persName xml:lang="ta">āciriyaṉ
+          peruṅkaṇṇaṉ</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT239-kilavi">
+        <p type="edition">ciṟaippuṟam. </p>
+        <p type="translation" xml:lang="en">Hedge. </p>
+      </div>
+
+      <div xml:id="KT239">
+        <lg type="edition">
+          <l> toṭinekiḻn taṉavē tōḷcā yiṉavē</l>
+          <l> viṭunā ṇuṇṭō tōḻi viṭarmukaic</l>
+          <l> cilampuṭaṉ kamaḻu malaṅkukulaik kānta</l>
+          <l> ṇaṟuntā tūtuṅ kuṟuñciṟait tumpi</l>
+          <l> pāmpumiḻ maṇiyiṟ ṟōṉṟu</l>
+          <l> muntūḻ vēliya malaikiḻa vōṟkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The bracelets have become loose, the shoulders are emaciated</l>
+          <l>for the master of the mountain with bamboo hedges,</l>
+          <l rend="indent">where appears like a jewel spit up by a snake</l>
+          <l rend="indent">the short-winged bee, filling itself up with fragrant pollen</l>
+          <l rend="indent2">from the Malabar lily in swaying bunches, all fragrant ,</l>
+          <l rend="indent3">on the mountainside with clefts [and] caves.</l>
+          <l>Is there [still any] shame to let go of, friend?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT239">
+    <interp type="alignment" select="0">14MG11MG12M2G22MG29ML7MG24MG17ML24M2G2M,173M</interp>
+    <entry>
+      <form>toṭi</form>
+      <def>bracelet</def>
+    </entry>
+    <entry>
+      <form>nekiḻntaṉa-<pc>~</pc>ē</form>
+      <def>they-loosened</def>
+      <form type="simple">nekiḻntaṉa</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>cāyiṉa-<pc>~</pc>ē</form>
+      <def>they-were-emaciated</def>
+      <form type="simple">cāyiṉa</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>viṭu</form>
+      <def>let-</def>
+    </entry>
+    <entry>
+      <form>nāṇ</form>
+      <def>shame</def>
+    </entry>
+    <entry>
+      <form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+      <def>it-is</def>
+      <form type="simple">uṇṭu</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>viṭar</form>
+      <def>cleft</def>
+    </entry>
+    <entry>
+      <form>mukaic</form>
+      <def>cave</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ilamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>mountain-side</def>
+    </entry>
+    <entry>
+      <form>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>kamaḻum</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>alaṅku</form>
+      <def>sway-</def>
+    </entry>
+    <entry>
+      <form>kulai<pc>+</pc></form>
+      <def>bunch</def>
+    </entry>
+    <entry>
+      <form>kāntaḷ</form>
+      <def>Malabar-lily</def>
+    </entry>
+    <entry>
+      <form>naṟum</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>ūtum</form>
+      <def>blowing-</def>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>ciṟai<pc>+</pc></form>
+      <def>wing</def>
+    </entry>
+    <entry>
+      <form>tumpi</form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>pāmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>snake</def>
+    </entry>
+    <entry>
+      <form>umiḻ</form>
+      <def>spit-</def>
+    </entry>
+    <entry>
+      <form>maṇiyiṉ</form>
+      <def>sapphire</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tōṉṟum</form>
+      <def>appearing-</def>
+    </entry>
+    <entry>
+      <form>muntūḻ</form>
+      <def>bamboo</def>
+    </entry>
+    <entry>
+      <form>vēliya</form>
+      <def>hedge</def>
+      <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+      <form>malai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form>kiḻavōṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>master(dat.)ē∞</def>
+    </entry>
+  </standOff>
+</TEI>

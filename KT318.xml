@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 318. <persName xml:lang="ta">Ammūvaṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT318-kilavi">
+        <p type="edition">kiḻavaṉ kēṭkum aṇmaiyaṉākat tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Spoken by HER to the confidante, while HE was close
+          [enough] to hear. </p>
+      </div>
+
+      <div xml:id="KT318">
+        <lg type="edition">
+          <l> eṟicuṟāk kalitta vilaṅkunīrp parappi</l>
+          <l> ṉaṟuvī ñāḻaloṭu puṉṉai tāay</l>
+          <l> veṟiyayar kaḷattiṉiṟ ṟōṉṟun tuṟaivaṉ</l>
+          <l> kuṟiyā ṉāyiṉuṅ kuṟippiṉum piṟitoṉ</l>
+          <l> ṟaṟiyārk kuraippalō yāṉē yeyttavip</l>
+          <l> paṇaiyeḻiṉ meṉṟō ḷaṇaiiya vannāṭ</l>
+          <l> piḻaiyā vañciṉañ ceyta</l>
+          <l> kaḷvaṉuṅ kaṭavaṉum puṇaivaṉun tāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>As for me, will I tell him who does not know</l>
+          <l rend="indent2">that one thing is different , whether he intends it or not ,</l>
+          <l>the man from the ghat, where in the expanse</l>
+          <l rend="indent">the shining water, in which dashing sharks are thriving,</l>
+          <l rend="indent2">after Puṉṉai has been spread together with Ñāḻal</l>
+          <l rend="indent9">in fragrant blossoms,</l>
+          <l rend="indent">appears like the floor, where they engage in the Veṟi dance,</l>
+          <l>− him, who [is] robber and dutiful one and support,</l>
+          <l>who has made an unfailing oath</l>
+          <l rend="indent">that day he touched these soft shoulders with the grace of bamboo,</l>
+          <l rend="indent6">that [now] have become weary?</l>
+
+          <lg type="alternate" sameAs="1-3b">
+            <l>where the Puṉṉai trees with the Ñāḻal trees spreading fragrant blooms</l>
+            <l>in the expanse of shining water, in which dashing sharks are thriving,</l>
+            <l>appear like the floor, where they engage in the Veṟi dance,</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT318">
+    <interp type="alignment" select="0">34ML84MG3MG8MG8MG4MG65MG9MG10MG5MG2M,241MG</interp>
+    <entry>
+      <form>eṟi</form>
+      <def>throw-</def>
+    </entry>
+    <entry>
+      <form>cuṟā<pc>+</pc></form>
+      <def>shark</def>
+    </entry>
+    <entry>
+      <form>kalitta</form>
+      <def>swollen-</def>
+    </entry>
+    <entry>
+      <form>vilaṅku</form>
+      <def>shine-</def>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>parappiṉ</form>
+      <def>extension</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>naṟu</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>vī</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>ñāḻaloṭu</form>
+      <def>Ñāḻal(-tree)</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>puṉṉai</form>
+      <def>Puṉṉai(-tree)</def>
+    </entry>
+    <entry>
+      <form>tāay</form>
+      <def>spread</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>veṟi</form>
+      <def>Veṟi(-dance)</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ayar</form>
+      <def>engage-</def>
+    </entry>
+    <entry>
+      <form>kaḷattiṉiṉ</form>
+      <def>spaceiṉ</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tōṉṟun</form>
+      <def>appearing-</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉ</form>
+      <def>ghat-he</def>
+    </entry>
+    <entry>
+      <form>kuṟiyāṉ</form>
+      <def>intend-not-he</def>
+    </entry>
+    <entry>
+      <form>āyiṉum</form>
+      <def>if-even</def>
+    </entry>
+    <entry>
+      <form>kuṟippiṉum</form>
+      <def>intend-if-even</def>
+    </entry>
+    <entry>
+      <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>other-it</def>
+    </entry>
+    <entry>
+      <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>one-it</def>
+    </entry>
+    <entry>
+      <form>aṟiyārkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>know-not-he</def>
+      <gram type="role">honorific dative</gram>
+    </entry>
+    <entry>
+      <form>uraippal-ō</form>
+      <def>I-tell</def>
+      <form type="simple">uraippal</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>yāṉ-ē</form>
+      <def>I</def>
+      <form type="simple">yāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eytta</form>
+      <def>wearied-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>i<pc>+</pc></form>
+      <def>this-</def>
+    </entry>
+    <entry>
+      <form>paṇai</form>
+      <def>bamboo</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eḻil</form>
+      <def>grace</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>aṇaiiya</form>
+      <def>touch-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>a<pc>+</pc></form>
+      <def>that-</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>piḻaiyā</form>
+      <def>fail-not</def>
+    </entry>
+    <entry>
+      <form>vañciṉam</form>
+      <def>oath</def>
+    </entry>
+    <entry>
+      <form>ceyta</form>
+      <def>made-</def>
+    </entry>
+    <entry>
+      <form>kaḷvaṉ-um</form>
+      <def>robber</def>
+      <form type="simple">kaḷvaṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kaṭavaṉ-um</form>
+      <def>duty-he</def>
+      <form type="simple">kaṭavaṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>puṇaivaṉ-um</form>
+      <def>support-he</def>
+      <form type="simple">puṇaivaṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tāṉ-ē</form>
+      <def>self</def>
+      <form type="simple">tāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

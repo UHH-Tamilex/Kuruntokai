@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 291. <persName xml:lang="ta">Kapilar</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT291-kilavi">
+        <p type="edition">pāṅkaṟku uraittatu. </p>
+        <p type="translation" xml:lang="en">Told to the companion. </p>
+      </div>
+
+      <div xml:id="KT291">
+        <lg type="edition">
+          <l> cuṭupuṉa maruṅkiṟ kalitta vēṉaṟ</l>
+          <l> paṭukiḷi kaṭiyuṅ koṭiccikaik kuḷirē</l>
+          <l> yicaiyi ṉicaiyā yiṉpā ṇittē</l>
+          <l> kiḷiyavaḷ viḷiyeṉa veḻalol lāvē</l>
+          <l> yatupulan taḻuta kaṇṇē cāraṟ</l>
+          <l> kuṇṭunīrp paiñcuṉaip pūtta kuvaḷai</l>
+          <l> vaṇṭupayil pallitaḻ kalaiit</l>
+          <l> taṇṭuḷik kēṟṟa malarpōṉ ṟaṉavē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The drum in the hand of the creeper woman</l>
+          <l rend="indent8">chasing the parakeets falling into</l>
+          <l rend="indent"> the millet which has swollen by a field [cleared by] burning –</l>
+          <l>[its] beat, being a sound like music, is pleasant.</l>
+          <l>The parakeets just can't rise because of her tone.</l>
+          <l>[Her] eyes which are vexed about that [and] cry!</l>
+          <l>They have become like blossoms exposed to the cool drops</l>
+          <l rend="indent">that disorder the many petals dense with bees</l>
+          <l rend="indent2">of the waterlilies that have begun to bloom in fresh mountain</l>
+          <l rend="indent6">pools with deep water on the slope.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT291">
+    <interp type="alignment" select="0">9ML50MG24M2G27MG12MG8MG72MG16MG3M,229MG</interp>
+    <entry>
+      <form>cuṭu</form>
+      <def>glow-</def>
+    </entry>
+    <entry>
+      <form>puṉam</form>
+      <def>field</def>
+    </entry>
+    <entry>
+      <form>maruṅkiṉ</form>
+      <def>side</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kalitta</form>
+      <def>swollen-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēṉal</form>
+      <def>millet</def>
+    </entry>
+    <entry>
+      <form>paṭu</form>
+      <def>happen-</def>
+    </entry>
+    <entry>
+      <form>kiḷi</form>
+      <def>parakeet</def>
+    </entry>
+    <entry>
+      <form>kaṭiyum</form>
+      <def>chasing-</def>
+    </entry>
+    <entry>
+      <form>koṭicci</form>
+      <def>creeper-she</def>
+    </entry>
+    <entry>
+      <form>kai<pc>+</pc></form>
+      <def>hand</def>
+    </entry>
+    <entry>
+      <form>kuḷir-ē</form>
+      <def>kettle-drum</def>
+      <form type="simple">kuḷir</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>icaiyiṉ</form>
+      <def>sound</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>icai</form>
+      <def>sound</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āy</form>
+      <def>become</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>iṉ</form>
+      <def>pleasant</def>
+    </entry>
+    <entry>
+      <form>pāṇitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>beat-it</def>
+      <form type="simple">pāṇittu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kiḷi</form>
+      <def>parakeet</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avaḷ</form>
+      <def>she</def>
+    </entry>
+    <entry>
+      <form>viḷi</form>
+      <def>tone</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eḻal</form>
+      <def>rising</def>
+    </entry>
+    <entry>
+      <form>ollā-<pc>~</pc>ē</form>
+      <def>possible-not</def>
+      <form type="simple">ollā</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>atu</form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>pulant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>been-vexed</def>
+    </entry>
+    <entry>
+      <form>aḻuta</form>
+      <def>cried-</def>
+    </entry>
+    <entry>
+      <form>kaṇ-<pc>+</pc>ē</form>
+      <def>eye</def>
+      <form type="simple">kaṇ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>cāral</form>
+      <def>slope</def>
+    </entry>
+    <entry>
+      <form>kuṇṭu</form>
+      <def>depth</def>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>paim</form>
+      <def>fresh</def>
+    </entry>
+    <entry>
+      <form>cuṉai<pc>+</pc></form>
+      <def>mountain-pool</def>
+    </entry>
+    <entry>
+      <form>pūtta</form>
+      <def>flowered-</def>
+    </entry>
+    <entry>
+      <form>kuvaḷai</form>
+      <def>waterlily</def>
+    </entry>
+    <entry>
+      <form>vaṇṭu</form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>payil</form>
+      <def>become-dense-</def>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>itaḻ</form>
+      <def>petal</def>
+    </entry>
+    <entry>
+      <form>kalaii<pc>+</pc></form>
+      <def>dispersed</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>tuḷikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>drop</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>ēṟṟa</form>
+      <def>exposed-</def>
+    </entry>
+    <entry>
+      <form>malar</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>pōṉṟaṉa-<pc>~</pc>ē</form>
+      <def>they-were-similar</def>
+      <form type="simple">pōṉṟaṉa</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

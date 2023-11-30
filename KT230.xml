@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 230. <persName xml:lang="ta">aṟivuṭai nampi</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT230-kilavi">
+        <p type="edition">valitākak kūṟik kuṟai nayappittatu. </p>
+        <p type="translation" xml:lang="en">Speaking firmly [and] granting the request. </p>
+      </div>
+
+      <div xml:id="KT230">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi koṇkaṉ</l>
+          <l> ṟāṉatu tuṇikuva ṉallaṉ yāṉeṉ</l>
+          <l> pētai maiyāṟ peruntakai keḻumi</l>
+          <l> nōtakac ceytatoṉ ṟuṭaiyēṉ kollō</l>
+          <l> vayaccuṟā vaḻaṅkunī rattañ</l>
+          <l> ciṉṉā ḷiṉṉa varavaṟi yāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>Alas, oh friend, the man from the sea,</l>
+          <l>he does not decide on this.</l>
+          <l rend="indent8">Do I,</l>
+          <l rend="indent2">with my folly, filled by a great [sense of] being suited ,</l>
+          <l>possess something which gave [him] pain?</l>
+          <l rend="indent2">On the road by the water frequented by strong sharks,</l>
+          <l>a few days thus he just didn't come .</l>
+
+          <lg type="alternate" sameAs="3b" resp="#TVG">
+            <l>do I by my folly, taking liberties [with him],</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT230">
+    <interp type="alignment" select="0">83MG3MG7MG44MG6MG2M,150M</interp>
+    <entry>
+      <form>amma</form>
+      <def></def>
+      <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>koṇkaṉ</form>
+      <def>man-from-the-sea(?)</def>
+    </entry>
+    <entry>
+      <form>tāṉ</form>
+      <def>self</def>
+    </entry>
+    <entry>
+      <form>atu</form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>tuṇikuvaṉ</form>
+      <def>he-resolves</def>
+    </entry>
+    <entry>
+      <form>allaṉ</form>
+      <def>not-so-he</def>
+    </entry>
+    <entry>
+      <form>yāṉ</form>
+      <def>I</def>
+    </entry>
+    <entry>
+      <form>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>pētaimaiyāl</form>
+      <def>folly</def>
+      <gram type="role">instrumental</gram>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>takai</form>
+      <def>fitness</def>
+    </entry>
+    <entry>
+      <form>keḻumi</form>
+      <def>filled</def>
+    </entry>
+    <entry>
+      <form>nō</form>
+      <def>pain</def>
+    </entry>
+    <entry>
+      <form>taka<pc>+</pc></form>
+      <def>fit</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>ceytat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>made-it</def>
+    </entry>
+    <entry>
+      <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>one-it</def>
+    </entry>
+    <entry>
+      <form>uṭaiyēṉ-kollō</form>
+      <def>possess-I</def>
+      <form type="simple">uṭaiyēṉ</form>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vaya<pc>+</pc></form>
+      <def>strength</def>
+    </entry>
+    <entry>
+      <form>cuṟā</form>
+      <def>shark</def>
+    </entry>
+    <entry>
+      <form>vaḻaṅku</form>
+      <def>wander-</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>attam</form>
+      <def>road</def>
+    </entry>
+    <entry>
+      <form>cil</form>
+      <def>few</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>iṉṉa</form>
+      <def>thus</def>
+    </entry>
+    <entry>
+      <form>varav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>coming</def>
+    </entry>
+    <entry>
+      <form>aṟiyāṉ-ē</form>
+      <def>he-didn't-know</def>
+      <form type="simple">aṟiyāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

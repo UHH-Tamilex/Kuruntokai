@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 376. <persName xml:lang="ta">Paṭumarattu
+                    Mōcik </persName>: <hi rend="italic">HE</hi></title>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div xml:id="KT376-kilavi">
+                <p type="edition">poruḷ valikkum neñciṟkut talaimakaṉ collic celavaḻuṅkiyatu. </p>
+
+
+                <p type="translation" xml:lang="en">HE dispensing with going, speaking to [his]
+                    heart that strives after wealth. </p>
+            </div>
+
+            <div xml:id="KT376">
+                <lg type="edition">
+                    <l> maṉṉuyi raṟiyāt tuṉṉarum potiyiṟ</l>
+                    <l> cūruṭai yaṭukkat tāraṅ kaṭuppa</l>
+                    <l> vēṉi lāṉē taṇṇiyaḷ paṉiyē</l>
+                    <l> vāṅkukatir tokuppak kūmpi yaiyeṉa</l>
+                    <l> valaṅkuveyiṟ potinta tāmarai</l>
+                    <l> yuḷḷakat taṉṉa ciṟuvem maiyaḷē.</l>
+
+
+                </lg>
+
+                <lg type="translation" xml:lang="en">
+                    <l rend="indent"> Resembling the sandal on the slope possessed by [fearful]
+                        deities</l>
+                    <l rend="indent"> of mount Potiyil, difficult to approach,</l>
+                    <l rend="indent6"> not known to those of stable life ,</l>
+                    <l> in summer itself she [is] cool. </l>
+                    <l rend="indent9"> In the [time of] dew</l>
+                    <l> she is hot a little like a lotus</l>
+                    <l rend="indent"> deep inside, which has bundled , ah , the swaying sunlight,</l>
+                    <l rend="indent2"> closing to hold together the subsiding [sun-]beams.</l>
+
+
+                </lg>
+            </div>
+        </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT376">
+        <interp type="alignment" select="0">4MG14MG27MG18MG13MG67MG17MG2M,168MG</interp>
+        <entry>
+            <form>maṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>be-permanent-</def>
+        </entry>
+        <entry>
+            <form>uyir</form>
+            <def>life</def>
+        </entry>
+        <entry>
+            <form>aṟiyā<pc>+</pc></form>
+            <def>know-not</def>
+        </entry>
+        <entry>
+            <form>tuṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>near-</def>
+        </entry>
+        <entry>
+            <form>arum</form>
+            <def>difficult</def>
+        </entry>
+        <entry>
+            <form>potiyil</form>
+            <def>Potiyil(-mountain)</def>
+        </entry>
+        <entry>
+            <form>cūr</form>
+            <def>fear/deity</def>
+        </entry>
+        <entry>
+            <form>uṭai</form>
+            <def>possess-</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aṭukkatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>mountain-side</def>
+            <gram type="role">oblique</gram>
+        </entry>
+        <entry>
+            <form>āram</form>
+            <def>sandal</def>
+        </entry>
+        <entry>
+            <form>kaṭuppa</form>
+            <def>resemble</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>vēṉilāṉ-ē</form>
+            <def>summer</def>
+            <form type="simple">vēṉilāṉ</form>
+            <gram type="role">locative</gram>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+            <form>taṇṇiyaḷ</form>
+            <def>cool-she</def>
+        </entry>
+        <entry>
+            <form>paṉi-<pc>~</pc>ē</form>
+            <def>dew</def>
+            <form type="simple">paṉi</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+            <form>vāṅku</form>
+            <def>bend-</def>
+        </entry>
+        <entry>
+            <form>katir</form>
+            <def>beam</def>
+        </entry>
+        <entry>
+            <form>tokuppa<pc>+</pc></form>
+            <def>collect</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>kūmpi</form>
+            <def>closed</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aiyeṉa</form>
+            <def>wonderfully</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>alaṅku</form>
+            <def>sway-</def>
+        </entry>
+        <entry>
+            <form>veyil</form>
+            <def>sunlight</def>
+        </entry>
+        <entry>
+            <form>potinta</form>
+            <def>bundled-</def>
+        </entry>
+        <entry>
+            <form>tāmarai</form>
+            <def>lotus</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>uḷ</form>
+            <def>inside</def>
+        </entry>
+        <entry>
+            <form><pc>+</pc>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>inside</def>
+            <gram type="role">oblique</gram>
+        </entry>
+        <entry>
+            <form>aṉṉa</form>
+            <def>like</def>
+        </entry>
+        <entry>
+            <form>ciṟu</form>
+            <def>little</def>
+        </entry>
+        <entry>
+            <form>vemmaiyaḷ-ē</form>
+            <def>heat-she</def>
+            <form type="simple">vemmaiyaḷ</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+    </standOff>
+</TEI>

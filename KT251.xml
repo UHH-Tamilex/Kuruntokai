@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 251. <persName xml:lang="ta">iṭaikkāṭaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT251-kilavi">
+        <p type="edition">piriviṭait tōḻi “paruvam aṉṟu paṭṭatu vampu” eṉṟu vaṟpuṟuttiyatu. </p>
+        <p type="translation" xml:lang="en">The confidante encouraging [with the words] “that isn't
+          the season; it has happened out of time”, in the time of separation. </p>
+      </div>
+
+      <div xml:id="KT251">
+        <lg type="edition">
+          <l>maṭava vāḻi maññai yāyiṉaṅ</l>
+          <l>kāla māri peyteṉa vataṉeti</l>
+          <l>rālalu māliṉa piṭavum pūttaṉa</l>
+          <l>kāraṉ ṟikuḷai tīrkaniṉ paṭarē</l>
+          <l>kaḻinta mārik koḻinta paḻanīr</l>
+          <l>putunīr koḷīiya vukuttaru</l>
+          <l>notumal vāṉattu muḻaṅkukural kēṭṭē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Ignorant they [are], oh [friend] , the peacocks in choice groups,</l>
+          <l rend="indent2">hearing the thundering voice of the indifferent sky</l>
+          <l rend="indent4">which sheds, in order to take in new water,</l>
+          <l rend="indent4">the old water that stayed behind from passed showers.</l>
+          <l rend="indent2">In the face of that, because a timely shower has rained, </l>
+          <l>they have danced [their] dance</l>
+          <l rend="indent8">and the Piṭavu plants have begun to flower.</l>
+          <l>It is not the rainy season, friend, may your affliction end.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT251">
+    <interp type="alignment" select="0">28ML15MG8MG12M2G15MG19MG14MG31MG5MR30M2G2M,190MG</interp>
+    <entry>
+      <form>maṭava</form>
+      <def>inexperienced-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>maññai</form>
+      <def>peacock</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āy</form>
+      <def>select-</def>
+    </entry>
+    <entry>
+      <form>iṉam</form>
+      <def>group</def>
+    </entry>
+    <entry>
+      <form>kālam</form>
+      <def>time</def>
+    </entry>
+    <entry>
+      <form>māri</form>
+      <def>shower</def>
+    </entry>
+    <entry>
+      <form>peyteṉa</form>
+      <def>rained-say</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ataṉ-etir</form>
+      <def>that(obl.)-opposite</def>
+    </entry>
+    <entry>
+      <form>ālal-um</form>
+      <def>dancing</def>
+      <form type="simple">ālal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>āliṉa</form>
+      <def>they-danced</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>piṭav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>Piṭavu(-plant)</def>
+      <form type="simple">piṭavu</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pūttaṉa</form>
+      <def>they-flowered</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>kār</form>
+      <def>rainy-season</def>
+    </entry>
+    <entry>
+      <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>not-so-it</def>
+    </entry>
+    <entry>
+      <form>ikuḷai</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>tīrka</form>
+      <def>may-end</def>
+      <gram type="role">optative</gram>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your-</def>
+    </entry>
+    <entry>
+      <form>paṭar-ē</form>
+      <def>affliction</def>
+      <form type="simple">paṭar</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kaḻinta</form>
+      <def>passed-by-</def>
+    </entry>
+    <entry>
+      <form>mārikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>shower</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>oḻinta</form>
+      <def>stayed-behind-</def>
+    </entry>
+    <entry>
+      <form>paḻa</form>
+      <def>old</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>putu</form>
+      <def>new</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>koḷīiya</form>
+      <def>take</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uku-<pc>+</pc>tarum</form>
+      <def>shed-giving-</def>
+    </entry>
+    <entry>
+      <form>notumal</form>
+      <def>indifference</def>
+    </entry>
+    <entry>
+      <form>vāṉattu</form>
+      <def>sky-</def>
+    </entry>
+    <entry>
+      <form>muḻaṅku</form>
+      <def>thunder-</def>
+    </entry>
+    <entry>
+      <form>kural</form>
+      <def>voice</def>
+    </entry>
+    <entry>
+      <form>kēṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>heard</def>
+      <form type="simple">kēṭṭu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

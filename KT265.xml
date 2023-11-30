@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 265. <persName xml:lang="ta">Karuvūrk
+          Katappiḷḷai</persName>: <hi rend="italic">the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT265-kilavi">
+        <p type="edition">varaiyātu pirintaviṭattu “avar pirinta kāraṇa niṉṉai varaintu kōṭal
+          kāraṇamākat tāṉ” eṉat tōḻi talaimakaṭkuk kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken to HER by the confidante, saying “It [is] his
+          separating that is [my] reason for thinking [that he will] marry you”, as he separated
+          without marrying. </p>
+      </div>
+
+      <div xml:id="KT265">
+        <lg type="edition">
+          <l> kāntaḷaṅ koḻumukai kāval cellātu</l>
+          <l> vaṇṭuvāy tiṟakkum poḻutiṟ paṇṭun</l>
+          <l> tāmaṟi cemmaic cāṉṟōrk kaṇṭa</l>
+          <l> kaṭaṉaṟi mākkaḷ pōla viṭaṉviṭ</l>
+          <l> ṭitaḻtaḷai yaviḻnta vēkal veṟpa</l>
+          <l> ṉaṉṉar neñcattaṉ ṟōḻi niṉṉilai</l>
+          <l> yāṉṟaṉak kuraittaṉe ṉākat</l>
+          <l> tāṉā ṇiṉaṉiḵ tākā vāṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The man from the mountains of abundant stones, </l>
+          <l rend="indent6">where petals have opened [their] bonds,</l>
+          <l rend="indent">giving way like people knowing [their] duty,</l>
+          <l rend="indent">who have seen noble ones of an impartiality</l>
+          <l rend="indent8">known to themselves, </l>
+          <l rend="indent3">even before, at a time when bees open [their] mouths,</l>
+          <l rend="indent3">unguardable , on the rich buds of the Malabar lily,</l>
+          <l>he has a good heart, friend. </l>
+          <l rend="indent2">When I told him about your state</l>
+          <l>he himself was ashamed: “this is no way.”</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT265">
+    <interp type="alignment" select="0">56M2G54MG28ML35MG17ML9MG6M2G2M,215MG</interp>
+    <entry>
+      <form>kāntaḷam</form>
+      <def>Malabar-lily</def>
+      <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+      <form>koḻu</form>
+      <def>rich</def>
+    </entry>
+    <entry>
+      <form>mukai</form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>kāval</form>
+      <def>watch</def>
+    </entry>
+    <entry>
+      <form>cellātu</form>
+      <def>go-not</def>
+    </entry>
+    <entry>
+      <form>vaṇṭu</form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>vāy</form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>tiṟakkum</form>
+      <def>opening-</def>
+    </entry>
+    <entry>
+      <form>poḻutiṉ</form>
+      <def>time</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>paṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>before</def>
+      <form type="simple">paṇṭu</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tām</form>
+      <def>self</def>
+      <gram type="role">plural</gram>
+    </entry>
+    <entry>
+      <form>aṟi</form>
+      <def>know-</def>
+    </entry>
+    <entry>
+      <form>cemmai<pc>+</pc></form>
+      <def>impartiality</def>
+    </entry>
+    <entry>
+      <form>cāṉṟōr<pc>+</pc></form>
+      <def>noble</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>kaṇṭa</form>
+      <def>seen-</def>
+    </entry>
+    <entry>
+      <form>kaṭaṉ</form>
+      <def>duty</def>
+    </entry>
+    <entry>
+      <form>aṟi</form>
+      <def>know-</def>
+    </entry>
+    <entry>
+      <form>mākkaḷ</form>
+      <def>people</def>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṭaṉ</form>
+      <def>place</def>
+    </entry>
+    <entry>
+      <form>viṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>let</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>itaḻ</form>
+      <def>petal</def>
+    </entry>
+    <entry>
+      <form>taḷai</form>
+      <def>bond</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aviḻnta</form>
+      <def>opened-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ē</form>
+      <def>abundance</def>
+    </entry>
+    <entry>
+      <form>kal</form>
+      <def>stone</def>
+    </entry>
+    <entry>
+      <form>veṟpaṉ</form>
+      <def>mountain-he</def>
+    </entry>
+    <entry>
+      <form>naṉṉar</form>
+      <def>goodness</def>
+    </entry>
+    <entry>
+      <form>neñcattaṉ</form>
+      <def>heart-he</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your-</def>
+    </entry>
+    <entry>
+      <form>nilai</form>
+      <def>state</def>
+    </entry>
+    <entry>
+      <form>yāṉ</form>
+      <def>I</def>
+    </entry>
+    <entry>
+      <form>taṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>self</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>uraittaṉeṉ</form>
+      <def>I-told</def>
+    </entry>
+    <entry>
+      <form>āka<pc>+</pc></form>
+      <def>become</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>tāṉ</form>
+      <def>self</def>
+    </entry>
+    <entry>
+      <form>nāṇiṉaṉ</form>
+      <def>he-was-ashamed</def>
+    </entry>
+    <entry>
+      <form>iḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>this</def>
+    </entry>
+    <entry>
+      <form>ākā</form>
+      <def>become-not-it</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>way</def>
+      <form type="simple">āṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

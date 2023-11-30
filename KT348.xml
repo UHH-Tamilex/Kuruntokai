@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 348. <persName xml:lang="ta">Māvaḷattaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="Cām">
+            <persName>
+              <abbr>C.ā.m.</abbr>
+              <expan>Cāminātaiyar's commentary on KT</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT348-kilavi">
+        <p type="edition">celavuk kuṟippaṟintu vēṟupaṭṭa kiḻattiyait tōḻi vaṟpuṟīiyatu. </p>
+
+
+        <p type="translation" xml:lang="en">The confidante encouraging HER, who changed when she
+          understood [his] intention of going. </p>
+      </div>
+
+      <div xml:id="KT348">
+        <lg type="edition">
+          <l> tāmē celpa vāyiṟ kāṉattup</l>
+          <l> pulantēr yāṉaik kōṭṭiṭai yoḻinta</l>
+          <l> ciṟuvī mullaik kompiṟ ṟāa</l>
+          <l> yitaḻaḻin tūṟuṅ kaṇpaṉi matareḻiṟ</l>
+          <l> pūṇaka vaṉamulai naṉaittaluṅ</l>
+          <l> kāṇār kollō māṇiḻai namarē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>As for him , if he goes ,</l>
+          <l rend="indent">doesn't he see, our man with glorious jewellery,</l>
+          <l rend="indent2">that also [our] beautiful breasts get wet, inside the ornaments </l>
+          <l rend="indent9">of flourishing grace,</l>
+          <l rend="indent3">by the dew from the eyes, which oozes destructively </l>
+          <l rend="indent9">through petal [lids] ,</l>
+          <l rend="indent4">spread like jasmine twigs with little blossoms,</l>
+          <l rend="indent4">staying behind between the tusks of an elephant</l>
+          <l rend="indent7">searching the fields of the forest?</l>
+
+          <lg type="alternate" sameAs="6b" resp="#Cām">
+            <l>doesn't he see, our man, [o you with] glorious jewellery ...</l>
+          </lg>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT348">
+    <interp type="alignment" select="0">3MG37MG43MG26MG18MG7MG17MG2M,159MG</interp>
+    <entry>
+      <form>tām-ē</form>
+      <def>self</def>
+      <form type="simple">tām</form>
+      <gram type="role">plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>celpa</form>
+      <def>they-go</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āyiṉ</form>
+      <def>if</def>
+    </entry>
+    <entry>
+      <form>kāṉattu<pc>+</pc></form>
+      <def>forest</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>pulam</form>
+      <def>field</def>
+    </entry>
+    <entry>
+      <form>tēr</form>
+      <def>search-</def>
+    </entry>
+    <entry>
+      <form>yāṉai<pc>+</pc></form>
+      <def>elephant</def>
+    </entry>
+    <entry>
+      <form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>tusk-</def>
+    </entry>
+    <entry>
+      <form>iṭai</form>
+      <def>middle</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḻinta</form>
+      <def>stayed-behind-</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>vī</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>mullai<pc>+</pc></form>
+      <def>jasmine</def>
+    </entry>
+    <entry>
+      <form>kompiṉ</form>
+      <def>twig</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tāay</form>
+      <def>spread</def>
+    </entry>
+    <entry>
+      <form>itaḻ</form>
+      <def>petal</def>
+    </entry>
+    <entry>
+      <form>aḻint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>perished</def>
+    </entry>
+    <entry>
+      <form>ūṟum</form>
+      <def>oozing-</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>paṉi</form>
+      <def>dew</def>
+    </entry>
+    <entry>
+      <form>matar</form>
+      <def>flourish-</def>
+    </entry>
+    <entry>
+      <form>eḻil</form>
+      <def>grace</def>
+    </entry>
+    <entry>
+      <form>pūṇ</form>
+      <def>ornament</def>
+    </entry>
+    <entry>
+      <form>akam</form>
+      <def>inside</def>
+    </entry>
+    <entry>
+      <form>vaṉa</form>
+      <def>beautiful</def>
+    </entry>
+    <entry>
+      <form>mulai</form>
+      <def>breast</def>
+    </entry>
+    <entry>
+      <form>naṉaittal-um</form>
+      <def>getting-wet</def>
+      <form type="simple">naṉaittal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kāṇār-kollō</form>
+      <def>see-not-he</def>
+      <form type="simple">kāṇār</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>māṇ</form>
+      <def>glory</def>
+    </entry>
+    <entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+    </entry>
+    <entry>
+      <form>namar-ē</form>
+      <def>our-he(h)</def>
+      <form type="simple">namar</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

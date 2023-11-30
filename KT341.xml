@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 341. <persName xml:lang="ta">Miḷaikiḻāṉ
+          Nalvēṭṭaṉ</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT341-kilavi">
+        <p type="edition">paruvavaraviṉkaṇ vēṟupaṭum eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu. </p>
+
+
+        <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would
+          change at the coming of the season. </p>
+      </div>
+
+      <div xml:id="KT341">
+        <lg type="edition">
+          <l> palvī paṭṭa pacunaṉaik kuravam</l>
+          <l> porippūm puṉkoṭu poḻilaṇik koḷāac</l>
+          <l> ciṉaiyiṉi tākiya kālaiyuṅ kātalar</l>
+          <l> pēṇā rāyiṉum periyōr neñcattuk</l>
+          <l> kaṇṇiya vāṇmai kaṭava taṉṟeṉa</l>
+          <l> valiyā neñcam valippa</l>
+          <l> vāḻvēṉ ṟōḻiyeṉ vaṉka ṇāṉē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent">Even if [my] lover won't esteem [me],</l>
+          <l rend="indent2">also at a time become pleasant with twigs,</l>
+          <l rend="indent2">taken for decoration by the grove, of the Kuravam tree</l>
+          <l rend="indent2">with green buds from which many blossoms have come forth,</l>
+          <l rend="indent2">together with the Puṉku tree with parched flowers ,</l>
+          <l>I will live, friend, by my strength</l>
+          <l rend="indent">to compel the heart which is not compelled:</l>
+          <l rend="indent2">“the courage purposed by the heart of the great one is not duty”</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT341">
+    <interp type="alignment" select="0">67MG10MG57MG3MG43MG2M,186MG</interp>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form>vī</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>paṭṭa</form>
+      <def>happened-</def>
+    </entry>
+    <entry>
+      <form>pacu</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>naṉai<pc>+</pc></form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>kuravam</form>
+      <def>Kuravam(-tree)</def>
+    </entry>
+    <entry>
+      <form>pori<pc>+</pc></form>
+      <def>be-parched</def>
+    </entry>
+    <entry>
+      <form>pūm</form>
+      <def>flower</def>
+    </entry>
+    <entry>
+      <form>puṉkoṭu</form>
+      <def>Puṉku(-tree)</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>poḻil</form>
+      <def>grove</def>
+    </entry>
+    <entry>
+      <form>aṇi<pc>+</pc></form>
+      <def>adornment</def>
+    </entry>
+    <entry>
+      <form>koḷāa<pc>+</pc></form>
+      <def>take(-not)</def>
+    </entry>
+    <entry>
+      <form>ciṉai</form>
+      <def>twig</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pleasant-it</def>
+    </entry>
+    <entry>
+      <form>ākiya</form>
+      <def>become-</def>
+      <gram type="role">peyareccam</gram>
+    </entry>
+    <entry>
+      <form>kālai-<pc>~</pc>um</form>
+      <def>time</def>
+      <form type="simple">kālai</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kātalar</form>
+      <def>lover</def>
+    </entry>
+    <entry>
+      <form>pēṇār</form>
+      <def>esteem-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>āyiṉum</form>
+      <def>if-even</def>
+    </entry>
+    <entry>
+      <form>periyōr</form>
+      <def>big-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>neñcattu<pc>+</pc></form>
+      <def>heart</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>kaṇṇiya</form>
+      <def>purposed-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṇmai</form>
+      <def>courage</def>
+    </entry>
+    <entry>
+      <form>kaṭavat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>duty-it</def>
+    </entry>
+    <entry>
+      <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>not-so-it</def>
+    </entry>
+    <entry>
+      <form>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>valiyā</form>
+      <def>compel-not</def>
+    </entry>
+    <entry>
+      <form>neñcam</form>
+      <def>heart</def>
+    </entry>
+    <entry>
+      <form>valippa</form>
+      <def>compel</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>vāḻvēṉ</form>
+      <def>I-live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>vaṉkaṇāṉ-ē</form>
+      <def>strength(loc./inst.)</def>
+      <form type="simple">vaṉkaṇāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

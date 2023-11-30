@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 255. <persName xml:lang="ta">kaṭukuperuntēvaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT255-kilavi">
+        <p type="edition">iṭai niṉṟu mīḷvar eṉak kavaṉṟa kiḻattiyait tōḻi vaṟpuṟuttiyatu. </p>
+        <p type="translation" xml:lang="en">The confidante encouraging HER who was anxious, saying
+          “he will return, after having stopped in the middle”. </p>
+      </div>
+
+      <div xml:id="KT255">
+        <lg type="edition">
+          <l>pottil kāḻa vatta yāattup</l>
+          <l>poriyarai muḻumuta luruvak kutti</l>
+          <l>maṟaṅkeḻu taṭakkaiyiṉ vāṅki yuyaṅkunaṭaic</l>
+          <l>ciṟukaṭ perunirai yuṟupaci tīrkkun</l>
+          <l>taṭamarup piyāṉai kaṇṭaṉar tōḻi</l>
+          <l>taṅkaṭa ṉiṟīiya reṇṇi yiṭantoṟuṅ</l>
+          <l>kāmar poruṭpiṇip pōkiya</l>
+          <l>nāmvēṅ kātalar ceṉṟa vāṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">On the way that the lover has gone on whom we [are] keen,</l>
+          <l>who has set out enticed by desirable wealth</l>
+          <l rend="indent4">somewhere, intending to fulfil his duty,</l>
+          <l>he will have seen , friend, an elephant with broad tusks,</l>
+          <l rend="indent">who puts an end to the hunger suffered by a big row</l>
+          <l rend="indent">of small-eyed [elephants] with weakened gait,</l>
+          <l rend="indent2">piercing [and] bending with [its] brave broad trunk,</l>
+          <l rend="indent3">so that the whole base is peeled, the parched trunk</l>
+          <l rend="indent3">of the Yām tree by the road, the core of which has no hollow.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT255">
+    <interp type="alignment" select="0">4M2G11MG110ML5MGMG41MG47M2G2M,229MG</interp>
+    <entry>
+      <form>pott<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-il</form>
+      <def>hollow-not</def>
+    </entry>
+    <entry>
+      <form>kāḻa</form>
+      <def>core</def>
+      <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>attam</form>
+      <def>road</def>
+    </entry>
+    <entry>
+      <form>yāattu<pc>+</pc></form>
+      <def>Yām(-tree)-</def>
+    </entry>
+    <entry>
+      <form>pori</form>
+      <def>be-parched-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>arai</form>
+      <def>trunk</def>
+    </entry>
+    <entry>
+      <form>muḻu</form>
+      <def>whole</def>
+    </entry>
+    <entry>
+      <form>mutal</form>
+      <def>base</def>
+    </entry>
+    <entry>
+      <form>uruva<pc>+</pc></form>
+      <def>peel</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kutti</form>
+      <def>pierced</def>
+    </entry>
+    <entry>
+      <form>maṟam</form>
+      <def>valour</def>
+    </entry>
+    <entry>
+      <form>keḻu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>taṭa<pc>+</pc></form>
+      <def>broad</def>
+    </entry>
+    <entry>
+      <form>kaiyiṉ</form>
+      <def>hand</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vāṅki</form>
+      <def>bent</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uyaṅku</form>
+      <def>weaken-</def>
+    </entry>
+    <entry>
+      <form>naṭai<pc>+</pc></form>
+      <def>gait</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>peru</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>nirai</form>
+      <def>row</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>paci</form>
+      <def>hunger</def>
+    </entry>
+    <entry>
+      <form>tīrkkum</form>
+      <def>ending-</def>
+    </entry>
+    <entry>
+      <form>taṭam</form>
+      <def>broad</def>
+    </entry>
+    <entry>
+      <form>marupp<pc>(</pc>i<pc>)</pc></form>
+      <def>horn</def>
+    </entry>
+    <entry>
+      <form>yāṉai</form>
+      <def>elephant</def>
+    </entry>
+    <entry>
+      <form>kaṇṭaṉar</form>
+      <def>he-saw</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>tam</form>
+      <def>self-</def>
+      <gram type="role">plural</gram>
+    </entry>
+    <entry>
+      <form>kaṭaṉ</form>
+      <def>duty</def>
+    </entry>
+    <entry>
+      <form>iṟīiyar</form>
+      <def>break/pay</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>eṇṇi</form>
+      <def>considered</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṭam-toṟum</form>
+      <def>place-ever</def>
+    </entry>
+    <entry>
+      <form>kāmar</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>poruḷ</form>
+      <def>wealth</def>
+    </entry>
+    <entry>
+      <form>piṇi<pc>+</pc></form>
+      <def>fetter</def>
+    </entry>
+    <entry>
+      <form>pōkiya</form>
+      <def>gone-</def>
+    </entry>
+    <entry>
+      <form>nām</form>
+      <def>we</def>
+    </entry>
+    <entry>
+      <form>vēm</form>
+      <def>hot</def>
+    </entry>
+    <entry>
+      <form>kātalar</form>
+      <def>lover</def>
+    </entry>
+    <entry>
+      <form>ceṉṟa</form>
+      <def>gone-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>way</def>
+      <form type="simple">āṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

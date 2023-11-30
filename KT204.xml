@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 204. <persName xml:lang="ta">Miḷaiperuṅ
+          kantaṉ (C1: kāntaṉ)</persName>: <hi rend="italic">the companion</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT204-kilavi">
+        <p type="edition">talaimakaṟkup pāṅkaṉ uraittatu. </p>
+        <p type="translation" xml:lang="en">Told to the companion by HIM.</p>
+      </div>
+
+      <div xml:id="KT204">
+        <lg type="edition">
+          <l>kāmaṅ kāma meṉpa kāma</l>
+          <l>maṇaṅkum piṇiyu maṉṟē niṉaippiṉ</l>
+          <l>mutaiccuvaṟ kalitta muṟṟā viḷampuṉ</l>
+          <l>mūtā taivan tāṅku</l>
+          <l>viruntē kāmam peruntō ḷōyē.</l>
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Desire, desire, they say, desire:</l>
+          <l>It is no torment or fetter.</l>
+          <l rend="indent4">When one thinks [about it],</l>
+          <l rend="indent">as [if] the old cow rubs at</l>
+          <l rend="indent">the unripe young grass, sprouting on an old height,</l>
+          <l>a feast [is] desire, o you of big shoulders.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT204">
+    <interp type="alignment" select="0">24M2G6MG6M2G44MG18M2G16MG2M,124MG</interp>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>eṉpa</form>
+    <def>they-say</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>torment</def>
+    <form type="simple">aṇaṅku</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>piṇi-<pc>~</pc>um</form>
+    <def>fetter</def>
+    <form type="simple">piṇi</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>not-so-it</def>
+    <form type="simple">aṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>niṉaippiṉ</form>
+    <def>think-if</def>
+    </entry>
+    <entry>
+    <form>mutai<pc>+</pc></form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>cuval</form>
+    <def>height</def>
+    </entry>
+    <entry>
+    <form>kalitta</form>
+    <def>swollen-</def>
+    </entry>
+    <entry>
+    <form>muṟṟā</form>
+    <def>mature-not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḷam</form>
+    <def>young</def>
+    </entry>
+    <entry>
+    <form>pul</form>
+    <def>grass</def>
+    </entry>
+    <entry>
+    <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>ā</form>
+    <def>cow</def>
+    </entry>
+    <entry>
+    <form>taivantāṅku</form>
+    <def>rubbed</def>
+    <gramGrp type="affix"><form>āṅku</form><gram type="role">comparative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>feast</def>
+    <form type="simple">viruntu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>tōḷōy-ē</form>
+    <def>shoulder-you</def>
+    <form type="simple">tōḷōy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

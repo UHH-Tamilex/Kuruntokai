@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 311. <persName xml:lang="ta">Cēntaṉkīraṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT311-kilavi">
+        <p type="edition">alar añciya talaimakaḷ talaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc (C2, G2:
+          colluvāḷāyac) coṟṟatu </p>
+        <p type="translation" xml:lang="en">Uttered by HER, who is afraid of gossip, as if talking
+          to the confidante, while HE is behind the hedge. </p>
+      </div>
+
+      <div xml:id="KT311">
+        <lg type="edition">
+          <l> alaryāṅ koḻiva tōḻi peruṅkaṭaṟ</l>
+          <l> pulavunā ṟakaṉṟuṟai valavaṉ ṟāṅkavu</l>
+          <l> nillātu kaḻinta kalleṉ kaṭuntēr</l>
+          <l> yāṉkaṇ ṭaṉṟō vilaṉē pāṉā</l>
+          <l> ḷōṅkal veṇmaṇaṟ ṟāḻnta puṉṉait</l>
+          <l> tātucēr nikarmalar koyyu</l>
+          <l> māya mellā muṭaṉkaṇ ṭaṉṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>How will gossip cease , friend?</l>
+          <l rend="indent8">By the great sea,</l>
+          <l>As for seeing the rattling, quick chariot</l>
+          <l rend="indent2">which passed by without stopping,</l>
+          <l rend="indent4">although the charioteer restrained [it]</l>
+          <l rend="indent7">in the wide ghat smelling of fish</l>
+          <l rend="indent9">– not me.</l>
+          <l>On midday it was visible for all the girl companions,</l>
+          <l rend="indent">plucking lustrous blossoms joined with pollen</l>
+          <l rend="indent2">of the Puṉṉai tree which hung down into the rising white sands.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT311">
+    <interp type="alignment" select="0">8MG28MG21MG2MR38M2G6MG4M2G71M2G2M,190MG</interp>
+    <entry>
+      <form>alar</form>
+      <def>gossip</def>
+    </entry>
+    <entry>
+      <form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>how</def>
+    </entry>
+    <entry>
+      <form>oḻiva</form>
+      <def>staying-behind-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>pulavu</form>
+      <def>smell-of-fish</def>
+    </entry>
+    <entry>
+      <form>nāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>akal</form>
+      <def>widen-</def>
+    </entry>
+    <entry>
+      <form>tuṟai</form>
+      <def>ghat</def>
+    </entry>
+    <entry>
+      <form>valavaṉ</form>
+      <def>charioteer</def>
+    </entry>
+    <entry>
+      <form>tāṅka-<pc>~</pc>um</form>
+      <def>endure</def>
+      <form type="simple">tāṅka</form>
+      <gram type="role">infinitive</gram>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nillātu</form>
+      <def>stand-not</def>
+    </entry>
+    <entry>
+      <form>kaḻinta</form>
+      <def>passed-by-</def>
+    </entry>
+    <entry>
+      <form>kalleṉ</form>
+      <def>'kal'-say-</def>
+    </entry>
+    <entry>
+      <form>kaṭum</form>
+      <def>quick</def>
+    </entry>
+    <entry>
+      <form>tēr</form>
+      <def>chariot</def>
+    </entry>
+    <entry>
+      <form>yāṉ</form>
+      <def>I</def>
+    </entry>
+    <entry>
+      <form>kaṇṭaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+      <def>seen-it</def>
+      <form type="simple">kaṇṭaṉṟu</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ilaṉ-ē</form>
+      <def>not-I</def>
+      <form type="simple">ilaṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pāl-nāḷ</form>
+      <def>part-day</def>
+    </entry>
+    <entry>
+      <form>ōṅkal</form>
+      <def>becoming-high</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>maṇal</form>
+      <def>sand</def>
+    </entry>
+    <entry>
+      <form>tāḻnta</form>
+      <def>hung-down-</def>
+    </entry>
+    <entry>
+      <form>puṉṉai<pc>+</pc></form>
+      <def>Puṉṉai(-tree)</def>
+    </entry>
+    <entry>
+      <form>tātu</form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>cēr</form>
+      <def>join-</def>
+    </entry>
+    <entry>
+      <form>nikar</form>
+      <def>lustre</def>
+    </entry>
+    <entry>
+      <form>malar</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>koyyum</form>
+      <def>plucking-</def>
+    </entry>
+    <entry>
+      <form>āyam</form>
+      <def>attendant</def>
+    </entry>
+    <entry>
+      <form>ellām</form>
+      <def>all</def>
+    </entry>
+    <entry>
+      <form>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>kaṇṭaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-saw</def>
+      <form type="simple">kaṇṭaṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 243. <persName xml:lang="ta">nampi kuṭṭuvaṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT243-kilavi">
+        <p type="edition">vaṉpoṟaiyetiraḻintu colliyatu. </p>
+        <p type="translation" xml:lang="en">Uttered in desolation in the face of encouragement. </p>
+      </div>
+
+      <div xml:id="KT243">
+        <lg type="edition">
+          <l>māṉaṭi yaṉṉa kavaṭṭilai yaṭumpiṉ</l>
+          <l>ṟārmaṇi yaṉṉa voṇpūk koḻuti</l>
+          <l>yoṇṭoṭi makaḷir vaṇṭa layarum</l>
+          <l>puḷḷimiḻ peruṅkaṭaṟ cērppaṉai</l>
+          <l>yuḷḷēṉ ṟōḻi paṭīiyareṉ kaṇṇē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>I won't remember, friend,</l>
+          <l rend="indent">the man from the coast of the great sea buzzing with birds,</l>
+          <l rend="indent2">where women with bright bracelets are engaged in play</l>
+          <l rend="indent2">after having picked flowers bright as sapphires for a garland </l>
+          <l rend="indent3">of the Aṭumpu plants [forked] like a stag's foot.</l>
+          <l rend="indent7">May my eyes close.</l>
+
+          <lg type="alternate" sameAs="5b">
+            <l>I don’t remember ... , while my eyes suffer.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT243">
+    <interp type="alignment" select="0">17MG112MG3M,134M</interp>
+    <entry>
+    <form>māṉ</form>
+    <def>stag</def>
+    </entry>
+    <entry>
+    <form>aṭi</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>kavaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>ilai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭumpiṉ</form>
+    <def>Aṭumpu(-plant)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tār</form>
+    <def>garland</def>
+    </entry>
+    <entry>
+    <form>maṇi</form>
+    <def>sapphire</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>koḻuti</form>
+    <def>pecked</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>toṭi</form>
+    <def>bracelet</def>
+    </entry>
+    <entry>
+    <form>makaḷir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>vaṇṭal</form>
+    <def>play</def>
+    </entry>
+    <entry>
+    <form>ayarum</form>
+    <def>engaging-</def>
+    </entry>
+    <entry>
+    <form>puḷ</form>
+    <def>bird</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>imiḻ</form>
+    <def>buzz-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>kaṭal</form>
+    <def>sea</def>
+    </entry>
+    <entry>
+    <form>cērppaṉai</form>
+    <def>coast-he</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷēṉ</form>
+    <def>I-don't-remember</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>paṭīiyar</form>
+    <def>happen(inf./opt.)</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

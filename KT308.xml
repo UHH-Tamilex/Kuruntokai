@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 308. <persName xml:lang="ta">Peruntōḷ
+          Kuṟuñcāttaṉ</persName>: <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT308-kilavi">
+        <p type="edition">varaiviṭaik kiḻattiyai vaṉcol colli vaṟpuṟuttiyatu. </p>
+        <p type="translation" xml:lang="en">Encouraging HER, speaking strong words at the time of
+          marriage. </p>
+      </div>
+
+      <div xml:id="KT308">
+        <lg type="edition">
+          <l> cōlai vāḻaic curinukum piṉaiya</l>
+          <l> vaṇaṅkuṭai yaruntalai nīvaliṉ mataṉaḻintu</l>
+          <l> mayaṅkutuya ruṟṟa maiyal vēḻa</l>
+          <l> muyaṅkuyir maṭappiṭi yulaipuṟan taivara</l>
+          <l> vāmiḻi cilampi ṉaritukaṇ paṭukku</l>
+          <l> māmalai nāṭaṉ kēṇmai</l>
+          <l> kāman taruvatōr kaitāḻn taṉṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Bringing only desire [now] it has lowered [its] hand ,</l>
+          <l>the friendship of the man from the land of big mountains,</l>
+          <l rend="indent">where the proud elephant bull rarely closes [his] eyes,</l>
+          <l rend="indent2">on the mountain slope where the water is falling,</l>
+          <l rend="indent8">beset by confusing misery</l>
+          <l rend="indent2">after [his] rutting vigour has perished from a curved leaf</l>
+          <l rend="indent8">of the banana tree</l>
+          <l rend="indent3">in the woods stroking [his] desperately tormented, difficult head,</l>
+          <l rend="indent4">while the youthful female with weakened breath </l>
+          <l rend="indent8">rubs [his] ruined back.</l>
+
+          <lg type="alternate" sameAs="6+7b" resp="#TVG">
+            <l>The friendship ... resulted in the singular habit of inducing desire.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT308">
+    <interp type="alignment" select="0">21MG12MG64MG60ML29MG13M2G2M,207MG</interp>
+    <entry>
+      <form>cōlai</form>
+      <def>wood</def>
+    </entry>
+    <entry>
+      <form>vāḻai<pc>+</pc></form>
+      <def>banana-tree</def>
+    </entry>
+    <entry>
+      <form>curi</form>
+      <def>curve-</def>
+    </entry>
+    <entry>
+      <form>nukump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>banana-leaf</def>
+    </entry>
+    <entry>
+      <form>iṉaiya</form>
+      <def>despair</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>torment</def>
+    </entry>
+    <entry>
+      <form>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>arum</form>
+      <def>difficult</def>
+    </entry>
+    <entry>
+      <form>talai</form>
+      <def>head</def>
+    </entry>
+    <entry>
+      <form>nīvaliṉ</form>
+      <def>stroking</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>mataṉ</form>
+      <def>rut</def>
+    </entry>
+    <entry>
+      <form>aḻintu</form>
+      <def>perished</def>
+    </entry>
+    <entry>
+      <form>mayaṅku</form>
+      <def>confuse-</def>
+    </entry>
+    <entry>
+      <form>tuyar</form>
+      <def>misery</def>
+    </entry>
+    <entry>
+      <form>uṟṟa</form>
+      <def>had-</def>
+    </entry>
+    <entry>
+      <form>maiyal</form>
+      <def>madness</def>
+    </entry>
+    <entry>
+      <form>vēḻam</form>
+      <def>elephant-bull</def>
+    </entry>
+    <entry>
+      <form>uyaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>weaken-</def>
+    </entry>
+    <entry>
+      <form>uyir</form>
+      <def>life</def>
+    </entry>
+    <entry>
+      <form>maṭa<pc>+</pc></form>
+      <def>inexperience</def>
+    </entry>
+    <entry>
+      <form>piṭi</form>
+      <def>she-elephant</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ulai</form>
+      <def>be-ruined-</def>
+    </entry>
+    <entry>
+      <form>puṟam</form>
+      <def>back</def>
+    </entry>
+    <entry>
+      <form>taivara</form>
+      <def>rub</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ām</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>iḻi</form>
+      <def>fall-</def>
+    </entry>
+    <entry>
+      <form>cilampiṉ</form>
+      <def>mountain-slope</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>aritu</form>
+      <def>difficult-it</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>paṭukkum</form>
+      <def>letting-happen-</def>
+    </entry>
+    <entry>
+      <form>mā</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>malai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉ</form>
+      <def>land-he</def>
+    </entry>
+    <entry>
+      <form>kēṇmai</form>
+      <def>intimacy</def>
+    </entry>
+    <entry>
+      <form>kāmam</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>taruvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>giving-it</def>
+    </entry>
+    <entry>
+      <form>ōr</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>kai</form>
+      <def>hand</def>
+    </entry>
+    <entry>
+      <form>tāḻntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-hung-down</def>
+      <form type="simple">tāḻntaṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

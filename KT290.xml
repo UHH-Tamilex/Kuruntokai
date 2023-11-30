@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 290. <persName xml:lang="ta">Kalporu
+          Ciṟunuraiyār</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT290-kilavi">
+        <p type="edition">vaṟpuṟuttun tōḻikkut talaimakaḷ aḻivuṟṟuc colliyatu. </p>
+        <p type="translation" xml:lang="en">Spoken when falling into desolation by HER to the
+          confidante who encourages [her]. </p>
+      </div>
+
+      <div xml:id="KT290">
+        <lg type="edition">
+          <l> kāman tāṅkumati yeṉpōr tāmaḵ</l>
+          <l> taṟiyalar kollō vaṉaimatu kaiyarkol</l>
+          <l> yāmeṅ kātalark kāṇē māyiṟ</l>
+          <l> ceṟituṉi perukiya neñcamoṭu perunīrk</l>
+          <l> kalporu ciṟunurai pōla</l>
+          <l> mella mella villā kutumē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>“Endure desire!”, they say – as for them,</l>
+          <l>don't they know? [Are] they that strong?</l>
+          <l rend="indent2">If we don't see our lover,</l>
+          <l rend="indent3">with a heart where disgust has grown,</l>
+          <l rend="indent4">like a little foam dashing against a rock in the great water,</l>
+          <l>gently, gently we come to nothing.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT290">
+    <interp type="alignment" select="0">26MG8MG20MG98MG2M,157MG</interp>
+    <entry>
+      <form>kāmam</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>tāṅkumati</form>
+      <def>endure</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉpōr</form>
+      <def>saying-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>tām</form>
+      <def>self</def>
+      <gram type="role">plural</gram>
+    </entry>
+    <entry>
+      <form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>aṟiyalar-kollō</form>
+      <def>know-not-they</def>
+      <form type="simple">aṟiyalar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉai</form>
+      <def>such</def>
+    </entry>
+    <entry>
+      <form>matukaiyar-kol</form>
+      <def>strength-they</def>
+      <form type="simple">matukaiyar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+      <form>yām</form>
+      <def>we</def>
+    </entry>
+    <entry>
+      <form>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form>kātalar<pc>+</pc></form>
+      <def>lover</def>
+    </entry>
+    <entry>
+      <form>kāṇēm</form>
+      <def>we-don't-see</def>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>if</def>
+    </entry>
+    <entry>
+      <form>ceṟi</form>
+      <def>dense</def>
+    </entry>
+    <entry>
+      <form>tuṉi</form>
+      <def>disgust</def>
+    </entry>
+    <entry>
+      <form>perukiya</form>
+      <def>become-big-</def>
+    </entry>
+    <entry>
+      <form>neñcamoṭu</form>
+      <def>heart</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>peru</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>kal</form>
+      <def>stone</def>
+    </entry>
+    <entry>
+      <form>poru</form>
+      <def>dash-</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>nurai</form>
+      <def>foam</def>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>mella</form>
+      <def>gently</def>
+    </entry>
+    <entry>
+      <form>mella</form>
+      <def>gently</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>il</form>
+      <def>be-not-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ākutum-ē</form>
+      <def>we-become</def>
+      <form type="simple">ākutum</form>
+      <gram type="role">subjuntive</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 356. <persName xml:lang="ta">Kayamaṉ</persName>
+          : <hi rend="italic">the foster-mother</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT356-kilavi">
+        <p type="edition">makaṭ pōkkiya cevilittāy uraittatu. </p>
+
+
+        <p type="translation" xml:lang="en">Told by the foster-mother, who had let the daughter go. </p>
+      </div>
+
+      <div xml:id="KT356">
+        <lg type="edition">
+          <l> niḻalāṉ ṟavinta nīri lāriṭaik</l>
+          <l> kaḻalōṉ kāppak kaṭukupu pōki</l>
+          <l> yaṟucuṉai maruṅkiṉ maṟukupu venta</l>
+          <l> vevvaṅ kaluḻi tavveṉak kuṭitti</l>
+          <l> yāṅkuval lunaḷko ṟāṉē yēntiya</l>
+          <l> cempoṟ puṉaikalat tamporik kalanta</l>
+          <l> pālum palaveṉa vuṇṇāḷ</l>
+          <l> kōlamai kuṟuntoṭit taḷiraṉ ṉōḷē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">In a difficult place without water, devoid of shade,</l>
+          <l rend="indent">going hastily under the protection of the man with anklets,</l>
+          <l rend="indent">[and] drinking troublesome muddy water that is hot, </l>
+          <l rend="indent2">evaporated in swirls from subsiding mountain pools</l>
+          <l>– how is she capable [of that], she,</l>
+          <l>[tender] as a sprout, with [well-]fitting tight bracelets in a row,</l>
+          <l>who, saying “[too] much”, does not eat even milk</l>
+          <l rend="indent2">mixed with nice rice from a pot decorated with red gold,</l>
+          <l rend="indent8">which she received ?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT356">
+    <interp type="alignment" select="0">8MG9MG4MG86MGMG13MG3ML2MG25MG17MG43MG2M,223MG</interp>
+    <entry>
+      <form>niḻal</form>
+      <def>shade</def>
+    </entry>
+    <entry>
+      <form>āṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>ended</def>
+    </entry>
+    <entry>
+      <form>avinta</form>
+      <def>ceased-</def>
+    </entry>
+    <entry>
+      <form>nīr-il</form>
+      <def>water-not</def>
+    </entry>
+    <entry>
+      <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>difficult</def>
+    </entry>
+    <entry>
+      <form>iṭai<pc>+</pc></form>
+      <def>place</def>
+    </entry>
+    <entry>
+      <form>kaḻalōṉ</form>
+      <def>anklet-he</def>
+    </entry>
+    <entry>
+      <form>kāppa<pc>+</pc></form>
+      <def>watch</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kaṭukupu</form>
+      <def>hasted</def>
+    </entry>
+    <entry>
+      <form>pōki</form>
+      <def>gone</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṟu</form>
+      <def>subside-</def>
+    </entry>
+    <entry>
+      <form>cuṉai</form>
+      <def>mountain-pool</def>
+    </entry>
+    <entry>
+      <form>maruṅkiṉ</form>
+      <def>side</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>maṟukupu</form>
+      <def>whirled</def>
+    </entry>
+    <entry>
+      <form>venta</form>
+      <def>burnt-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>evvam</form>
+      <def>trouble</def>
+    </entry>
+    <entry>
+      <form>kaluḻi</form>
+      <def>muddy-water</def>
+    </entry>
+    <entry>
+      <form>tavveṉa<pc>+</pc></form>
+      <def>'tav'-say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kuṭitt<pc>(</pc>i<pc>)</pc></form>
+      <def>drunk</def>
+    </entry>
+    <entry>
+      <form>yāṅku</form>
+      <def>how</def>
+    </entry>
+    <entry>
+      <form>vallunaḷ-kol</form>
+      <def>being-able-she</def>
+      <form type="simple">vallunaḷ</form>
+      <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tāṉ-ē</form>
+      <def>self</def>
+      <form type="simple">tāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēntiya</form>
+      <def>received-</def>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+    </entry>
+    <entry>
+      <form>puṉai</form>
+      <def>decorate-</def>
+    </entry>
+    <entry>
+      <form>kalatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pot</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>pori<pc>+</pc></form>
+      <def>corns</def>
+    </entry>
+    <entry>
+      <form>kalanta</form>
+      <def>mixed-</def>
+    </entry>
+    <entry>
+      <form>pāl-um</form>
+      <def>milk</def>
+      <form type="simple">pāl</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṇṇāḷ</form>
+      <def>eat-not-she</def>
+    </entry>
+    <entry>
+      <form>kōl</form>
+      <def>stem</def>
+    </entry>
+    <entry>
+      <form>amai</form>
+      <def>fit-</def>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>toṭi<pc>+</pc></form>
+      <def>bracelet</def>
+    </entry>
+    <entry>
+      <form>taḷir</form>
+      <def>sprout</def>
+    </entry>
+    <entry>
+      <form>aṉṉōḷ-ē</form>
+      <def>such-she</def>
+      <form type="simple">aṉṉōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

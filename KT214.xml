@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 214. <persName xml:lang="ta">Kūṭalūrkiḻār</persName>
+          : <hi rend="italic">the confidante / HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT214-kilavi">
+        <p type="edition">tōḻi veṟiyāṭṭu eṭuttuk koṇṭaviṭattu aṟattoṭu niṉṟatu. </p>
+        <p type="translation" xml:lang="en">The confidante standing firm in duty when the Veṟi dance
+          was taken up. </p>
+      </div>
+
+      <div xml:id="KT214">
+        <lg type="edition">
+
+          <l>maraṅkol kāṉavaṉ puṉantuḷarntu vittiya</l>
+          <l>piṟaṅkukura liṟaṭi kākkum puṟantā</l>
+          <l>ḻañci lōti yacaiyiyaṟ koṭicci</l>
+          <l>tiruntiḻai yalkuṟkup peruntaḻai yutavic</l>
+          <l>ceyalai muḻumuta loḻiya vayala</l>
+          <l>taralai mālai cūṭṭi</l>
+          <l>yēmuṟ ṟaṉṟiv vaḻuṅka lūrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+
+          <l>This noisy village has fallen into confusion,</l>
+          <l rend="indent">adorning [itself] with chaplets of bowstring hemp</l>
+          <l rend="indent2">from the neighbourhood, while the whole Aśoka stump stays behind</l>
+          <l rend="indent3">which contributed [its] plentiful foliage for the hips,</l>
+          <l rend="indent8">as a perfect decoration,</l>
+          <l rend="indent">of the creeper woman with swinging gait [and] pretty, thin hair,</l>
+          <l rend="indent2">hanging down [her] back, who guards the bright-eared millet,</l>
+          <l rend="indent3">sown after the field was hoed by the tree-felling man</l>
+          <l rend="indent10">from the wood.</l>
+
+          <lg type="alternate" sameAs="6b" resp="#TVG">
+            <l>[and] adorns [her] with chaplets of (red) Aralai flowers </l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT214">
+    <interp type="alignment" select="0">97MG58MG25MG12MG2M,198M</interp>
+    <entry>
+      <form>maram</form>
+      <def>tree</def>
+    </entry>
+    <entry>
+      <form>kol</form>
+      <def>fell-</def>
+    </entry>
+    <entry>
+      <form>kāṉavaṉ</form>
+      <def>forest-he</def>
+    </entry>
+    <entry>
+      <form>puṉam</form>
+      <def>field</def>
+    </entry>
+    <entry>
+      <form>tuḷarntu</form>
+      <def>hoed</def>
+    </entry>
+    <entry>
+      <form>vittiya</form>
+      <def>sown-</def>
+    </entry>
+    <entry>
+      <form>piṟaṅku</form>
+      <def>glitter-</def>
+    </entry>
+    <entry>
+      <form>kural</form>
+      <def>ear</def>
+    </entry>
+    <entry>
+      <form>iṟaṭi</form>
+      <def>millet</def>
+    </entry>
+    <entry>
+      <form>kākkum</form>
+      <def>guarding-</def>
+    </entry>
+    <entry>
+      <form>puṟam</form>
+      <def>back</def>
+    </entry>
+    <entry>
+      <form>tāḻ</form>
+      <def>hang-down-</def>
+    </entry>
+    <entry>
+      <form>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>cil</form>
+      <def>few</def>
+    </entry>
+    <entry>
+      <form>ōti</form>
+      <def>hair</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>acai</form>
+      <def>move-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iyal</form>
+      <def>nature</def>
+    </entry>
+    <entry>
+      <form>koṭicci</form>
+      <def>creeper-she</def>
+    </entry>
+    <entry>
+      <form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>perfect-</def>
+    </entry>
+    <entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alkuṟku<pc>+</pc></form>
+      <def>hip</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>taḻai</form>
+      <def>foliage</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>utavi<pc>+</pc></form>
+      <def>contributed</def>
+    </entry>
+    <entry>
+      <form>ceyalai</form>
+      <def>Aśoka(-tree)</def>
+    </entry>
+    <entry>
+      <form>muḻu</form>
+      <def>whole</def>
+    </entry>
+    <entry>
+      <form>mutal</form>
+      <def>stump</def>
+    </entry>
+    <entry>
+      <form>oḻiya</form>
+      <def>stay-behind</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ayalat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>neighbourhood-it</def>
+    </entry>
+    <entry>
+      <form>aralai</form>
+      <def>bowstring-hemp</def>
+    </entry>
+    <entry>
+      <form>mālai</form>
+      <def>chaplet</def>
+    </entry>
+    <entry>
+      <form>cūṭṭi</form>
+      <def>worn</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēm</form>
+      <def>confusion</def>
+    </entry>
+    <entry>
+      <form>uṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>it-had</def>
+    </entry>
+    <entry>
+      <form>i<pc>+</pc></form>
+      <def>this-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aḻuṅkal</form>
+      <def>noise</def>
+    </entry>
+    <entry>
+      <form>ūr-ē</form>
+      <def>village</def>
+      <form type="simple">ūr</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

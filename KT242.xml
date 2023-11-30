@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 242. <persName xml:lang="ta">kuḻaṟṟattaṉ</persName>
+          : <hi rend="italic">the foster-mother / the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT242-kilavi">
+        <p type="edition">kaṟpukālattuk kaṭinakar ceṉṟa cevilittāy naṟṟāykkuc colliyatu. </p>
+        <p type="translation" xml:lang="en">The foster-mother, who had gone to the marriage house,
+          speaking to the real mother in the time of marriage. </p>
+      </div>
+
+      <div xml:id="KT242">
+        <lg type="edition">
+          <l> kāṉaṅ kōḻik kavarkuraṟ cēva</l>
+          <l> loṇpoṟi yeruttiṟ ṟaṇcita ruṟaippap</l>
+          <l> putaṉīr vārum pūnāṟu puṟaviṟ</l>
+          <l> cīṟū rōḷē maṭantai vēṟūr</l>
+          <l> vēntuviṭu toḻiloṭu celiṉuñ</l>
+          <l> cēntuvara laṟiyātu cemma ṟērē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The girl [is] from a little village </l>
+          <l rend="indent">in the woodlands, fragrant from flowers dripping with water</l>
+          <l>in the shrubs,</l>
+          <l rend="indent3">so that cool drops drip onto the bright-spotted neck</l>
+          <l rend="indent4">of the forest cockerel with arresting voice.</l>
+          <l rend="indent">Even if he goes with a task, sent by the king, to another village,</l>
+          <l>[his] superior chariot knows nothing of resting [before] coming. </l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT242">
+    <interp type="alignment" select="0">60ML23MG4MG12MG49MG2MG2M,158M</interp>
+    <entry>
+      <form>kāṉam</form>
+      <def>forest</def>
+    </entry>
+    <entry>
+      <form>kōḻik</form>
+      <def>fowl</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>avar</form>
+      <def>seize-</def>
+    </entry>
+    <entry>
+      <form>kural</form>
+      <def>voice</def>
+    </entry>
+    <entry>
+      <form>cēval</form>
+      <def>cock</def>
+    </entry>
+    <entry>
+      <form>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>poṟi</form>
+      <def>spot</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eruttiṉ</form>
+      <def>neck</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>citar</form>
+      <def>drop</def>
+    </entry>
+    <entry>
+      <form>uṟaippa<pc>+</pc></form>
+      <def>drip</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>putal</form>
+      <def>shrub</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>vārum</form>
+      <def>overflowing-</def>
+    </entry>
+    <entry>
+      <form>pū</form>
+      <def>flower</def>
+    </entry>
+    <entry>
+      <form>nāṟu</form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>puṟaviṉ</form>
+      <def>woodland</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>ūrōḷ-ē</form>
+      <def>village-she</def>
+      <form type="simple">ūrōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>maṭantai</form>
+      <def>girl</def>
+    </entry>
+    <entry>
+      <form>vēṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>different</def>
+    </entry>
+    <entry>
+      <form>ūr</form>
+      <def>village</def>
+    </entry>
+    <entry>
+      <form>vēntu</form>
+      <def>king</def>
+    </entry>
+    <entry>
+      <form>viṭu</form>
+      <def>let-</def>
+    </entry>
+    <entry>
+      <form>toḻiloṭu</form>
+      <def>task</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>celiṉum</form>
+      <def>go-if-even</def>
+    </entry>
+    <entry>
+      <form>cēntu</form>
+      <def>stayed</def>
+    </entry>
+    <entry>
+      <form>varal</form>
+      <def>coming</def>
+    </entry>
+    <entry>
+      <form>aṟiyātu</form>
+      <def>know-not</def>
+    </entry>
+    <entry>
+      <form>cemmal</form>
+      <def>superiority</def>
+    </entry>
+    <entry>
+      <form>tēr-ē</form>
+      <def>chariot</def>
+      <form type="simple">tēr</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

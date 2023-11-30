@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 328. <persName xml:lang="ta">Paraṇar</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT328-kilavi">
+        <p type="edition">varaiviṭai vēṟupaṭuṅ kiḻattiyai “avar varaiyum nāḷ aṇittu” eṉavum “alar
+          añcal” eṉavuṅ kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken in order to say “don't fear gossip” and “close is
+          the day he will marry [you]”, to HER, who is changing [while awaiting] the time of
+          marriage. </p>
+      </div>
+
+      <div xml:id="KT328">
+        <lg type="edition">
+          <l> ciṟuvī ñāḻal vēraḷaip paḷḷi</l>
+          <l> yalavaṉ ciṟumaṉai citaiyap puṇari</l>
+          <l> kuṇilvāy muraci ṉiraṅkun tuṟaiva</l>
+          <l> ṉalkiya nāṭavac cilavē yalarē</l>
+          <l> vilkeḻu tāṉai vicciyar perumakaṉ</l>
+          <l> vēntaroṭu poruta ñāṉṟaip pāṇar</l>
+          <l> pulinōk kuṟaḻnilai kaṇṭa</l>
+          <l> kalikeḻu kuṟumpū rārppiṉum peritē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The man from the ghat,</l>
+          <l rend="indent">where the ocean sounds like a drum, the mouth to a drumstick,</l>
+          <l rend="indent2">so that the little houses of crabs are destroyed,</l>
+          <l rend="indent2">sleeping places in the root holes of small-blossomed Ñāḻal trees,</l>
+          <l>very few [were] the days [he] granted.</l>
+          <l rend="indent8">Gossip!</l>
+          <l>It is louder than the roaring of bustling Kuṟumpūr ,</l>
+          <l rend="indent">which has seen the posture of bards, resembling tigers</l>
+          <l rend="indent">[exchanging] looks , at a time when the great son of the Vicciyar </l>
+          <l rend="indent2">with the bow-armed army fought with the kings.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT328">
+    <interp type="alignment" select="0">84ML9ML8MG7MG65MG43M2G2M,224MG</interp>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>vī</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>ñāḻal</form>
+      <def>Ñāḻal-(tree)</def>
+    </entry>
+    <entry>
+      <form>vēr</form>
+      <def>root</def>
+    </entry>
+    <entry>
+      <form>aḷai<pc>+</pc></form>
+      <def>hole</def>
+    </entry>
+    <entry>
+      <form>paḷḷi</form>
+      <def>sleeping-place</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alavaṉ</form>
+      <def>crab</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>maṉai</form>
+      <def>house</def>
+    </entry>
+    <entry>
+      <form>citaiya<pc>+</pc></form>
+      <def>be-wasted</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>puṇari</form>
+      <def>ocean</def>
+    </entry>
+    <entry>
+      <form>kuṇil</form>
+      <def>drum-stick</def>
+    </entry>
+    <entry>
+      <form>vāy</form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>muraciṉ</form>
+      <def>drum</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>iraṅkum</form>
+      <def>sounding-</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉ</form>
+      <def>ghat-he</def>
+    </entry>
+    <entry>
+      <form>nalkiya</form>
+      <def>granted-</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>tava<pc>+</pc></form>
+      <def>very</def>
+    </entry>
+    <entry>
+      <form>cila-<pc>~</pc>ē</form>
+      <def>few</def>
+      <form type="simple">cila</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alar-ē</form>
+      <def>gossip</def>
+      <form type="simple">alar</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vil</form>
+      <def>bow</def>
+    </entry>
+    <entry>
+      <form>keḻu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>tāṉai</form>
+      <def>army</def>
+    </entry>
+    <entry>
+      <form>vicciyar</form>
+      <def>Vicciyar</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>peru</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>makaṉ</form>
+      <def>son</def>
+    </entry>
+    <entry>
+      <form>vēntaroṭu</form>
+      <def>king</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>poruta</form>
+      <def>struck-</def>
+    </entry>
+    <entry>
+      <form>ñāṉṟai<pc>+</pc></form>
+      <def>when</def>
+    </entry>
+    <entry>
+      <form>pāṇar</form>
+      <def>bard</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>puli</form>
+      <def>tiger</def>
+    </entry>
+    <entry>
+      <form>nōkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>look</def>
+    </entry>
+    <entry>
+      <form>uṟaḻ</form>
+      <def>resemble-</def>
+    </entry>
+    <entry>
+      <form>nilai</form>
+      <def>standing</def>
+    </entry>
+    <entry>
+      <form>kaṇṭa</form>
+      <def>seen-</def>
+    </entry>
+    <entry>
+      <form>kali</form>
+      <def>bustle</def>
+    </entry>
+    <entry>
+      <form>keḻu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>kuṟumpūr</form>
+      <def>Kuṟumpūr</def>
+    </entry>
+    <entry>
+      <form>ārppiṉum</form>
+      <def>roaringiṉ</def>
+      <form type="simple">ārppiṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>big-it</def>
+      <form type="simple">peritu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

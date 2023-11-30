@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 227. <persName xml:lang="ta">ōtañāṉi</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT227-kilavi">
+        <p type="edition">ciṟaippuṟam. </p>
+        <p type="translation" xml:lang="en">Hedge. </p>
+      </div>
+
+      <div xml:id="KT227">
+        <lg type="edition">
+          <l>pūṇvaḷain taṉṉa polañcūṭṭu nēmi</l>
+          <l>vāṇmukan tumippa vaḷḷitaḻ kuṟainta</l>
+          <l>kūḻai neytalu muṭaittivaṭ</l>
+          <l>ṭērōṉ pōkiya kāṉa lāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>This place possesses only short blue waterlilies</l>
+          <l rend="indent2">without full petals, as the sword faces have cut [them]</l>
+          <l rend="indent3">of the gold-rimmed wheels curved like an ornament,</l>
+          <l rend="indent2">– in the seashore grove he with the chariot had gone to.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT227">
+    <interp type="alignment" select="0">10M2G60MG8MG22MG2M,106MG</interp>
+    <entry>
+    <form>pūṇ</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>vaḷaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-aṉṉa</form>
+    <def>curved(abs.)-like</def>
+    </entry>
+    <entry>
+    <form>polam</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>cūṭṭu</form>
+    <def>rim</def>
+    </entry>
+    <entry>
+    <form>nēmi</form>
+    <def>wheel</def>
+    </entry>
+    <entry>
+    <form>vāḷ</form>
+    <def>sword</def>
+    </entry>
+    <entry>
+    <form>mukam</form>
+    <def>face</def>
+    </entry>
+    <entry>
+    <form>tumippa</form>
+    <def>cut</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vaḷ</form>
+    <def>abundance</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>itaḻ</form>
+    <def>petal</def>
+    </entry>
+    <entry>
+    <form>kuṟainta</form>
+    <def>lacked-</def>
+    </entry>
+    <entry>
+    <form>kūḻai</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>neytal-um</form>
+    <def>blue-waterlily</def>
+    <form type="simple">neytal</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>possess-it</def>
+    </entry>
+    <entry>
+    <form>ivaṇ</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>tērōṉ</form>
+    <def>chariot-he</def>
+    </entry>
+    <entry>
+    <form>pōkiya</form>
+    <def>gone-</def>
+    </entry>
+    <entry>
+    <form>kāṉalāṉ-ē</form>
+    <def>seashore-grove</def>
+    <form type="simple">kāṉalāṉ</form>
+    <gram type="role">locative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff> 
+</TEI>

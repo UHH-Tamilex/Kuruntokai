@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 372. <persName xml:lang="ta">Viṟṟūṟṟu
+                    Mūteyiṉṉār </persName> : <hi rend="italic">the confidante / SHE</hi></title>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div xml:id="KT372-kilavi">
+                <p type="edition">iravukkuṟi vantoḻukāniṉṟa talaimakaṉ kēṭpat tōḻi talaimakaṭkuc
+                    colluvāḷāyc colliyatu. </p>
+
+
+                <p type="translation" xml:lang="en">Uttered by the confidante, as one who speaks to
+                    HER, for HIM to hear, who stood there motionless, having come to the night
+                    tryst. </p>
+            </div>
+
+            <div xml:id="KT372">
+                <lg type="edition">
+                    <l> paṉaittalaik karukkuṭai neṭumaṭal kuruttoṭu māyak</l>
+                    <l> kaṭuvaḷi tokutta neṭuveṇ kuppaik</l>
+                    <l> kaṇaṅkoḷ cimaiya vaṇaṅkuṅ kāṉa</l>
+                    <l> lāḻitalai vīciya vayirccēṟ ṟaruvik</l>
+                    <l> kūḻaipe yekkark kuḻīiya patukkai</l>
+                    <l> pularpataṅ koḷḷā vaḷavai</l>
+                    <l> yalareḻun taṉṟiv vaḻunka lūrē.</l>
+
+
+                </lg>
+
+                <lg type="translation" xml:lang="en">
+                    <l rend="indent"> Before the mounds accumulated in the dunes</l>
+                    <l rend="indent"> reached dry consistency, to be poured on the hair ,</l>
+                    <l rend="indent2"> from the river mouth with mud [and] fine sand flung</l>
+                    <l rend="indent9"> by the sea’s [wave] heads ,</l>
+                    <l rend="indent3"> in the seashore grove, where the peaks in groups are yielding </l>
+                    <l rend="indent3"> to the long white heaps piled up by the fierce wind,</l>
+                    <l rend="indent4"> so that with the sprouts the saw-edged long stems</l>
+                    <l rend="indent6"> disappear up to the top of the Palmyras, </l>
+                    <l> gossip arose in this noisy village.</l>
+
+
+                </lg>
+            </div>
+        </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT372">
+        <interp type="alignment" select="0">18MG71MG37MG70MG12MG2M,214MG</interp>
+        <entry>
+            <form>paṉai<pc>+</pc></form>
+            <def>Palmyra</def>
+        </entry>
+        <entry>
+            <form>talai<pc>+</pc></form>
+            <def>head</def>
+        </entry>
+        <entry>
+            <form>karukk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>saw-edge</def>
+        </entry>
+        <entry>
+            <form>uṭai</form>
+            <def>possess-</def>
+        </entry>
+        <entry>
+            <form>neṭu</form>
+            <def>long</def>
+        </entry>
+        <entry>
+            <form>maṭal</form>
+            <def>Palmyra-stem</def>
+        </entry>
+        <entry>
+            <form>kuruttoṭu</form>
+            <def>sprout</def>
+            <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>māya<pc>+</pc></form>
+            <def>disappear</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>kaṭu</form>
+            <def>quick</def>
+        </entry>
+        <entry>
+            <form>vaḷi</form>
+            <def>wind</def>
+        </entry>
+        <entry>
+            <form>tokutta</form>
+            <def>collected-</def>
+        </entry>
+        <entry>
+            <form>neṭu</form>
+            <def>long</def>
+        </entry>
+        <entry>
+            <form>veḷ</form>
+            <def>white</def>
+        </entry>
+        <entry>
+            <form>kuppai<pc>+</pc></form>
+            <def>heap</def>
+        </entry>
+        <entry>
+            <form>kaṇam</form>
+            <def>group</def>
+        </entry>
+        <entry>
+            <form>koḷ</form>
+            <def>take-</def>
+        </entry>
+        <entry>
+            <form>cimaiyam</form>
+            <def>peak</def>
+        </entry>
+        <entry>
+            <form>vaṇaṅkum</form>
+            <def>bowing-</def>
+        </entry>
+        <entry>
+            <form>kāṉal</form>
+            <def>seashore-grove</def>
+        </entry>
+        <entry>
+            <form>āḻi</form>
+            <def>sea</def>
+        </entry>
+        <entry>
+            <form>talai</form>
+            <def>head</def>
+        </entry>
+        <entry>
+            <form>vīciya</form>
+            <def>flung-</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>ayir<pc>+</pc></form>
+            <def>fine-sand</def>
+        </entry>
+        <entry>
+            <form>cēṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>mud</def>
+            <gram type="role">oblique</gram>
+        </entry>
+        <entry>
+            <form>aruvi<pc>+</pc></form>
+            <def>waterfall</def>
+        </entry>
+        <entry>
+            <form>kūḻai</form>
+            <def>short[-hair]</def>
+        </entry>
+        <entry>
+            <form>pey</form>
+            <def>rain-</def>
+        </entry>
+        <entry>
+            <form>ekkar<pc>+</pc></form>
+            <def>dune</def>
+        </entry>
+        <entry>
+            <form>kuḻīiya</form>
+            <def>accumulated-</def>
+        </entry>
+        <entry>
+            <form>patukkai</form>
+            <def>heap</def>
+        </entry>
+        <entry>
+            <form>pular</form>
+            <def>dry-</def>
+        </entry>
+        <entry>
+            <form>patam</form>
+            <def>proper-consistency</def>
+        </entry>
+        <entry>
+            <form>koḷḷā</form>
+            <def>take-not</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aḷavai</form>
+            <def>measure</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>alar</form>
+            <def>gossip</def>
+        </entry>
+        <entry>
+            <form>eḻuntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>it-rose</def>
+        </entry>
+        <entry>
+            <form>i<pc>+</pc></form>
+            <def>this-</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aḻunkal</form>
+            <def>noise</def>
+        </entry>
+        <entry>
+            <form>ūr-ē</form>
+            <def>village</def>
+            <form type="simple">ūr</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+    </standOff>
+</TEI>

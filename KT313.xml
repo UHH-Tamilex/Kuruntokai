@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 313. <persName xml:lang="ta">Anonymous</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT313-kilavi">
+        <p type="edition">iravukkuṟi vantoḻukuṅ kālattut talaimakaṉatu varavuṇarntu “paṇpilar” eṉṟu
+          iyaṟpaḻitta tōḻikku “avaroṭu piṟanta naṭpu aḻiyāta naṭpaṉṟō” eṉṟu ciṟaippuṟamākat
+          talaimakaḷ iyaṟpaṭa moḻintatu. </p>
+        <p type="translation" xml:lang="en">Spoken by HER so that [his] qualities become visible,
+          while [he] is behind the hedge, [with the words] “isn't [his] friendship immortal
+          friendship, born with him?”, to the confidante who belittled [his] qualities [with the
+          words] “he is not active(?)”, having realised HIS coming at a time when night trysts took
+          place. </p>
+      </div>
+
+      <div xml:id="KT313">
+        <lg type="edition">
+          <l> peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
+          <l> nīttunī riruṅkaḻi yiraitērn tuṇṭu</l>
+          <l> pūkkamaḻ potumpiṟ cēkkun tuṟaivaṉō</l>
+          <l> ṭiyāttēm yāttaṉṟu naṭpē</l>
+          <l> yaviḻttaṟ karitatu muṭintamain taṉṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent">To the man from the ghat, where in the flower-smelling grove</l>
+          <l rend="indent2">the little white crow of the great sea shore rests,</l>
+          <l rend="indent2">having searched for prey [and] eaten</l>
+          <l rend="indent8">in the swimming dark backwaters,</l>
+          <l>we are bound.</l>
+          <l rend="indent5">Bound is the friendship.</l>
+          <l>One difficult to undo, it has become perfect.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT313">
+    <interp type="alignment" select="0">58MG36MGMG18M2G11MG4MG9MG9M2G2M,157MG</interp>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>karaiyatu</form>
+      <def>shoreatu</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>kākkai</form>
+      <def>crow</def>
+    </entry>
+    <entry>
+      <form>nīttu</form>
+      <def>swimming</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>irum</form>
+      <def>dark/big</def>
+    </entry>
+    <entry>
+      <form>kaḻi</form>
+      <def>backwaters</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>irai</form>
+      <def>prey</def>
+    </entry>
+    <entry>
+      <form>tērnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>searched</def>
+    </entry>
+    <entry>
+      <form>uṇṭu</form>
+      <def>eaten</def>
+    </entry>
+    <entry>
+      <form>pū<pc>+</pc></form>
+      <def>flower</def>
+    </entry>
+    <entry>
+      <form>kamaḻ</form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>potumpiṉ</form>
+      <def>grove</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>cēkkum</form>
+      <def>resting-</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉoṭ<pc>(</pc>i<pc>)</pc></form>
+      <def>ghat-he-with</def>
+    </entry>
+    <entry>
+      <form>yāttēm</form>
+      <def>we-bound</def>
+    </entry>
+    <entry>
+      <form>yāttaṉṟu</form>
+      <def>it-bound</def>
+    </entry>
+    <entry>
+      <form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>intimacy</def>
+      <form type="simple">naṭpu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aviḻttaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>opening</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>difficult-it</def>
+    </entry>
+    <entry>
+      <form>atu</form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>muṭint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>completed</def>
+    </entry>
+    <entry>
+      <form>amaintaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-became-still</def>
+      <form type="simple">amaintaṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

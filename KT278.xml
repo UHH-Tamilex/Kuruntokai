@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 278. <persName xml:lang="ta">Pēri Cāttaṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT278-kilavi">
+        <p type="edition">piriviṭai vaṟpuṟuttun tōḻikkut talaimakaḷ uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante who encourages [her] in
+          the time of separation. </p>
+      </div>
+
+      <div xml:id="KT278">
+        <lg type="edition">
+          <l> uṟuvaḷi yuḷariya vantaḷir māattu</l>
+          <l> muṟikaṇ ṭaṉṉa melleṉ cīṟaṭic</l>
+          <l> ciṟupacum pāvaiyu memmu muḷḷār</l>
+          <l> koṭiyar vāḻi tōḻi kaṭuva</l>
+          <l> ṉūḻuṟu tīṅkaṉi yutirppak kīḻirun</l>
+          <l> tēṟpaṉa vēṟpaṉa vuṇṇum</l>
+          <l> pārppuṭai mantiya malaiyiṟan tōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Who remembers neither us nor the little green image </l>
+          <l rend="indent">with small feet, tender as if [one] had seen the shoot</l>
+          <l rend="indent2">of a mango tree with pretty sprouts, blown by the going wind ,</l>
+          <l>cruel [is] he, oh friend,</l>
+          <l>who traversed the mountain of she-monkeys with young ones</l>
+          <l rend="indent2">that, while the male drops down the ripe sweet fruit,</l>
+          <l rend="indent2">are below, receiving [them] one by one, [and] eat. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT278">
+    <interp type="alignment" select="0">50MG18MG5MG59MG24MG24MG2M,187MG</interp>
+    <entry>
+      <form>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>vaḷi</form>
+      <def>wind</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uḷariya</form>
+      <def>blown-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>taḷir</form>
+      <def>sprout</def>
+    </entry>
+    <entry>
+      <form>māattu</form>
+      <def>mango-tree-</def>
+    </entry>
+    <entry>
+      <form>muṟi</form>
+      <def>shoot</def>
+    </entry>
+    <entry>
+      <form>kaṇṭaṉṉa</form>
+      <def>seen-like</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>tender</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>eṉ</form>
+      <def>say-</def>
+    </entry>
+    <entry>
+      <form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>aṭi<pc>+</pc></form>
+      <def>foot</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>pacum</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>pāvai-<pc>~</pc>um</form>
+      <def>image</def>
+      <form type="simple">pāvai</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>em-<pc>+</pc>um</form>
+      <def>us-</def>
+      <form type="simple">em</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>uḷḷār</form>
+      <def>remember-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>koṭiyar</form>
+      <def>cruel-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>kaṭuvaṉ</form>
+      <def>monkey</def>
+    </entry>
+    <entry>
+      <form>ūḻ</form>
+      <def>ripeness</def>
+    </entry>
+    <entry>
+      <form>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>tīm</form>
+      <def>sweet</def>
+    </entry>
+    <entry>
+      <form>kaṉi</form>
+      <def>ripe-fruit</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>utirppa<pc>+</pc></form>
+      <def>drop</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kīḻ</form>
+      <def>below</def>
+    </entry>
+    <entry>
+      <form>irunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>been</def>
+    </entry>
+    <entry>
+      <form>ēṟpaṉa</form>
+      <def>reception-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēṟpaṉa</form>
+      <def>reception-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṇṇum</form>
+      <def>eating-</def>
+    </entry>
+    <entry>
+      <form>pārpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>young-one</def>
+    </entry>
+    <entry>
+      <form>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form>mantiya</form>
+      <def>female-monkey</def>
+      <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+      <form>malai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṟantōr-ē</form>
+      <def>traversed-he(h.)ē∞</def>
+      <form type="simple">iṟantōr</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

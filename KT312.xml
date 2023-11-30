@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 312. <persName xml:lang="ta">Kapilar</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT312-kilavi">
+        <p type="edition">iravukkuṟi vantu nīṅkukiṉṟa talaimakaṉ taṉṉeñciṟku varaivuṭaimai vēṭpak
+          kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken, while [he?] wanted the possession of marriage,
+          to his heart, by HIM, who leaves [her] after having come to the night tryst. </p>
+      </div>
+
+      <div xml:id="KT312">
+        <lg type="edition">
+          <l> iraṇṭaṟi kaḷvinaṅ kāta lōḷē</l>
+          <l> muraṇko ṭuppiṟ cevvēṉ malaiyaṉ</l>
+          <l> muḷḷūrk kāṉa nāṟa vantu</l>
+          <l> naḷḷeṉ kaṅku ṉammō raṉṉaḷ</l>
+          <l> kūntal vēynta viravumala rutirttuc</l>
+          <l> cāntuḷar naṟuṅkatup peṇṇey nīvi</l>
+          <l> yamarā mukatta ḷākit</l>
+          <l> tamarō raṉṉaḷ vaikaṟai yāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>A double-faced robberess our love!</l>
+          <l>As if she [were] just ours in soundless night,</l>
+          <l rend="indent">come to be fragrant in the forest on the Muḷḷūr mountain</l>
+          <l rend="indent2">of Malaiyaṉ with red spear [and] the vigour</l>
+          <l rend="indent7">to take on [any] antagonism,</l>
+          <l>but at dawn as if she [were] just theirs,</l>
+          <l>one with a settled face ,</l>
+          <l rend="indent2">thrown off mixed blossoms that decked [her] tresses,</l>
+          <l rend="indent2">sesame oil applied to the fragrant hair, smoothed</l>
+          <l rend="indent9">with sandal paste.</l>
+
+          <lg type="alternate" sameAs="2b">
+            <l>of Malaiyaṉ with a resilient spear red as coral,</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT312">
+    <interp type="alignment" select="0">5MG18MG9ML30MR26MG40MG15MG34MG16MG2M,203MG</interp>
+    <entry>
+      <form>iraṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>two</def>
+    </entry>
+    <entry>
+      <form>aṟi</form>
+      <def>know-</def>
+    </entry>
+    <entry>
+      <form>kaḷvi</form>
+      <def>robberess</def>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>our</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>kātalōḷ-ē</form>
+      <def>lady-love</def>
+      <form type="simple">kātalōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>muraṇ</form>
+      <def>antagonism</def>
+    </entry>
+    <entry>
+      <form>koḷ</form>
+      <def>take-</def>
+    </entry>
+    <entry>
+      <form>tuppiṉ</form>
+      <def>vigour/coral</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>ce<pc>+</pc></form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>vēl</form>
+      <def>spear</def>
+    </entry>
+    <entry>
+      <form>malaiyaṉ</form>
+      <def>Malaiyaṉ</def>
+    </entry>
+    <entry>
+      <form>muḷḷūr<pc>+</pc></form>
+      <def>Muḷḷūr(-mountain)</def>
+    </entry>
+    <entry>
+      <form>kāṉam</form>
+      <def>forest</def>
+    </entry>
+    <entry>
+      <form>nāṟa</form>
+      <def>be-fragrant</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>vantu</form>
+      <def>come</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>naḷḷeṉ</form>
+      <def>middle-say-</def>
+    </entry>
+    <entry>
+      <form>kaṅkul</form>
+      <def>night</def>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>our</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>ōr<pc type="ignored">(</pc>u<pc type="ignored">)</pc>aṉṉaḷ</form>
+      <def>one-like-she</def>
+    </entry>
+    <entry>
+      <form>kūntal</form>
+      <def>hair</def>
+    </entry>
+    <entry>
+      <form>vēynta</form>
+      <def>covered-</def>
+    </entry>
+    <entry>
+      <form>viravu</form>
+      <def>mix-</def>
+    </entry>
+    <entry>
+      <form>malar</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>utirttu<pc>+</pc></form>
+      <def>thrown-off</def>
+    </entry>
+    <entry>
+      <form>cānt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>sandal-paste</def>
+    </entry>
+    <entry>
+      <form>uḷar</form>
+      <def>smooth-</def>
+    </entry>
+    <entry>
+      <form>naṟum</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>katupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>tresses</def>
+    </entry>
+    <entry>
+      <form>eṇṇey</form>
+      <def>sesame-oil</def>
+    </entry>
+    <entry>
+      <form>nīvi</form>
+      <def>applied</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>amarā</form>
+      <def>settled(-not)</def>
+    </entry>
+    <entry>
+      <form>mukattaḷ</form>
+      <def>face-she</def>
+    </entry>
+    <entry>
+      <form>āki<pc>+</pc></form>
+      <def>become</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>tamar</form>
+      <def>self-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>ōr<pc type="ignored">(</pc>u<pc type="ignored">)</pc>aṉṉaḷ</form>
+      <def>one-like-she</def>
+    </entry>
+    <entry>
+      <form>vaikaṟaiyāṉ-ē</form>
+      <def>dawn</def>
+      <form type="simple">vaikaṟaiyāṉ</form>
+      <gram type="role">locative</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

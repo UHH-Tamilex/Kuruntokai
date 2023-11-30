@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 268. <persName xml:lang="ta">Karuvūrc Cēramāṉ
+          Cāttaṉ</persName> : <hi rend="italic">the confidante/SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT268-kilavi">
+        <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat talaimakaṭkut tōḻi colliyatu. </p>
+        <p type="translation" xml:lang="en">Uttered by the confidante to HER, when HE is behind the
+          hedge. </p>
+      </div>
+
+      <div xml:id="KT268">
+        <lg type="edition">
+          <l> cēṟi rōveṉac ceppalu māṟṟām</l>
+          <l> varuvi rōveṉa viṉavalum viṉavām</l>
+          <l> yāṅkuccey vāṅko ṟōḻi pāmpiṉ</l>
+          <l> paiyuṭai yiruntalai tumikku mēṟoṭu</l>
+          <l> naṭunā ḷeṉṉār vantu</l>
+          <l> neṭumeṉ paṇaittō ḷaṭaintici ṉōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>We cannot say [to him]: “will you go?”</l>
+          <l>and we don't ask [him] urgently : “will you come?”</l>
+          <l>− the one who enjoyed [our] long soft bamboo shoulders,</l>
+          <l>coming without saying: “midnight,</l>
+          <l rend="indent2">with thundering which severs the big/dark hooded head</l>
+          <l rend="indent2">of the snake”.</l>
+          <l rend="indent5">What can we do, friend?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT268">
+    <interp type="alignment" select="0">5MG5MG7MG14MG12MG21MG3ML44MG41MG2M,162MG</interp>
+    <entry>
+      <form>cēṟir-ō</form>
+      <def>you-go(sub.pl.)</def>
+      <form type="simple">cēṟir</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉa-<pc>+</pc></form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>ceppal-um</form>
+      <def>saying</def>
+      <form type="simple">ceppal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>āṟṟām</form>
+      <def>we-are-not-able</def>
+    </entry>
+    <entry>
+      <form>varuvir-ō</form>
+      <def>you-come</def>
+      <form type="simple">varuvir</form>
+      <gram type="role">plural</gram>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>viṉaval-um</form>
+      <def>asking</def>
+      <form type="simple">viṉaval</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>viṉavām</form>
+      <def>we-don't-ask</def>
+    </entry>
+    <entry>
+      <form>yāṅku<pc>+</pc></form>
+      <def>how</def>
+    </entry>
+    <entry>
+      <form>ceyvām-kol</form>
+      <def>we-do</def>
+      <form type="simple">ceyvām</form>
+      <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>pāmpiṉ</form>
+      <def>snake</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>pai</form>
+      <def>hood</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>irum</form>
+      <def>dark/big</def>
+    </entry>
+    <entry>
+      <form>talai</form>
+      <def>head</def>
+    </entry>
+    <entry>
+      <form>tumikkum</form>
+      <def>severing-</def>
+    </entry>
+    <entry>
+      <form>ēṟoṭu</form>
+      <def>stroke</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>naṭu-nāḷ</form>
+      <def>middle-day</def>
+    </entry>
+    <entry>
+      <form>eṉṉār</form>
+      <def>say-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>vantu</form>
+      <def>come</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>neṭu</form>
+      <def>long</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>tender</def>
+    </entry>
+    <entry>
+      <form>paṇai<pc>+</pc></form>
+      <def>bamboo</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>aṭainticinōr-ē</form>
+      <def>enjoyed-he</def>
+      <form type="simple">aṭainticinōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 238. <persName xml:lang="ta">kuṉṟiyaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT238-kilavi">
+        <p type="edition">talaimakaḷ parattaiyiṉ maṟuttantu vāyil vēṇṭit tōḻiyiṭaic ceṉṟu teḷippāṉ
+          pukkāṟkut (G2: pukkāṟṟit) tōḻi colliyatu,</p>
+        <p type="translation" xml:lang="en">Uttered by the confidante to the one who entered in
+          order to explain, having gone to the confidante wishing for the door/mediation, after HE
+          had been brought back from the other woman/courtesan. </p>
+      </div>
+
+      <div xml:id="KT238">
+        <lg type="edition">
+          <l> pācava liṭitta karuṅkā ḻulakkai</l>
+          <l> yāykatir nelliṉ varampaṇait tuyiṟṟi</l>
+          <l> yoṇṭoṭi makaḷir vaṇṭa layarun</l>
+          <l> toṇṭi yaṉṉaveṉ ṉalantantu</l>
+          <l> koṇṭaṉai ceṉmō makiḻnaniṉ cūḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Having given [back] my innocence, [which is] like Toṇṭi,</l>
+          <l rend="indent2">where women with bright bracelets are engaged in play,</l>
+          <l rend="indent2">having laid down on a ridge by the border</l>
+          <l rend="indent7">of the rice field with choice ears</l>
+          <l rend="indent3">the black, hard pestles which pounded green rice, </l>
+          <l rend="indent">– [since] you have taken [back] your oath, delightful man, go!</l>
+
+          <lg type="alternate" sameAs="4+5b">
+            <l>[Since you have] given [back] my innocence ...,</l>
+            <l>take [back] your oath, delightful man, [and] go!</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT238">
+    <interp type="alignment" select="0">3MG45MG87MG2M,140M</interp>
+    <entry>
+      <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>aval</form>
+      <def>rice</def>
+    </entry>
+    <entry>
+      <form>iṭitta</form>
+      <def>pounded-</def>
+    </entry>
+    <entry>
+      <form>karum</form>
+      <def>black</def>
+    </entry>
+    <entry>
+      <form>kāḻ</form>
+      <def>hardness</def>
+    </entry>
+    <entry>
+      <form>ulakkai</form>
+      <def>pestle</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āy</form>
+      <def>select-</def>
+    </entry>
+    <entry>
+      <form>katir</form>
+      <def>ear</def>
+    </entry>
+    <entry>
+      <form>nelliṉ</form>
+      <def>paddy[-field]</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>border</def>
+    </entry>
+    <entry>
+      <form>aṇai<pc>+</pc></form>
+      <def>ridge</def>
+    </entry>
+    <entry>
+      <form>tuyiṟṟi</form>
+      <def>laid-down</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>toṭi</form>
+      <def>bracelet</def>
+    </entry>
+    <entry>
+      <form>makaḷir</form>
+      <def>women</def>
+    </entry>
+    <entry>
+      <form>vaṇṭal</form>
+      <def>play</def>
+    </entry>
+    <entry>
+      <form>ayarum</form>
+      <def>being-engaged-</def>
+    </entry>
+    <entry>
+      <form>toṇṭi</form>
+      <def>Toṇṭi</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉa</form>
+      <def>like</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>nalam</form>
+      <def>goodness</def>
+    </entry>
+    <entry>
+      <form>tantu</form>
+      <def>given</def>
+    </entry>
+    <entry>
+      <form>koṇṭaṉai</form>
+      <def>you-took</def>
+    </entry>
+    <entry>
+      <form>ceṉmō</form>
+      <def>go</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>makiḻna</form>
+      <def>delight-he</def>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your-</def>
+    </entry>
+    <entry>
+      <form>cūḷ-ē</form>
+      <def>oath</def>
+      <form type="simple">cūḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

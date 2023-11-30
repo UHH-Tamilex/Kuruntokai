@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 277. <persName xml:lang="ta">ōriṟ Piccaiyār</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT277-kilavi">
+        <p type="edition">talaimakaṉ pirintavaḻi avaṉ kuṟitta paruva varavu tōḻi aṟivāraik kaṇṭu
+          viṉāyatu. </p>
+        <p type="translation" xml:lang="en">Asked by the confidante when seeing some savants,
+          [concerning] the coming of the season he had intended [for his return] when HE separated. </p>
+      </div>
+
+      <div xml:id="KT277">
+        <lg type="edition">
+          <l> āci ṟeruvi ṉāyil viyaṉkaṭaic</l>
+          <l> cenne lamalai veṇmai veḷḷiḻu</l>
+          <l> tōriṟ piccai yāra mānti</l>
+          <l> yaṟcira veyya veppat taṇṇīrc</l>
+          <l> cēmac ceppiṟ peṟīiyarō nīyē</l>
+          <l> miṉṉiṭai naṭuṅkuṅ kaṭaippeyal vāṭai</l>
+          <l> yekkāl varuva teṉṟi</l>
+          <l> yakkāl varuvareṅ kāta lōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>You, may you obtain in a safe vessel</l>
+          <l rend="indent2">of hot fresh water, hot [draughts] in the cold season</l>
+          <l>[and] eat [your] fill with the alms of a single house,</l>
+          <l rend="indent2">very white ghee with boiled red rice</l>
+          <l rend="indent5">at a wide gate without dogs in a flawless street! </l>
+          <l>When would you say it will come,</l>
+          <l rend="indent2">the north wind with the last raining,</l>
+          <l rend="indent8">when [one] shivers in midst of lightning? </l>
+          <l>At that time he will come, our lover.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT277">
+    <interp type="alignment" select="0">2M2G2ML6ML2MG39MG26MG37MG3MG47MG26MG2M,202MG</interp>
+    <entry>
+      <form>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-il</form>
+      <def>flaw-not</def>
+    </entry>
+    <entry>
+      <form>teruviṉ</form>
+      <def>street</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nāy-il</form>
+      <def>dog-not</def>
+    </entry>
+    <entry>
+      <form>viyal</form>
+      <def>width</def>
+    </entry>
+    <entry>
+      <form>kaṭai<pc>+</pc></form>
+      <def>border</def>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>nel</form>
+      <def>rice</def>
+    </entry>
+    <entry>
+      <form>amalai</form>
+      <def>boiled-rice</def>
+    </entry>
+    <entry>
+      <form>veṇmai</form>
+      <def>whiteness</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>ghee</def>
+    </entry>
+    <entry>
+      <form>ōr</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>il</form>
+      <def>house</def>
+    </entry>
+    <entry>
+      <form>piccai</form>
+      <def>alms</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āra</form>
+      <def>become-full</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>mānti</form>
+      <def>fed</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṟciram</form>
+      <def>cold-season</def>
+    </entry>
+    <entry>
+      <form>veyya</form>
+      <def>hot-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>veppam</form>
+      <def>heat</def>
+    </entry>
+    <entry>
+      <form>taṇṇīr<pc>+</pc></form>
+      <def>coolness-water</def>
+    </entry>
+    <entry>
+      <form>cēmam</form>
+      <def>safety</def>
+    </entry>
+    <entry>
+      <form>ceppiṉ</form>
+      <def>vessel</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>peṟīiyar-ō</form>
+      <def>may-obtain</def>
+      <form type="simple">peṟīiyar</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nī-<pc>~</pc>ē</form>
+      <def>you</def>
+      <form type="simple">nī</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>miṉ</form>
+      <def>lightning</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iṭai</form>
+      <def>middle</def>
+    </entry>
+    <entry>
+      <form>naṭuṅkum</form>
+      <def>shivering-limit</def>
+    </entry>
+    <entry>
+      <form>kaṭai<pc>+</pc></form>
+      <def>raining</def>
+    </entry>
+    <entry>
+      <form>peyal</form>
+      <def>north</def>
+    </entry>
+    <entry>
+      <form>vāṭai</form>
+      <def>wind</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>e<pc>+</pc></form>
+      <def>what-</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>time</def>
+    </entry>
+    <entry>
+      <form>varuvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>coming-it</def>
+    </entry>
+    <entry>
+      <form>eṉṟi</form>
+      <def>you-say</def>
+      <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>a<pc>+</pc></form>
+      <def>that-</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>time</def>
+    </entry>
+    <entry>
+      <form>varuvar</form>
+      <def>coming-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form>kātalōr-ē</form>
+      <def>lover</def>
+      <form type="simple">kātalōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

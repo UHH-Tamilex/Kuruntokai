@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 320. <persName xml:lang="ta">Tumpicēr Kīraṉ </persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT320-kilavi">
+        <p type="edition">alar añci āṟṟāḷākiya talaimakaḷ talaimakaṉ kēṭpāṉākat tōḻikkuk kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken to the confidante, while HE listens, by HER, who
+          doesn't have strength [anymore] because of the gossip. </p>
+      </div>
+
+      <div xml:id="KT320">
+        <lg type="edition">
+          <l> peruṅkaṭaṟ paratavar koṇmī ṉuṇaṅkali</l>
+          <l> ṉaruṅkaḻik koṇṭa viṟaviṉ vāṭaloṭu</l>
+          <l> nilavuniṟa veṇmaṇal pulavap palavuṭa</l>
+          <l> ṉekkartoṟum parikkun tuṟaivaṉō ṭorunā</l>
+          <l> ṇakkatōr paḻiyu milamē pōtaviḻ</l>
+          <l> poṉṉiṇar marīiya puḷḷimiḻ poṅkarp</l>
+          <l> puṉṉaiyañ cēri yivvūr</l>
+          <l> koṉṉalar tūṟṟuntaṉ koṭumai yāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>We are without any blame of having laughed a single day</l>
+          <l rend="indent">with the man from the ghat, where they spread over every dune</l>
+          <l rend="indent2">drying [bits] of fish caught by the fishermen of the great sea,</l>
+          <l rend="indent3">together with fading prawns from the difficult backwaters,</l>
+          <l rend="indent5">many together,</l>
+          <l rend="indent4">so that the moonlight-coloured sand reeks [of them].</l>
+          <l>This village of streets [planted] with Puṉṉai,</l>
+          <l rend="indent">[their] branches buzzing with birds joined with golden clusters</l>
+          <l rend="indent9">of opening buds,</l>
+          <l>vainly spreads gossip in its cruelty.</l>
+
+          <lg type="alternate" sameAs="8b">
+            <l>vainly spreads gossip about his cruelty.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT320">
+    <interp type="alignment" select="0">73MG29MG23MG6ML5MG6MG7MG4MG80MG2M,243MG</interp>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>paratavar</form>
+      <def>fisherman</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>koḷ</form>
+      <def>take-</def>
+    </entry>
+    <entry>
+      <form>mīṉ</form>
+      <def>fish</def>
+    </entry>
+    <entry>
+      <form>uṇaṅkaliṉ</form>
+      <def>drying-</def>
+    </entry>
+    <entry>
+      <form>arum</form>
+      <def>difficult</def>
+    </entry>
+    <entry>
+      <form>kaḻi<pc>+</pc></form>
+      <def>backwaters</def>
+    </entry>
+    <entry>
+      <form>koṇṭa</form>
+      <def>taken-</def>
+    </entry>
+    <entry>
+      <form>viṟaviṉ</form>
+      <def>prawn</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vāṭaloṭu</form>
+      <def>fading</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nilavu</form>
+      <def>moonlight</def>
+    </entry>
+    <entry>
+      <form>niṟam</form>
+      <def>colour</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>maṇal</form>
+      <def>sand</def>
+    </entry>
+    <entry>
+      <form>pulava<pc>+</pc></form>
+      <def>reek-of-fish</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>ekkar-toṟum</form>
+      <def>dune-ever</def>
+    </entry>
+    <entry>
+      <form>parikkum</form>
+      <def>spreading-over-</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>ghat-he</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>nakkat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>laughed-it</def>
+    </entry>
+    <entry>
+      <form>ōr</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>paḻi-<pc>~</pc>um</form>
+      <def>blame</def>
+      <form type="simple">paḻi</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>ilam-ē</form>
+      <def>not-we</def>
+      <form type="simple">ilam</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>aviḻ</form>
+      <def>open</def>
+    </entry>
+    <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iṇar</form>
+      <def>cluster</def>
+    </entry>
+    <entry>
+      <form>marīiya</form>
+      <def>joined-</def>
+    </entry>
+    <entry>
+      <form>puḷ</form>
+      <def>bird</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>imiḻ</form>
+      <def>buzz-</def>
+    </entry>
+    <entry>
+      <form>poṅkar<pc>+</pc></form>
+      <def>branch</def>
+    </entry>
+    <entry>
+      <form>puṉṉaiyam</form>
+      <def>Puṉṉai</def>
+      <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+      <form>cēri</form>
+      <def>street</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>i<pc>+</pc></form>
+      <def>this-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūr</form>
+      <def>village</def>
+    </entry>
+    <entry>
+      <form>koṉ</form>
+      <def></def>
+      <gramGrp type="particle"><form>koṉ</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>alar</form>
+      <def>gossip</def>
+    </entry>
+    <entry>
+      <form>tūṟṟum</form>
+      <def>spreading-</def>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>koṭumaiyāṉ-ē</form>
+      <def>cruelty</def>
+      <form type="simple">koṭumaiyāṉ</form>
+      <gram type="role">locative</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

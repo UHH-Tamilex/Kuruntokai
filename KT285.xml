@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 285. <persName xml:lang="ta">Pūtat Tēvaṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT285-kilavi">
+        <p type="edition">paruvam kaṇṭu vēṟupaṭṭaviṭattu vaṟpuṟuttun tōḻikku vaṉpoṟai (C2: vaṉpuṟai)
+          etiraḻintu talaimakaḷ colliyatu. </p>
+        <p type="translation" xml:lang="en">Spoken by HER, desolate in the face of encouragement, to
+          the confidante who encourages [her] as [she] has changed at the sight of the season. </p>
+      </div>
+
+      <div xml:id="KT285">
+        <lg type="edition">
+          <l> vaikal vaikal vaikavum vārā</l>
+          <l> rellā vellai yellaiyun tōṉṟār</l>
+          <l> yāṇṭuḷar kollō tōḻi yīṇṭivar</l>
+          <l> colliya paruvamō vituvē pallūḻ</l>
+          <l> puṉpuṟap peṭaiyoṭu payiri yiṉpuṟa</l>
+          <l> vimaikka ṇētā kiṉṟō ñemaittalai</l>
+          <l> yūṉacaii yoruparun tirukkum</l>
+          <l> vāṉuyar piṟaṅkaṉ malaiyiṟan tōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Day by day being kept back he does not come</l>
+          <l>and at the edge of all daylights he does not appear –</l>
+          <l>where is he, friend,</l>
+          <l>who traversed the mountains glittering up into the sky,</l>
+          <l rend="indent2">where a single kite yearning for flesh is perched</l>
+          <l rend="indent4">on the top of a Ñemai tree?</l>
+          <l rend="indent7">What became, in [that] moment,</l>
+          <l rend="indent2">of the lovely dove calling for [its] low-backed female,</l>
+          <l rend="indent9">many times?</l>
+          <l>This is, isn't it, the season he had spoken of here?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT285">
+    <interp type="alignment" select="0">17MG24MG13MG4MG13MG18MG5MG35MG14MG5M2G7MG8ML15MG35MG2M,229MG</interp>
+    <entry>
+      <form>vaikal</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>vaikal</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>vaika-<pc>~</pc>um</form>
+      <def>being-kept</def>
+      <form type="simple">vaika</form>
+      <gram type="role">infinitive</gram>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vārār</form>
+      <def>come-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>ellā</form>
+      <def>all</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ellai</form>
+      <def>daylight</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ellai-<pc>~</pc>um</form>
+      <def>edge</def>
+      <form type="simple">ellai</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōṉṟār</form>
+      <def>appear-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>yāṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>where</def>
+    </entry>
+    <entry>
+      <form>uḷar-kollō</form>
+      <def>he-is</def>
+      <form type="simple">uḷar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>īṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>here</def>
+    </entry>
+    <entry>
+      <form>ivar</form>
+      <def>this-one</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>colliya</form>
+      <def>spoken-</def>
+    </entry>
+    <entry>
+      <form>paruvam-ō</form>
+      <def>season</def>
+      <form type="simple">paruvam</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>itu-<pc>~</pc>ē</form>
+      <def>this</def>
+      <form type="simple">itu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ūḻ</form>
+      <def>turn</def>
+    </entry>
+    <entry>
+      <form>puṉ</form>
+      <def>low</def>
+    </entry>
+    <entry>
+      <form>puṟam</form>
+      <def>back</def>
+    </entry>
+    <entry>
+      <form>peṭaiyoṭu</form>
+      <def>she-bird</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>payiri</form>
+      <def>called</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pleasant</def>
+    </entry>
+    <entry>
+      <form>uṟa</form>
+      <def>dove</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>imaikkaṇ</form>
+      <def>moment</def>
+      <gram type="role">locative</gram>
+    </entry>
+    <entry>
+      <form>ēt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>what</def>
+    </entry>
+    <entry>
+      <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+      <def>it-became</def>
+      <form type="simple">ākiṉṟu</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>ñemai<pc>+</pc>-talai</form>
+      <def>Ñemai-tree</def>
+      <gram type="role">locative</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūṉ</form>
+      <def>flesh</def>
+    </entry>
+    <entry>
+      <form>nacaii</form>
+      <def>yearned</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>parunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>kite</def>
+    </entry>
+    <entry>
+      <form>irukkum</form>
+      <def>being-</def>
+    </entry>
+    <entry>
+      <form>vāṉ</form>
+      <def>sky</def>
+    </entry>
+    <entry>
+      <form>uyar</form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>piṟaṅkal</form>
+      <def>glittering</def>
+    </entry>
+    <entry>
+      <form>malai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṟantōr-ē</form>
+      <def>traversed-he</def>
+      <form type="simple">iṟantōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

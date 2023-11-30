@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 354. <persName xml:lang="ta">Kayattūr Kiḻār</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT354-kilavi">
+        <p type="edition">parattaiyiṟ pirintu vāyil vēṇaṭic ceṉṟa talaimakaṟkut tōḻi vāyiṉ
+          maṟuttatu. </p>
+
+
+        <p type="translation" xml:lang="en">The door refused by the confidante to HIM, who went
+          wishing for the door, after having separated on account of another woman. </p>
+      </div>
+
+      <div xml:id="KT354">
+        <lg type="edition">
+          <l> nīrnī ṭāṭiṟ kaṇṇuñ civakku</l>
+          <l> mārntōr vāyiṟ ṟēṉum puḷikkun</l>
+          <l> taṇantaṉai yāyiṉem milluyttuk koṭumō</l>
+          <l> vantaṇ poykai yentai yemmūrk</l>
+          <l> kaṭumpāmpu vaḻaṅkun teruvi</l>
+          <l> ṉaṭuṅkaña revvaṅ kaḷainta vemmē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>When playing in water for long the eyes will redden</l>
+          <l>and in the mouth of one satisfied even honey will turn sour. </l>
+          <l>When you are departed, send us back to our house,</l>
+          <l rend="indent">for whom [you once] had removed the trouble of trembling sorrow,</l>
+          <l rend="indent2">in a street where quick snakes wander, </l>
+          <l rend="indent3">in our village, at my father's, by the pretty cool pond.</l>
+
+          <lg type="alternate" sameAs="3b">
+            <l>If you should depart, send [us] back to our house</l>
+          </lg>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT354">
+    <interp type="alignment" select="0">6MG7MG25MG93ML5MG20MG3M,164MG</interp>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>nīṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>prolong-</def>
+    </entry>
+    <entry>
+      <form>āṭiṉ</form>
+      <def>play-if</def>
+    </entry>
+    <entry>
+      <form>kaṇ-<pc>+</pc>um</form>
+      <def>eye</def>
+      <form type="simple">kaṇ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>civakkum</form>
+      <def>reddening-</def>
+    </entry>
+    <entry>
+      <form>ārntōr</form>
+      <def>become-full-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>vāyiṉ</form>
+      <def>mouth</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tēṉ-um</form>
+      <def>honey</def>
+      <form type="simple">tēṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>puḷikkum</form>
+      <def>turning-sour-</def>
+    </entry>
+    <entry>
+      <form>taṇantaṉai</form>
+      <def>you-departed</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āyiṉ</form>
+      <def>if</def>
+    </entry>
+    <entry>
+      <form>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>il</form>
+      <def>house</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>uyttu<pc>+</pc></form>
+      <def>sent</def>
+    </entry>
+    <entry>
+      <form>koṭumō</form>
+      <def>give</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>poykai</form>
+      <def>pond</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>entai</form>
+      <def>my-father</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ūr<pc>+</pc></form>
+      <def>village</def>
+    </entry>
+    <entry>
+      <form>kaṭum</form>
+      <def>quick</def>
+    </entry>
+    <entry>
+      <form>pāmpu</form>
+      <def>snake</def>
+    </entry>
+    <entry>
+      <form>vaḻaṅkum</form>
+      <def>wandering-</def>
+    </entry>
+    <entry>
+      <form>teruviṉ</form>
+      <def>street</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>naṭuṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>tremble-</def>
+    </entry>
+    <entry>
+      <form>añar</form>
+      <def>sorrow</def>
+    </entry>
+    <entry>
+      <form>evvam</form>
+      <def>trouble</def>
+    </entry>
+    <entry>
+      <form>kaḷainta</form>
+      <def>removed-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>em-<pc>+</pc>ē</form>
+      <def>us</def>
+      <form type="simple">em</form>
+      <gram type="role">oblique</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

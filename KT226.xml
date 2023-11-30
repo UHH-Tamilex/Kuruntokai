@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 226. <persName xml:lang="ta">maturai
+          eḻuttāḷaṉ cēntam (G2: centaṉ) pūtaṉ</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT226-kilavi">
+        <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would
+          not have the strength [to await] the time of marriage.</p>
+      </div>
+
+      <div xml:id="KT226">
+        <lg type="edition">
+          <l>pūvoṭu puraiyuṅ kaṇṇum vēyeṉa</l>
+          <l>viṟalvaṉap peytiya tōḷum piṟaiyeṉa</l>
+          <l>matimayak kuṟūu nutalu naṉṟu</l>
+          <l>nallamaṉ vāḻi tōḻi yalkalun</l>
+          <l>tayaṅkutirai poruta tāḻai veṇpūk</l>
+          <l>kurukeṉa malarum peruntuṟai</l>
+          <l>virinīrc cērppaṉoṭu nakāa vūṅkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Very good certainly, oh friend, [was]</l>
+          <l>the forehead, which confuses the mind into saying “crescent moon”,</l>
+          <l>and the shoulder, which has reached victorious beauty</l>
+          <l>so that [it] says “bamboo”, and the eyes, which are like flowers</l>
+          <l rend="indent">– before having laughed with the man from the coast of the broad</l>
+          <l rend="indent2">water with great ghats, where the white flowers of the Tāḻai tree</l>
+          <l rend="indent7">are blossoming so that it says “egrets”,</l>
+          <l rend="indent4">while the glittering waves dash against [it] all through the night.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT226">
+    <interp type="alignment" select="0">17MG20MG9MG21MG4MR5MGMR4M2GMR5MG17MG36MG43MG4M2G2M,204MG</interp>
+    <entry>
+    <form>pūvoṭu</form>
+    <def>flower</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>puraiyum</form>
+    <def>resembling-</def>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>um</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vēy</form>
+    <def>bamboo</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>viṟal</form>
+    <def>victory</def>
+    </entry>
+    <entry>
+    <form>vaṉapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>beauty</def>
+    </entry>
+    <entry>
+    <form>eytiya</form>
+    <def>arrived-</def>
+    </entry>
+    <entry>
+    <form>tōḷ-um</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>piṟai</form>
+    <def>moon</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>mati</form>
+    <def>mind</def>
+    </entry>
+    <entry>
+    <form>mayakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>confusion</def>
+    </entry>
+    <entry>
+    <form>uṟūum</form>
+    <def>having-</def>
+    </entry>
+    <entry>
+    <form>nutal-um</form>
+    <def>forehead</def>
+    <form type="simple">nutal</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>good-it</def>
+    <form type="simple">naṉṟu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nalla-maṉ</form>
+    <def>good-they</def>
+    <form type="simple">nalla</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alkal-um</form>
+    <def>night</def>
+    <form type="simple">alkal</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tayaṅku</form>
+    <def>glitter-</def>
+    </entry>
+    <entry>
+    <form>tirai</form>
+    <def>wave</def>
+    </entry>
+    <entry>
+    <form>poruta</form>
+    <def>beat</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tāḻai</form>
+    <def>Tāḻai(-tree)</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wader</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>malarum</form>
+    <def>blossoming-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>viri</form>
+    <def>expand-water</def>
+    </entry>
+    <entry>
+    <form>nīr<pc>+</pc></form>
+    <def>coast-he-with</def>
+    </entry>
+    <entry>
+    <form>cērppaṉoṭu</form>
+    <def>laughed-not</def>
+    </entry>
+    <entry>
+    <form>nakāa-<pc>~</pc>ūṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>before</def>
+    <form type="simple">nakāa-ūṅku</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

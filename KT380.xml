@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 380. <persName xml:lang="ta">Karuvūrk
+          Katappiḷḷai</persName>: <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT380-kilavi">
+        <p type="edition">paṉipparuvaṅ kuṟittup pirintāṉ talaimakaṉ piriya “paruvavaraviṉkaṇ
+          vēṟupaṭuvāḷ āyiṉuṅ katumeṉa āṟṟuvippatu aritu” eṉṉuṅ karuttiṉā¬ḷāyk kūtirp paruvattut
+          talaimakaḷ/ṉ kēṭpat taṉatu āṟṟāmai viḷaṅkat tōḻi colliyatu. </p>
+
+
+        <p type="translation" xml:lang="en">He separated intending to [use] the season of dew; as HE
+          separated, spoken by the confidante to make clear her lack of strength, for HER to hear in
+          the cold season, as one, who thought “difficult is it to comfort [her] efficiently(?),
+          although she changes at the coming of the season”. </p>
+      </div>
+
+      <div xml:id="KT380">
+        <lg type="edition">
+          <l> vicumpukaṇ putaiyap pāay vēntar</l>
+          <l> veṉṟeṟi muraci ṉaṉpala muḻaṅkip</l>
+          <l> peyalā ṉātē vāṉaṅ kātalar</l>
+          <l> naṉicēy nāṭṭar nammuṉ ṉalarē</l>
+          <l> yāṅkucacey vāṅko ṟōḻi yīṅkaiya</l>
+          <l> vaṇṇat tuymmala rutira</l>
+          <l> muṉṉart tōṉṟum paṉikkaṭu nāḷē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l> Spread, so that the sky's eye is buried, [and] thundering</l>
+          <l rend="indent2"> good many [beats] like the drum beaten by a victorious king,</l>
+          <l><choice>
+              <seg>raining [is] unending.</seg>
+              <seg>the sky is unending in raining.</seg>
+            </choice>
+          </l>
+          <l rend="indent6"> The heavenly lover,</l>
+          <l> being in a very distant land, doesn't approach us.</l>
+          <l> What will we do, friend,</l>
+          <l rend="indent"> in the harsh days of frost, appearing before [us],</l>
+          <l rend="indent2"> so that blossoms drop off in colourful filaments?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT380">
+    <interp type="alignment" select="0">32MG10ML23M2G37MG14MG3ML56MG2M,184MG</interp>
+    <entry>
+      <form>vicumpu</form>
+      <def>sky</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>putaiya<pc>+</pc></form>
+      <def>be-buried</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>pāay</form>
+      <def>spread</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>vēntar</form>
+      <def>king</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>veṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>overcome</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>eṟi</form>
+      <def>throw-</def>
+    </entry>
+    <entry>
+      <form>muraciṉ</form>
+      <def>drum</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nal</form>
+      <def>good</def>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>muḻaṅki<pc>+</pc></form>
+      <def>thundered</def>
+    </entry>
+    <entry>
+      <form>peyal</form>
+      <def>raining</def>
+    </entry>
+    <entry>
+      <form>āṉāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>end-not-it</def>
+      <form type="simple">āṉātu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāṉam</form>
+      <def>sky</def>
+    </entry>
+    <entry>
+      <form>kātalar</form>
+      <def>lover</def>
+    </entry>
+    <entry>
+      <form>naṉi</form>
+      <def>abundant</def>
+    </entry>
+    <entry>
+      <form>cēy</form>
+      <def>distance</def>
+    </entry>
+    <entry>
+      <form>nāṭṭar</form>
+      <def>land-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>us-</def>
+    </entry>
+    <entry>
+      <form>muṉṉalar-ē</form>
+      <def>approach-not-he</def>
+      <form type="simple">muṉṉalar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>yāṅkuca</form>
+      <def>how</def>
+    </entry>
+    <entry>
+      <form>ceyvām-kol</form>
+      <def>we-do</def>
+      <form type="simple">ceyvām</form>
+      <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>īṅkaiya</form>
+      <def>mimosa</def>
+      <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vaṇṇam</form>
+      <def>colour</def>
+    </entry>
+    <entry>
+      <form>tuy<pc>+</pc></form>
+      <def>filament</def>
+    </entry>
+    <entry>
+      <form>malar</form>
+      <def>blossom</def>
+    </entry>
+    <entry>
+      <form>utira</form>
+      <def>drop-off</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>muṉṉar<pc>+</pc></form>
+      <def>before</def>
+    </entry>
+    <entry>
+      <form>tōṉṟum</form>
+      <def>appearing-</def>
+    </entry>
+    <entry>
+      <form>paṉi<pc>+</pc></form>
+      <def>dew</def>
+    </entry>
+    <entry>
+      <form>kaṭu</form>
+      <def>quick</def>
+    </entry>
+    <entry>
+      <form>nāḷ-ē</form>
+      <def>dayē∞</def>
+      <form type="simple">nāḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

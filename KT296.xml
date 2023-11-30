@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 296. <persName xml:lang="ta">Perumpākkaṉ </persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT296-kilavi">
+        <p type="edition">kāṇum poḻutiṉ kāṇāp poḻutu peritu ākalāṉ āṟṟāḷāyt talaimakaḷ talaimakaṉ
+          ciṟaippuṟattāṉākat tōḻikkuc colluvāḷāyac colliyatu. </p>
+        <p type="translation" xml:lang="en">Uttered as if speaking to the confidante, when HE is
+          behind the hedge, by HER, who hasn't got the strength [anymore], because the time she
+          doesn't see [him] is longer than the time she sees [him]. </p>
+      </div>
+
+      <div xml:id="KT296">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi puṉṉai</l>
+          <l> yalaṅkuciṉai yirunta vañciṟai nārai</l>
+          <l> yuṟukaḻic ciṟumīṉ muṉaiyiṟ ceṟuviṟ</l>
+          <l> kaṇṇāṟu neytal katiroṭu nayakkun</l>
+          <l> taṇṇan tuṟaivaṟ kāṇiṉ muṉṉiṉṟu</l>
+          <l> kaṭiya kaḻaṟa lōmpumati toṭiyō</l>
+          <l> ḷiṉṉa ḷākat tuṟatta</l>
+          <l> ṉummiṟ ṟakumō veṉṟaṉai tuṇintē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Alas, oh friend, if you see the man from the cool ghat,</l>
+          <l rend="indent">where the pretty-winged heron, perched on the swaying</l>
+          <l rend="indent9">Puṉṉai twig,</l>
+          <l rend="indent">longs for the blue waterlily fragrant with nectar together with ears</l>
+          <l rend="indent">[of corn] from the field, when it is fed up with the little fish</l>
+          <l rend="indent6">in the full backwaters,</l>
+          <l>beware of confronting [him and] murmuring rash things ,</l>
+          <l rend="indent">having resolved [to say] such things as “is it fitting for you</l>
+          <l rend="indent2">to abandon [her], so that she with bracelets becomes like that?”</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT296">
+    <interp type="alignment" select="0">182ML10MG5MG10M2G2M,213MG</interp>
+    <entry>
+      <form>amma</form>
+      <def></def>
+      <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>puṉṉai</form>
+      <def>Puṉṉai(-tree)</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alaṅku</form>
+      <def>sway-</def>
+    </entry>
+    <entry>
+      <form>ciṉai</form>
+      <def>twig</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>irunta</form>
+      <def>been-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>ciṟai</form>
+      <def>wing</def>
+    </entry>
+    <entry>
+      <form>nārai</form>
+      <def>wader</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>kaḻi<pc>+</pc></form>
+      <def>backwaters</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>mīṉ</form>
+      <def>fish</def>
+    </entry>
+    <entry>
+      <form>muṉaiyiṉ</form>
+      <def>hate-if</def>
+    </entry>
+    <entry>
+      <form>ceṟuviṉ</form>
+      <def>field</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kaḷ</form>
+      <def>nectar</def>
+    </entry>
+    <entry>
+      <form>nāṟu</form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>neytal</form>
+      <def>blue-waterlily</def>
+    </entry>
+    <entry>
+      <form>katiroṭu</form>
+      <def>ear</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nayakkum</form>
+      <def>longing-</def>
+    </entry>
+    <entry>
+      <form>taṇṇam</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉ</form>
+      <def>ghat-he</def>
+    </entry>
+    <entry>
+      <form>kāṇiṉ</form>
+      <def>see-if</def>
+    </entry>
+    <entry>
+      <form>muṉ</form>
+      <def>in-front</def>
+    </entry>
+    <entry>
+      <form>niṉṟu</form>
+      <def>stood</def>
+    </entry>
+    <entry>
+      <form>kaṭiya</form>
+      <def>quick-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>kaḻaṟal</form>
+      <def>murmuring</def>
+    </entry>
+    <entry>
+      <form>ōmpumati</form>
+      <def>beware</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>toṭiyōḷ</form>
+      <def>bracelet-she</def>
+    </entry>
+    <entry>
+      <form>iṉṉaḷ</form>
+      <def>such-she</def>
+    </entry>
+    <entry>
+      <form>āka<pc>+</pc></form>
+      <def>become</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>tuṟattal</form>
+      <def>abandoning</def>
+    </entry>
+    <entry>
+      <form>nummiṉ</form>
+      <def>you</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gram type="role">plural</gram>
+    </entry>
+    <entry>
+      <form>takum-ō</form>
+      <def>fitting-</def>
+      <form type="simple">takum</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>said</def>
+    </entry>
+    <entry>
+      <form>aṉai</form>
+      <def>such</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>tuṇint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>resolved</def>
+      <form type="simple">tuṇintu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

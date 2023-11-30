@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 219. <persName xml:lang="ta">Veḷḷūr
+          kiḻārmakaṉār veṇpūtiyār</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT219-kilavi">
+        <p type="edition">ciṟaippuṟam. </p>
+        <p type="translation" xml:lang="en">Hedge. </p>
+      </div>
+
+      <div xml:id="KT219">
+        <lg type="edition">
+
+          <l>pacappeṉ mēṉi yatuvē nayappavar</l>
+          <l>nāri ṉeñcat tāriṭai yatuvē</l>
+          <l>ceṟivuñ cēṇikan taṉṟē yaṟivē</l>
+          <l>yāṅkaṭ celka meḻukeṉa vīṅkē</l>
+          <l>vallā kūṟi yirukku muḷḷilait</l>
+          <l>taṭavunilait tāḻaic cērppaṟ</l>
+          <l>kiṭamaṟ ṟōḻiyeṉ ṉīrō veṉiṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>Pale is my body. Longing [is] in a place</l>
+          <l>difficult [to reach], in his heart devoid of attachment.</l>
+          <l>Even restraint stayed aside in the distance. Knowledge.</l>
+          <l>To say here: “we shall go there, rise!”</l>
+          <l>If I were to say : “of what kind [are] you?”, friend,</l>
+          <l rend="indent5">[that] indeed [would be] the opportunity for</l>
+          <l rend="indent2">for the man from the coast of thorny-leafed, broad-based Tāḻai trees,</l>
+          <l rend="indent3">who permanently talks without being able [to act].</l>
+
+          <lg type="alternate" sameAs="3-5b" resp="#TVG">
+            <l>Knowledge is speaking to me , unable [to act]: “we'll go there, rise!”</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT219">
+    <interp type="alignment" select="0">6MG10MG8MG7MG2ML6MG2MG8MG7M2G13M2G6M2G17M3G7M2G18ML34MG4M2G12MG6MG2M,199MG</interp>
+    <entry>
+    <form>pacapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>pallor</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my</def>
+    </entry>
+    <entry>
+    <form>mēṉi</form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>atu-<pc>~</pc>ē</form>
+    <def>it</def>
+    <form type="simple">atu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nayapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>longing</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nār-il</form>
+    <def>bond-not</def>
+    </entry>
+    <entry>
+    <form>neñcatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>heart</def>
+    </entry>
+    <entry>
+    <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>iṭai</form>
+    <def>place</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>atu-<pc>~</pc>ē</form>
+    <def>it</def>
+    <form type="simple">atu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ceṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>restraint-</def>
+    <form type="simple">ceṟivu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>cēṇ</form>
+    <def>distance</def>
+    </entry>
+    <entry>
+    <form>ikantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>it-stayed-aside</def>
+    <form type="simple">ikantaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>knowledge</def>
+    <form type="simple">aṟivu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṅkaṇ</form>
+    <def>there</def>
+    </entry>
+    <entry>
+    <form>celkam</form>
+    <def>we-go</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>eḻuk<pc>(</pc>a<pc>)</pc></form>
+    <def>may-rise</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>here</def>
+    <form type="simple">īṅku</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vallā</form>
+    <def>able-not</def>
+    </entry>
+    <entry>
+    <form>kūṟi</form>
+    <def>spoken</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irukkum</form>
+    <def>being-</def>
+    </entry>
+    <entry>
+    <form>muḷ</form>
+    <def>thorn</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ilai<pc>+</pc></form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form>taṭavu</form>
+    <def>breadth</def>
+    </entry>
+    <entry>
+    <form>nilai<pc>+</pc></form>
+    <def>standing</def>
+    </entry>
+    <entry>
+    <form>tāḻai<pc>+</pc></form>
+    <def>Tāḻai(-tree)</def>
+    </entry>
+    <entry>
+    <form>cērppaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>coast-he</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>iṭam-maṉ</form>
+    <def>place</def>
+    <form type="simple">iṭam</form>
+    <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉṉīr-ō</form>
+    <def>what-you</def>
+    <form type="simple">eṉṉīr</form>
+    <gram type="role">plural</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉiṉ-ē</form>
+    <def>say-if</def>
+    <form type="simple">eṉiṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

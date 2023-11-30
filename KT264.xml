@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 264. <persName xml:lang="ta">Kapilar</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT264-kilavi">
+        <p type="edition">āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ “āṟṟuval” eṉṟatu. </p>
+        <p type="translation" xml:lang="en">SHE saying that she had the strength, to the confidante
+          who was anxious that she would not have the strength. </p>
+      </div>
+
+      <div xml:id="KT264">
+        <lg type="edition">
+          <l> kalimaḻai keḻīiya kāṉyāṟ ṟikukarai</l>
+          <l> yolineṭum pīli tuyalvara viyali</l>
+          <l> yāṭumayi lakavu nāṭa ṉammoṭu</l>
+          <l> nayantaṉaṉ koṇṭa kēṇmai</l>
+          <l> pacantak kālum pacappol lātē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The man from the land, where the dancing peacock is calling,</l>
+          <l rend="indent">moving forward so that [its] full, long feathers come into swinging,</l>
+          <l rend="indent2">on the crumbling shore of the forest river filled</l>
+          <l rend="indent8">with clamouring rain,</l>
+          <l>he longed with us for the intimacy he had taken. </l>
+          <l>Even at a time when [we] have paled, pallor is impossible.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT264">
+    <interp type="alignment" select="0">23MG50MR5ML38MG8MG5M2G2M,137MG</interp>
+    <entry>
+      <form>kali</form>
+      <def>clamour-</def>
+    </entry>
+    <entry>
+      <form>maḻai</form>
+      <def>rain</def>
+    </entry>
+    <entry>
+      <form>keḻīiya</form>
+      <def>been-full-</def>
+    </entry>
+    <entry>
+      <form>kāṉ</form>
+      <def>forest</def>
+    </entry>
+    <entry>
+      <form>yāṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>river-</def>
+    </entry>
+    <entry>
+      <form>iku</form>
+      <def>break-</def>
+    </entry>
+    <entry>
+      <form>karai</form>
+      <def>shore</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oli</form>
+      <def>sprout-</def>
+    </entry>
+    <entry>
+      <form>neṭum</form>
+      <def>long</def>
+    </entry>
+    <entry>
+      <form>pīli</form>
+      <def>peacock-feather</def>
+    </entry>
+    <entry>
+      <form>tuyal</form>
+      <def>swing-</def>
+    </entry>
+    <entry>
+      <form>vara</form>
+      <def>come</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iyali</form>
+      <def>moved-forward</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṭu</form>
+      <def>dance-</def>
+    </entry>
+    <entry>
+      <form>mayil</form>
+      <def>peacock</def>
+    </entry>
+    <entry>
+      <form>akavum</form>
+      <def>calling-</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉ</form>
+      <def>land-he</def>
+    </entry>
+    <entry>
+      <form>nammoṭu</form>
+      <def>us</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nayantaṉaṉ</form>
+      <def>he-longed</def>
+    </entry>
+    <entry>
+      <form>koṇṭa</form>
+      <def>taken-</def>
+    </entry>
+    <entry>
+      <form>kēṇmai</form>
+      <def>intimacy</def>
+    </entry>
+    <entry>
+      <form>pacanta<pc>+</pc></form>
+      <def>paled-</def>
+    </entry>
+    <entry>
+      <form>kāl-um</form>
+      <def>time</def>
+      <form type="simple">kāl</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pacapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pallor</def>
+    </entry>
+    <entry>
+      <form>ollāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>possible-not-it</def>
+      <form type="simple">ollātu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

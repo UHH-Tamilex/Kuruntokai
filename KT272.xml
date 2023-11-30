@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 272. <persName xml:lang="ta">Oruciṟaip
+          Periyaṉ</persName>: <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT272-kilavi">
+        <p type="edition">kaḻaṟiya pāṅkaṟkuk kiḻavaṉ uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HIM to the companion who urged [him]. </p>
+      </div>
+
+      <div xml:id="KT272">
+        <lg type="edition">
+          <l> tīṇṭalu miyaivatu kollō māṇṭa</l>
+          <l> villuṭai vīḷaiyar kalliṭu peṭutta</l>
+          <l> naṉantalaik kāṉat tiṉantalaip pirinta</l>
+          <l> puṉkaṇ maṭamā ṉērpaṭat taṉṉaiyar</l>
+          <l> cilaimāṇ kaṭuvicaik kalainiṟat taḻuttik</l>
+          <l> kurutiyoṭu paṟitta ceṅkōl vāḷi</l>
+          <l> māṟukoṇ ṭaṉṉa vuṇkaṇ</l>
+          <l> ṇāṟiruṅ kūntaṟ koṭicci tōḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Would it be enjoyable also to hold </l>
+          <l rend="indent">the shoulder of the creeper woman with fragrant dark tresses</l>
+          <l rend="indent">[and] collyrium eyes, hostile like red-stemmed arrows,</l>
+          <l rend="indent2">pulled out with the blood of the lightning-quick monkey </l>
+          <l rend="indent3">after hitting [his] vital spot, [arrows] of resounding glory </l>
+          <l rend="indent4">of her kin, [bearers] of famed bows, who,</l>
+          <l rend="indent8">whistling, lift [and] aim stones</l>
+          <l rend="indent5">to hit the sorrowful inexperienced stag</l>
+          <l rend="indent5">which is separated from [its] group in the vast forest area?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT272">
+    <interp type="alignment" select="0">6MG10MG34MG23MG75MG55MG20MG2M,231MG</interp>
+    <entry>
+      <form>tīṇṭal-um</form>
+      <def>gripping</def>
+      <form type="simple">tīṇṭal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>iyaivatu-kollō</form>
+      <def>enjoyable-it</def>
+      <form type="simple">iyaivatu</form>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>māṇṭa</form>
+      <def>glorious-</def>
+    </entry>
+    <entry>
+      <form>vil<pc>+</pc></form>
+      <def>bow</def>
+    </entry>
+    <entry>
+      <form>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form>vīḷaiyar</form>
+      <def>whistle-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>kal<pc>+</pc></form>
+      <def>stone</def>
+    </entry>
+    <entry>
+      <form>iṭup<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>placed</def>
+    </entry>
+    <entry>
+      <form>eṭutta</form>
+      <def>lifted-</def>
+    </entry>
+    <entry>
+      <form>naṉam</form>
+      <def>width</def>
+    </entry>
+    <entry>
+      <form>talai<pc>+</pc></form>
+      <def>place</def>
+    </entry>
+    <entry>
+      <form>kāṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>forest-</def>
+    </entry>
+    <entry>
+      <form>iṉam</form>
+      <def>group</def>
+    </entry>
+    <entry>
+      <form>talai<pc>+</pc></form>
+      <def>place</def>
+    </entry>
+    <entry>
+      <form>pirinta</form>
+      <def>separated-</def>
+    </entry>
+    <entry>
+      <form>puṉkaṇ</form>
+      <def>sorrow</def>
+    </entry>
+    <entry>
+      <form>maṭa</form>
+      <def>inexperience</def>
+    </entry>
+    <entry>
+      <form>māṉ</form>
+      <def>stag</def>
+    </entry>
+    <entry>
+      <form>ērpaṭa<pc>+</pc></form>
+      <def>meet</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>aiyar</form>
+      <def>lord</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>cilai</form>
+      <def>resound-</def>
+    </entry>
+    <entry>
+      <form>māṇ</form>
+      <def>glory</def>
+    </entry>
+    <entry>
+      <form>kaṭu</form>
+      <def>quick</def>
+    </entry>
+    <entry>
+      <form>vicai<pc>+</pc></form>
+      <def>speed</def>
+    </entry>
+    <entry>
+      <form>kalai</form>
+      <def>male-monkey</def>
+    </entry>
+    <entry>
+      <form>niṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>vital-spot-</def>
+    </entry>
+    <entry>
+      <form>aḻutti<pc>+</pc></form>
+      <def>pressed</def>
+    </entry>
+    <entry>
+      <form>kurutiyoṭu</form>
+      <def>blood</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>paṟitta</form>
+      <def>pulled-out-</def>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>kōl</form>
+      <def>stem</def>
+    </entry>
+    <entry>
+      <form>vāḷi</form>
+      <def>arrow</def>
+    </entry>
+    <entry>
+      <form>māṟu</form>
+      <def>been-opposed-like</def>
+    </entry>
+    <entry>
+      <form>koṇṭaṉṉa<pc>~</pc>uṇ</form>
+      <def>collyrium</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>nāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>irum</form>
+      <def>dark</def>
+    </entry>
+    <entry>
+      <form>kūntal</form>
+      <def>tresses</def>
+    </entry>
+    <entry>
+      <form>koṭicci</form>
+      <def>creeper-she</def>
+    </entry>
+    <entry>
+      <form>tōḷ-ē</form>
+      <def>shoulder</def>
+      <form type="simple">tōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

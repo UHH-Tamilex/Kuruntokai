@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 221. <persName xml:lang="ta">uṟaiyūr
+          mutukoṟṟaṉ</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT221-kilavi">
+        <p type="edition">piriviṭai paruva varaviṉkaṇ vaṟpuṟuttun tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante who encouraged [her] at
+          the coming of the season in the time of separation. </p>
+      </div>
+
+      <div xml:id="KT221">
+        <lg type="edition">
+          <l>avarō vārār mullaiyum pūttaṉa</l>
+          <l>paṟiyuṭaik kaiyar maṟiyiṉat toḻiyap</l>
+          <l>pāloṭu vantu kūḻoṭu peyarum</l>
+          <l>yāṭuṭai yiṭaimakaṉ ceṉṉic</l>
+          <l>cūṭiya vellāñ ciṟupacu mukaiyē.</l>
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>He? He has not come, and the jasmines have flowered,</l>
+          <l>all the little green buds [he] has put on [his] head,</l>
+          <l rend="indent2">the son of the shepherd with [his] sheep,</l>
+          <l rend="indent2">who has come [to the village] with milk [and] goes with gruel,</l>
+          <l rend="indent3">while those with palm mats in hand stay behind</l>
+          <l rend="indent8">with the groups of lambs.</l>
+
+          <lg type="alternate" sameAs="5b">
+            <l>All he has put on [his] head [are these] little fresh buds.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT221">
+    <interp type="alignment" select="0">4MG12MG36MG33MG45MG3M,138M</interp>
+    <entry>
+      <form>avar-ō</form>
+      <def>he</def>
+      <form type="simple">avar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vārār</form>
+      <def>come-not-he</def>
+    </entry>
+    <entry>
+      <form>mullai-<pc>~</pc>um</form>
+      <def>jasmine</def>
+      <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pūttaṉa</form>
+      <def>they-flowered</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>paṟi</form>
+      <def>palm-mat</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭai<pc>+</pc></form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form>kaiyar</form>
+      <def>hand-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>maṟi</form>
+      <def>lamb</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>group-</def>
+    </entry>
+    <entry>
+      <form>oḻiya<pc>+</pc></form>
+      <def>stay-behind</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>pāloṭu</form>
+      <def>milk</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vantu</form>
+      <def>come</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>kūḻoṭu</form>
+      <def>gruel</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>peyarum</form>
+      <def>moving-</def>
+    </entry>
+    <entry>
+      <form>yāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>sheep</def>
+    </entry>
+    <entry>
+      <form>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṭai</form>
+      <def>shepherd</def>
+    </entry>
+    <entry>
+      <form>makaṉ</form>
+      <def>son</def>
+    </entry>
+    <entry>
+      <form>ceṉṉi<pc>+</pc></form>
+      <def>head</def>
+    </entry>
+    <entry>
+      <form>cūṭiya</form>
+      <def>worn-(pey./n.pl.)</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ellām</form>
+      <def>all</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>pacu</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>mukai-<pc>~</pc>ē</form>
+      <def>budē∞</def>
+    </entry>
+  </standOff>
+</TEI>

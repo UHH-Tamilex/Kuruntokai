@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 333. <persName xml:lang="ta">Uḻantiṉam
+          Pulavaṉ </persName>: <hi rend="italic">the confidante /SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT333-kilavi">
+        <p type="edition">“aṟattoṭu niṟpal” eṉak kiḻattikkut tōḻi uraittatu. </p>
+
+
+        <p type="translation" xml:lang="en">The confidante telling HER: “I will stand firm in duty”. </p>
+      </div>
+
+      <div xml:id="KT333">
+        <lg type="edition">
+          <l> kuṟumpaṭaip pakaḻik koṭuviṟ kāṉavaṉ</l>
+          <l> puṉamuṇṭu kaṭinta paiṅkaṇ yāṉai</l>
+          <l> naṟuntaḻai makaḷi rōppuṅ kiḷḷaiyoṭu</l>
+          <l> kuṟumpoṟaik kaṇavuṅ kuṉṟa nāṭaṉ</l>
+          <l> paṇikkuṟai varuttam vīṭat</l>
+          <l> tuṇiyi levaṉō tōḻinam maṟaiyē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>If I resolve,</l>
+          <l rend="indent">that the suffering should be destroyed,</l>
+          <l rend="indent2">[which results] from the lack of action of the man from the hills,</l>
+          <l rend="indent">where the fresh-eyed elephant, chased away,</l>
+          <l rend="indent2">since he ate from the fields, by the man of the forest</l>
+          <l rend="indent3">with bent bow [and] arrows, short weapons ,</l>
+          <l rend="indent">is lifting [his] head to the short height, together</l>
+          <l rend="indent2">with parakeets that women with fragrant foliage scare away,</l>
+          <l rend="indent6">– what, friend, [will become] of our secret?</l>
+
+          <lg type="alternate" sameAs="5+6b">
+            <l>What [would happen], friend, if I resolved [to give away] the secret,</l>
+            <l>so that the suffering is destroyed ...</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT333">
+    <interp type="alignment" select="0">104MG11MR39MG13MG3M,173MG</interp>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>paṭai<pc>+</pc></form>
+      <def>arms</def>
+    </entry>
+    <entry>
+      <form>pakaḻi<pc>+</pc></form>
+      <def>arrow</def>
+    </entry>
+    <entry>
+      <form>koṭu</form>
+      <def>bent/cruel</def>
+    </entry>
+    <entry>
+      <form>vil</form>
+      <def>bow</def>
+    </entry>
+    <entry>
+      <form>kāṉavaṉ</form>
+      <def>forest-he</def>
+    </entry>
+    <entry>
+      <form>puṉam</form>
+      <def>field</def>
+    </entry>
+    <entry>
+      <form>uṇṭu</form>
+      <def>eaten</def>
+    </entry>
+    <entry>
+      <form>kaṭinta</form>
+      <def>chased-away-</def>
+    </entry>
+    <entry>
+      <form>paim</form>
+      <def>fresh</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>yāṉai</form>
+      <def>elephant</def>
+    </entry>
+    <entry>
+      <form>naṟum</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>taḻai</form>
+      <def>foliage</def>
+    </entry>
+    <entry>
+      <form>makaḷir</form>
+      <def>women</def>
+    </entry>
+    <entry>
+      <form>ōppum</form>
+      <def>scaring-away-</def>
+    </entry>
+    <entry>
+      <form>kiḷḷaiyoṭu</form>
+      <def>parakeet</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>poṟaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>height</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>aṇavum</form>
+      <def>head-lifting-</def>
+    </entry>
+    <entry>
+      <form>kuṉṟam</form>
+      <def>hill</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉ</form>
+      <def>land-he</def>
+    </entry>
+    <entry>
+      <form>paṇi<pc>+</pc></form>
+      <def>action</def>
+    </entry>
+    <entry>
+      <form>kuṟai</form>
+      <def>deficiency</def>
+    </entry>
+    <entry>
+      <form>varuttam</form>
+      <def>suffering</def>
+    </entry>
+    <entry>
+      <form>vīṭa<pc>+</pc></form>
+      <def>be-destroyed</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>tuṇiyil</form>
+      <def>resolve-if</def>
+    </entry>
+    <entry>
+      <form>evaṉ-ō</form>
+      <def>what</def>
+      <form type="simple">evaṉ</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form>maṟai-<pc>~</pc>ē</form>
+      <def>secret</def>
+      <form type="simple">maṟai</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

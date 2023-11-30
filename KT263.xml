@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 263. <persName xml:lang="ta">Peruñcāttaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT263-kilavi">
+        <p type="edition">ippāṭṭaṉṉai veṟi (C2: aṉṉai veṟiyāṭṭu) eṭukkak karutā niṉṟāḷ “iṉi yām
+          itaṟku eṉ kolō ceyaṟ pālatu” eṉat tōḻi talaimakaṭkut talaimakaṉ ciṟaippuṟamākak kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken, while HE is behind the hedge, to HER, by the
+          confidante, saying “Mother is [still] irresolute [whether] to take up the Veṟi dance; now
+          what is the part to be done by us about this?” </p>
+      </div>
+
+      <div xml:id="KT263">
+        <lg type="edition">
+          <l> maṟikkura laṟuttut tiṉaippirap pirīic</l>
+          <l> cellāṟṟuk kavalaip palliyaṅ kaṟaṅkat</l>
+          <l> tōṟṟa mallatu nōykkumarun tākā</l>
+          <l> vēṟṟupperun teyvam palavuṭaṉ vāḻttip</l>
+          <l> pēeyk koḷīiya ḷivaḷeṉap paṭuta</l>
+          <l> ṉōtak kaṉṟē tōḻi mālvarai</l>
+          <l> maḻaiviḷai yāṭu nāṭaṉaip</l>
+          <l> piḻaiyē mākiya nāmitaṟ paṭavē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>[In response to this] pain is fitting , friend,</l>
+          <l rend="indent">upon the event of [their] saying: “she is possessed by a spirit!”,</l>
+          <l rend="indent2">cutting a kid's throat [and] preparing millet offerings</l>
+          <l rend="indent2">[and] praising with many [songs] different great gods,</l>
+          <l rend="indent">without [that] being a remedy for the pain apart from appearance, </l>
+          <l rend="indent2">while many instruments are sounding on the crossing</l>
+          <l rend="indent8">of moving rivers.</l>
+          <l>That this [should] happen to us who haven't wronged </l>
+          <l rend="indent2">the man from a land, where rain is playing on the great mountain!</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT263">
+    <interp type="alignment" select="0">29MG62MG64ML8M2G59MG3M,230MG</interp>
+    <entry>
+      <form>maṟi<pc>+</pc></form>
+      <def>kid</def>
+    </entry>
+    <entry>
+      <form>kural</form>
+      <def>voice</def>
+    </entry>
+    <entry>
+      <form>aṟuttu<pc>+</pc></form>
+      <def>cut-off</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>tiṉai<pc>+</pc></form>
+      <def>millet</def>
+    </entry>
+    <entry>
+      <form>pirapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>offering</def>
+    </entry>
+    <entry>
+      <form>irīi<pc>+</pc></form>
+      <def>let-be</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>cel</form>
+      <def>go-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>āṟṟu<pc>+</pc></form>
+      <def>river-</def>
+    </entry>
+    <entry>
+      <form>kavalai<pc>+</pc></form>
+      <def>bifurcation</def>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iyam</form>
+      <def>instrument</def>
+    </entry>
+    <entry>
+      <form>kaṟaṅka<pc>+</pc></form>
+      <def>sound</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>tōṟṟam</form>
+      <def>appearance</def>
+    </entry>
+    <entry>
+      <form>allatu</form>
+      <def>not-so-it</def>
+    </entry>
+    <entry>
+      <form>nōykku</form>
+      <def>pain</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>remedy</def>
+    </entry>
+    <entry>
+      <form>ākā</form>
+      <def>become-not</def>
+    </entry>
+    <entry>
+      <form>vēṟṟu<pc>+</pc></form>
+      <def>different-</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>teyvam</form>
+      <def>god</def>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>vāḻtti<pc>+</pc></form>
+      <def>praised</def>
+    </entry>
+    <entry>
+      <form>pēey<pc>+</pc></form>
+      <def>spirit</def>
+    </entry>
+    <entry>
+      <form>koḷīiyaḷ</form>
+      <def>taken-she</def>
+    </entry>
+    <entry>
+      <form>ivaḷ</form>
+      <def>this</def>
+      <gram type="role">feminine</gram>
+    </entry>
+    <entry>
+      <form>eṉa<pc>+</pc></form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>paṭutal</form>
+      <def>happening</def>
+    </entry>
+    <entry>
+      <form>nō</form>
+      <def>pain</def>
+    </entry>
+    <entry>
+      <form>takkaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-was-fit</def>
+      <form type="simple">takkaṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>māl</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>varai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form>maḻai</form>
+      <def>rain</def>
+    </entry>
+    <entry>
+      <form>viḷaiyāṭu</form>
+      <def>playing-</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉai<pc>+</pc></form>
+      <def>land-he</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form>piḻaiyēm</form>
+      <def>we-don't-fail</def>
+    </entry>
+    <entry>
+      <form>ākiya</form>
+      <def>become-</def>
+    </entry>
+    <entry>
+      <form>nām</form>
+      <def>we</def>
+    </entry>
+    <entry>
+      <form>itaṉ</form>
+      <def>this</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>paṭa-<pc>~</pc>ē</form>
+      <def>happen</def>
+      <form type="simple">paṭa</form>
+      <gram type="role">infinitive</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

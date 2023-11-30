@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 323. <persName xml:lang="ta">Pataṭi Vaikalār</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT323-kilavi">
+        <p type="edition">viṉaimuṟṟiṉāṉ pākaṟku uraittu. </p>
+        <p type="translation" xml:lang="en">Told to the charioteer by him who had completed [his]
+          work. </p>
+      </div>
+
+      <div xml:id="KT323">
+        <lg type="edition">
+          <l> ellā mevaṉō pataṭi vaikal</l>
+          <l> pāṇar paṭumalai paṇṇiya veḻāliṉ</l>
+          <l> vāṉat teḻuñcuvar nallicai vīḻap</l>
+          <l> peyta pulattup pūtta mullaip</l>
+          <l> pacumukait tātu nāṟu naṟunuta</l>
+          <l> larivai tōḷiṇait tuñcik</l>
+          <l> kaḻinta nāḷivaṇ vāḻu nāḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>What of all [that]? Chaff [are] the days. </l>
+          <l>When [I] slept by the shoulder pair of the young woman</l>
+          <l rend="indent">with fragrant forehead smelling of the pollen [and] green buds</l>
+          <l rend="indent">of the jasmine, which flowered on the field on which it had rained,</l>
+          <l rend="indent3">so that good sound descended from the [cloud] wall rising</l>
+          <l rend="indent8">to the sky,</l>
+          <l rend="indent5">like the notes produced in Paṭumalai by the bards</l>
+          <l rend="indent2">– of [all] the days that passed by [this is] the day which lives here.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT323">
+    <interp type="alignment" select="0">9MG47MG112MR3MG2M,176MG</interp>
+    <entry>
+      <form>ellām</form>
+      <def>all</def>
+    </entry>
+    <entry>
+      <form>evaṉ-ō</form>
+      <def>what</def>
+      <form type="simple">evaṉ</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pataṭi</form>
+      <def>chaff</def>
+    </entry>
+    <entry>
+      <form>vaikal</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>pāṇar</form>
+      <def>bard</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>paṭumalai</form>
+      <def>Paṭumalai</def>
+    </entry>
+    <entry>
+      <form>paṇṇiya</form>
+      <def>produced-</def>
+    </entry>
+    <entry>
+      <form>veḻāliṉ</form>
+      <def>(Yāḻ-)note</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vāṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>sky</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>eḻum</form>
+      <def>rising-</def>
+    </entry>
+    <entry>
+      <form>cuvar</form>
+      <def>wall</def>
+    </entry>
+    <entry>
+      <form>nal</form>
+      <def>good</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>icai</form>
+      <def>sound</def>
+    </entry>
+    <entry>
+      <form>vīḻa<pc>+</pc></form>
+      <def>descend</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>peyta</form>
+      <def>rained-</def>
+    </entry>
+    <entry>
+      <form>pulattu<pc>+</pc></form>
+      <def>field</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>pūtta</form>
+      <def>flowered-</def>
+    </entry>
+    <entry>
+      <form>mullai<pc>+</pc></form>
+      <def>jasmine</def>
+    </entry>
+    <entry>
+      <form>pacu</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>mukai<pc>+</pc></form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>tātu</form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>nāṟu</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>naṟu</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>nutal</form>
+      <def>forehead</def>
+    </entry>
+    <entry>
+      <form>arivai</form>
+      <def>young-woman</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>iṇai<pc>+</pc></form>
+      <def>pair</def>
+    </entry>
+    <entry>
+      <form>tuñci<pc>+</pc></form>
+      <def>slept</def>
+    </entry>
+    <entry>
+      <form>kaḻinta</form>
+      <def>passed-by-</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>ivaṇ</form>
+      <def>here</def>
+    </entry>
+    <entry>
+      <form>vāḻum</form>
+      <def>living-</def>
+    </entry>
+    <entry>
+      <form>nāḷ-ē</form>
+      <def>day</def>
+      <form type="simple">nāḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

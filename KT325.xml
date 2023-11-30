@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 325. <persName xml:lang="ta">Naṉṉākaiyār</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT325-kilavi">
+        <p type="edition">piriviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti melintu uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER, when becoming weak, to the confidante, who
+          was anxious she would not have the strength in the time of separation. </p>
+      </div>
+
+      <div xml:id="KT325">
+        <lg type="edition">
+          <l> cēṟuñ cēṟu meṉṟaliṟ paṇṭaittaṉ</l>
+          <l> māyac celavāc cettu maruṅkaṟṟu</l>
+          <l> maṉṉik kaḻikeṉ ṟēṉē yaṉṉō</l>
+          <l> vācā kentai yāṇṭuḷaṉ kollō</l>
+          <l> karuṅkāl veṇkuruku mēyum</l>
+          <l> peruṅkuḷa māyiṟṟeṉ ṉiṭaimulai niṟaintē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">Earlier when [he] said “we will be going!” ,</l>
+          <l rend="indent4">thinking even that his going would be fake,</l>
+          <l rend="indent9">I said</l>
+          <l>“I shall last [and] pass through [it],</l>
+          <l rend="indent6">being torn away from [your] side.” </l>
+          <l rend="indent8">Alas!</l>
+          <l>Where is he, my father who would be [my] support?</l>
+          <l>A big pond, where black-legged white egrets are grazing,</l>
+          <l>arose in between my breasts, filling [with tears].</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT325">
+    <interp type="alignment" select="0">37MG6M2G2ML5MG15MG5MG9MG2MG9MG4MG42MG19M2G2M,170MG</interp>
+    <entry>
+      <form>cēṟum</form>
+      <def>we-go</def>
+      <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+      <form>cēṟum</form>
+      <def>we-go(sub</def>
+    </entry>
+    <entry>
+      <form>eṉṟaliṉ</form>
+      <def>saying</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>paṇṭai<pc>+</pc></form>
+      <def>before</def>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self-</def>
+    </entry>
+    <entry>
+      <form>māya<pc>+</pc></form>
+      <def>fraud</def>
+    </entry>
+    <entry>
+      <form>celav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>going</def>
+    </entry>
+    <entry>
+      <form>ā<pc>+</pc></form>
+      <def>become-</def>
+    </entry>
+    <entry>
+      <form>cett<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>thought</def>
+      <form type="simple">cettu</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>maruṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>side</def>
+    </entry>
+    <entry>
+      <form>aṟṟu</form>
+      <def>thus-it/torn</def>
+    </entry>
+    <entry>
+      <form>maṉṉi<pc>+</pc></form>
+      <def>lasted</def>
+    </entry>
+    <entry>
+      <form>kaḻik<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>I-pass-by</def>
+      <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+      <form>eṉṟēṉ-ē</form>
+      <def>I-said</def>
+      <form type="simple">eṉṟēṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉō</form>
+      <def>alas!</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>support</def>
+    </entry>
+    <entry>
+      <form>āk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>become-</def>
+    </entry>
+    <entry>
+      <form>entai</form>
+      <def>my-father</def>
+    </entry>
+    <entry>
+      <form>yāṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>where</def>
+    </entry>
+    <entry>
+      <form>uḷaṉ-kollō</form>
+      <def>he-is</def>
+      <form type="simple">uḷaṉ</form>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>karum</form>
+      <def>black</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>leg</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>kuruku</form>
+      <def>wader</def>
+    </entry>
+    <entry>
+      <form>mēyum</form>
+      <def>grazing-</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kuḷam</form>
+      <def>pond</def>
+    </entry>
+    <entry>
+      <form>āyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>it-became</def>
+    </entry>
+    <entry>
+      <form>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iṭai</form>
+      <def>middle</def>
+    </entry>
+    <entry>
+      <form>mulai</form>
+      <def>breast</def>
+    </entry>
+    <entry>
+      <form>niṟaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>filled</def>
+      <form type="simple">niṟaintu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

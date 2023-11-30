@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 306. <persName xml:lang="ta">Ammūvaṉ</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT306-kilavi">
+        <p type="edition">kāppumikutiyāl neñcu mikkatu vāy cērntu kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER, talking incoherently of what is excessive
+          in [her] heart because of the increase in guarding. </p>
+      </div>
+
+      <div xml:id="KT306">
+        <lg type="edition">
+          <l> melliya viṉiya mēvaru takuna</l>
+          <l> vivaimoḻi yāmeṉac colliṉu mavainī</l>
+          <l> maṟattiyō vāḻiyeṉ ṉeñcē palavuṭaṉ</l>
+          <l> kāmar māattut tātamar pūviṉ</l>
+          <l> vaṇṭuvīḻ payaruṅ kāṉaṟ</l>
+          <l> ṟaṇkaṭaṟ cērppaṉaik kaṇṭa piṉṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">Even if [I/you] say: “we don't say [to ourselves] these</l>
+          <l rend="indent2">soft, sweet words fit to call up wishes ” –</l>
+          <l>would you forget those [words], live, my heart</l>
+          <l rend="indent">– after having seen the man from the coast of the cool sea</l>
+          <l rend="indent2">with seashore groves, where bees descend [and] immerse themselves</l>
+          <l rend="indent3">in pollen-bearing flowers of desirable mango trees,</l>
+          <l rend="indent8">many together?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT306">
+    <interp type="alignment" select="0">62MG13M2G25MG55MG3M,162MG</interp>
+    <entry>
+      <form>melliya</form>
+      <def>soft-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṉiya</form>
+      <def>pleasant-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>mēvaru</form>
+      <def>wish-come-</def>
+    </entry>
+    <entry>
+      <form>takuna</form>
+      <def>fitting-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ivai</form>
+      <def>these</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>moḻiyām</form>
+      <def>speak-not-we</def>
+    </entry>
+    <entry>
+      <form>eṉa<pc>+</pc></form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>colliṉum</form>
+      <def>utter-if-even</def>
+    </entry>
+    <entry>
+      <form>avai</form>
+      <def>those</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>nī</form>
+      <def>you</def>
+    </entry>
+    <entry>
+      <form>maṟatti-<pc>~</pc>ō</form>
+      <def>you-forget</def>
+      <form type="simple">maṟatti</form>
+      <gram type="role">subjuntive</gram>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>heart</def>
+      <form type="simple">neñcu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>kāmar</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>māattu<pc>+</pc></form>
+      <def>mango-tree</def>
+      <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>amar</form>
+      <def>abide-</def>
+    </entry>
+    <entry>
+      <form>pūviṉ</form>
+      <def>flower</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vaṇṭu</form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>vīḻ</form>
+      <def>descended</def>
+    </entry>
+    <entry>
+      <form>payarum</form>
+      <def>engaging-</def>
+    </entry>
+    <entry>
+      <form>kāṉal</form>
+      <def>seashore-grove</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>cērppaṉai<pc>+</pc></form>
+      <def>coast-he</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form>kaṇṭa</form>
+      <def>seen-</def>
+    </entry>
+    <entry>
+      <form>piṉ-<pc>+</pc>ē</form>
+      <def>after</def>
+      <form type="simple">piṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

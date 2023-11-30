@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 303. <persName xml:lang="ta">Ammūvaṉ</persName>
+          : <hi rend="italic">the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT303-kilavi">
+        <p type="edition">ceṟippaṟivuṟīi varaivu kaṭāyatu. </p>
+        <p type="translation" xml:lang="en">Inquiring about marriage [and] informing about
+          confinement. </p>
+      </div>
+
+      <div xml:id="KT303">
+        <lg type="edition">
+          <l> kaḻitērn tacaiiya karuṅkāl veṇkuru</l>
+          <l> kaṭaikarait tāḻaik kuḻīip peruṅkaṭa</l>
+          <l> luṭaitirai yoliyiṟ ṟuñcun tuṟaiva</l>
+          <l> toṉṉilai nekiḻnta vaḷaiya ḷīṅkup</l>
+          <l> pacantaṉaṇ maṉṉeṉ ṟōḻi yeṉṉoṭu</l>
+          <l> miṉṉiṇarp puṉṉaiyam pukarniḻaṟ</l>
+          <l> poṉvari yalava ṉāṭṭiya ñāṉṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>O man from the ghat, where the black-legged white egrets,</l>
+          <l rend="indent">who have come to rest after searching the backwaters, are sleeping</l>
+          <l rend="indent3">with the sound of breaking waves from the great sea,</l>
+          <l rend="indent2">crowded on the Tāḻai trees on the setting shore,</l>
+          <l>she with bangles which have loosened from [their] old state here,</l>
+          <l>my friend, became pale indeed,</l>
+          <l rend="indent">since she chased golden-striped crabs with me</l>
+          <l rend="indent2">in the spotty shade of the Puṉṉai trees with flashing clusters.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT303">
+    <interp type="alignment" select="0">9MG23MG100MG21MG48M2G2M,208MG</interp>
+    <entry>
+      <form>kaḻi</form>
+      <def>backwaters</def>
+    </entry>
+    <entry>
+      <form>tērnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>searched</def>
+    </entry>
+    <entry>
+      <form>acaiiya</form>
+      <def>rested-</def>
+    </entry>
+    <entry>
+      <form>karum</form>
+      <def>black</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>leg</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>wader</def>
+    </entry>
+    <entry>
+      <form>aṭai</form>
+      <def>settle-</def>
+    </entry>
+    <entry>
+      <form>karai<pc>+</pc></form>
+      <def>shore</def>
+    </entry>
+    <entry>
+      <form>tāḻai<pc>+</pc></form>
+      <def>Tāḻai(-tree)</def>
+    </entry>
+    <entry>
+      <form>kuḻīi<pc>+</pc></form>
+      <def>crowded</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>uṭai</form>
+      <def>break-</def>
+    </entry>
+    <entry>
+      <form>tirai</form>
+      <def>wave</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oliyiṉ</form>
+      <def>sound</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tuñcum</form>
+      <def>sleeping-</def>
+    </entry>
+    <entry>
+      <form>tuṟaiva</form>
+      <def>ghat-he</def>
+      <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+      <form>tol</form>
+      <def>old</def>
+    </entry>
+    <entry>
+      <form>nilai</form>
+      <def>state</def>
+    </entry>
+    <entry>
+      <form>nekiḻnta</form>
+      <def>loosened-</def>
+    </entry>
+    <entry>
+      <form>vaḷaiyaḷ</form>
+      <def>bangle-she</def>
+      <gram type="role">feminine</gram>
+    </entry>
+    <entry>
+      <form>īṅku<pc>+</pc></form>
+      <def>here</def>
+    </entry>
+    <entry>
+      <form>pacantaṉaḷ-maṉ</form>
+      <def>she-became-pale</def>
+      <form type="simple">pacantaṉaḷ</form>
+      <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉṉoṭu</form>
+      <def>me</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>miṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>flash-</def>
+    </entry>
+    <entry>
+      <form>iṇar<pc>+</pc></form>
+      <def>cluster</def>
+    </entry>
+    <entry>
+      <form>puṉṉaiyam</form>
+      <def>Puṉṉai</def>
+      <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+      <form>pukar</form>
+      <def>spot</def>
+    </entry>
+    <entry>
+      <form>niḻal</form>
+      <def>shade</def>
+    </entry>
+    <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+    </entry>
+    <entry>
+      <form>vari</form>
+      <def>line</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alavaṉ</form>
+      <def>crab</def>
+    </entry>
+    <entry>
+      <form>āṭṭiya</form>
+      <def>driven-away-</def>
+    </entry>
+    <entry>
+      <form>ñāṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>when</def>
+      <form type="simple">ñāṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

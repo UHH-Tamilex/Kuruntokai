@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 248. <persName xml:lang="ta">ulōccaṉa(ār)</persName>
+          : <hi rend="italic">the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT248-kilavi">
+        <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya kiḻattiyait tōḻi āṟṟuviṭṭatu. </p>
+        <p type="translation" xml:lang="en">The confidante reassuring HER who didn't have strength
+          [anymore], when [he] delayed marriage. </p>
+      </div>
+
+      <div xml:id="KT248">
+        <lg type="edition">
+          <l>atuvara laṉmaiyō varitē yavaṉmār</l>
+          <l>puṟuka veṉṟa nāḷē kuṟuki</l>
+          <l>yīṅkā kiṉṟē tōḻi kāṉa</l>
+          <l>lāṭarai putaiyak kōṭai yiṭṭa</l>
+          <l>vaṭumpivar maṇaṟkō ṭūra neṭumpaṉai</l>
+          <l>kuṟiya vākun tuṟaivaṉaip</l>
+          <l>periya kūṟi yāyaṟin taṉaḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>As for its not coming, that is hardly possible. </l>
+          <l>The day which means you may have his chest,</l>
+          <l>it has come so close, friend.</l>
+          <l>My mother has understood [and] talks great things</l>
+          <l rend="indent">to the man from the ghat, where the long Palmyra trees</l>
+          <l rend="indent2">become short, as sand heaps climbed by Aṭumpu plants crawl up,</l>
+          <l rend="indent3">piled up by the west wind to bury [their] swaying trunks,</l>
+          <l rend="indent8">in the seashore grove. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT248">
+    <interp type="alignment" select="0">13MG7M2G10MG13MG11MG5M2G12MG28MG12MG57MG2M,181MG</interp>
+    <entry>
+      <form>atu</form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>varal</form>
+      <def>coming</def>
+    </entry>
+    <entry>
+      <form>aṉmai-<pc>~</pc>ō</form>
+      <def>not-being-so</def>
+      <form type="simple">aṉmai</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>difficult-it</def>
+      <form type="simple">aritu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>chest</def>
+    </entry>
+    <entry>
+      <form>uṟuka</form>
+      <def>may-have</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉṟa</form>
+      <def>said-</def>
+    </entry>
+    <entry>
+      <form>nāḷ-ē</form>
+      <def>day</def>
+      <form type="simple">nāḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟuki</form>
+      <def>shortened</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>so</def>
+    </entry>
+    <entry>
+      <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-became</def>
+      <form type="simple">ākiṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>kāṉal</form>
+      <def>seashore-grove</def>
+    </entry>
+    <entry>
+      <form>āṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>play-</def>
+    </entry>
+    <entry>
+      <form>arai</form>
+      <def>trunk</def>
+    </entry>
+    <entry>
+      <form>putaiya<pc>+</pc></form>
+      <def>bury</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kōṭai</form>
+      <def>west-wind</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṭṭa</form>
+      <def>placed-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṭump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>Aṭumpu(-plant)</def>
+    </entry>
+    <entry>
+      <form>ivar</form>
+      <def>climb-</def>
+    </entry>
+    <entry>
+      <form>maṇal</form>
+      <def>sand</def>
+    </entry>
+    <entry>
+      <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>peak</def>
+    </entry>
+    <entry>
+      <form>ūra</form>
+      <def>creep</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>neṭum</form>
+      <def>long</def>
+    </entry>
+    <entry>
+      <form>paṉai</form>
+      <def>Palmyra-palm</def>
+    </entry>
+    <entry>
+      <form>kuṟiya</form>
+      <def>short-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ākum</form>
+      <def>becoming-</def>
+    </entry>
+    <entry>
+      <form>tuṟaivaṉai<pc>+</pc></form>
+      <def>ghat-he</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form>periya</form>
+      <def>big-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>kūṟi</form>
+      <def>talked</def>
+    </entry>
+    <entry>
+      <form>yāy</form>
+      <def>my-mother</def>
+    </entry>
+    <entry>
+      <form>aṟintaṉaḷ-ē</form>
+      <def>she-knew</def>
+      <form type="simple">aṟintaṉaḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

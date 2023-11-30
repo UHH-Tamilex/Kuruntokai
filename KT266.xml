@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 266. <persName xml:lang="ta">Nakkīrar</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT266-kilavi">
+        <p type="edition">varaiyātu pirintaviṭattat tōḻikkuk kiḻatti uraittatu</p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante when he had separated
+          without marrying. </p>
+      </div>
+
+      <div xml:id="KT266">
+        <lg type="edition">
+          <l> namakkoṉ ṟuraiyā rāyiṉun tamakkoṉ</l>
+          <l> ṟiṉṉā viravi ṉiṉṟuṇai yākiya</l>
+          <l> paṭappai vēṅkaikku maṟantaṉar kollō</l>
+          <l> maṟapparum paṇaittōḷ marīit</l>
+          <l> tuṟattal valliyōr puḷvāyt tūtē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">Even if he didn't tell us a thing ,</l>
+          <l>did he forget the message in a bird's mouth ,</l>
+          <l rend="indent">for the Vēṅkai tree in the garden that was the one dear companion</l>
+          <l rend="indent2">to him in undear night, he who was able to abandon [us],</l>
+          <l rend="indent3">after joining with [my] bamboo shoulders</l>
+          <l rend="indent8">[that are] difficult to forget?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT266">
+    <interp type="alignment" select="0">6MG3MG19MG3MG51MG11MG45M2G2M,147MG</interp>
+    <entry>
+      <form>namakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>us</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>uraiyār</form>
+      <def>told-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>āyiṉum</form>
+      <def>if-even</def>
+    </entry>
+    <entry>
+      <form>tamakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>self(pl.dat.)</def>
+    </entry>
+    <entry>
+      <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>iṉṉā</form>
+      <def>pleasant-not</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iraviṉ</form>
+      <def>night</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>iṉ</form>
+      <def>pleasant</def>
+    </entry>
+    <entry>
+      <form>tuṇai</form>
+      <def>companion</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ākiya</form>
+      <def>become-</def>
+    </entry>
+    <entry>
+      <form>paṭappai</form>
+      <def>garden</def>
+    </entry>
+    <entry>
+      <form>vēṅkaikku</form>
+      <def>Vēṅkai(-tree)</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>maṟantaṉar-kollō</form>
+      <def>he-forgot</def>
+      <form type="simple">maṟantaṉar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>maṟapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>forgetting</def>
+    </entry>
+    <entry>
+      <form>arum</form>
+      <def>difficult</def>
+    </entry>
+    <entry>
+      <form>paṇai<pc>+</pc></form>
+      <def>bamboo</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>marīi<pc>+</pc></form>
+      <def>joined</def>
+    </entry>
+    <entry>
+      <form>tuṟattal</form>
+      <def>giving-up</def>
+    </entry>
+    <entry>
+      <form>valliyōr</form>
+      <def>been-able-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>puḷ</form>
+      <def>bird</def>
+    </entry>
+    <entry>
+      <form>vāy<pc>+</pc></form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>tūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>message</def>
+      <form type="simple">tūtu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

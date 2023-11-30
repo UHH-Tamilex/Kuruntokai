@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 286. <persName xml:lang="ta">Eyiṟṟiyaṉār</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT286-kilavi">
+        <p type="edition">1. irantu piṉṉiṉṟa kiḻavaṉ kuṟaimaṟāmal kūṟiyatu. 2. pāṅkaṟkuc
+          colliyatūumām. </p>
+        <p type="translation" xml:lang="en">1. Spoken about [the confidante's?] not refusing [his]
+          request by HIM who implored [her]. 2. Spoken to the companion. </p>
+      </div>
+
+      <div xml:id="KT286">
+        <lg type="edition">
+          <l> uḷḷik kāṇpeṉ pōlvaṉ muḷḷeyiṟ</l>
+          <l> ṟamiḻta mūṟumañ cevvāyk kamaḻaki</l>
+          <l> lāra nāṟu maṟalpōṟ kūntaṟ</l>
+          <l> pēramar maḻaikkaṇ maṭantai</l>
+          <l> mūraṉ muṟuvaloṭu mataiiya nōkkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Remembering, I seem to see</l>
+          <l>the playful look together with the smiling smile </l>
+          <l rend="indent2">of the girl with big beautiful rain eyes,</l>
+          <l rend="indent2">tresses like black sand, smelling of sandal [and] fragrant</l>
+          <l rend="indent8">with eagle wood ,</l>
+          <l rend="indent2">pretty red mouth with ambrosia seeping from thorn[-like] teeth.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT286">
+    <interp type="alignment" select="0">26MG32MR21MG48M2G2M,133MG</interp>
+    <entry>
+      <form>uḷḷi<pc>+</pc></form>
+      <def>remembered</def>
+    </entry>
+    <entry>
+      <form>kāṇpeṉ</form>
+      <def>I-see</def>
+    </entry>
+    <entry>
+      <form>pōlvaṉ</form>
+      <def>similar-I</def>
+    </entry>
+    <entry>
+      <form>muḷ</form>
+      <def>thorn</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>eyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>tooth-</def>
+    </entry>
+    <entry>
+      <form>amiḻtam</form>
+      <def>ambrosia</def>
+    </entry>
+    <entry>
+      <form>ūṟum</form>
+      <def>oozing-</def>
+    </entry>
+    <entry>
+      <form>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>ce<pc>+</pc></form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>vāy<pc>+</pc></form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>kamaḻ</form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>akil</form>
+      <def>eagle-wood</def>
+    </entry>
+    <entry>
+      <form>āram</form>
+      <def>sandal</def>
+    </entry>
+    <entry>
+      <form>nāṟum</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>aṟal</form>
+      <def>black-sand</def>
+    </entry>
+    <entry>
+      <form>pōl</form>
+      <def>similar-</def>
+    </entry>
+    <entry>
+      <form>kūntal</form>
+      <def>tresses</def>
+    </entry>
+    <entry>
+      <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>amar</form>
+      <def>beauty</def>
+    </entry>
+    <entry>
+      <form>maḻai<pc>+</pc></form>
+      <def>rain</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>maṭantai</form>
+      <def>girl</def>
+    </entry>
+    <entry>
+      <form>mūral</form>
+      <def>smile</def>
+    </entry>
+    <entry>
+      <form>muṟuvaloṭu</form>
+      <def>smiling</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>mataiiya</form>
+      <def>wanton</def>
+    </entry>
+    <entry>
+      <form>nōkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>look</def>
+      <form type="simple">nōkku</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

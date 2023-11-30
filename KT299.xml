@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 299. <persName xml:lang="ta">Veṇmaṇip Pūti</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT299-kilavi">
+        <p type="edition">ciṟaippuṟamākat tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante, while [he] is behind the
+          hedge. </p>
+      </div>
+
+      <div xml:id="KT299">
+        <lg type="edition">
+          <l> itumaṟ ṟevaṉō tōḻi mutunīrp</l>
+          <l> puṇari tiḷaikkum puḷḷimiḻ kāṉa</l>
+          <l> liṇarvīḻ puṉṉai yekkar nīḻaṟ</l>
+          <l> puṇarkuṟi vāytta ñāṉṟaik koṇkaṟ</l>
+          <l> kaṇṭaṉa maṉṉeṅ kaṇṇē yavaṉcoṟ</l>
+          <l> kēṭṭaṉa maṉṉeñ ceviyē maṟṟavaṉ</l>
+          <l> maṇappiṉ māṇala meytit</l>
+          <l> taṇappiṉ ñekiḻpaveṉ ṟaṭameṉ ṟōḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Now, what [is] this, friend?</l>
+          <l rend="indent">At the time [I] reached the meeting point </l>
+          <l rend="indent2">in the shade of the dunes, by the Puṉṉai tree, clusters descending,</l>
+          <l rend="indent3">in the seashore grove buzzing with birds, where the waves</l>
+          <l rend="indent7">of the old water are jostling,</l>
+          <l>our eyes indeed saw the man from the sea,</l>
+          <l>our ears indeed heard his words.</l>
+          <l rend="indent2">Now if [he] unites with my broad, soft shoulders,</l>
+          <l>they reach precious beauty; if he departs, they slacken.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT299">
+    <interp type="alignment" select="0">7MG4MG101M2G8MG18M2G9MG6MG15ML37MG2M,217MG</interp>
+    <entry>
+      <form>itu</form>
+      <def>this</def>
+    </entry>
+    <entry>
+      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def></def>
+      <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
+    </entry>
+    <entry>
+      <form>evaṉ-ō</form>
+      <def>what</def>
+      <form type="simple">evaṉ</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>mutu</form>
+      <def>old</def>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>puṇari</form>
+      <def>wave</def>
+    </entry>
+    <entry>
+      <form>tiḷaikkum</form>
+      <def>bubbling-</def>
+    </entry>
+    <entry>
+      <form>puḷ</form>
+      <def>bird</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>imiḻ</form>
+      <def>buzz-</def>
+    </entry>
+    <entry>
+      <form>kāṉal</form>
+      <def>seashore-grove</def>
+    </entry>
+    <entry>
+      <form>iṇar</form>
+      <def>cluster</def>
+    </entry>
+    <entry>
+      <form>vīḻ</form>
+      <def>descend-</def>
+    </entry>
+    <entry>
+      <form>puṉṉai</form>
+      <def>Puṉṉai</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ekkar</form>
+      <def>dune</def>
+    </entry>
+    <entry>
+      <form>nīḻal</form>
+      <def>shade</def>
+    </entry>
+    <entry>
+      <form>puṇar</form>
+      <def>unite-</def>
+    </entry>
+    <entry>
+      <form>kuṟi</form>
+      <def>sign</def>
+    </entry>
+    <entry>
+      <form>vāytta</form>
+      <def>reached-</def>
+    </entry>
+    <entry>
+      <form>ñāṉṟai<pc>+</pc></form>
+      <def>when</def>
+    </entry>
+    <entry>
+      <form>koṇkaṉ</form>
+      <def>man-from-the-sea</def>
+    </entry>
+    <entry>
+      <form>kaṇṭaṉam-maṉ</form>
+      <def>they-saw</def>
+      <form type="simple">kaṇṭaṉam</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form>kaṇ-<pc>+</pc>ē</form>
+      <def>eye</def>
+      <form type="simple">kaṇ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>col</form>
+      <def>word</def>
+    </entry>
+    <entry>
+      <form>kēṭṭaṉam-maṉ</form>
+      <def>they-heard</def>
+      <form type="simple">kēṭṭaṉam</form>
+      <gram type="role">neuter plural</gram>
+      <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>em</form>
+      <def>our-</def>
+    </entry>
+    <entry>
+      <form>cevi-<pc>~</pc>ē</form>
+      <def>ear</def>
+      <form type="simple">cevi</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def></def>
+      <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
+    </entry>
+    <entry>
+      <form>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>maṇappiṉ</form>
+      <def>unite-if</def>
+    </entry>
+    <entry>
+      <form>māṇ</form>
+      <def>glory</def>
+    </entry>
+    <entry>
+      <form>nalam</form>
+      <def>goodness</def>
+    </entry>
+    <entry>
+      <form>eyti<pc>+</pc></form>
+      <def>reached</def>
+    </entry>
+    <entry>
+      <form>taṇappiṉ</form>
+      <def>depart-if</def>
+    </entry>
+    <entry>
+      <form>ñekiḻpa</form>
+      <def>they-become-loose</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>taṭa</form>
+      <def>broad</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+    </entry>
+    <entry>
+      <form>tōḷ-ē</form>
+      <def>shoulder</def>
+      <form type="simple">tōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 280. <persName xml:lang="ta">Nakkīrar</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT280-kilavi">
+        <p type="edition">kaḻaṟṟetirmaṟai. </p>
+        <p type="translation" xml:lang="en">Refusal against [the friend's] urging. </p>
+      </div>
+
+      <div xml:id="KT280">
+        <lg type="edition">
+          <l> kēḷir vāḻiyō kēḷir nāḷumeṉ</l>
+          <l> ṉeñcupiṇik koṇṭa vañci lōtip</l>
+          <l> peruntōṭ kuṟumakaḷ ciṟumel lāka</l>
+          <l> morunāḷ puṇarap puṇari</l>
+          <l> ṉaraināḷ vāḻkkaiyum vēṇṭalaṉ yāṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Friends, may you live! Friends,</l>
+          <l>if I can only unite for one day</l>
+          <l rend="indent2">with the small soft bosom of the little woman with big shoulders</l>
+          <l rend="indent2">[and] pretty, few hair, who has laid my heart in fetters</l>
+          <l rend="indent8">throughout the days,</l>
+          <l>I won't need to live for [another] half day.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT280">
+    <interp type="alignment" select="0">9MG10MG92MG14MG2M,130MG</interp>
+    <entry>
+      <form>kēḷir</form>
+      <def>friends/relatives</def>
+    </entry>
+    <entry>
+      <form>vāḻi-<pc>~</pc>ō</form>
+      <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kēḷir</form>
+      <def>friends/relatives</def>
+    </entry>
+    <entry>
+      <form>nāḷ-um</form>
+      <def>day</def>
+      <form type="simple">nāḷ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>neñcu</form>
+      <def>heart</def>
+    </entry>
+    <entry>
+      <form>piṇi<pc>+</pc></form>
+      <def>fetter</def>
+    </entry>
+    <entry>
+      <form>koṇṭa</form>
+      <def>taken-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>am</form>
+      <def>pretty</def>
+    </entry>
+    <entry>
+      <form>cil</form>
+      <def>few</def>
+    </entry>
+    <entry>
+      <form>ōti<pc>+</pc></form>
+      <def>hair</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>kuṟu</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>makaḷ</form>
+      <def>daughter</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ākam</form>
+      <def>bosom</def>
+    </entry>
+    <entry>
+      <form>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>puṇara<pc>+</pc></form>
+      <def>unite</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>puṇariṉ</form>
+      <def>unite-if</def>
+    </entry>
+    <entry>
+      <form>arai</form>
+      <def>half</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>vāḻkkai-<pc>~</pc>um</form>
+      <def>life</def>
+      <form type="simple">vāḻkkai</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vēṇṭalaṉ</form>
+      <def>I-need-not</def>
+    </entry>
+    <entry>
+      <form>yāṉ-ē</form>
+      <def>I</def>
+      <form type="simple">yāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

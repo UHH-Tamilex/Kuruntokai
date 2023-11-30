@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 284. <persName xml:lang="ta">Miḷaivēḷ Tittaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT284-kilavi">
+        <p type="edition">varaiviṭait tōḻik kiḻattikku uraippāḷāy uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by the confidante as if talking to HER at the time
+          of marriage. </p>
+      </div>
+
+      <div xml:id="KT284">
+        <lg type="edition">
+          <l> poruta yāṉaip pukarmukaṅ kaṭuppa</l>
+          <l> maṉṟat tuṟukaṉ mīmicaip palavuṭa</l>
+          <l> ṉoṇceṅ kānta ḷaviḻu nāṭa</l>
+          <l> ṉaṟava ṉāyiṉu malla ṉāyiṉu</l>
+          <l> nammē cuvarō tammilar kollō</l>
+          <l> varaiyiṟ ṟāḻnta vālveḷ ḷaruvi</l>
+          <l> koṉṉilaik kurampaiyi ṉiḻitaru</l>
+          <l> miṉṉā tiruntavic ciṟukuṭi yōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">The man from a land, where bright red Malabar lilies open,</l>
+          <l rend="indent4">many together, on an elevation of thick stones in the open ,</l>
+          <l rend="indent5">so that it resembles the spotted face of a slain elephant ,</l>
+          <l rend="indent2">whether he is dutiful or not</l>
+          <l>are they abusing us,</l>
+          <l>the [people] from these little homes to whom it wasn't right ,</l>
+          <l rend="indent">where the pure white waterfall hanging down from the mountain</l>
+          <l rend="indent2">comes down upon the vainly leaf[-thatched] huts?</l>
+          <l rend="indent4">Do they have nothing [to abuse] themselves [with]? </l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT284">
+    <interp type="alignment" select="0">75MR27MR10MG9MG54MG10MG20MG2M,213MG</interp>
+    <entry>
+      <form>poruta</form>
+      <def>struck-</def>
+    </entry>
+    <entry>
+      <form>yāṉai<pc>+</pc></form>
+      <def>elephant</def>
+    </entry>
+    <entry>
+      <form>pukar</form>
+      <def>spot</def>
+    </entry>
+    <entry>
+      <form>mukam</form>
+      <def>face</def>
+    </entry>
+    <entry>
+      <form>kaṭuppa</form>
+      <def>resemble</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>maṉṟam</form>
+      <def>village-common-</def>
+    </entry>
+    <entry>
+      <form>tuṟu</form>
+      <def>thick</def>
+    </entry>
+    <entry>
+      <form>kal</form>
+      <def>stone</def>
+    </entry>
+    <entry>
+      <form>mī</form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>micai<pc>+</pc></form>
+      <def>elevation</def>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭaṉ</form>
+      <def>together</def>
+    </entry>
+    <entry>
+      <form>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+    </entry>
+    <entry>
+      <form>kāntaḷ</form>
+      <def>Malabar-lily</def>
+    </entry>
+    <entry>
+      <form>aviḻum</form>
+      <def>opening-</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉ</form>
+      <def>land-he</def>
+    </entry>
+    <entry>
+      <form>aṟavaṉ</form>
+      <def>duty-he</def>
+    </entry>
+    <entry>
+      <form>āyiṉum</form>
+      <def>if-even</def>
+    </entry>
+    <entry>
+      <form>allaṉ</form>
+      <def>not-so-he</def>
+    </entry>
+    <entry>
+      <form>āyiṉum</form>
+      <def>if-even</def>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>we-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ēcuvar-ō</form>
+      <def>abuse-they</def>
+      <form type="simple">ēcuvar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>tam</form>
+      <def>self-</def>
+      <gram type="role">plural</gram>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ilar-kollō</form>
+      <def>not-they</def>
+      <form type="simple">ilar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>varaiyiṉ</form>
+      <def>mountain</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tāḻnta</form>
+      <def>hung-down-</def>
+    </entry>
+    <entry>
+      <form>vāl</form>
+      <def>pure</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>aruvi</form>
+      <def>waterfall</def>
+    </entry>
+    <entry>
+      <form>koṉ</form>
+      <def></def>
+      <gramGrp type="particle"><form>koṉ</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nilai<pc>+</pc></form>
+      <def>leaf</def>
+    </entry>
+    <entry>
+      <form>kurampaiyiṉ</form>
+      <def>hut</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>iḻi-tarum</form>
+      <def>fall-giving-</def>
+    </entry>
+    <entry>
+      <form>iṉṉāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pleasant-not-it</def>
+    </entry>
+    <entry>
+      <form>irunta</form>
+      <def>been-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>i<pc>+</pc></form>
+      <def>this-</def>
+    </entry>
+    <entry>
+      <form>ciṟu</form>
+      <def>little</def>
+    </entry>
+    <entry>
+      <form>kuṭiyōr-ē</form>
+      <def>home-they</def>
+      <form type="simple">kuṭiyōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

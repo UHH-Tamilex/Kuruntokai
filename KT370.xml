@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 370. <persName xml:lang="ta">Villakaviraliṉāṟ</persName>
+          : <hi rend="italic">the courtesan/other woman / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT370-kilavi">
+        <p type="edition">kiḻatti taṉṉaip puṟaṉuraittāḷ eṉpatu kēṭṭup parattai avaṭkup pāṅkāyiṉār
+          kēṭpac colliyatu. </p>
+
+
+        <p type="translation" xml:lang="en">Uttered, for those who are close to her to hear, by the
+          courtesan/the other woman, having heard [people] say that SHE had talked about her behind
+          [her] back. </p>
+      </div>
+
+      <div xml:id="KT370">
+        <lg type="edition">
+          <l> poykai yāmpa laṇiniṟak koḻumukai</l>
+          <l> vaṇṭuvāy tiṟakkun taṇṭuṟai yūraṉō</l>
+          <l> ṭiruppi ṉirumaruṅ kiṉamē kiṭappiṉ</l>
+          <l> villaka viraliṟ poruntiyava</l>
+          <l> ṉallakañ cēri ṉorumaruṅ kiṉamē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The man from a village by the cool ghat, where bee mouths open</l>
+          <l rend="indent">the rich buds in adorning colours on the waterlilies in the pond,</l>
+          <l rend="indent7">when resting with him on a seat,</l>
+          <l>we [are] two bodies.</l>
+          <l rend="indent7">When he joins [my] good centre ,</l>
+          <l rend="indent8">fitting like fingers to the centre of a bow ,</l>
+          <l>we [are] one body.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT370">
+    <interp type="alignment" select="0">60MG20MG16MG19ML25MG2M,146MG</interp>
+    <entry>
+      <form>poykai</form>
+      <def>pond</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āmpal</form>
+      <def>waterlily</def>
+    </entry>
+    <entry>
+      <form>aṇi</form>
+      <def>adorn-</def>
+    </entry>
+    <entry>
+      <form>niṟa<pc>+</pc></form>
+      <def>colour</def>
+    </entry>
+    <entry>
+      <form>koḻu</form>
+      <def>rich</def>
+    </entry>
+    <entry>
+      <form>mukai</form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>vaṇṭu</form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>vāy</form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>tiṟakkum</form>
+      <def>opening-</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>tuṟai</form>
+      <def>ghat</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūraṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>village-he</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>iruppiṉ</form>
+      <def>seat</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>iru</form>
+      <def>two</def>
+    </entry>
+    <entry>
+      <form>maruṅkiṉam-ē</form>
+      <def>side(obl.)-we</def>
+      <form type="simple">maruṅkiṉam</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kiṭappiṉ</form>
+      <def>rest-if</def>
+    </entry>
+    <entry>
+      <form>vil</form>
+      <def>bow</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>akam</form>
+      <def>inside</def>
+    </entry>
+    <entry>
+      <form>viraliṉ</form>
+      <def>finger</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>porunti</form>
+      <def>fitted</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>nal</form>
+      <def>good</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>akam</form>
+      <def>inside</def>
+    </entry>
+    <entry>
+      <form>cēriṉ</form>
+      <def>join-if</def>
+    </entry>
+    <entry>
+      <form>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>maruṅkiṉam-ē</form>
+      <def>side(obl.)-we</def>
+      <form type="simple">maruṅkiṉam</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

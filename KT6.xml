@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 6. <persName xml:lang="ta">Patumaṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT6-kilavi">
+          <p type="edition">varaiviṭai vaittup pirintavaḻi āṟṟāḷākiya talaimakaḷ tōḻiyai neruṅkic colliyatu.</p>
+          <p type="translation" xml:lang="en">Spoken directed to the confidante by HER, who didn't have the strength [any more] when [he] had separated after the time for marriage had been fixed.</p>
+          </div>
+
+        <div xml:id="KT6">
+            <lg type="edition">
+<l>                naḷḷeṉ ṟaṉṟē yāmañ collavin</l>
+<l>                tiṉitaṭaṅ kiṉarē mākkaṇ muṉiviṉṟu</l>
+<l>                naṉantalai yulakamun tuñcu</l>
+<l>                mōryāṉ maṉṟa tuñcā tēṉē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>Deepest midnight. Wordless</l>
+<l>sweetly still were the people. Sorrowless</l>
+<l>the whole wide world is sleeping.</l>
+<l>Only I, indeed, do not sleep.</l>
+             </lg>
+        </div>
+    </body>
+  </text>
+</TEI>

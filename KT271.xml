@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 271. <persName xml:lang="ta">Aḻici Naccātaṉār</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT271-kilavi">
+        <p type="edition">talaimakaṉ vāyil nērntu pukka tōḻikkut talaimakaḷ colliyatu. </p>
+        <p type="translation" xml:lang="en">Uttered by HER to the confidante when HE entered after
+          having been granted the door/mediation. </p>
+      </div>
+
+      <div xml:id="KT271">
+        <lg type="edition">
+          <l> aruvi yaṉṉa paruvuṟai citaṟi</l>
+          <l> yāṟuniṟai pakaru nāṭaṉait tēṟi</l>
+          <l> yuṟṟatu maṉṉu morunāṇ maṟṟatu</l>
+          <l> tavappaṉ ṉāṭōṇ mayaṅki</l>
+          <l> vauvum paṇpi ṉōyā kiṉṟē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Believing the man from the land where the river voices [its] fullness</l>
+          <l rend="indent2">[and] scatters big drops like a waterfall,</l>
+          <l>it happened, in fact. </l>
+          <l rend="indent7">One day only [was] that.</l>
+          <l>Very many days [my] shoulders have been confused</l>
+          <l><choice>
+              <seg>[and that] of a nature which attracts became pain.</seg>
+              <seg>[and] it became pain of the gripping kind.</seg>
+            </choice></l>
+
+          <lg type="alternate">
+            <l> Believing the man from the land where the river voices [its] fullness</l>
+            <l rend="indent2"> [and] scatters big drops like a waterfall,</l>
+            <l> it happened, in fact, one day.</l>
+            <l rend="indent7"> But that [same thing],</l>
+            <l rend="indent2"> after distressing [my] shoulders for many days,</l>
+            <l> became a pain of a nature that devours.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT271">
+    <interp type="alignment" select="0">40MR19MG3MG13MG14ML21ML7M2G2M,126MG</interp>
+    <entry>
+      <form>aruvi</form>
+      <def>waterfall</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉa</form>
+      <def>like</def>
+    </entry>
+    <entry>
+      <form>paru</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṟai</form>
+      <def>drop</def>
+    </entry>
+    <entry>
+      <form>citaṟi</form>
+      <def>strewn</def>
+    </entry>
+    <entry>
+      <form>yāṟu</form>
+      <def>river</def>
+    </entry>
+    <entry>
+      <form>niṟai</form>
+      <def>fullness</def>
+    </entry>
+    <entry>
+      <form>pakarum</form>
+      <def>uttering-</def>
+    </entry>
+    <entry>
+      <form>nāṭaṉai<pc>+</pc></form>
+      <def>land-he</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form>tēṟi</form>
+      <def>believed</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṟṟatu-maṉ-<pc>+</pc>um</form>
+      <def>had-itmaṉ-</def>
+      <form type="simple">uṟṟatu-maṉ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def></def>
+      <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
+    </entry>
+    <entry>
+      <form>atu</form>
+      <def>that</def>
+    </entry>
+    <entry>
+      <form>tava<pc>+</pc></form>
+      <def>very</def>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>mayaṅki</form>
+      <def>confused</def>
+    </entry>
+    <entry>
+      <form>vauvum</form>
+      <def>snatching-</def>
+    </entry>
+    <entry>
+      <form>paṇpiṉ</form>
+      <def>nature</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nōy</form>
+      <def>pain</def>
+    </entry>
+    <entry>
+      <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-became</def>
+      <form type="simple">ākiṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

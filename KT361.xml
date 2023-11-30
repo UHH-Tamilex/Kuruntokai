@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 361. <persName xml:lang="ta">Kapilar</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT361-kilavi">
+        <p type="edition">varaivu malintavaḻit tōḻi “naṉkāṟṟiṉāy” eṉṟāṭkuk kiḻatti colliyatu. </p>
+
+
+        <p type="translation" xml:lang="en">Uttered by HER to the one, who said “you have well had
+          the strength”, [namely] the confidante, when she rejoiced over the [coming] marriage. </p>
+      </div>
+
+      <div xml:id="KT361">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi yaṉṉaik</l>
+          <l> kuyarnilai yulakamuñ ciṟitā lavarmalai</l>
+          <l> mālaip peyta maṇaṅkama ḻuntiyoṭu</l>
+          <l> kālai vanta kāntaṇ muḻumutaṉ</l>
+          <l> mellilai kuḻaiya muyaṅkalu</l>
+          <l> milluyttu naṭutaluṅ kaṭiyā tōḷē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Alas, oh friend, for mother</l>
+          <l>indeed also the upper world would be a small [return],</l>
+          <l>she who did not prevent [me from] setting up in the house</l>
+          <l rend="indent">and embracing, softly , the tender leaves</l>
+          <l rend="indent">of the whole stem of the Malabar lily, come in the morning</l>
+          <l rend="indent2">with the river, fragrant with the scent rained in the evening</l>
+          <l rend="indent6">from his mountain.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT361">
+    <interp type="alignment" select="0">20MG16MG7M2G88MG17MG11MG2M,167MG</interp>
+    <entry>
+      <form>amma</form>
+      <def></def>
+      <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>mother</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>uyar</form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>nilai</form>
+      <def>state</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ulakam-um</form>
+      <def>world</def>
+      <form type="simple">ulakam</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>ciṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+      <def>little-it</def>
+      <form type="simple">ciṟitu</form>
+      <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+      <form>avar</form>
+      <def>he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>malai</form>
+      <def>mountain</def>
+    </entry>
+    <entry>
+      <form>mālai<pc>+</pc></form>
+      <def>evening</def>
+    </entry>
+    <entry>
+      <form>peyta</form>
+      <def>rained-</def>
+    </entry>
+    <entry>
+      <form>maṇam</form>
+      <def>fragrance</def>
+    </entry>
+    <entry>
+      <form>kamaḻ</form>
+      <def>smell-</def>
+    </entry>
+    <entry>
+      <form>untiyoṭu</form>
+      <def>river</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kālai</form>
+      <def>morning</def>
+    </entry>
+    <entry>
+      <form>vanta</form>
+      <def>come-</def>
+    </entry>
+    <entry>
+      <form>kāntaḷ</form>
+      <def>Malabar-lily</def>
+    </entry>
+    <entry>
+      <form>muḻu</form>
+      <def>whole</def>
+    </entry>
+    <entry>
+      <form>mutal</form>
+      <def>base</def>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ilai</form>
+      <def>leaf</def>
+    </entry>
+    <entry>
+      <form>kuḻaiya</form>
+      <def>become-soft</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>muyaṅkal-um</form>
+      <def>embracing</def>
+      <form type="simple">muyaṅkal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>il</form>
+      <def>house</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>uyttu</form>
+      <def>sent</def>
+    </entry>
+    <entry>
+      <form>naṭutal-um</form>
+      <def>setting-up</def>
+      <form type="simple">naṭutal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kaṭiyātōḷ-ē</form>
+      <def>chase-away-not-she</def>
+      <form type="simple">kaṭiyātōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 220. <persName xml:lang="ta">Okkūr māccātti</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT220-kilavi">
+        <p type="edition">paruva varaviṉkaṇ kiḻatti tōḻikku uraittatu </p>
+        <p type="translation" xml:lang="en">SHE talking to the confidante at the coming of the
+          season. </p>
+      </div>
+
+      <div xml:id="KT220">
+        <lg type="edition">
+
+          <l>paḻamaḻaik kalitta putuppuṉa varaki</l>
+          <l>ṉiralai mēynta kuṟaittalaip pāvai</l>
+          <l>yiruvicēr maruṅkiṟ pūtta mullai</l>
+          <l>verukucirit taṉṉa pacuvī meṉpiṇik</l>
+          <l>kuṟumukai yaviḻnta naṟumalarp puṟaviṉ</l>
+          <l>vaṇṭucūḻ mālaiyum vārār</l>
+          <l>kaṇṭiciṟ ṟōḻi poruṭpirin tōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>He has not come even in the evening, when the bees gather</l>
+          <l rend="indent3">in the woodland of fragrant blossoms, the little buds opening</l>
+          <l rend="indent2">[their] tender fetters into fresh blooms, like the laugh of the wild
+            cat,</l>
+          <l rend="indent4">on the jasmine, flowering beside the stubble</l>
+          <l rend="indent5">– an image of missing heads , grazed by the Iralai –</l>
+          <l rend="indent5">of the millet on the new field, swollen in the old rain ,</l>
+          <l rend="indent2">− look, friend, he who has separated because of wealth.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT220">
+    <interp type="alignment" select="0">26M3G141MG33MG2M,206MG</interp>
+    <entry>
+    <form>paḻa</form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>maḻai<pc>+</pc></form>
+    <def>rain</def>
+    </entry>
+    <entry>
+    <form>kalitta</form>
+    <def>swollen-</def>
+    </entry>
+    <entry>
+    <form>putu<pc>+</pc></form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>puṉa<pc>(</pc>m<pc>)</pc></form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form>varakiṉ</form>
+    <def>millet</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>iralai</form>
+    <def>Iralai(-deer)</def>
+    </entry>
+    <entry>
+    <form>mēynta</form>
+    <def>grazed-</def>
+    </entry>
+    <entry>
+    <form>kuṟai<pc>+</pc></form>
+    <def>deficiency</def>
+    </entry>
+    <entry>
+    <form>talai<pc>+</pc></form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>pāvai</form>
+    <def>picture</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iruvi</form>
+    <def>stubble</def>
+    </entry>
+    <entry>
+    <form>cēr</form>
+    <def>join-</def>
+    </entry>
+    <entry>
+    <form>maruṅkiṉ</form>
+    <def>side</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pūtta</form>
+    <def>flowered-</def>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>veruku</form>
+    <def>wild-cat</def>
+    </entry>
+    <entry>
+    <form>cirittaṉṉa</form>
+    <def>laughed-like</def>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>piṇi<pc>+</pc></form>
+    <def>fetter</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>mukai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aviḻnta</form>
+    <def>opened-</def>
+    </entry>
+    <entry>
+    <form>naṟu</form>
+    <def>smelling</def>
+    </entry>
+    <entry>
+    <form>malar<pc>+</pc></form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>puṟaviṉ</form>
+    <def>woodland</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vaṇṭu</form>
+    <def>bee</def>
+    </entry>
+    <entry>
+    <form>cūḻ</form>
+    <def>swarm-</def>
+    </entry>
+    <entry>
+    <form>mālai-<pc>~</pc>um</form>
+    <def>evening</def>
+    <form type="simple">mālai</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come-not-he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kaṇṭiciṉ</form>
+    <def>see</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>poruḷ</form>
+    <def>wealth</def>
+    </entry>
+    <entry>
+    <form>pirintōr-ē</form>
+    <def>separated-he</def>
+    <form type="simple">pirintōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 257. <persName xml:lang="ta">uṟaiyūr
+          ciṟukantaṉ</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT257-kilavi">
+        <p type="edition">varaivuṇarttiya tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante who announced marriage. </p>
+      </div>
+
+      <div xml:id="KT257">
+        <lg type="edition">
+          <l>vēru mutaluṅ kōṭu morāṅkut</l>
+          <l>toṭutta pōlat tūṅkupu toṭarik</l>
+          <l>kīḻtāḻ vaṉṉa vīḻkōṭ palavi</l>
+          <l>ṉārkali veṟpaṉ varutoṟum varūu</l>
+          <l>makaliṉu makalā tāki</l>
+          <l>yikalun tōḻinaṅ kāmattup pakaiyē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Ever when the man from the bustling mountain comes,</l>
+          <l rend="indent2">with jack trees with descending bundles </l>
+          <l rend="indent8">as if hanging down to the ground ,</l>
+          <l rend="indent4">hanging [and] linked [to each other] as if</l>
+          <l rend="indent4">root and base and branch were linked into one, </l>
+          <l>comes our enemy [in the form] of desire , friend, which is hostile,</l>
+          <l>being one not to depart, when [he] departs.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT257">
+    <interp type="alignment" select="0">3MG2ML4MG5M2G42MG33MG25MG30MG3M,155MG</interp>
+    <entry>
+    <form>vēr-um</form>
+    <def>root</def>
+    <form type="simple">vēr</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mutal-um</form>
+    <def>base</def>
+    <form type="simple">mutal</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>branch</def>
+    <form type="simple">kōṭu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>or</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>āṅku<pc>+</pc></form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>toṭutta</form>
+    <def>linked-</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be-similar</def>
+    </entry>
+    <entry>
+    <form>tūṅkupu</form>
+    <def>hung</def>
+    </entry>
+    <entry>
+    <form>toṭari<pc>+</pc></form>
+    <def>linked</def>
+    </entry>
+    <entry>
+    <form>kīḻ</form>
+    <def>below</def>
+    </entry>
+    <entry>
+    <form>tāḻv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hanging-down</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>vīḻ</form>
+    <def>descend-</def>
+    </entry>
+    <entry>
+    <form>kōḷ</form>
+    <def>bundle</def>
+    </entry>
+    <entry>
+    <form>palaviṉ</form>
+    <def>jack-tree</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ār</form>
+    <def>become-full-</def>
+    </entry>
+    <entry>
+    <form>kali</form>
+    <def>bustle</def>
+    </entry>
+    <entry>
+    <form>veṟpaṉ</form>
+    <def>mountain-he</def>
+    </entry>
+    <entry>
+    <form>varu-toṟum</form>
+    <def>come-ever</def>
+    </entry>
+    <entry>
+    <form>varūum</form>
+    <def>coming-</def>
+    </entry>
+    <entry>
+    <form>akaliṉum</form>
+    <def>depart-if-even</def>
+    </entry>
+    <entry>
+    <form>akalāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>depart-not</def>
+    </entry>
+    <entry>
+    <form>āki</form>
+    <def>become</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ikalum</form>
+    <def>being-hostile-</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kāmattu<pc>+</pc></form>
+    <def>desire-</def>
+    </entry>
+    <entry>
+    <form>pakai-<pc>~</pc>ē</form>
+    <def>enemy</def>
+    <form type="simple">pakai</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

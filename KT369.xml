@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 369. <persName xml:lang="ta">Kuṭavāyiṟ
+          Kīrattaṉār</persName>: <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT369-kilavi">
+        <p type="edition">tōḻi kiḻattikku uṭaṉpōkku uṇarttiyatu. </p>
+
+
+        <p type="translation" xml:lang="en">The confidante announcing [their] going away together to
+          HER. </p>
+      </div>
+
+      <div xml:id="KT369">
+        <lg type="edition">
+          <l> atta vākai yamalai vāṉeṟ</l>
+          <l> ṟariyār cilampi ṉarici yārppak</l>
+          <l> kōṭai tūkkuṅ kāṉañ</l>
+          <l> celvān tōḻi nalkiṉar namarē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent3">Into the forest, where the west wind lifts</l>
+          <l rend="indent2">the many bright nuts on the Sirissa trees by the road,</l>
+          <l rend="indent">to make the grains roar like metal pieces in anklets,</l>
+          <l>we are going, friend. Our <choice>
+              <seg>man has</seg>
+              <seg>people have</seg>
+            </choice> granted [it].</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT369">
+    <interp type="alignment" select="0">4M3G15ML3MG65MG2M,94MG</interp>
+    <entry>
+      <form>atta<pc>(</pc>m<pc>)</pc></form>
+      <def>road</def>
+    </entry>
+    <entry>
+      <form>vākai</form>
+      <def>Sirissa-tree</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>amalai</form>
+      <def>abundance</def>
+    </entry>
+    <entry>
+      <form>vāl</form>
+      <def>purity</def>
+    </entry>
+    <entry>
+      <form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>nut</def>
+    </entry>
+    <entry>
+      <form>ari</form>
+      <def>metal-pieces</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ār</form>
+      <def>roar-</def>
+    </entry>
+    <entry>
+      <form>cilampiṉ</form>
+      <def>anklet</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>arici</form>
+      <def>grain</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ārppa<pc>+</pc></form>
+      <def>roar</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>kōṭai</form>
+      <def>west-wind</def>
+    </entry>
+    <entry>
+      <form>tūkkum</form>
+      <def>lifting-</def>
+    </entry>
+    <entry>
+      <form>kāṉam</form>
+      <def>forest</def>
+    </entry>
+    <entry>
+      <form>celvām</form>
+      <def>we-go</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>nalkiṉar</form>
+      <def>granted-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>namar-ē</form>
+      <def>our-they</def>
+      <form type="simple">namar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

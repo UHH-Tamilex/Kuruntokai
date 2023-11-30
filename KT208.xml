@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 208. <persName xml:lang="ta">Kapilar</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT208-kilavi">
+        <p type="edition">varaiviṭai “āṟṟal vēṇṭum” eṉṟa tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante, who said “one has to have
+          the strength to [await] the time of separation”. </p>
+      </div>
+
+      <div xml:id="KT208">
+        <lg type="edition">
+
+          <l>oṉṟē ṉallē ṉoṉṟuveṉ kuṉṟattup</l>
+          <l>porukaḷiṟu mititta neritāḷ vēṅkai</l>
+          <l>kuṟavar makaḷir kūntaṟ peymmār</l>
+          <l>niṉṟukoya malaru nāṭaṉō</l>
+          <l>ṭoṉṟēṉ ṟōḻi yoṉṟa ṉāṉē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>Not that I am not one; I am one</l>
+          <l rend="indent">-because of one thing , friend, I am not one</l>
+          <l rend="indent2">with the man from the land, where the Vēṅkai flowers,</l>
+          <l rend="indent3">to be plucked while standing ,</l>
+          <l rend="indent4">for the women of the hill people to wear in [their] tresses,</l>
+          <l rend="indent2">[its] crushed trunk trampled by the fighting elephant bulls</l>
+          <l rend="indent9">of the hills.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT208">
+    <interp type="alignment" select="0">98MR7MG17MG2M,127M</interp>
+    <entry>
+    <form>oṉṟēṉ</form>
+    <def>I-am-not-one</def>
+    </entry>
+    <entry>
+    <form>allēṉ</form>
+    <def>I-am-not-so</def>
+    </entry>
+    <entry>
+    <form>oṉṟuveṉ</form>
+    <def>I-am-one</def>
+    </entry>
+    <entry>
+    <form>kuṉṟattu<pc>+</pc></form>
+    <def>hill-</def>
+    </entry>
+    <entry>
+    <form>poru</form>
+    <def>fight-</def>
+    </entry>
+    <entry>
+    <form>kaḷiṟu</form>
+    <def>bull-elephant</def>
+    </entry>
+    <entry>
+    <form>mititta</form>
+    <def>trampled-</def>
+    </entry>
+    <entry>
+    <form>neri</form>
+    <def>crush-</def>
+    </entry>
+    <entry>
+    <form>tāḷ</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>vēṅkai</form>
+    <def>Vēṅkai</def>
+    </entry>
+    <entry>
+    <form>kuṟavar</form>
+    <def>hill-inhabitant</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>makaḷir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>kūntal</form>
+    <def>tresses</def>
+    </entry>
+    <entry>
+    <form>peymmār</form>
+    <def>wear</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>niṉṟu</form>
+    <def>stood</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>koya</form>
+    <def>pluck</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>malarum</form>
+    <def>flowering-</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>land-he</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>oṉṟēṉ</form>
+    <def>I-am-not-one</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oṉṟaṉāṉ-ē</form>
+    <def>one(obl.-inst.)</def>
+    <form type="simple">oṉṟaṉāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 374. <persName xml:lang="ta">uṟaiyūrp
+                    palkāyaṉār </persName> : <hi rend="italic">the confidante / SHE</hi></title>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+                <listPerson>
+                    <person xml:id="Cam">
+                        <abbr>Cām.</abbr>
+                        <expan>Cāminātaiyar's commentary on KT</expan>
+                    </person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div xml:id="KT374-kilavi">
+                <p type="edition">aṟattoṭu niṉṟamai tōḻi kiḻattikku uraittatu. </p>
+
+
+                <p type="translation" xml:lang="en">Told to HER by the confidante as a [way of]
+                    standing firm in duty. </p>
+            </div>
+
+            <div xml:id="KT374">
+                <lg type="edition">
+                    <l> entaiyum yāyu muṇarak kāṭṭi</l>
+                    <l> yoḷitta ceyti veḷippaṭak kiḷantapiṉ</l>
+                    <l> malaikeḻu veṟpaṉ ṟalaivan tirappa</l>
+                    <l> naṉṟupuri koḷkaiyi ṉoṉṟā yiṉṟē</l>
+                    <l> muṭaṅka liṟaiya tūṅkaṇaṅ kurīi</l>
+                    <l> nīṭirum peṇṇait toṭutta</l>
+                    <l> kūṭiṉu mayaṅkiya maiya lūrē.</l>
+
+
+                </lg>
+
+                <lg type="translation" xml:lang="en">
+                    <l> As my father and mother,</l>
+                    <l rend="indent"> after having shown that they had come to know,</l>
+                    <l rend="indent"> [and] after it was expressed clearly, that [my] secret action</l>
+                    <l rend="indent9"> had become public,</l>
+                    <l rend="indent2"> [and] since [the thing] with the man from the mountains</l>
+                    <l rend="indent6"> had come to pass [anyhow] ,</l>
+                    <l rend="indent6"> begged [him to marry me], </l>
+                    <l> [the village] became one in the maxim of desiring [to do] good,</l>
+                    <l rend="indent6"> more so than the nest</l>
+                    <l rend="indent"> of the Tūṅkanam bird with bent wings, </l>
+                    <l rend="indent2"> linked with the long, dark Palmyra tree,</l>
+                    <l> – the village in confused pride.</l>
+
+                    <lg type="alternate" sameAs="1-3b" resp="#Cam">
+                        <l rend="indent"> After I (the confidante) had expressed clearly, so that it
+                            comes out,</l>
+                        <l rend="indent8"> [our] secret action,</l>
+                        <l> showing [it], so that they realised, to my father and mother,</l>
+                        <l> [and] when the man from the mountains came to beg [for her hand], ...</l>
+
+                        <lg type="alternate" sameAs="1-3c">
+                            <l rend="indent"> When the man from the mountains,</l>
+                            <l> after he had shown, so that my father and mother realise,</l>
+                            <l> [and] expressed clearly, so that [it] comes out, [our] secret
+                                action,</l>
+                            <l rend="indent9"> came to beg, ...</l>
+
+                        </lg>
+
+                    </lg>
+                </lg>
+            </div>
+        </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT374">
+        <interp type="alignment" select="0">5MG6MG42MG27MG27MG5M2G31MG25ML16MG2M,195MG</interp>
+        <entry>
+            <form>entai-<pc>~</pc>um</form>
+            <def>my-father</def>
+            <form type="simple">entai</form>
+            <gramGrp type="particle"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+            <form>yāy-um</form>
+            <def>my-mother</def>
+            <form type="simple">yāy</form>
+            <gramGrp type="particle"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+            <form>uṇara<pc>+</pc></form>
+            <def>realise</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>kāṭṭi</form>
+            <def>shown</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>oḷitta</form>
+            <def>concealed-</def>
+        </entry>
+        <entry>
+            <form>ceyti</form>
+            <def>action</def>
+        </entry>
+        <entry>
+            <form>veḷippaṭa<pc>+</pc></form>
+            <def>come-out</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>kiḷanta-piṉ</form>
+            <def>expressed-clearly-after</def>
+        </entry>
+        <entry>
+            <form>malai</form>
+            <def>mountain</def>
+        </entry>
+        <entry>
+            <form>keḻu</form>
+            <def>have-</def>
+        </entry>
+        <entry>
+            <form>veṟpaṉ</form>
+            <def>mountain-he</def>
+        </entry>
+        <entry>
+            <form>talaivant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>come-to-pass</def>
+            <gram type="role">absolutive</gram>
+        </entry>
+        <entry>
+            <form>irappa</form>
+            <def>beg</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>naṉṟu</form>
+            <def>good-it</def>
+        </entry>
+        <entry>
+            <form>puri</form>
+            <def>desire-</def>
+        </entry>
+        <entry>
+            <form>koḷkaiyiṉ</form>
+            <def>principle</def>
+            <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>one-it</def>
+        </entry>
+        <entry>
+            <form>āyiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+            <def>it-became</def>
+            <form type="simple">āyiṉṟu</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+            <form>muṭaṅkal</form>
+            <def>being-bent</def>
+        </entry>
+        <entry>
+            <form>iṟaiya</form>
+            <def>joint-</def>
+            <gramGrp type="affix"><form>a</form></gramGrp>
+        </entry>
+        <entry>
+            <form>tūṅkaṇaṅkurīi</form>
+            <def>Tūṅkaṇam-bird</def>
+        </entry>
+        <entry>
+            <form>nīṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>prolong-</def>
+        </entry>
+        <entry>
+            <form>irum</form>
+            <def>dark/big</def>
+        </entry>
+        <entry>
+            <form>peṇṇai<pc>+</pc></form>
+            <def>Palmyra-palm</def>
+        </entry>
+        <entry>
+            <form>toṭutta</form>
+            <def>connected-</def>
+        </entry>
+        <entry>
+            <form>kūṭiṉum</form>
+            <def>nestiṉ</def>
+            <form type="simple">kūṭiṉ</form>
+            <gramGrp type="particle"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+            <form>mayaṅkiya</form>
+            <def>confused-</def>
+        </entry>
+        <entry>
+            <form>maiyal</form>
+            <def>madness/pride</def>
+        </entry>
+        <entry>
+            <form>ūr-ē</form>
+            <def>village</def>
+            <form type="simple">ūr</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+    </standOff>
+</TEI>

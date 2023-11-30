@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 377. <persName xml:lang="ta">Mōci
+                    Koṟṟaṉ </persName>: <hi rend="italic">SHE / the confidante</hi></title>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div xml:id="KT377-kilavi">
+                <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti aḻintu kūṟiyatu. </p>
+
+
+                <p type="translation" xml:lang="en">Uttered when being desolate by HER to the
+                    confidante, who was anxious that she would not have the strength [to await] the
+                    time of marriage. </p>
+            </div>
+
+            <div xml:id="KT377">
+                <lg type="edition">
+                    <l> malarē ruṇkaṇ māṇalan tolaiya</l>
+                    <l> vaḷaiyēr meṉṟōṇ ñekiḻntataṉ ṟalaiyu</l>
+                    <l> māṟṟā kiṉṟē tōḻiyāṟ ṟalaiyē</l>
+                    <l> yaṟitaṟ kamaiyā nāṭaṉoṭu</l>
+                    <l> ceytu koṇṭatōr ciṟunaṉ ṉaṭpē.</l>
+
+
+                </lg>
+
+                <lg type="translation" xml:lang="en">
+                    <l rend="indent"> On top even of the soft shoulders pretty with bangles</l>
+                    <l rend="indent9"> being emaciated,</l>
+                    <l rend="indent2">while the precious beauty of flower-like collyrium eyes gets
+                        lost,</l>
+                    <l>[another] change has taken place, friend:</l>
+                    <l rend="indent7"> you cannot bear [anymore]</l>
+                    <l>the little good friendship, that has been made </l>
+                    <l rend="indent3">with the man from a land, without being fit to be known.</l>
+
+                    <lg type="alternate" sameAs="4b">
+                        <l>with the man from a land, not worthy to be known [by us].</l>
+                    </lg>
+
+
+                </lg>
+            </div>
+        </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT377">
+        <interp type="alignment" select="0">15ML36MG5MG3ML3MG5M2G13MG10MG38M2G2M,140MG</interp>
+        <entry>
+            <form>malar</form>
+            <def>blossom</def>
+        </entry>
+        <entry>
+            <form>ēr</form>
+            <def>resemble-</def>
+        </entry>
+        <entry>
+            <form>uṇ</form>
+            <def>collyrium</def>
+        </entry>
+        <entry>
+            <form>kaṇ</form>
+            <def>eye</def>
+        </entry>
+        <entry>
+            <form>māṇ</form>
+            <def>glory</def>
+        </entry>
+        <entry>
+            <form>nalam</form>
+            <def>goodness</def>
+        </entry>
+        <entry>
+            <form>tolaiya</form>
+            <def>get-lost</def>
+            <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+            <form>vaḷai</form>
+            <def>bangle</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>ēr</form>
+            <def>beauty</def>
+        </entry>
+        <entry>
+            <form>mel</form>
+            <def>soft</def>
+        </entry>
+        <entry>
+            <form>tōḷ</form>
+            <def>shoulder</def>
+        </entry>
+        <entry>
+            <form>ñekiḻntataṉ-talai-<pc>~</pc>um</form>
+            <def>become-loose-it-top</def>
+            <form type="simple">ñekiḻntataṉ-talai</form>
+            <gramGrp type="particle"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+            <form>māṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>change</def>
+        </entry>
+        <entry>
+            <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+            <def>it-became</def>
+            <form type="simple">ākiṉṟu</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+            <form>tōḻi</form>
+            <def>friend</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>āṟṟalai-<pc>~</pc>ē</form>
+            <def>bear-not-you</def>
+            <form type="simple">āṟṟalai</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aṟitaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>knowledge</def>
+            <gram type="role">dative</gram>
+        </entry>
+        <entry>
+            <form>amaiyā</form>
+            <def>be-appropriate-not</def>
+        </entry>
+        <entry>
+            <form>nāṭaṉoṭu</form>
+            <def>land-he</def>
+            <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>ceytu</form>
+            <def>made</def>
+        </entry>
+        <entry>
+            <form>koṇṭatōr</form>
+            <def>taken-it-one</def>
+        </entry>
+        <entry>
+            <form>ciṟu</form>
+            <def>little</def>
+        </entry>
+        <entry>
+            <form>nal</form>
+            <def>good</def>
+        </entry>
+        <entry>
+            <form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+            <def>intimacy</def>
+            <form type="simple">naṭpu</form>
+            <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+    </standOff>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 399. <persName xml:lang="ta">paraṇar</persName>
+                    : <hi rend="italic">SHE</hi></title>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div xml:id="KT399-kilavi">
+                <p type="edition">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc colliyatu. </p>
+
+
+                <p type="translation" xml:lang="en">Uttered to the confidante by HER, when [he]
+                    delays marriage. </p>
+            </div>
+
+            <div xml:id="KT399">
+                <lg type="edition">
+                    <l> ūruṇ kēṇi yuṇṭuṟait tokka</l>
+                    <l> pāci yaṟṟē pacalai kātalar</l>
+                    <l> toṭuvuḻit toṭuvuḻi nīṅki</l>
+                    <l> viṭuvuḻi viṭuvuḻip paratta lāṉē.</l>
+
+
+                </lg>
+
+                <lg type="translation" xml:lang="en">
+                    <l> Pallor [is] like lichen, gathered</l>
+                    <l rend="indent"> by the dark ghat, the village drinking well:</l>
+                    <l> leaves,<choice>
+                        <seg>whenever</seg>
+                        <seg>wherever</seg>
+                    </choice> the lover touches,</l>
+                    <l> spreads , <choice>
+                        <seg>whenever</seg>
+                        <seg>wherever</seg>
+                    </choice> he lets go.</l>
+
+
+                </lg>
+            </div>
+        </body>
+    </text>
+
+</TEI>

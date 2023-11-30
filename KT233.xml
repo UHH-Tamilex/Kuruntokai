@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 233. <persName xml:lang="ta">pēyaṉ</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT233-kilavi">
+        <p type="edition">paṭṭapiṉṟai varaiyātu ceṉṟu viṉaimuṟṟi mīḷun talaimakaṉ tērppākaṟkuc
+          colliyatu. </p>
+        <p type="translation" xml:lang="en">Uttered to the charioteer by HIM who returned after
+          completing [his] work, having gone without marrying after it had become [public]. </p>
+      </div>
+
+      <div xml:id="KT233">
+        <lg type="edition">
+          <l> kavalai keṇṭiya vakalvāyc ciṟukuḻi</l>
+          <l> koṉṟai yoḷvī tāayc celvar</l>
+          <l> poṉpey pēḻai mūytiṟan taṉṉa</l>
+          <l> kāretir puṟavi ṉatuvē yuyarntōrkku</l>
+          <l> nīroṭu corinta miccil yāvarkkum</l>
+          <l> varaikō ḷaṟiyāc coṉṟi</l>
+          <l> niraikōṟ kuṟuntoṭi tantai yūrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>The village of the father of [her with] tight bracelets in a row</l>
+          <l>[means] cooked rice that knows no limit</l>
+          <l rend="indent">for anyone, as a rest of what is poured forth with water</l>
+          <l rend="indent8">for high-born ones .</l>
+          <l>It [lies] in the woodland, in the face of the rainy season,</l>
+          <l rend="indent">as if the lid is opened of the gold-raining baskets</l>
+          <l rend="indent6">of prosperous people,</l>
+          <l rend="indent3">since the bright blossoms of the Laburnum are spread</l>
+          <l rend="indent4">in small pits with wide mouths dug for the Kavalai plants.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT233">
+    <interp type="alignment" select="0">94MG40M2G49M,185MG</interp>
+    <entry>
+    <form>kavalai</form>
+    <def>Kavalai(-plant)/crossroad</def>
+    </entry>
+    <entry>
+    <form>keṇṭiya</form>
+    <def>dug-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akal</form>
+    <def>widen-</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>kuḻi</form>
+    <def>pit</def>
+    </entry>
+    <entry>
+    <form>koṉṟai</form>
+    <def>Laburnum(-tree)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>tāay<pc>+</pc></form>
+    <def>spread</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>celvar</form>
+    <def>prosperity-they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>pey</form>
+    <def>rain-</def>
+    </entry>
+    <entry>
+    <form>pēḻai</form>
+    <def>casket</def>
+    </entry>
+    <entry>
+    <form>mūy</form>
+    <def>lid</def>
+    </entry>
+    <entry>
+    <form>tiṟantaṉṉa</form>
+    <def>opened-like</def>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy-season</def>
+    </entry>
+    <entry>
+    <form>etir</form>
+    <def>opposite</def>
+    </entry>
+    <entry>
+    <form>puṟaviṉatu-<pc>~</pc>ē</form>
+    <def>woodland-it</def>
+    <form type="simple">puṟaviṉatu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uyarntōrkku</form>
+    <def>become-high-they</def>
+    <gram type="role">honorific dative</gram>
+    </entry>
+    <entry>
+    <form>nīroṭu</form>
+    <def>water</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>corinta</form>
+    <def>poured-forth-</def>
+    </entry>
+    <entry>
+    <form>miccil</form>
+    <def>rest</def>
+    </entry>
+    <entry>
+    <form>yāvarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>who</def>
+    <form type="simple">yāvarkku</form>
+    <gram type="role">honorific dative</gram>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>limit</def>
+    </entry>
+    <entry>
+    <form>kōḷ</form>
+    <def>taking</def>
+    </entry>
+    <entry>
+    <form>aṟiyā<pc>+</pc></form>
+    <def>know-not</def>
+    </entry>
+    <entry>
+    <form>coṉṟi</form>
+    <def>cooked-rice</def>
+    </entry>
+    <entry>
+    <form>nirai</form>
+    <def>row</def>
+    </entry>
+    <entry>
+    <form>kōl</form>
+    <def>stem</def>
+    </entry>
+    <entry>
+    <form>kuṟum</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>toṭi</form>
+    <def>bracelet</def>
+    </entry>
+    <entry>
+    <form>tantai</form>
+    <def>father</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūrē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

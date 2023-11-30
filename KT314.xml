@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 314. <persName xml:lang="ta">Pēricāttaṉ </persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="Cām">
+            <persName>
+              <abbr>Cām.</abbr>
+              <expan>Cāminātaiyar's commentary on KT</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT314-kilavi">
+        <p type="edition">piriviṭai vēṟupaṭṭa kiḻatti vaṟpuṟuttun tōḻikkup paruvaṅ kāṭṭi aḻintu
+          kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken in desolation by HER, who had changed in the time
+          of separation, when pointing out the season to the confidante who was encouraging [her]. </p>
+      </div>
+
+      <div xml:id="KT314">
+        <lg type="edition">
+          <l> cēyuyar vicumpi ṉīruṟu kamañcūṟ</l>
+          <l> ṟaṇkura leḻili yoṇcuṭa rimaippap</l>
+          <l> peyaṟāḻ piruḷiya pulampukoṇ mālaiyum</l>
+          <l> vārār vāḻi tōḻi varūu</l>
+          <l> miṉṉuṟa ḻiḷamulai ñemuṅka</l>
+          <l> viṉṉā vaippiṟ curaṉiṟan tōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">Even in the evening full of loneliness,</l>
+          <l rend="indent6">darkened by rain hanging down,</l>
+          <l rend="indent2">while bright glow flickers from the cool-voiced cloud,</l>
+          <l rend="indent2">fully pregnant with water in the distant high sky,</l>
+          <l>he has not come, oh friend,</l>
+          <l rend="indent9">– [there] comes </l>
+          <l>the lightning, for my close young breast to be oppressed –</l>
+          <l>he, who traversed the desert of unpleasant regions.</l>
+
+          <lg type="alternate" sameAs="4-6b" resp="#Cām">
+            <l>he has not come, oh friend,</l>
+            <l>he who has traversed the desert of unpleasant regions,</l>
+            <l> so that my coming young breasts, close to lightning, will be squeezed.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT314">
+    <interp type="alignment" select="0">15ML47ML3MG22MG68MG2M,161MG</interp>
+    <entry>
+      <form>cēy</form>
+      <def>distance</def>
+    </entry>
+    <entry>
+      <form>uyar</form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>vicumpiṉ</form>
+      <def>sky</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>kamam</form>
+      <def>fullness</def>
+    </entry>
+    <entry>
+      <form>cūl</form>
+      <def>pregnancy</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>kural</form>
+      <def>voice</def>
+    </entry>
+    <entry>
+      <form>eḻili</form>
+      <def>cloud</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>cuṭar</form>
+      <def>glow</def>
+    </entry>
+    <entry>
+      <form>imaippa<pc>+</pc></form>
+      <def>twinkle</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>peyal</form>
+      <def>raining</def>
+    </entry>
+    <entry>
+      <form>tāḻp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>hung-down</def>
+    </entry>
+    <entry>
+      <form>iruḷiya</form>
+      <def>darkened-</def>
+    </entry>
+    <entry>
+      <form>pulampu</form>
+      <def>loneliness</def>
+    </entry>
+    <entry>
+      <form>koḷ</form>
+      <def>take-</def>
+    </entry>
+    <entry>
+      <form>mālai-<pc>~</pc>um</form>
+      <def>evening</def>
+      <form type="simple">mālai</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vārār</form>
+      <def>come-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>varūum</form>
+      <def>coming-</def>
+    </entry>
+    <entry>
+      <form>miṉ</form>
+      <def>lightning</def>
+    </entry>
+    <entry>
+      <form>uṟaḻ</form>
+      <def>be-close-</def>
+    </entry>
+    <entry>
+      <form>iḷa</form>
+      <def>young</def>
+    </entry>
+    <entry>
+      <form>mulai</form>
+      <def>breast</def>
+    </entry>
+    <entry>
+      <form>ñemuṅka</form>
+      <def>be-pressed</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>iṉṉā</form>
+      <def>pleasant-not</def>
+    </entry>
+    <entry>
+      <form>vaippiṉ</form>
+      <def>region</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>curaṉ</form>
+      <def>desert</def>
+    </entry>
+    <entry>
+      <form>iṟantōr-ē</form>
+      <def>traversed-he</def>
+      <form type="simple">iṟantōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

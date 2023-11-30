@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 359. <persName xml:lang="ta">Pēyaṉ</persName>
+          : <hi rend="italic">the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT359-kilavi">
+        <p type="edition">parattaiyiṟ pirintu vanta talaimakaṉ vāyil vēṇṭip peṟātu tāṉē pukkuk
+          kūṭiyatu kaṇṭu tōḻi pāṇarkkuc colliyatu. </p>
+
+
+        <p type="translation" xml:lang="en">Uttered to the bard by the confidante, when she saw the
+          arrival of HIM, who came after having separated because of another woman, entering in
+          person without obtaining [reconciliation] when wishing for the door/mediation. </p>
+      </div>
+
+      <div xml:id="KT359">
+        <lg type="edition">
+          <l> kaṇṭiciṟ pāṇa paṇpuṭait tamma</l>
+          <l> mālai virinta pacuveṇ ṇilaviṟ</l>
+          <l> kuṟuṅkāṟ kaṭṭi ṉaṟumpūñ cēkkaip</l>
+          <l> paḷḷi yāṉaiyi ṉuyirttaṉa ṉacaiyiṟ</l>
+          <l> putalvaṟ ṟaḻīiyiṉaṉ viṟalavaṉ</l>
+          <l> putalvaṉ ṟāyavaṉ puṟaṅkavaii yiṉaḷē.</l>
+
+
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>See, bard, it is like that, alas:</l>
+          <l rend="indent">As he was yearning, he breathing like an elephant on [its] lair ,</l>
+          <l rend="indent2">on the bed fragrant with flowers near the short-legged cot </l>
+          <l rend="indent3">in the fresh white moonlight expanded at evening,</l>
+          <l>the victorious one embraced [his] son.</l>
+          <l>The mother of [his] son, she was split from his back. </l>
+
+          <lg type="alternate" sameAs="6b" resp="#TVG">
+            <l>The mother of [his] son, she embraced his back.</l>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT359">
+    <interp type="alignment" select="0">16MG6M2G44ML37ML65MG2M,175MG</interp>
+    <entry>
+      <form>kaṇṭiciṉ</form>
+      <def>see</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>pāṇa</form>
+      <def>bard</def>
+      <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+      <form>paṇp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>nature</def>
+    </entry>
+    <entry>
+      <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
+      <def>possess-it</def>
+      <form type="simple">uṭaittu</form>
+      <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+      <form>mālai</form>
+      <def>evening</def>
+    </entry>
+    <entry>
+      <form>virinta</form>
+      <def>expanded-</def>
+    </entry>
+    <entry>
+      <form>pacu</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+    </entry>
+    <entry>
+      <form>nilaviṉ</form>
+      <def>moonlight</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>leg</def>
+    </entry>
+    <entry>
+      <form>kaṭṭil</form>
+      <def>cot</def>
+    </entry>
+    <entry>
+      <form>naṟum</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>pūm</form>
+      <def>flower</def>
+    </entry>
+    <entry>
+      <form>cēkkai<pc>+</pc></form>
+      <def>bed</def>
+    </entry>
+    <entry>
+      <form>paḷḷi</form>
+      <def>resting-place</def>
+    </entry>
+    <entry>
+      <form>yāṉaiyiṉ</form>
+      <def>elephant</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>uyirttaṉaṉ</form>
+      <def>he-breathed</def>
+    </entry>
+    <entry>
+      <form>nacaiyiṉ</form>
+      <def>yearning-if</def>
+    </entry>
+    <entry>
+      <form>putalvaṉ</form>
+      <def>son</def>
+    </entry>
+    <entry>
+      <form>taḻīiyiṉaṉ</form>
+      <def>he-embraced</def>
+    </entry>
+    <entry>
+      <form>viṟal</form>
+      <def>victory</def>
+    </entry>
+    <entry>
+      <form>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>putalvaṉ</form>
+      <def>son</def>
+    </entry>
+    <entry>
+      <form>tāy</form>
+      <def>mother</def>
+    </entry>
+    <entry>
+      <form>avaṉ</form>
+      <def>he</def>
+    </entry>
+    <entry>
+      <form>puṟam</form>
+      <def>back</def>
+    </entry>
+    <entry>
+      <form>kavaiiyiṉaḷ-ē</form>
+      <def>bifurcation-she</def>
+      <form type="simple">kavaiiyiṉaḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 273. <persName xml:lang="ta">
+          Ciṟaikkuṭiyāntaiyār</persName>: <hi rend="italic">the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT273-kilavi">
+        <p type="edition">pirivar eṉak kavaṉṟa talaimakaḷait tōḻi vaṟpuṟuttiyatu. </p>
+        <p type="translation" xml:lang="en">The confidante encouraging HER who was anxious he would
+          separate. </p>
+      </div>
+
+      <div xml:id="KT273">
+        <lg type="edition">
+          <l> alkuṟu poḻutiṟ ṟātumukai tayaṅkap</l>
+          <l> peruṅkā ṭuḷḷu macaivaḷi pōlat</l>
+          <l> taṇṇiya kamaḻu moṇṇuta lōyē</l>
+          <l> nontaṉai yāyiṟ kaṇṭatu moḻival</l>
+          <l> peruntēṉ kaṇpaṭu varaiyiṉ mutumāl</l>
+          <l> paṟiyā tēṟiya maṭavōṉ pōla</l>
+          <l> vēmān taṉṟiv vulaka</l>
+          <l> nāmuḷē mākap piriyalen teḷimē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>O you with bright forehead smelling coolly </l>
+          <l rend="indent2">like the moving wind which remembers the great wilderness,</l>
+          <l rend="indent5">so that buds shimmer with pollen at night time!</l>
+          <l>If you were to ache, I speak of what [I have] seen:</l>
+          <l>confused is this world,</l>
+          <l rend="indent2">like an ignorant person who mounted without knowing</l>
+          <l rend="indent5">an old bamboo ladder on the mountain, where a great honey[comb] is
+            visible to the eye.</l>
+          <l>Let it be clear: we won't separate as we are here.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT273">
+    <interp type="alignment" select="0">3MG35MG41MG59MG6MG25MG8MR25MG2M,211MG</interp>
+    <entry>
+      <form>alk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>night</def>
+    </entry>
+    <entry>
+      <form>uṟu</form>
+      <def>have-</def>
+    </entry>
+    <entry>
+      <form>poḻutiṉ</form>
+      <def>time</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tātu</form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>mukai</form>
+      <def>bud</def>
+    </entry>
+    <entry>
+      <form>tayaṅka<pc>+</pc></form>
+      <def>glitter</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>wilderness</def>
+    </entry>
+    <entry>
+      <form>uḷḷum</form>
+      <def>remembering-</def>
+    </entry>
+    <entry>
+      <form>acai</form>
+      <def>move-</def>
+    </entry>
+    <entry>
+      <form>vaḷi</form>
+      <def>wind</def>
+    </entry>
+    <entry>
+      <form>pōla<pc>+</pc></form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>taṇṇiya</form>
+      <def>cool-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>kamaḻum</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>nutalōy-ē</form>
+      <def>forehead-you</def>
+      <form type="simple">nutalōy</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nontaṉai</form>
+      <def>you-ached</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āyiṉ</form>
+      <def>if</def>
+    </entry>
+    <entry>
+      <form>kaṇṭatu</form>
+      <def>seen-it</def>
+    </entry>
+    <entry>
+      <form>moḻival</form>
+      <def>I-speak</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>tēṉ</form>
+      <def>honey</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>paṭu</form>
+      <def>happen-</def>
+    </entry>
+    <entry>
+      <form>varaiyiṉ</form>
+      <def>mountain</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>mutu</form>
+      <def>old</def>
+    </entry>
+    <entry>
+      <form>mālp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>bamboo-ladder</def>
+    </entry>
+    <entry>
+      <form>aṟiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>know-not</def>
+    </entry>
+    <entry>
+      <form>ēṟiya</form>
+      <def>mounted-</def>
+    </entry>
+    <entry>
+      <form>maṭavōṉ</form>
+      <def>inexperience-he</def>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēmāntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>it-is-confused</def>
+    </entry>
+    <entry>
+      <form>i<pc>+</pc></form>
+      <def>this-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ulakam</form>
+      <def>world</def>
+    </entry>
+    <entry>
+      <form>nām</form>
+      <def>we</def>
+    </entry>
+    <entry>
+      <form>uḷēm</form>
+      <def>we-are</def>
+    </entry>
+    <entry>
+      <form>āka<pc>+</pc></form>
+      <def>become</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>piriyalem</form>
+      <def>we-don't-separate</def>
+    </entry>
+    <entry>
+      <form>teḷim-ē</form>
+      <def>be-clear-</def>
+      <form type="simple">teḷim</form>
+      <gram type="role">imperative</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

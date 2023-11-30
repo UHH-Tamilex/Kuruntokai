@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 300. <persName xml:lang="ta">
+          Ciṟaikkuṭiyāntaiyār</persName>: <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT300-kilavi">
+        <p type="edition">iyaṟkaip puṇarcci puṇarnta talaimakaṉ pirivu accamum vaṉpoṟaiyum kūṟiyatu. </p>
+        <p type="translation" xml:lang="en">Spoken as an encouragement and about the fear of
+          separation, by HIM, who had experienced natural union [with her]. </p>
+      </div>
+
+      <div xml:id="KT300">
+        <lg type="edition">
+          <l> kuvaḷai nāṟuṅ kuvaiyiruṅ kūnta</l>
+          <l> lāmpa ṉāṟun tēmpoti tuvarvāyk</l>
+          <l> kuṇṭunīrt tāmaraik koṅki ṉaṉṉa</l>
+          <l> nuṇpaḵ ṟitti māa yōyē</l>
+          <l> nīyē, yañca leṉṟaveṉ collañ calaiyē</l>
+          <l> yāṉē, kuṟuṅkā laṉṉaṅ kuvavumaṇaṟ cēkkuṅ</l>
+          <l> kaṭalcūḻ maṇṭilam peṟiṉum</l>
+          <l> viṭalcū ḻalaṉyā ṉiṉṉuṭai naṭpē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Dark one with beauty spots fine [and] many</l>
+          <l rend="indent4">as the pollen of the red lotus in deep water,</l>
+          <l rend="indent2">with a honey-hoarding coral mouth redolent of white waterlilies,</l>
+          <l rend="indent2">with massed dark tresses, redolent of blue waterlilies!</l>
+          <l>You,</l>
+          <l>don't fear my saying “don't be afraid!” –</l>
+          <l>As for me,</l>
+          <l rend="indent2">even if I obtained the sea-girt orb,</l>
+          <l rend="indent4">where short-legged geese are resting upon heaped sand ,</l>
+          <l>I won't think of letting go of your friendship.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT300">
+    <interp type="alignment" select="0">33ML64MG3MG27MG5MG70ML11M2G2M,105MG32MG83MG</interp>
+    <entry>
+      <form>kuvaḷai</form>
+      <def>blue-waterlily</def>
+    </entry>
+    <entry>
+      <form>nāṟum</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>kuvai</form>
+      <def>mass</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>irum</form>
+      <def>dark</def>
+    </entry>
+    <entry>
+      <form>kūntal</form>
+      <def>tresses</def>
+    </entry>
+    <entry>
+      <form>āmpal</form>
+      <def>waterlily</def>
+    </entry>
+    <entry>
+      <form>nāṟum</form>
+      <def>smelling-</def>
+    </entry>
+    <entry>
+      <form>tēm</form>
+      <def>honey</def>
+    </entry>
+    <entry>
+      <form>poti</form>
+      <def>hoard</def>
+    </entry>
+    <entry>
+      <form>tuvar</form>
+      <def>coral</def>
+    </entry>
+    <entry>
+      <form>vāy<pc>+</pc></form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>kuṇṭu</form>
+      <def>depth</def>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>tāmarai<pc>+</pc></form>
+      <def>red-lotus</def>
+    </entry>
+    <entry>
+      <form>koṅkiṉ</form>
+      <def>pollen</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>aṉṉa</form>
+      <def>like</def>
+    </entry>
+    <entry>
+      <form>nuṇ</form>
+      <def>fine</def>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+    </entry>
+    <entry>
+      <form>titti</form>
+      <def>beauty-spot</def>
+    </entry>
+    <entry>
+      <form>māayōy-ē</form>
+      <def>black-you</def>
+      <form type="simple">māayōy</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nī-<pc>~</pc>ē</form>
+      <def>you</def>
+      <form type="simple">nī</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>añcal</form>
+      <def>fear-not</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>eṉṟa</form>
+      <def>said-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>col</form>
+      <def>word</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>añcalai-<pc>~</pc>ē</form>
+      <def>you-don't-fear</def>
+      <form type="simple">añcalai</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>yāṉ-ē</form>
+      <def>I</def>
+      <form type="simple">yāṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>leg</def>
+    </entry>
+    <entry>
+      <form>aṉṉam</form>
+      <def>(white)-aquatic-bird</def>
+    </entry>
+    <entry>
+      <form>kuvavu</form>
+      <def>heap</def>
+    </entry>
+    <entry>
+      <form>maṇal</form>
+      <def>sand</def>
+    </entry>
+    <entry>
+      <form>cēkkum</form>
+      <def>resting-</def>
+    </entry>
+    <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+    </entry>
+    <entry>
+      <form>cūḻ</form>
+      <def>surround-</def>
+    </entry>
+    <entry>
+      <form>maṇṭilam</form>
+      <def>circle</def>
+    </entry>
+    <entry>
+      <form>peṟiṉum</form>
+      <def>obtain-if-even</def>
+    </entry>
+    <entry>
+      <form>viṭal</form>
+      <def>letting</def>
+    </entry>
+    <entry>
+      <form>cūḻalaṉ</form>
+      <def>I-don't-consider</def>
+    </entry>
+    <entry>
+      <form>yāṉ</form>
+      <def>I</def>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>you-</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>intimacy</def>
+      <form type="simple">naṭpu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

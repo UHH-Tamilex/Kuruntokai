@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 305. <persName xml:lang="ta">Kuppai Kōḻiyār</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT305-kilavi">
+        <p type="edition">kāppumikutikkaṇ tōḻi aṟattoṭu niṟpāḷākat taṉatu āṟṟāmai tōṉṟat talaimakaḷ
+          taṉṉuḷḷē kūṟiyatu </p>
+        <p type="translation" xml:lang="en">Uttered in herself by HER, so that her lack of strength
+          appeared, while the confidante stood firm in duty, during an increase in guarding. </p>
+      </div>
+
+      <div xml:id="KT305">
+        <lg type="edition">
+          <l> kaṇṭara vanta kāma voḷḷeri</l>
+          <l> yeṉpuṟa naliyiṉu mavaroṭu pēṇic</l>
+          <l> ceṉṟunā muyaṅkaṟ karuṅkāṭ ciyamē</l>
+          <l> vantañar kaḷaitalai yavarāṟ ṟalarē</l>
+          <l> yuyttaṉar viṭāar pirittiṭai kaḷaiyār</l>
+          <l> kuppaik kōḻit taṉippōr pōla</l>
+          <l> viḷivāṅku viḷiyi ṉallatu</l>
+          <l> kaḷaivō rilaiyā ṉuṟṟa nōyē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent">Even though the bright flame of desire,</l>
+          <l rend="indent7">that came as the eye brought [it] on,</l>
+          <l rend="indent">afflicts [us] to the bone, having developed esteem towards him, </l>
+          <l>we [are] a rare sight [difficult] to embrace. </l>
+          <l>He is not able to come [and] remove [my] sorrow.</l>
+          <l>No one is there to remove the pain I have,</l>
+          <l>if not it perishes [then and] there, </l>
+          <l rend="indent2">like cocks in a lone battle over a heap:</l>
+          <l rend="indent4">he who has sent [them and] does not leave [them] off,</l>
+          <l rend="indent4">doesn't separate [and] in between remove [them].</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT305">
+    <interp type="alignment" select="0">27MG32ML8MG12MG5MG26MG22MG41MG39MG2M,222MG</interp>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>tara</form>
+      <def>give</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>vanta</form>
+      <def>come-</def>
+    </entry>
+    <entry>
+      <form>kāmam</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>eri</form>
+      <def>flame</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>bone</def>
+    </entry>
+    <entry>
+      <form>uṟa</form>
+      <def>have</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>naliyiṉum</form>
+      <def>afflict-if-even</def>
+    </entry>
+    <entry>
+      <form>avaroṭu</form>
+      <def>he</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>pēṇi<pc>+</pc></form>
+      <def>esteemed</def>
+    </entry>
+    <entry>
+      <form>ceṉṟu</form>
+      <def>gone</def>
+    </entry>
+    <entry>
+      <form>nām</form>
+      <def>we</def>
+    </entry>
+    <entry>
+      <form>muyaṅkaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>embracing</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>arum</form>
+      <def>difficult</def>
+    </entry>
+    <entry>
+      <form>kāṭciyam-ē</form>
+      <def>sight-we</def>
+      <form type="simple">kāṭciyam</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>come</def>
+      <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+      <form>añar</form>
+      <def>sorrow</def>
+    </entry>
+    <entry>
+      <form>kaḷaitalai</form>
+      <def>removing</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avar</form>
+      <def>he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>āṟṟalar-ē</form>
+      <def>able-not-he</def>
+      <form type="simple">āṟṟalar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uyttaṉar</form>
+      <def>he-sent</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>viṭāar</form>
+      <def>let-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>piritt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>separated</def>
+    </entry>
+    <entry>
+      <form>iṭai</form>
+      <def>middle</def>
+    </entry>
+    <entry>
+      <form>kaḷaiyār</form>
+      <def>remove-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>Kuppai<pc>+</pc></form>
+      <def>heap</def>
+    </entry>
+    <entry>
+      <form>kōḻi<pc>+</pc></form>
+      <def>fowl</def>
+    </entry>
+    <entry>
+      <form>taṉi<pc>+</pc></form>
+      <def>solitude</def>
+    </entry>
+    <entry>
+      <form>pōr</form>
+      <def>battle</def>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>viḷiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>perishing</def>
+    </entry>
+    <entry>
+      <form>āṅku</form>
+      <def>there</def>
+    </entry>
+    <entry>
+      <form>viḷiyiṉ</form>
+      <def>perish-if</def>
+    </entry>
+    <entry>
+      <form>allatu</form>
+      <def>besides</def>
+    </entry>
+    <entry>
+      <form>kaḷaivōr</form>
+      <def>removing-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>ilai</form>
+      <def>not</def>
+    </entry>
+    <entry>
+      <form>yāṉ</form>
+      <def>I</def>
+    </entry>
+    <entry>
+      <form>uṟṟa</form>
+      <def>had-</def>
+    </entry>
+    <entry>
+      <form>nōy-ē</form>
+      <def>pain</def>
+      <form type="simple">nōy</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

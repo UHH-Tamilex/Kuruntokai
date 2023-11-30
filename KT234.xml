@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 234. <persName xml:lang="ta">miḷaiperuṅ
+          kantaṉ (C1: peruṅkantaṉ)</persName>: <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT234-kilavi">
+        <p type="edition">paruva varaviṉkaṇ tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante at the coming of the
+          season. </p>
+      </div>
+
+      <div xml:id="KT234">
+        <lg type="edition">
+          <l> cuṭarcel vāṉañ cēppap paṭarkūrn</l>
+          <l> tellaṟu poḻutiṉ mullai malaru</l>
+          <l> mālai yeṉmaṉār mayaṅki yōrē</l>
+          <l> kuṭumik kōḻi neṭunaka riyampum</l>
+          <l> perumpular viṭiyalu mālai</l>
+          <l> pakalu mālai tuṇaiyi lōrkkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent2">As the glow goes [and] the sky is reddening, affliction abounds,</l>
+          <l rend="indent2">[and] at the time the light subsides the jasmine blossoms −</l>
+          <l>“evening” − those who say so are confused.</l>
+          <l rend="indent2">When in the wide city the crested cockerel sounds,</l>
+          <l>even quickly falling dawn [is] evening</l>
+          <l>and midday [is] evening for those without mates.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT234">
+    <interp type="alignment" select="0">29MG26ML22MG45MG2ML9MG2ML16M2G2M,162M</interp>
+    <entry>
+    <form>cuṭar</form>
+    <def>glow</def>
+    </entry>
+    <entry>
+    <form>cel</form>
+    <def>go-</def>
+    </entry>
+    <entry>
+    <form>vāṉam</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>cēppa<pc>+</pc></form>
+    <def>redden</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>paṭar</form>
+    <def>affliction</def>
+    </entry>
+    <entry>
+    <form>kūrnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>been-abundant</def>
+    </entry>
+    <entry>
+    <form>el</form>
+    <def>light</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aṟu</form>
+    <def>subside-</def>
+    </entry>
+    <entry>
+    <form>poḻutiṉ</form>
+    <def>time</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>malarum</form>
+    <def>blossoming-</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉmaṉār</form>
+    <def>say-they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>mayaṅkiyōr-ē</form>
+    <def>confused-they</def>
+    <form type="simple">mayaṅkiyōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kuṭumik</form>
+    <def>comb</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ōḻi</form>
+    <def>fowl</def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>nakar</form>
+    <def>town</def>
+    </entry>
+    <entry>
+    <form>iyampum</form>
+    <def>sounding-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>pular</form>
+    <def>dawn-</def>
+    </entry>
+    <entry>
+    <form>viṭiyal-um</form>
+    <def>dawn</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>pakal-um</form>
+    <def>midday</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>tuṇai</form>
+    <def>companion</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ilōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>not-they</def>
+    <form type="simple">ilōrkku</form>
+    <gram type="role">honorific dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

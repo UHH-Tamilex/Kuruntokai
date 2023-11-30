@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 292. <persName xml:lang="ta">Paraṇar</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT292-kilavi">
+        <p type="edition">tōḻi iravukkuṟikkaṇ ciṟaippuṟamākak kāppumikuti colliyatu. </p>
+        <p type="translation" xml:lang="en">The confidante speaking about the increase in guarding,
+          while [he] is behind the hedge at the night tryst. </p>
+      </div>
+
+      <div xml:id="KT292">
+        <lg type="edition">
+          <l> maṇṇiya ceṉṟa voṇṇuta larivai</l>
+          <l> puṉaṟaru pacuṅkāy tiṉṟataṉ ṟappaṟ</l>
+          <l> koṉpatiṟ ṟoṉpatu kaḷiṟṟō ṭavaṇiṟai</l>
+          <l> poṉcey pāvai koṭuppavuṅ koḷḷāṉ</l>
+          <l> peṇkolai purinta naṉṉaṉ pōla</l>
+          <l> varaiyā niraiyattuc celīiyarō vaṉṉai</l>
+          <l> yorunā</l>
+          <l> ṇakaimuka viruntiṉaṉ vanteṉap</l>
+          <l> pakaimuka vūriṟ ṟuñcalō vilaḷē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Mother, who, like a village facing the enemy, doesn't sleep at all, </l>
+          <l rend="indent2">because a guest with smiling face has come one day</l>
+          <l>– may she forever go to hell</l>
+          <l rend="indent">like Naṉṉaṉ, who wanted the murder of a woman,</l>
+          <l rend="indent">without taking, even when it was offered [him], a gold-made image</l>
+          <l rend="indent2">of her full weight together with nine [times] nine elephant bulls,</l>
+          <l rend="indent3">[for] her error that the young woman with bright forehead,</l>
+          <l rend="indent3">who had gone to bath, had eaten a green unripe fruit given</l>
+          <l rend="indent8">by the flood.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT292">
+    <interp type="alignment" select="0">31ML26MG8MG14MG4ML22MG60MG14ML8MG38MG6MG2M,243MG</interp>
+    <entry>
+      <form>maṇṇiya</form>
+      <def>bath</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>ceṉṟa</form>
+      <def>gone-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḷ</form>
+      <def>bright</def>
+    </entry>
+    <entry>
+      <form>nutal</form>
+      <def>forehead</def>
+    </entry>
+    <entry>
+      <form>arivai</form>
+      <def>young-woman</def>
+    </entry>
+    <entry>
+      <form>puṉal</form>
+      <def>flood</def>
+    </entry>
+    <entry>
+      <form>taru</form>
+      <def>give-</def>
+    </entry>
+    <entry>
+      <form>pacum</form>
+      <def>green</def>
+    </entry>
+    <entry>
+      <form>kāy</form>
+      <def>unripe-fruit</def>
+    </entry>
+    <entry>
+      <form>tiṉṟa</form>
+      <def>eaten-</def>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self-</def>
+    </entry>
+    <entry>
+      <form>tappaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>error</def>
+      <gram type="role">dative</gram>
+    </entry>
+    <entry>
+      <form>oṉpatiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>nineiṟṟu</def>
+    </entry>
+    <entry>
+      <form>oṉpatu</form>
+      <def>nine</def>
+    </entry>
+    <entry>
+      <form>kaḷiṟṟōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>elephant-bull</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>avaḷ</form>
+      <def>she</def>
+    </entry>
+    <entry>
+      <form>niṟai</form>
+      <def>fullness</def>
+    </entry>
+    <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+    </entry>
+    <entry>
+      <form>cey</form>
+      <def>make-</def>
+    </entry>
+    <entry>
+      <form>pāvai</form>
+      <def>image</def>
+    </entry>
+    <entry>
+      <form>koṭuppa-<pc>~</pc>um</form>
+      <def>offer</def>
+      <form type="simple">koṭuppa</form>
+      <gram type="role">infinitive</gram>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>koḷḷāṉ</form>
+      <def>take-not-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>peṇ</form>
+      <def>woman</def>
+    </entry>
+    <entry>
+      <form>kolai</form>
+      <def>murder</def>
+    </entry>
+    <entry>
+      <form>purinta</form>
+      <def>desired-</def>
+    </entry>
+    <entry>
+      <form>naṉṉaṉ</form>
+      <def>Naṉṉaṉ</def>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>varaiyā</form>
+      <def>limit-not</def>
+    </entry>
+    <entry>
+      <form>niraiyattu<pc>+</pc></form>
+      <def>hell-</def>
+    </entry>
+    <entry>
+      <form>celīiyar-ō</form>
+      <def>may-go</def>
+      <form type="simple">celīiyar</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉai</form>
+      <def>mother</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oru</form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+    </entry>
+    <entry>
+      <form>nakai</form>
+      <def>smile</def>
+    </entry>
+    <entry>
+      <form>mukam</form>
+      <def>face</def>
+    </entry>
+    <entry>
+      <form>viruntiṉaṉ</form>
+      <def>guest</def>
+    </entry>
+    <entry>
+      <form>vanteṉa<pc>+</pc></form>
+      <def>come-say</def>
+    </entry>
+    <entry>
+      <form>pakai</form>
+      <def>enmity</def>
+    </entry>
+    <entry>
+      <form>mukam</form>
+      <def>face</def>
+    </entry>
+    <entry>
+      <form>ūriṉ</form>
+      <def>village</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>tuñcal-ō</form>
+      <def>sleeping</def>
+      <form type="simple">tuñcal</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ilaḷ-ē</form>
+      <def>not-she</def>
+      <form type="simple">ilaḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

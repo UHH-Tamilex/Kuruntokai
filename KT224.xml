@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 224. <persName xml:lang="ta">kūvaṉ maintaṉ</persName>
+          : <hi rend="italic">SHE/ the confidante</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT224-kilavi">
+        <p type="edition">piriviṭai iṟantupaṭum eṉak kavaṉṟa tōḻi kēṭpak kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER for the confidante to hear, who was anxious
+          that she would die in the time of separation. </p>
+      </div>
+
+      <div xml:id="KT224">
+        <lg type="edition">
+          <l>kavalai yātta vavala nīḷiṭaic</l>
+          <l>ceṉṟōr koṭumai yeṟṟit tuñcā</l>
+          <l>nōyiṉu nōyā kiṉṟē kūvaṟ</l>
+          <l>kurālāṉ paṭutuya riraviṟ kaṇṭa</l>
+          <l>vuyartiṇai yūmaṉ pōlat</l>
+          <l>tuyarpoṟuk kallēṉ ṟōḻi nōykkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l>Sleepless, struck with the cruelty of him who has gone</l>
+          <l rend="indent2">the long, afflicted way of Yām trees on crossroads ,</l>
+          <l>[her] pain has become more than pain.</l>
+          <l rend="indent2">Like the dumb man from a high family,</l>
+          <l rend="indent2">who has seen at night the misery that has befallen the tawny cow</l>
+          <l rend="indent8">in a well,</l>
+          <l>I cannot bear the misery for [my] friend's pain.</l>
+
+<lg type="alternate" sameAs="2,3,6b">
+  <l>A pain has arisen more than the pain</l>
+  <l>of being sleepless, struck with the cruelty ...</l>
+  <l>on behalf of the pain of [my] friend ... </l>
+</lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT224">
+    <interp type="alignment" select="0">18MR38MR8M2G64MG14M2G2M,151M</interp>
+    <entry>
+      <form>kavalai</form>
+      <def>crossroad</def>
+    </entry>
+    <entry>
+      <form>yātta</form>
+      <def>Yām(-tree)-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>avalam</form>
+      <def>affliction</def>
+    </entry>
+    <entry>
+      <form>nīḷ</form>
+      <def>be-long-</def>
+    </entry>
+    <entry>
+      <form>iṭai<pc>+</pc></form>
+      <def>way</def>
+    </entry>
+    <entry>
+      <form>ceṉṟōr</form>
+      <def>gone-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>koṭumai</form>
+      <def>cruelty</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṟṟi<pc>+</pc></form>
+      <def>struck</def>
+    </entry>
+    <entry>
+      <form>tuñcā</form>
+      <def>sleep-not</def>
+    </entry>
+    <entry>
+      <form>nōyiṉum</form>
+      <def>pain</def>
+      <gramGrp type="affix"><form>iṉum</form></gramGrp>
+    </entry>
+    <entry>
+      <form>nōy</form>
+      <def>pain</def>
+    </entry>
+    <entry>
+      <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>it-became</def>
+      <form type="simple">ākiṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kūval</form>
+      <def>well</def>
+    </entry>
+    <entry>
+      <form>kurāl</form>
+      <def>tawny</def>
+    </entry>
+    <entry>
+      <form>āṉ</form>
+      <def>cow</def>
+    </entry>
+    <entry>
+      <form>paṭu</form>
+      <def>happen-</def>
+    </entry>
+    <entry>
+      <form>tuyar</form>
+      <def>misery</def>
+    </entry>
+    <entry>
+      <form>iraviṉ</form>
+      <def>night</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇṭa</form>
+      <def>seen-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uyar</form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>tiṇai</form>
+      <def>family</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūmaṉ</form>
+      <def>dumb-he</def>
+    </entry>
+    <entry>
+      <form>pōla<pc>+</pc></form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>tuyar</form>
+      <def>misery</def>
+    </entry>
+    <entry>
+      <form>poṟukk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>I-bear</def>
+      <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+      <form>allēṉ</form>
+      <def>not-so-I</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>nōykk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>pain</def>
+      <form type="simple">nōykku</form>
+      <gram type="role">dative</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

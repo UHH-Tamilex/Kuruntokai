@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 260. <persName xml:lang="ta">Kallāṭaṉār</persName>
+          : <hi rend="italic">The confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT260-kilavi">
+        <p type="edition">avar varaviṟku nimittam āyiṉa kaṇṭu āṟṟāḷākiya talaimakaṭkut tōḻi
+          colliyatu. </p>
+        <p type="translation" xml:lang="en">The confidante speaking to HER who didn't have strength
+          [anymore], upon seeing the signs for his coming. </p>
+      </div>
+
+      <div xml:id="KT260">
+        <lg type="edition">
+          <l>kuruku miruvicum pivarum putalum</l>
+          <l>varivaṇ ṭūta vāynekiḻn taṉavē</l>
+          <l>curivaḷaip polinta tōḷuñ ceṟṟum</l>
+          <l>varuvarkol vāḻi tōḻi poruvār</l>
+          <l>maṇṇeṭut tuṇṇu maṇṇal yāṉai</l>
+          <l>vaṇṭērt toṇṭaiyar vaḻaiyama laṭukkattuk</l>
+          <l>kaṉṟi lōrā vilaṅkiya</l>
+          <l>puṉṟā ḷōmaiya curaṉiṟan tōrē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>Herons are climbing the dark sky, and shrubs</l>
+          <l>have opened [their blossom] mouths</l>
+          <l rend="indent6">so that striped bees fill themselves [with pollen]. </l>
+          <l rend="indent">Even though [my] upper arms glittering with winding bangles</l>
+          <l rend="indent9">have resisted, </l>
+          <l>will he come, oh friend,</l>
+          <l>he who traversed the desert of low-based Ōmai trees,</l>
+          <l rend="indent">across which lies a single cow without calf</l>
+          <l rend="indent2">from the mountainside thick with Vaḻai trees,</l>
+          <l rend="indent3">of the Toṇṭaiyar with many chariots [and] majestic elephants, </l>
+          <l>who take over the land of [enemy] fighters? </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT260">
+    <interp type="alignment" select="0">5M2G11MG11MG10MG16MG22MG6M2G9MG27MG55M2G4MG34MG2M,226MG</interp>
+    <entry>
+      <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>wader</def>
+      <form type="simple">kuruku</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>iru</form>
+      <def>dark</def>
+    </entry>
+    <entry>
+      <form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>sky</def>
+    </entry>
+    <entry>
+      <form>ivarum</form>
+      <def>climbing-</def>
+    </entry>
+    <entry>
+      <form>putal-um</form>
+      <def>shrub</def>
+      <form type="simple">putal</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vari</form>
+      <def>line</def>
+    </entry>
+    <entry>
+      <form>vaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>bee</def>
+    </entry>
+    <entry>
+      <form>ūta</form>
+      <def>blow</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>vāy</form>
+      <def>mouth</def>
+    </entry>
+    <entry>
+      <form>nekiḻntaṉa-<pc>~</pc>ē</form>
+      <def>they-became-loose</def>
+      <form type="simple">nekiḻntaṉa</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+      <form>curi</form>
+      <def>wind-</def>
+    </entry>
+    <entry>
+      <form>vaḷai<pc>+</pc></form>
+      <def>bangle</def>
+    </entry>
+    <entry>
+      <form>polinta</form>
+      <def>glittered-</def>
+    </entry>
+    <entry>
+      <form>tōḷ-um</form>
+      <def>shoulder</def>
+      <form type="simple">tōḷ</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>ceṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>resisted</def>
+      <form type="simple">ceṟṟu</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>varuvar-kol</form>
+      <def>coming-he</def>
+      <form type="simple">varuvar</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>live</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>poruvār</form>
+      <def>striking-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>maṇ</form>
+      <def>earth</def>
+    </entry>
+    <entry>
+      <form><pc>+</pc>eṭutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>raised</def>
+    </entry>
+    <entry>
+      <form>uṇṇum</form>
+      <def>eating-</def>
+    </entry>
+    <entry>
+      <form>aṇṇal</form>
+      <def>superiority</def>
+    </entry>
+    <entry>
+      <form>yāṉai</form>
+      <def>elephant</def>
+    </entry>
+    <entry>
+      <form>vaḷ</form>
+      <def>abundant</def>
+    </entry>
+    <entry>
+      <form>tēr<pc>+</pc></form>
+      <def>chariot</def>
+    </entry>
+    <entry>
+      <form>toṇṭaiyar</form>
+      <def>Toṇṭaiyar</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>vaḻai</form>
+      <def>Vaḻai(-tree)</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>amal</form>
+      <def>growing-thick-</def>
+    </entry>
+    <entry>
+      <form>aṭukkattu<pc>+</pc></form>
+      <def>mountain-side-</def>
+    </entry>
+    <entry>
+      <form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-il</form>
+      <def>calf-not</def>
+    </entry>
+    <entry>
+      <form>ōr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>one</def>
+    </entry>
+    <entry>
+      <form>ā</form>
+      <def>cow</def>
+    </entry>
+    <entry>
+      <form>vilaṅkiya</form>
+      <def>been-transverse-</def>
+    </entry>
+    <entry>
+      <form>puṉ</form>
+      <def>low</def>
+    </entry>
+    <entry>
+      <form>tāḷ</form>
+      <def>foot</def>
+    </entry>
+    <entry>
+      <form>ōmaiya</form>
+      <def>Ōmai(-tree)</def>
+      <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+      <form>curaṉ</form>
+      <def>desert</def>
+    </entry>
+    <entry>
+      <form>iṟantōr-ē</form>
+      <def>traversed-he</def>
+      <form type="simple">iṟantōr</form>
+      <gram type="role">honorific</gram>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

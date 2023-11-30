@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 249. <persName xml:lang="ta">kapilar</persName>
+          : <hi rend="italic">SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT249-kilavi">
+        <p type="edition">varaiviṭai vaippa “āṟṟakiṟṟiyō” eṉṟa tōḻikkuk kiḻatti uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HER to the confidante who said “don't you have
+          the strength?”, when the time of marriage had been fixed. </p>
+      </div>
+
+      <div xml:id="KT249">
+        <lg type="edition">
+          <l> iṉamayi lakavu marampayil kāṉattu</l>
+          <l> naraimuka vūkam pārppoṭu paṉippap</l>
+          <l> paṭumaḻai poḻinta cāra lavarnāṭṭuk</l>
+          <l> kuṉṟa nōkkiṉeṉ ṟōḻi</l>
+          <l> paṇṭai yaṟṟō kaṇṭici ṉutalē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l>I looked, friend, at the hill</l>
+          <l rend="indent3">of his land of slopes flooded with falling rain,</l>
+          <l rend="indent2">so that the white-faced black monkey with [its] young one shivers</l>
+          <l rend="indent">in the forest, where trees rustle [and] peacocks call out in groups.</l>
+          <l>[Was] it like that before? Look, [my] forehead.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT249">
+    <interp type="alignment" select="0">4ML10ML82MR22M2G9ML6M,138MG</interp>
+    <entry>
+      <form>iṉam</form>
+      <def>group</def>
+    </entry>
+    <entry>
+      <form>mayil</form>
+      <def>peacock</def>
+    </entry>
+    <entry>
+      <form>akavum</form>
+      <def>calling-</def>
+    </entry>
+    <entry>
+      <form>maram</form>
+      <def>tree</def>
+    </entry>
+    <entry>
+      <form>payil</form>
+      <def>rustle-/become-dense-</def>
+    </entry>
+    <entry>
+      <form>kāṉattu</form>
+      <def>forest-</def>
+    </entry>
+    <entry>
+      <form>narai</form>
+      <def>whiteness</def>
+    </entry>
+    <entry>
+      <form>mukam</form>
+      <def>face</def>
+    </entry>
+    <entry>
+      <form>ūkam</form>
+      <def>black-monkey</def>
+    </entry>
+    <entry>
+      <form>pārppoṭu</form>
+      <def>young-one</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>paṉippa<pc>+</pc></form>
+      <def>shiver</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>paṭu</form>
+      <def>happen-</def>
+    </entry>
+    <entry>
+      <form>maḻai</form>
+      <def>rain</def>
+    </entry>
+    <entry>
+      <form>poḻinta</form>
+      <def>flown-</def>
+    </entry>
+    <entry>
+      <form>cāral</form>
+      <def>slope</def>
+    </entry>
+    <entry>
+      <form>avar</form>
+      <def>he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>nāṭṭu<pc>+</pc></form>
+      <def>land-</def>
+    </entry>
+    <entry>
+      <form>kuṉṟam</form>
+      <def>hill</def>
+    </entry>
+    <entry>
+      <form>nōkkiṉeṉ</form>
+      <def>I-looked</def>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+    </entry>
+    <entry>
+      <form>paṇṭai</form>
+      <def>formerly</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+      <def>thus-it</def>
+      <form type="simple">aṟṟu</form>
+      <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇṭiciṉ</form>
+      <def>see</def>
+      <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+      <form>nutalē</form>
+      <def>forehead</def>
+      <form type="simple">nutal</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 274. <persName xml:lang="ta">Uruttiraṉ</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="KT274-kilavi">
+        <p type="edition">poruḷ valitta neñciṟkuk kiḻavaṉ uraittatu. </p>
+        <p type="translation" xml:lang="en">Told by HIM to [his] heart which was after wealth. </p>
+      </div>
+
+      <div xml:id="KT274">
+        <lg type="edition">
+          <l> puṟavupuṟat taṉṉa puṉkā lukāayk</l>
+          <l> kāciṉai yaṉṉa naḷikaṉi yutira</l>
+          <l> viṭukaṇai villoṭu paṟṟik koṭiyavar</l>
+          <l> varunarp pārkkum vaṉka ṇāṭavar</l>
+          <l> nīrnacai vēṭkaiyi ṉārmeṉṟu taṇiyu</l>
+          <l> miṉṉāk kāṉamu miṉiya poṉṉoṭu</l>
+          <l> maṇimiṭai yalkuṉ maṭantai</l>
+          <l> yaṇimulai yāka muḷkiṉañ celiṉē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l rend="indent">If we were to go,</l>
+          <l rend="indent2">we would remember the bosom with adorning breasts</l>
+          <l rend="indent4">of the girl with hips, where sapphires are set close</l>
+          <l rend="indent4">with gold – pleasing [all these] –</l>
+          <l rend="indent8">and the unpleasant forest,</l>
+          <l>where the sharp-eyed men looking out for those who are coming</l>
+          <l>decrease, by chewing bark, [their] yearning demand for water,</l>
+          <l rend="indent">grasping together with the bow loose arrows, cruel,</l>
+          <l rend="indent2">while the dense ripe fruits [that are] like beads drop</l>
+          <l rend="indent2">from the Ukāay tree with a trunk ruddy as a dove’s back.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT274">
+    <interp type="alignment" select="0">12MG94M3G23MG24MG63MG2M,224MG</interp>
+    <entry>
+      <form>puṟavu</form>
+      <def>dove</def>
+    </entry>
+    <entry>
+      <form>puṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>back-</def>
+    </entry>
+    <entry>
+      <form>aṉṉa</form>
+      <def>like</def>
+    </entry>
+    <entry>
+      <form>puṉ</form>
+      <def>low</def>
+    </entry>
+    <entry>
+      <form>kāl</form>
+      <def>leg</def>
+    </entry>
+    <entry>
+      <form>ukāay<pc>+</pc></form>
+      <def>Ukāay(-tree)</def>
+    </entry>
+    <entry>
+      <form>kāciṉai</form>
+      <def>bead</def>
+      <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṉṉa</form>
+      <def>like</def>
+    </entry>
+    <entry>
+      <form>naḷi</form>
+      <def>denseness</def>
+    </entry>
+    <entry>
+      <form>kaṉi</form>
+      <def>ripe-fruit</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>utira</form>
+      <def>drop-off</def>
+      <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+      <form>viṭu</form>
+      <def>let-</def>
+    </entry>
+    <entry>
+      <form>kaṇai</form>
+      <def>arrow</def>
+    </entry>
+    <entry>
+      <form>villoṭu</form>
+      <def>bow</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>paṟṟi<pc>+</pc></form>
+      <def>grasped</def>
+    </entry>
+    <entry>
+      <form>koṭiyavar</form>
+      <def>cruel-they</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>varunar<pc>+</pc></form>
+      <def>coming-he</def>
+      <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+      <form>pārkkum</form>
+      <def>looking-</def>
+    </entry>
+    <superEntry type="ambiguous">
+      <entry>
+        <entry>
+          <form>vaṉkaṇ</form>
+          <def>strength</def>
+        </entry>
+      </entry>
+      <entry>
+        <entry>
+          <form>val</form>
+          <def>strong-</def>
+        </entry>
+      </entry>
+    </superEntry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+    </entry>
+    <entry>
+      <form>āṭavar</form>
+      <def>man</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>nacai</form>
+      <def>yearn-</def>
+    </entry>
+    <entry>
+      <form>vēṭkaiyiṉ</form>
+      <def>demand</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>nār</form>
+      <def>bark</def>
+    </entry>
+    <entry>
+      <form>meṉṟu</form>
+      <def>chewed</def>
+    </entry>
+    <entry>
+      <form>taṇiyum</form>
+      <def>decreasing-</def>
+    </entry>
+    <entry>
+      <form>iṉṉā<pc>+</pc></form>
+      <def>pleasant-not</def>
+    </entry>
+    <entry>
+      <form>kāṉam-um</form>
+      <def>forest</def>
+      <form type="simple">kāṉam</form>
+      <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+      <form>iṉiya</form>
+      <def>pleasant-they</def>
+      <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+      <form>poṉṉoṭu</form>
+      <def>gold</def>
+      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>maṇi</form>
+      <def>sapphire</def>
+    </entry>
+    <entry>
+      <form>miṭai</form>
+      <def>set-close-</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alkul</form>
+      <def>hip</def>
+    </entry>
+    <entry>
+      <form>maṭantai</form>
+      <def>girl</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṇi</form>
+      <def>adorn-</def>
+    </entry>
+    <entry>
+      <form>mulai</form>
+      <def>breast</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ākam</form>
+      <def>bosom</def>
+    </entry>
+    <entry>
+      <form>uḷkiṉam</form>
+      <def>we-remembered</def>
+    </entry>
+    <entry>
+      <form>celiṉ-ē</form>
+      <def>go-if</def>
+      <form type="simple">celiṉ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+  </standOff>
+</TEI>
