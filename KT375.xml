@@ -62,15 +62,12 @@
         </body>
     </text>
     <standOff type="wordsplit" corresp="#KT375">
-        <interp type="alignment" select="0">16MG13MG5M2G41MG4MG28M2G8M2G27MG3M2G2M,159MG</interp>
+        <interp type="alignment" select="0">4MG12MG13MG5M2G41MG4MG28M2G8M2G27MG3M2G2M,160MG</interp>
         <entry>
-            <form>amma</form>
-            <def></def>
-            <gramGrp type="particle"><form>amma</form></gramGrp>
-        </entry>
-        <entry>
-            <form>vāḻi</form>
+            <form>amma-vāḻi</form>
             <def>live</def>
+            <form type="simple">vāḻi</form>
+            <gramGrp type="particle"><m>amma</m></gramGrp>
         </entry>
         <entry>
             <form>tōḻi</form>
@@ -83,24 +80,24 @@
         <entry>
             <form>avar</form>
             <def>he</def>
-            <gram type="role">honorific</gram>
+            <gramGrp><gram type="role">honorific</gram></gramGrp>
         </entry>
         <entry>
             <form>vārār</form>
             <def>come-not-he</def>
-            <gram type="role">honorific</gram>
+            <gramGrp><gram type="role">honorific</gram></gramGrp>
         </entry>
         <entry>
             <form>āyiṉ-ō</form>
             <def>if</def>
             <form type="simple">āyiṉ</form>
-            <gramGrp type="particle"><form>ō</form></gramGrp>
+            <gramGrp type="particle"><m>ō</m></gramGrp>
         </entry>
         <entry>
             <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
             <def>good-it</def>
             <form type="simple">naṉṟu</form>
-            <gramGrp type="particle"><form>ē</form></gramGrp>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
         </entry>
         <entry>
             <form>cāral</form>
@@ -125,6 +122,7 @@
         <entry>
             <form>kaṇ</form>
             <def>place</def>
+            <gramGrp type="affix"><m>kaṇ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
         </entry>
         <entry>
             <form>irum</form>
@@ -133,7 +131,7 @@
         <entry>
             <form>puṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
             <def>field</def>
-            <gram type="role">oblique</gram>
+            <gramGrp><gram type="role">oblique</gram></gramGrp>
         </entry>
         <entry>
             <form>irav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -142,8 +140,8 @@
         <entry>
             <form>arivāriṉ</form>
             <def>cut-they</def>
-            <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
-            <gram type="role">honorific</gram>
+            <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+            <gramGrp><gram type="role">honorific</gram></gramGrp>
         </entry>
         <entry>
             <form>toṇṭakam</form>
@@ -165,8 +163,8 @@
             <form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
             <def>midnight</def>
             <form type="simple">yāmattu</form>
-            <gram type="role">oblique</gram>
-            <gramGrp type="particle"><form>um</form></gramGrp>
+            <gramGrp><gram type="role">oblique</gram></gramGrp>
+            <gramGrp type="particle"><m>um</m></gramGrp>
         </entry>
         <entry>
             <form>kaṟaṅkum</form>
@@ -179,13 +177,13 @@
         <entry>
             <form>kāvalar</form>
             <def>watchmen</def>
-            <gram type="role">honorific</gram>
+            <gramGrp><gram type="role">honorific</gram></gramGrp>
         </entry>
         <entry>
             <form>aviyā-māṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
             <def>cease-not-because</def>
             <form type="simple">aviyā-māṟu</form>
-            <gramGrp type="particle"><form>ē</form></gramGrp>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
         </entry>
     </standOff>
 </TEI>

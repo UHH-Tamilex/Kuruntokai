@@ -64,15 +64,12 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT350">
-    <interp type="alignment" select="0">68MG9MG19MG29MG38ML14MR35MG2M,220MG</interp>
+    <interp type="alignment" select="0">4MG64MG9MG19MG29MG38ML14MR35MG2M,221MG</interp>
     <entry>
-      <form>amma</form>
-      <def></def>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
+      <form>amma-vāḻi</form>
       <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle"><m>amma</m></gramGrp>
     </entry>
     <entry>
       <form>tōḻi</form>
@@ -101,7 +98,7 @@
     <entry>
       <form>cellātīm</form>
       <def>go-not</def>
-      <gram type="role">imperative</gram>
+      <gramGrp><gram type="role">imperative</gram></gramGrp>
     </entry>
     <entry>
       <form>eṉa<pc>+</pc></form>
@@ -119,8 +116,8 @@
       <form>celvar-kollō</form>
       <def>going-he</def>
       <form type="simple">celvar</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
+      <gramGrp type="particle"><m>kollō</m></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>āṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -185,7 +182,7 @@
     <entry>
       <form>vampalar</form>
       <def>traveller</def>
-      <gram type="role">honorific</gram>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
     </entry>
     <entry>
       <form>paṭai</form>
@@ -225,10 +222,9 @@
     </entry>
     <entry>
       <form>pirinticiṉōr-ē</form>
-      <def>separated-he</def>
+      <def>separated-he(h.)ē∞</def>
       <form type="simple">pirinticiṉōr</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>
