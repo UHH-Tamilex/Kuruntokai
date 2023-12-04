@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 390. <persName xml:lang="ta">uṟaiyūr
-                    mutukoṟṟaṉ</persName>: <hi rend="italic">: onlookers / SHE</hi></title>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 390. <persName xml:lang="ta">Uṟaiyūr
+                    Mutukoṟṟaṉ</persName>: <hi rend="italic">: onlookers / SHE</hi></title>
             </titleStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
@@ -17,7 +17,14 @@
                         </summary>
                     </msContents>
                 </msDesc>
-
+                <listPerson>
+                    <person xml:id="TVG">
+                        <persName>
+                            <abbr>T.V.G.</abbr>
+                        <expan>T. V. Gopal Iyer's oral commentary</expan>
+                        </persName>
+                    </person>
+                </listPerson>
             </sourceDesc>
         </fileDesc>
         <revisionDesc />
@@ -48,9 +55,10 @@
                 <lg type="translation" xml:lang="en">
                     <l> Light is not light and listen to what is going on</l>
                     <l> – please don't go, companion of <choice>
-                        <seg></seg>
-                        <seg>[her who is like] </seg>
-                    </choice> the small she-elephant:</l>
+                            <seg></seg>
+                            <seg>[her who is like] </seg>
+                        </choice> the small
+                        she-elephant:</l>
                     <l rend="indent"> the voice of the Taṇṇumai drum, coming [and] going</l>
                     <l rend="indent7"> inside the enclosure,</l>
                     <l rend="indent2"> long spears being elevated [by those who are]</l>
@@ -58,10 +66,130 @@
                     <l rend="indent3"> because [they] come [and] destroy a caravan in the heat</l>
                     <l rend="indent7"> of the enemy front.</l>
 
+                    <lg type="alternate" sameAs="2b" resp="#TVG">
+                        <l>– please don't go, companion of [her who is like] the small she-elephant–</l>
+                    </lg>
 
                 </lg>
             </div>
         </body>
     </text>
-
+    <standOff type="wordsplit" corresp="#KT390">
+        <interp type="alignment" select="0">2MG13M2G29MG30MG59MG2M,140MG</interp>
+        <entry>
+            <form>el-<pc>+</pc>um</form>
+            <def>light</def>
+            <form type="simple">el</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>el</form>
+            <def>light</def>
+        </entry>
+        <entry>
+            <form><pc>+</pc>iṉṟu</form>
+            <def>not-it</def>
+        </entry>
+        <entry>
+            <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+            <def>happening(?)</def>
+            <form type="simple">pāṭu</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>kēḷāy</form>
+            <def>hear</def>
+            <gramGrp><gram type="role">imperative</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>cellātīmō</form>
+            <def>don't-go</def>
+            <form type="simple">cellātīm</form>
+            <gramGrp type="particle"><m>ō</m></gramGrp>
+        </entry>
+        <entry>
+            <form>ciṟu</form>
+            <def>little</def>
+        </entry>
+        <entry>
+            <form>piṭi</form>
+            <def>she-elephant</def>
+        </entry>
+        <entry>
+            <form>tuṇai-<pc>~</pc>ē</form>
+            <def>companion</def>
+            <form type="simple">tuṇai</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+            <form>vēṟṟu</form>
+            <def>different</def>
+            <gramGrp><gram type="role">oblique</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>muṉai</form>
+            <def>front</def>
+        </entry>
+        <entry>
+            <form>vemmaiyiṉ</form>
+            <def>heat</def>
+            <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+            <form>cāttu</form>
+            <def>caravan</def>
+        </entry>
+        <entry>
+            <form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>come</def>
+            <gramGrp><gram type="role">absolutive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>iṟutteṉa</form>
+            <def>broken-because</def>
+        </entry>
+        <entry>
+            <form>vaḷai</form>
+            <def>bangle</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aṇi</form>
+            <def>adorn-</def>
+        </entry>
+        <entry>
+            <form>neṭu</form>
+            <def>long</def>
+        </entry>
+        <entry>
+            <form>vēl</form>
+            <def>spear</def>
+        </entry>
+        <entry>
+            <form>ēnti</form>
+            <def>been-eminent</def>
+        </entry>
+        <entry>
+            <form>miḷai</form>
+            <def>enclosure</def>
+        </entry>
+        <entry>
+            <form>vantu</form>
+            <def>come</def>
+            <gramGrp><gram type="role">absolutive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>peyarum</form>
+            <def>moving-</def>
+        </entry>
+        <entry>
+            <form>taṇṇumai<pc>+</pc></form>
+            <def>Taṇṇumai-drum</def>
+        </entry>
+        <entry>
+            <form>kural-ē</form>
+            <def>voice</def>
+            <form type="simple">kural</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>
