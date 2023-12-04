@@ -61,15 +61,12 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT287">
-    <interp type="alignment" select="0">27M2G12MG17ML10MG68MG38MR32M2G2M,214MG</interp>
+    <interp type="alignment" select="0">4MG23M2G12MG17ML10MG68MG38MR32M2G2M,215MG</interp>
     <entry>
-      <form>amma</form>
-      <def></def>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
+      <form>amma-vāḻi</form>
       <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle"><m>amma</m></gramGrp>
     </entry>
     <entry>
       <form>tōḻi</form>
@@ -78,26 +75,26 @@
     <entry>
       <form>kātalar</form>
       <def>lover</def>
-      <gram type="role">honorific</gram>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
     </entry>
     <entry>
       <form>iṉṉē</form>
       <def>now</def>
       <form type="simple">iṉṉ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
       <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
       <def>seen</def>
       <form type="simple">kaṇṭu</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>tuṟakkuvar-kollō</form>
       <def>he-abandons</def>
       <form type="simple">tuṟakkuvar</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
+      <gramGrp type="particle"><m>kollō</m></gramGrp>
     </entry>
     <entry>
       <form>mu<pc>+</pc></form>
@@ -227,7 +224,7 @@
       <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
       <def>time</def>
       <form type="simple">poḻutu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>

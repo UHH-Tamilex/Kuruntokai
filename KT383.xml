@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 383. <persName xml:lang="ta">paṭumarattu
-                    mōcikīraṉ</persName>: <hi rend="italic">the confidante</hi></title>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 383. <persName xml:lang="ta">Paṭumarattu
+                    Mōcikīraṉ</persName>: <hi rend="italic">the confidante</hi></title>
             </titleStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
@@ -17,7 +17,14 @@
                         </summary>
                     </msContents>
                 </msDesc>
-
+                <listPerson>
+                    <person xml:id="TVG">
+                        <persName>
+                            <abbr>T.V.G.</abbr>
+                        <expan>T. V. Gopal Iyer's oral commentary</expan>
+                        </persName>
+                    </person>
+                </listPerson>
             </sourceDesc>
         </fileDesc>
         <revisionDesc />
@@ -25,8 +32,7 @@
     <text xml:lang="ta" type="edition">
         <body>
             <div xml:id="KT383-kilavi">
-                <p type="edition">uṭaṉpōk[C2v: ku nērvittu vanta tōḻikku nāṉāl] varuntun
-                    talaimakaṉai nāṇuṭaik kēṭpac colliyatu. </p>
+                <p type="edition">uṭaṉpōk varuntun talaimakaṉai nāṇuṭaik kēṭpac colliyatu. </p>
 
 
                 <p type="translation" xml:lang="en">Uttered so that [she] would let go of shame to
@@ -53,10 +59,139 @@
                     <l rend="indent"> but trembling like a sprout fallen into the fire</l>
                     <l rend="indent2"> so that hands and feet growing tired will be spoiled. </l>
 
+                    <lg type="alternate" sameAs="1-3b" resp="#TVG">
+                        <l>Since, with your agreement, I am bringing [him], he comes</l>
+                        <l>[and] is standing at the sign/meeting place ...</l>
+                        <l>May the span of today go, you say.</l>
+                    </lg>
 
                 </lg>
             </div>
         </body>
     </text>
-
+    <standOff type="wordsplit" corresp="#KT383">
+        <interp type="alignment" select="0">40MG6MR25M3G7MG6MG29ML11M2G15MG7MG3M,160MG</interp>
+        <entry>
+            <form>nī</form>
+            <def>you</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>uṭampaṭutaliṉ</form>
+            <def>agreeing</def>
+            <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+            <form>yāṉ</form>
+            <def>I</def>
+        </entry>
+        <entry>
+            <form>tara</form>
+            <def>give</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>vantu</form>
+            <def>come</def>
+            <gramGrp><gram type="role">absolutive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>kuṟi</form>
+            <def>sign</def>
+        </entry>
+        <entry>
+            <form>niṉṟaṉaṉ-ē</form>
+            <def>he-stood</def>
+            <form type="simple">niṉṟaṉaṉ</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+            <form>kuṉṟam</form>
+            <def>hill</def>
+        </entry>
+        <entry>
+            <form>nāṭaṉ</form>
+            <def>land-he</def>
+        </entry>
+        <entry>
+            <form>iṉṟai</form>
+            <def>today</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aḷavai</form>
+            <def>measure</def>
+        </entry>
+        <entry>
+            <form>ceṉṟaikk<pc>(</pc>a<pc>)</pc></form>
+            <def>may-go</def>
+        </entry>
+        <entry>
+            <form>eṉṟi</form>
+            <def>you-say</def>
+            <gramGrp><gram type="role">subjuntive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>kai-<pc>~</pc>um</form>
+            <def>hand</def>
+            <form type="simple">kai</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>kāl-um</form>
+            <def>foot</def>
+            <form type="simple">kāl</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>ōyvaṉa</form>
+            <def>they-become-tired</def>
+            <gramGrp><gram type="role">neuter plural</gram></gramGrp>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aḻuṅka<pc>+</pc></form>
+            <def>be-spoiled</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>tī</form>
+            <def>fire</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>uṟu</form>
+            <def>have-</def>
+        </entry>
+        <entry>
+            <form>taḷiriṉ</form>
+            <def>sprout</def>
+            <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+            <form>naṭuṅki</form>
+            <def>trembled</def>
+        </entry>
+        <entry>
+            <form>yāvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+            <def>anything</def>
+            <form type="simple">yāvatu</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>ilai</form>
+            <def>not-it</def>
+        </entry>
+        <entry>
+            <form>yāṉ</form>
+            <def>I</def>
+        </entry>
+        <entry>
+            <form>ceyaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>doing</def>
+            <gramGrp><gram type="role">dative</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>uriyatu-<pc>~</pc>ē</form>
+            <def>suitable-it</def>
+            <form type="simple">uriyatu</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>
