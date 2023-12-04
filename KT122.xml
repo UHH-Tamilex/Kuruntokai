@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 122. <persName xml:lang="ta">ōram pōkiyār (pōtiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT122-kilavi">
+          <p type="edition">talaimakaḷ poḻutu kaṇṭu aḻintatu.</p>
+          <p type="translation" xml:lang="en">She being desolate at the sight of the time [of day].</p>
+          </div>
+
+
+        <div xml:id="KT122">
+            <lg type="edition">
+<l>                paiṅkāṟ kokkiṉ puṉpuṟat taṉṉa</l>
+<l>                kuṇṭunī rāmpaluṅ kūmpiṉa viṉiyē</l>
+<l>                vantaṉṟu vāḻiyō mālai</l>
+<l>                yorutā ṉaṉṟē kaṅkulu muṭaittē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">Like [the wings]<note place="foot">The oblique puṟattu suggests an ellipsis of this kind.</note> on the low(?) backs of green-legged egrets(?)</l>
+           <l>the lilies in the deep water have also closed now.</l>
+           <l>Evening has come – may it live!<note place="foot"><term xml:lang="ta">vāḻiyō</term>: TVG sees in this <term xml:lang="ta">-ō</term> following the imperative <term xml:lang="ta">vāḻi</term> one of the cases where <term xml:lang="ta">-ō</term> conveys distress: SHE cannot really wish to welcome evening. Although quite attractive here, such an interpretation seems arbitrary when one considers the number of passages where this imperative + <term xml:lang="ta">-ō</term> is to be taken seriously.</note></l>
+           <l>It is not the only one:</l>
+           <l rend="indent3">it must be followed by<note place="foot">Literally <term xml:lang="ta">uṭaittē</term> says that evening possesses night – evening without night is an impossibility.</note> night.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT122">
+    <interp type="alignment" select="0">22MG17MG27MG17M2G7MG8M2G2M,108M</interp>
+    <entry>
+    <form>paim</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>kokkiṉ</form>
+    <def>crane(?)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>puṉ</form>
+    <def>low</def>
+    </entry>
+    <entry>
+    <form>puṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>back-</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>kuṇṭu</form>
+    <def>depth</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>āmpal-um</form>
+    <def>waterlily</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kūmpiṉa</form>
+    <def>they closed</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉi<pc>~</pc>ē</form>
+    <def>now</def>
+    <form type="simple">iṉi</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vantaṉṟu</form>
+    <def>it came</def>
+    </entry>
+    <entry>
+    <form>vāḻi-<pc>~</pc>ō</form>
+    <def>live</def>
+    <form type="simple">vāḻi</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>aṉṟ*-ē</form>
+    <def>is not so</def>
+    <form type="simple">aṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṅkul-um</form>
+    <def>night</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>uṭaitt*-ē</form>
+    <def>possess it<note place="foot"><term xml:lang="ta">uṭaittu</term> is, according to Lehmann 1994: 89, to be taken as a finite form of a defective verb <term xml:lang="ta">uṭai</term>.</note></def>
+    <form type="simple">uṭaittu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

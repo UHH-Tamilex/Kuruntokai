@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 8. <persName xml:lang="ta">ālaṅkuṭi vaṅkaṉār</persName>: <i>the courtesan/the other woman</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT8-kilavi">
+          <p type="edition">kiḻatti taṉṉaip puṟaṉuraittāḷ (C1: puṟattiṉuraittāḷ) eṉak kēṭṭa kātaṟparattai avaṭkup pāṅkāyiṉār kēṭpac colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to be heard by those close to her by the love-courtesan/the beloved other woman who had heard that SHE had slandered her.</p>
+          </div>
+
+        <div xml:id="KT8">
+            <lg type="edition">
+<l>                kaḻaṉi māttu viḷaintuku tīmpaḻam</l>
+<l>                paḻaṉa vāḷai katūu mūra</l>
+<l>                ṉemmiṟ perumoḻi kūṟit tammiṟ</l>
+<l>                kaiyuṅ kālun tūkkat tūkku</l>
+<l>                māṭip pāvai pōla</l>
+<l>                mēvaṉa ceyyuntaṉ putalvaṉ ṟāykkē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>The man from a village,
+    <choice>
+        <seg>where the Vāḷai fish in the pond seize</seg>
+        <seg>where they seize Vāḷai-fish in the pond</seg>
+    </choice>
+</l>
+<l rend="indent">
+    <choice>
+        <seg>the</seg>
+        <seg>[and]</seg>
+    </choice>
+    sweet fruit shed ripe
+    <choice>
+        <seg>from the</seg>
+        <seg>by the</seg>
+         </choice>
+    mango tree
+         <choice>
+            <seg>by the</seg>
+            <seg>near the</seg>
+         </choice>
+         paddy field
+</l>
+<l rend="indent">in our house speaking big words, in their<note place="foot">Since the designation of the man in line 2, <term xml:lang="ta">ūraṉ</term>, is not endowed with the honorific suffix -r (<term xml:lang="ta">ūrar</term>), the pl. of tam-m-il "their house" ought to be taken literally, that is, presumably, HIS and HER house, or the house of the family.</note> house</l>
+<l>
+    <choice>
+        <seg>after her he lifts hand and foot,</seg>
+        <seg>which, if [someone] lifts hand and foot, [also] lifts [hand and foot]</seg>
+    </choice>
+</l>
+<l rend="indent">like a mirror image<note place="foot">The translation "mirror image" for <term xml:lang="ta">āṭip pāvai</term> would presuppose the existence of mirrors big enough to see one’s whole body in, rather unlikely for a bronze mirror as might have been current in Caṅkam times (as is pointed out by A.D.). So one might rather think of a kind of doll – a marionette?</note>,</l>
+<l>
+    <choice>
+        <seg>doing what is wanted for his son's mother.</seg>
+        <seg>he does what is wanted for his son's mother</seg>
+    </choice>
+</l>
+
+            </lg>1
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT8">
+    <interp type="alignment" select="0">18MG42ML17MG6MG55M2G2M,146M</interp>
+    <entry>
+    <form>kaḻaṉi</form>
+    <def>paddy field</def>
+    </entry>
+    <entry>
+    <form>māttu</form>
+    <def>mango tree(obl.?)</def>
+    </entry>
+    <entry>
+    <form>viḷaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>ripened</def>
+    </entry>
+    <entry>
+    <form>uku</form>
+    <def>shed-</def>
+    </entry>
+    <entry>
+    <form>tīm</form>
+    <def>sweet</def>
+    </entry>
+    <entry>
+    <form>paḻam</form>
+    <def>fruit</def>
+    </entry>
+    <entry>
+    <form>paḻaṉa</form>
+    <def>pond</def>
+    </entry>
+    <entry>
+    <form>vāḷai</form>
+    <def>Vāḷai( fish)</def>
+    </entry>
+    <entry>
+    <form>katūum</form>
+    <def>seizing-</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village he</def>
+    </entry>
+    <entry>
+    <form>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>il</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>moḻi</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>kūṟi<pc>+</pc></form>
+    <def>told</def>
+    </entry>
+    <entry>
+    <form>tam</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>il</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>kai-<pc>~</pc>um</form>
+    <def>hand</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāl-um</form>
+    <def>foot</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tūkka<pc>+</pc></form>
+    <def>lift</def>
+    </entry>
+    <entry>
+    <form>tūkkum</form>
+    <def>lifting-</def>
+    </entry>
+    <entry>
+    <form>āṭi<pc>+</pc></form>
+    <def>mirror</def>
+    </entry>
+    <entry>
+    <form>pāvai</form>
+    <def>image</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>mēvaṉa</form>
+    <def>wish they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>ceyyum</form>
+    <def>doing-</def>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form>putalvaṉ</form>
+    <def>son</def>
+    </entry>
+    <entry>
+    <form>tāykk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>mother</def>
+    <form type="simple">tāykk*</form>
+    <gram type="role">dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

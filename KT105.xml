@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 105. <persName xml:lang="ta">nakkīrar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT105-kilavi">
+          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante when [he] delayed marriage.</p>
+          </div>
+          
+
+
+        <div xml:id="KT105">
+            <lg type="edition">
+<l>                puṉavaṉ ṟuṭavaip poṉpōṟ ciṟutiṉaik</l>
+<l>                kaṭiyuṇ kaṭavuṭ kiṭṭa cilkura</l>
+<l>                laṟiyā tuṇṭa maññai yāṭumakaḷ</l>
+<l>                veṟiyuṟu vaṉappiṉ veytuṟṟu naṭuṅkuñ</l>
+<l>                cūrmalai nāṭaṉ kēṇmai</l>
+<l>                nīrmali kaṇṇoṭu niṉaippā kummē.               </l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>The intimacy with the man from the awe-inspiring<note place="foot">For <term xml:lang="ta">cūr</term> cf. note on KT 52.2. Perhaps here it denotes both, i.e. fear and the awe-inspiring, female deities.</note> mountain,</l>
+           <l rend="indent">where trembles with heat, beautiful like a woman dancing the Veṟi,</l>
+           <l rend="indent">the peacock that ate without knowing</l>
+           <l rend="indent">from the few ears, laid out for the god to enjoy the fragrance,</l>
+           <l rend="indent">of the gold-like small millet by the grove of the man</l>
+           <l rend="indent4">from the high ground,</l>
+           <l>is becoming thinking, with eyes full of tears.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT105">
+    <interp type="alignment" select="0">46MG18MG39MG52MG4MG3M,167M</interp>
+    <entry>
+    <form>puṉavaṉ</form>
+    <def>highland he<note place="foot"><term xml:lang="ta">puṉam</term> is supposed to be not just any cultivable field, but the rather arid kind of field of the hilly tracts. Accordingly, the <term xml:lang="ta">puṉavaṉ</term> is the cultivator of that area.</note></def>
+    </entry>
+    <entry>
+    <form>tuṭavai<pc>+</pc></form>
+    <def>grove</def>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>small</def>
+    </entry>
+    <entry>
+    <form>tiṉai<pc>+</pc></form>
+    <def>millet</def>
+    </entry>
+    <entry>
+    <form>kaṭi</form>
+    <def>scent<note place="foot">The phrase <term xml:lang="ta">kaṭi uṇ kaṭavuḷ</term> is rather unclear. According to the DEDR there are three meanings of <term xml:lang="ta">kaṭi</term> which might be possible here: 1124 "biting", 1129 "scent", 1135 "swiftness". So either the god is supposed to take a mouthful from the offering, or he is supposed to enjoy the scent only, or he should be eating quickly.</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṇ</form>
+    <def>eat-</def>
+    </entry>
+    <entry>
+    <form>kaṭavuṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>god</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>iṭṭa</form>
+    <def>put-</def>
+    </entry>
+    <entry>
+    <form>cil</form>
+    <def>few</def>
+    </entry>
+    <entry>
+    <form>kural</form>
+    <def>ear</def>
+    </entry>
+    <entry>
+    <form>aṟiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>know not</def>
+    </entry>
+    <entry>
+    <form>uṇṭa</form>
+    <def>eaten-</def>
+    </entry>
+    <entry>
+    <form>maññai</form>
+    <def>peacock</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṭu</form>
+    <def>dance-</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>veṟi</form>
+    <def>Veṟi( dance)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṟu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>vaṉappiṉ</form>
+    <def>beauty</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>veyt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hot it</def>
+    </entry>
+    <entry>
+    <form>uṟṟu</form>
+    <def>had</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>naṭuṅkum</form>
+    <def>trembling-</def>
+    </entry>
+    <entry>
+    <form>cūr</form>
+    <def>fear/deity</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>mali</form>
+    <def>be full-</def>
+    </entry>
+    <entry>
+    <form>kaṇṇoṭu</form>
+    <def>eye with</def>
+    </entry>
+    <entry>
+    <form>niṉaipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>thinking</def>
+    </entry>
+    <entry>
+    <form>ākum-<pc>+</pc>ē</form>
+    <def>becoming-</def>
+    <form type="simple">ākum</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

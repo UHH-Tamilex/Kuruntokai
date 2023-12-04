@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 127. <persName xml:lang="ta">ōram pōkiyār (pōtiyār)</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT127-kilavi">
+          <p type="edition">pāṇaṉ vāyilākap pukkavaḻit talaimakaṟkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante for HIM, when the bard entered as a mediator.</p>
+          </div>
+
+
+        <div xml:id="KT127">
+            <lg type="edition">
+<l>                kurukukoḷak kuḷitta keṇṭai yayala</l>
+<l>                turukeḻu tāmarai vāṉmukai verūuṅ</l>
+<l>                kaḻaṉiyam paṭappaik kāñci yūra</l>
+<l>                voruniṉ pāṇaṉ poyya ṉāka</l>
+<l>                vuḷḷa pāṇa rellāṅ</l>
+<l>                kaḷvar pōlvarnī yakaṉṟici ṉōrkkē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>O man from the village of Kāñci trees in the gardens near the fields,</l>
+           <l rend="indent">
+            <choice>
+                <seg>where the barb, diving because it takes [it] for a heron,</seg>
+                <seg>where the barb(?), dived, because the heron [will] take [it],</seg>
+            </choice>
+           </l>
+           <l rend="indent">is startled by the sky[-bright] bud of the lotus of [similar] form,<note place="foot">Is <term xml:lang="ta">urukeḻu</term> here epitheton ornans (beautiful lotus) or does it belong into the image (lotus of heron-like form)? Is the wording deliberately open to make both associations possible?</note></l>
+           <l>– if your one bard is a liar,<note place="foot">It is tempting to read the infinitive <term xml:lang="ta">āka</term> here as a conditional and to understand ā like Skt. bhū in a merely predicative way. Srin.'s alternative is, however: "since your one bard turns out to be a liar".</note></l>
+           <l>all bards are<note place="foot">Here the syntax is not unequivocal. It would also be possible to read <term xml:lang="ta">pāṇar ellām</term> as the subject to <term xml:lang="ta">kaḷvar pōlvar</term>. This sentence division presupposes a completion of the missing predicate noun in the pāṇar line, which is preferable from the point of view of contents, because it results in a climax from liar to robber.</note> in fact<note place="foot">Is <term xml:lang="ta">uḷḷa</term>, infinitive of <term xml:lang="ta">uḷ</term>, to be taken here adverbially ("as it is")? TVG takes it as the peyareccam: "all bards that exist".</note>.</l>
+           <l>They are like robbers to those you have left.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT127">
+    <interp type="alignment" select="0">31MG119M2G2M,155M</interp>
+    <entry>
+    <form>kuruku</form>
+    <def>wader</def>
+    </entry>
+    <entry>
+    <form>koḷa<pc>+</pc></form>
+    <def>take</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kuḷitta</form>
+    <def>dived-</def>
+    </entry>
+    <entry>
+    <form>keṇṭai</form>
+    <def>Keṇṭai( fish)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ayalat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>neighbourhood it</def>
+    </entry>
+    <entry>
+    <form>uru</form>
+    <def>form-</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have</def>
+    </entry>
+    <entry>
+    <form>tāmarai</form>
+    <def>lotus</def>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>mukai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>verūum</form>
+    <def>being startled-</def>
+    </entry>
+    <entry>
+    <form>kaḻaṉiyam</form>
+    <def>field</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paṭappai<pc>+</pc></form>
+    <def>garden</def>
+    </entry>
+    <entry>
+    <form>kāñci</form>
+    <def>Kāñci( tree)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūra</form>
+    <def>village he</def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>pāṇaṉ</form>
+    <def>bard</def>
+    </entry>
+    <entry>
+    <form>poyyaṉ</form>
+    <def>liar</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷa</form>
+    <def>be(inf./part.)</def>
+    </entry>
+    <entry>
+    <form>pāṇar</form>
+    <def>bard</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ellām</form>
+    <def>all</def>
+    </entry>
+    <entry>
+    <form>kaḷvar</form>
+    <def>robber</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pōlvar</form>
+    <def>similar they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nī</form>
+    <def>you</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akaṉṟiciṉōrkk*-ē</form>
+    <def>left they</def>
+    <form type="simple">akaṉṟiciṉōrkku</form>
+    <gram type="role">honorific dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

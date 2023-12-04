@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 68. <persName xml:lang="ta">aḷḷūr naṉmullai</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT68-kilavi">
+          <p type="edition">piriviṭaik kiḻatti melintu kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken after having become thin/weak by HER in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT68">
+            <lg type="edition">
+<l>                pūḻkkā laṉṉa ceṅkā luḻunti</l>
+<l>                ṉūḻppaṭu mutukā yuḻaiyiṉaṅ kavaru</l>
+<l>                marumpaṉi yaṟciran tīrkku</l>
+<l>                maruntupiṟi tillaiyavar maṇanta mārpē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>His chest united [with mine]<note place="foot"><term xml:lang="ta">avar maṇanta mārpu</term>: this has to be rendered literally "the chest he united with me/mine".</note>, nothing else is the remedy</l>
+             <l rend="indent">to end the cold season with harsh dew,<note place="foot">TVG affirms as a second meaning for <term xml:lang="ta">paṉi</term> here the "shivering fever" caused by the cold season, which might be an allusion in accordance with <term xml:lang="ta">maruntu</term> "remedy".</note></l>
+             <l rend="indent">when a herd of deer seizes the old fruits rotting unripe<note place="foot"><term xml:lang="ta">ūḻppaṭu mutu kāy</term>: Cām. glosses <term xml:lang="ta">mika mutirnta kāykaḷai</term> "very ripe fruit", and TVG explains here <term xml:lang="ta">kāy</term> as "seed", i.e. tradition takes the image to be positive: the animals are sufficiently supplied with food.</note></l>
+             <l rend="indent">of the Uḻuntu, whose trunk [is] as red as quails' legs.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT68">
+    <interp type="alignment" select="0">77ML11MG21M2G2M,115M</interp>
+    <entry>
+    <form>pūḻ<pc>+</pc></form>
+    <def>quail</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>uḻuntiṉ</form>
+    <def>Uḻuntu( shrub)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūḻ</form>
+    <def>age-<note place="foot">How to analyse <term xml:lang="ta">ūḻppaṭum? ūḻ</term> sometimes seems to be used nominally (in the sense of "turn"; KT 270.2, 285.4, 293.6), but apart from <term xml:lang="ta">paṭu</term>, it is also combined with <term xml:lang="ta">uṟu</term> (KT 228.1, 278.5), and so it could also be read as a verbal compound, either with <term xml:lang="ta">ūḻ</term>, 4th class, "to age" or 11th class, "to rot".</note></def>
+    </entry>
+    <entry>
+    <form>p<pc>+</pc>aṭu</form>
+    <def>happening-</def>
+    </entry>
+    <entry>
+    <form>mutu</form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>kāy</form>
+    <def>unripe fruit</def>
+    </entry>
+    <entry>
+    <form>uḻai</form>
+    <def>deer</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉam</form>
+    <def>group</def>
+    </entry>
+    <entry>
+    <form>kavarum</form>
+    <def>seizing-</def>
+    </entry>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>paṉi</form>
+    <def>dew</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟciram</form>
+    <def>cold season<note place="foot">When is <term xml:lang="ta">aṟciram</term>? Autumn and frost in Tamilnadu? The inner season or an Indo-Aryan loan (> Skt. śiśira- autumn)? TVG suggests analysing: <term xml:lang="ta">al</term> "night" + Skt. śiśira-.</note></def>
+    </entry>
+    <entry>
+    <form>tīrkkum</form>
+    <def>ending-</def>
+    </entry>
+    <entry>
+    <form>maruntu</form>
+    <def>remedy</def>
+    </entry>
+    <entry>
+    <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>other it</def>
+    </entry>
+    <entry>
+    <form>illai</form>
+    <def>is not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>maṇanta</form>
+    <def>united-</def>
+    </entry>
+    <entry>
+    <form>mārp*-ē</form>
+    <def>chest</def>
+    <form type="simple">mārpu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

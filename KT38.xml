@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 38. <persName xml:lang="ta">Kapilar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT38-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ taṉatu āṟṟāmai tōṉṟat tōḻikkuk kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">She talking to the confidante so that her lack of strength became apparent, when [he] delayed marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT38">
+            <lg type="edition">
+<l>                kāṉa maññai yaṟaiyīṉ muṭṭai</l>
+<l>                veyilāṭu mucuviṉ kuruḷai yuruṭṭuṅ</l>
+<l>                kuṉṟa nāṭaṉ kēṇmai yeṉṟu</l>
+<l>                naṉṟumaṉ vāḻi tōḻi yuṇka</l>
+<l>                ṇīrō ṭōrāṅkut taṇappa</l>
+<l>                vuḷḷā takaṟal vallu vōrkkē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l>The intimacy with the man from the hills,</l>
+               <l rend="indent">where the young of the langur, playing in the sunlight,</l>
+               <l rend="indent">is rolling the egg laid on a rock by a peahen,</l>
+               <l>[is] always good, certainly, oh friend,</l>
+               <l rend="indent">– for those able to leave without remembering</l>
+               <l rend="indent">when [he] departs, as one with<note place="foot">Viz. "at the very instant that water [appears] in [my] collyrium eyes".</note> water in [my] collyrium eyes.</l>
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  
+  <standOff type="wordsplit" corresp="#KT38">
+    <interp type="alignment" select="0">5ML54MR15M2GMR5MG17ML4MG20MG16M2G2M,150M</interp>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>maññai</form>
+    <def>peacock</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟai</form>
+    <def>rock</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṉ</form>
+    <def>bring forth</def>
+    </entry>
+    <entry>
+    <form>muṭṭai</form>
+    <def>egg</def>
+    </entry>
+    <entry>
+    <form>veyil</form>
+    <def>sunlight</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>play-</def>
+    </entry>
+    <entry>
+    <form>mucuviṉ</form>
+    <def>langur</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kuruḷai</form>
+    <def>young</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uruṭṭum</form>
+    <def>rolling-</def>
+    </entry>
+    <entry>
+    <form>kuṉṟam</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉṟ*-um</form>
+    <def>always</def>
+    </entry>
+    <entry>
+    <form>naṉṟu-maṉ</form>
+    <def>good it</def>
+    <form type="simple">naṉṟu</form>
+    <gramGrp type="particle"><form>maṉ</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṇ</form>
+    <def>collyrium</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>nīrōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>water with</def>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>āṅku<pc>+</pc></form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>taṇappa</form>
+    <def>depart</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>remember not</def>
+    </entry>
+    <entry>
+    <form>akaṟal</form>
+    <def>leaving</def>
+    </entry>
+    <entry>
+    <form>valluvōrkk*-ē</form>
+    <def>able he</def>
+    <form type="simple">valluvōrkku</form>
+    <gram type="role">honorific dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

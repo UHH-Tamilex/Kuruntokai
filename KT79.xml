@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 79. <persName xml:lang="ta">kuṭavāyiṟ kīraṉakkaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT79-kilavi">
+          <p type="edition">poruḷvayiṟ pirinta talaimakaṉai niṉainta talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante by HER who was thinking of HIM when he separated because of wealth.</p>
+          </div>
+
+
+
+        <div xml:id="KT79">
+            <lg type="edition">
+<l>                kāṉa yāṉai tōṉayan tuṇṭa</l>
+<l>                poritā ḷōmai vaḷiporu neṭuñciṉai</l>
+<l>                yalaṅka lulavai yēṟi yoyyeṉap</l>
+<l>                pulamputaru kurala puṟavuppeṭai payiru</l>
+<l>                matta naṇṇiya vaṅkuṭic cīṟūrc</l>
+<l>                cērntaṉar kollō tāmē yāntamak</l>
+<l>                kollē meṉṟa tappal</l>
+<l>                collā takaṟal vallu vōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>He, did he join</l>
+          <l rend="indent">the little village with pretty homes near the road</l>
+          <l rend="indent">where the female dove with a voice conveying loneliness calls out</l>
+          <l rend="indent">“oy” after having ascended the swaying twig</l>
+          <l rend="indent">of a wind-beaten long branch in an Ōmai tree with parched</l>
+          <l>trunk eaten for its bark by the forest elephant</l>
+          <l>– he who was able to leave without speaking</l>
+          <l rend="indent">
+            <choice>
+                <seg>[because of his] erroneous idea that it would be impossible to us?</seg>
+                <seg>[because of our] error to have said: we don't consent.</seg>
+            </choice>
+          </l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT79">
+    <interp type="alignment" select="0">4M3G8ML5MG99MR18MG12MG8MG10MG21MG14MG2M,213M</interp>
+    <entry>
+    <form>kāṉa<pc>(</pc>m<pc>)</pc></form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>yāṉai</form>
+    <def>elephant</def>
+    </entry>
+    <entry>
+    <form>tōl</form>
+    <def>skin</def>
+    </entry>
+    <entry>
+    <form>nayant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>longed-</def>
+    </entry>
+    <entry>
+    <form>uṇṭa</form>
+    <def>eaten-</def>
+    </entry>
+    <entry>
+    <form>pori</form>
+    <def>be parched-</def>
+    </entry>
+    <entry>
+    <form>tāḷ</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>ōmai</form>
+    <def>Ōmai( tree)</def>
+    </entry>
+    <entry>
+    <form>vaḷi</form>
+    <def>wind</def>
+    </entry>
+    <entry>
+    <form>poru</form>
+    <def>beat-</def>
+    </entry>
+    <entry>
+    <form>neṭum</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>ciṉai</form>
+    <def>twig<note place="foot"><term xml:lang="ta">ulavai</term>, in contradistinction to <term xml:lang="ta">ciṉai</term>, is explained by TVG to be a leafless twig at the top of a tree. The opposite is given by the TL ("green twig with leaves upon it").</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alaṅkal</form>
+    <def>swaying</def>
+    </entry>
+    <entry>
+    <form>ulavai</form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēṟi</form>
+    <def>climbed</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oyyeṉa<pc>+</pc></form>
+    <def>'oy' say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>pulampu</form>
+    <def>loneliness</def>
+    </entry>
+    <entry>
+    <form>taru</form>
+    <def>give-<note place="foot">The function of <term xml:lang="ta">tā-</term> here seems to be the perspective of matters: "to inflict loneliness", that is, the cry of the doves causes a feeling of loneliness in the listener. Cf. <term xml:lang="ta">pulampu koḷ</term> (KT 207.3 etc.) and <term xml:lang="ta">pulampu uṟu</term> (KT 174.1).</note></def>
+    </entry>
+    <entry>
+    <form>kurala</form>
+    <def>voice</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>puṟavu<pc>+</pc></form>
+    <def>dove</def>
+    </entry>
+    <entry>
+    <form>peṭai</form>
+    <def>she bird</def>
+    </entry>
+    <entry>
+    <form>payirum</form>
+    <def>calling-</def>
+    </entry>
+    <entry>
+    <form>attam</form>
+    <def>road</def>
+    </entry>
+    <entry>
+    <form>naṇṇiya</form>
+    <def>situated-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kuṭi<pc>+</pc></form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>ūr<pc>+</pc></form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>cērntaṉar-kollō</form>
+    <def>joined he</def>
+    <form type="simple">cērntaṉar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tām-ē</form>
+    <def>self</def>
+    <form type="simple">tām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we</def>
+    </entry>
+    <entry>
+    <form>tamakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>own(pl.dat.)</def>
+    </entry>
+    <entry>
+    <form>ollēm</form>
+    <def>not possible for us</def>
+    </entry>
+    <entry>
+    <form>eṉṟa</form>
+    <def>said-</def>
+    </entry>
+    <entry>
+    <form>tappal</form>
+    <def>error</def>
+    </entry>
+    <entry>
+    <form>collāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said not</def>
+    </entry>
+    <entry>
+    <form>akaṟal</form>
+    <def>departing</def>
+    </entry>
+    <entry>
+    <form>valluvōr-ē</form>
+    <def>able he</def>
+    <form type="simple">valluvōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

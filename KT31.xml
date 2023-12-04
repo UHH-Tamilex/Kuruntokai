@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 31. <persName xml:lang="ta">ātimantiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT31-kilavi">
+          <p type="edition">notumalar varaivuḻit tōḻikkut talaimakaḷ aṟattoṭu niṉṟatu.</p>
+          <p type="translation" xml:lang="en">SHE standing firm in duty to the confidante when a marriage with strangers [threatened].</p>
+          </div>
+
+
+
+        <div xml:id="KT31">
+            <lg type="edition">
+<l>                maḷḷar kuḻīiya viḻavi ṉāṉu</l>
+<l>                makaḷir taḻīiya tuṇaṅkai yāṉum</l>
+<l>                yāṇṭuṅ kāṇēṉ māṇṭak kōṉai</l>
+<l>                yāṉumō rāṭukaḷa makaḷē yeṉkaik</l>
+<l>                kōṭī rilaṅkuvaḷai nekiḻtta</l>
+<l>                pīṭukeḻu kuricilumō rāṭukaḷa makaṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l rend="indent">Be it on the festival crowded by warriors</l>
+               <l rend="indent">or at the Tuṇaṅkai dance where women embrace [each other],</l>
+               <l>nowhere do I see the one famously fit [for me]<note place="foot">What is the exact meaning of <term xml:lang="ta">māṇ takutal</term> (cf. also KT 184.4)? TVG explains <term xml:lang="ta">māṇ</term> in this connection as "majestic", but that does not make it much better.</note>.</l>
+               <l>I am but one girl on the dance floor<note place="foot"><term xml:lang="ta">kaḷam</term> is, according to Zvelebil 1979: 177 et p. (n. 180, 181), the "threshing floor" which is also used for public meetings of a religious or non-religious kind (like exorcism and dance).</note>,</l>
+               <l rend="indent4">and he</l>
+               <l rend="indent">who made my shining bangles cut(?) from conchs loose,</l>
+               <l>[that] great master is but one boy on the dance floor.(?)<note place="foot">Is the message in this that the two, though there is no point of contact between them, be it for social reasons or because of their sex, can approach each other on the dance floor?</note></l>
+               
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT31">
+    <interp type="alignment" select="0">24ML30M2G21MG12ML4MG11MG36MG12MG4MG2M,166M</interp>
+    <entry>
+    <form>maḷḷar</form>
+    <def>warrior</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kuḻīiya</form>
+    <def>crowded-</def>
+    </entry>
+    <entry>
+    <form>viḻaviṉ</form>
+    <def>festival</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>āṉum</form>
+    <def>either<note place="foot">Tradition takes the two forms <term xml:lang="ta">-āṉum</term> at the end of the 1st and 2nd line as a locative suffix + <term xml:lang="ta">-um</term> "and" which does not make any difference with regard to content.</note></def>
+    
+    </entry>
+    <entry>
+    <form>makaḷir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>taḻīiya</form>
+    <def>embraced-</def>
+    </entry>
+    <entry>
+    <form>tuṇaṅkai</form>
+    <def>Tuṇaṅkai( dance)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṉum</form>
+    <def>or</def>
+    </entry>
+    <entry>
+    <form>yāṇṭ<pc>*(</pc>um<pc>)</pc></form>
+    <def>where</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṇēṉ</form>
+    <def>I don't see</def>
+    </entry>
+    <entry>
+    <form>māṇ</form>
+    <def>fame</def>
+    </entry>
+    <entry>
+    <form>takkōṉai</form>
+    <def>fit he</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>yāṉ-um</form>
+    <def>I</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>dance-</def>
+    </entry>
+    <entry>
+    <form>kaḷam</form>
+    <def>floor</def>
+    </entry>
+    <entry>
+    <form>makaḷ-ē</form>
+    <def>daughter</def>
+    <form type="simple">makaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>kai<pc>+</pc></form>
+    <def>hand</def>
+    </entry>
+    <entry>
+    <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>conch</def>
+    </entry>
+    <entry>
+    <form>īr</form>
+    <def>cut-</def>
+    </entry>
+    <entry>
+    <form>ilaṅku</form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>vaḷai</form>
+    <def>bangle</def>
+    </entry>
+    <entry>
+    <form>nekiḻtta</form>
+    <def>loosened-</def>
+    </entry>
+    <entry>
+    <form>pīṭu</form>
+    <def>greatness</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>kuricil-um</form>
+    <def>master</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>dance-</def>
+    </entry>
+    <entry>
+    <form>kaḷam</form>
+    <def>floor</def>
+    </entry>
+    <entry>
+    <form>makaṉ-ē</form>
+    <def>son</def>
+    <form type="simple">makaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

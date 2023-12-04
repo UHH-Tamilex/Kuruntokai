@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 17. <persName xml:lang="ta">Pālaipāṭiya Peruṅkaṭuṅkō</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+              <persName>
+                  <abbr>T.V.G.</abbr>
+                  <expan>T. V. Gopal Iyer</expan>
+              </persName>
+          </person>
+      </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT17-kilavi">
+          <p type="edition">tōḻiyiṟ kūṭṭam vēṇṭip piṉṉiṉṟa talaimakaṉ tōḻi kuṟai maṟāmal kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Uttered so that the confidante might not refuse [his] request by HIM who begged wishing the help of the confidante.</p>
+          </div>
+
+        <div xml:id="KT17">
+            <lg type="edition">
+<l>                māveṉa maṭalu mūrpa pūveṉak</l>
+<l>                kuvimuki ḻerukkaṅ kaṇṇiyuñ cūṭupa</l>
+<l>                maṟuki ṉārkkavum paṭupa</l>
+<l>                piṟitu mākupa kāmaṅkāḻk koḷiṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>For horses they'll ride Palmyra-stems and for flowers</l>
+                <l>they'll wear Yarcum chaplets of piled-up buds</l>
+                <l>and in the streets they'll happen to shout</l>
+                <l>and other things will come forth<note place="foot"><term xml:lang="ta">piṟitum ākupa</term> is a combination of a pronoun in n.sg. as a subject with a 3rd pl. for predicate: this is unusual, but it might be explained as a literary freedom for the sake of the parallelism of the 4 lines.</note> if desire comes to a climax.</l>
+                <lg type="alternate" resp="#TVG" sameAs="3b+4b">
+                  <l>and in the streets they'll be shouted at<note place="foot">So this means that, they will make themselves a public nuisance – KT 32 in this connection talks about <term xml:lang="ta">paḻi</term> "disgrace". If so, it means taking paṭupa already as a marker of the passive. There are a few passages in the KT where this seems possible (cf. KT 194.1, 288.5).</note></l>
+                  <l>and they'll become some other thing ...<note place="foot">So Cām.'s alternative interpretation; for the traditional last escape is jumping off a mountain. (Where this is clearly attested for the first time I do not know, unless in KT 69, where it is the solution chosen by a female monkey who had lost her husband.) A similar suggestive formulation with piṟitu is to be found in KT 69.1, 302.9.</note></l>
+                </lg>
+                
+
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT17">
+    <interp type="alignment" select="0">11MG34MG21MG14M2G21MG2M,109M</interp>
+    <entry>
+    <form>mā</form>
+    <def>horse</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>maṭal-um</form>
+    <def>Palmyra stem</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ūrpa</form>
+    <def>they mount</def>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa<pc>+</pc></form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>kuvi</form>
+    <def>heap-</def>
+    </entry>
+    <entry>
+    <form>mukiḻ</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>erukkam</form>
+    <def>yarcum</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇṇi-<pc>~</pc>um</form>
+    <def>chaplet</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>cūṭupa</form>
+    <def>they wear</def>
+    </entry>
+    <entry>
+    <form>maṟukiṉ</form>
+    <def>street</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ārkka-<pc>~</pc>um</form>
+    <def>shout</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paṭupa</form>
+    <def>they happen</def>
+    </entry>
+    <entry>
+    <form>piṟit<pc>*(</pc>um<pc>)</pc></form>
+    <def>other it</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ākupa</form>
+    <def>they become</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>kāḻkkoḷiṉ-ē</form>
+    <def>coming to a climax if</def>
+    <form type="simple">kāḻkkoḷiṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 28. <persName xml:lang="ta">avvaiyār (G2: auvaiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT28-kilavi">
+          <p type="edition">varaiviṭai āṟṟāḷāyk kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared by HER to the confidante who was anxious she would not have the strength [to wait for] the time of marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT28">
+            <lg type="edition">
+<l>                muṭṭu vēṉko ṟākku vēṉko</l>
+<l>                lōrēṉ yāṉumōr peṟṟi mēliṭ</l>
+<l>                ṭāa volleṉak kūvu vēṉko</l>
+<l>                lalamara lacaivaḷi yalaippaveṉ</l>
+<l>                ṉuyavunō yaṟiyātu tuñcu mūrkkē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l>Do I attack? Do I strike out?</l>
+               <l>I just don't know.</l>
+               <l rend="indent4">Using any pretext,</l>
+               <l>do I crow out “āa ol”</l>
+               <l rend="indent2">to<note place="foot"><term xml:lang="ta">ūrkku</term>: problematic here the dative, as a direct object for the verbs of the first lines was to be expected. TVG sees a poetical usage of dative for accusative. Cām. ponders the further possibility that the aggression of the speaker might be directed against herself ("lege ich Hand an [mich] ...?"). My proposition is to take the third of the verbs connected with ūr, i.e. <term xml:lang="ta">kūvuvēṉ</term>, as the one responsible for the form. In contradistinction to the verba dicendi (to be construed with a double accusative) <term xml:lang="ta">kūvu</term> can be intransitive and thus connected with an indirect object "to crow out to some one".</note> the sleeping village that doesn't know of my deep pain</l>
+               <l rend="indent2">as the whirling wind slaps [it].</l>
+
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT28">
+    <interp type="alignment" select="0">8MG3ML7MG10MG12MG3MG17MG56M2G2M,127M</interp>
+    <entry>
+    <form>muṭṭuvēṉ-kol</form>
+    <def>I attack</def>
+    <form type="simple">muṭṭuvēṉ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tākkuvēṉ-kol</form>
+    <def>I strike against</def>
+    <form type="simple">tākkuvēṉ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ōrēṉ</form>
+    <def>I don't know</def>
+    </entry>
+    <entry>
+    <form>yāṉ-um</form>
+    <def>I</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>peṟṟi</form>
+    <def>pretext<note place="foot"><term xml:lang="ta">peṟṟi</term> is a hapax, but Cām.'s "pretext" is meaningful, if a context is presupposed where SHE is not allowed to publicly admit her sorrow, or at least the reason for her sorrow. This might be viewed as a play with the topos of being possessed by the god: according to poetics, the relatives call in the soothsayer when SHE is overthrown by grief; here SHE behaves like one who is possessed, because this is the only way open to her to express her grief.</note></def>
+    </entry>
+    <entry>
+    <form>mēl-iṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>pretended</def>
+    </entry>
+    <entry>
+    <form>āa</form>
+    <def>'ā</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ol</form>
+    <def>ol'</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>eṉa<pc>+</pc></form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>kūvuvēṉ-kol</form>
+    <def>I crow</def>
+    <form type="simple">kūvuvēṉ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>alamaral</form>
+    <def>whirling<note place="foot"><term xml:lang="ta">alamaral</term>: what is the function of the verbal noun? What is its meaning here is about clear, but what is the grammatical explanation? (Cf. KT 55 taivaral ūtai.) Srin.: "the moving wind that owns whirling".</note></def>
+    </entry>
+    <entry>
+    <form>acai</form>
+    <def>move-</def>
+    </entry>
+    <entry>
+    <form>vaḷi</form>
+    <def>wind</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alaippa</form>
+    <def>slap</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uyavu</form>
+    <def>distress</def>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>aṟiyātu</form>
+    <def>know not</def>
+    </entry>
+    <entry>
+    <form>tuñcum</form>
+    <def>sleeping-</def>
+    </entry>
+    <entry>
+    <form>ūrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>village</def>
+    <form type="simple">ūrkk*</form>
+    <gram type="role">dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

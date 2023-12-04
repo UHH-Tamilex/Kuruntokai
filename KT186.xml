@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 186. <persName xml:lang="ta">okkūr mācātti</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT186-kilavi">
+          <p type="edition">paruva varaviṉkaṇ āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
+          </div>
+          
+
+        <div xml:id="KT186">
+            <lg type="edition">
+<l>               ārkali yēṟṟoṭu kārtalai maṇanta</l>
+<l>               kollaip puṉatta mullai meṉkoṭi</l>
+<l>               yeyiṟeṉa mukaikku nāṭaṟkut</l>
+<l>               tuyiṟuṟan taṉavāṟ ṟōḻiyeṉ kaṇṇē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+         <l>My eyes, friend, have actually given up sleep</l>  
+         <l rend="indent">for the man from a land where the soft creepers of the field jasmine</l>
+         <l rend="indent">bud, like teeth, in the clearing</l>
+         <l rend="indent">
+            <choice>
+            <seg>that is joined  rain clouds with heavily clamouring<note place="foot"><term xml:lang="ta">ār kali ēṟṟoṭu</term>: Cām. glosses with <term xml:lang="ta">mikka muḻakkattaiyutaiya iṭiyēṟṟoṭu</term> "with a thunderbolt possessing much noise" (<term xml:lang="ta">kali-ttal</term>, "to make noise").</note> thunder.</seg>
+            <seg>that have joined with rain clouds with heavily clamouring thunder.<note place="foot">Or perhaps the syntax is to be understood, in spite of <term xml:lang="ta">ēṟṟoṭu</term>, in another way. The land has joined with rain clouds (which in their turn have joined with thunder): in that case we would have a familiar image of union, and the jasmine with its teeth-buds would hint at the smile of the satisfied woman.</note></seg>
+         </choice>
+        </l>
+           </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT186">
+    <interp type="alignment" select="0">21MG39MG11MR13ML8MG13MG3M,114M</interp>
+    <entry>
+    <form>ār</form>
+    <def>become full-</def>
+    </entry>
+    <entry>
+    <form>kali</form>
+    <def>bustle/clamour-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēṟṟoṭu</form>
+    <def>stroke with</def>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>talai-maṇanta</form>
+    <def>joined-<note place="foot"><term xml:lang="ta">alaimaṇanta</term> is already lexicalised, according to the TL, but presumably it still retains the erotic component of <term xml:lang="ta">maṇa</term>- "to unite".</note></def>
+    </entry>
+    <entry>
+    <form>kollai<pc>+</pc></form>
+    <def>clearing</def>
+    </entry>
+    <entry>
+    <form>puṉatta</form>
+    <def>field</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eyiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tooth</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>mukaikkum</form>
+    <def>budding-</def>
+    </entry>
+    <entry>
+    <form>nāṭaṟku<pc>+</pc></form>
+    <def>land he</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    </entry>
+    <entry>
+    <form>tuṟantaṉa-<pc>~</pc>āl</form>
+    <def>they abandoned</def>
+    <form type="simple">tuṟantaṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

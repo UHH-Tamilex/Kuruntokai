@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 41. <persName xml:lang="ta">Aṇilāṭumuṉṟilār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+            <abbr>Srin.</abbr>
+            <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+
+
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT41-kilavi">
+          <p type="edition">piriviṭai vēṟupāṭu kaṇṭu kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared by HER to the confidante who was anxious on seeing changes [in her] during the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT41">
+            <lg type="edition">
+<l>                kātala ruḻaiya rākap perituvantu</l>
+<l>                cāṟuko ḷūriṟ pukalvēṉ maṉṟa</l>
+<l>                vatta naṇṇiya vaṅkuṭic cīṟūr</l>
+<l>                makkaḷ pōkiya vaṇilāṭu muṉṟiṟ</l>
+<l>                pulappil pōlap pulleṉ</l>
+<l>                ṟalappeṉ ṟōḻiyava rakaṉṟa ñāṉṟē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l rend="indent">When<note place="foot">In this version the infinitive <term xml:lang="ta">āka</term> is to be understood as a conditional which is not impossible, for sure, but also not very usual.</note> [my] lover is close, greatly delighted<note place="foot">Instead of <term xml:lang="ta">peritu uvantu</term> it is also possible to read <term xml:lang="ta">peritu vantu</term>: "as something big has come", that is: like a village having a festival for a special occasion.</note>,</l>
+               <l rend="indent2">like a village taking a festival,</l>
+               <l rend="indent4">I rejoice, certainly.</l>
+               <l rend="indent">Near the road, in a small village with pretty homes<note place="foot"><term xml:lang="ta">am kuṭi</term>: rendered by TVG as "with good inhabitants", that is, <term xml:lang="ta">kuṭi</term> is meant to denote the inhabitants of the <term xml:lang="ta">ūr</term>. Cf., though, the descending climax of KT 130.3f. <term xml:lang="ta">nāṭu</term> – <term xml:lang="ta">ūr</term> – <term xml:lang="ta">kuṭi</term> where <term xml:lang="ta">kuṭi</term> is obviously the smallest habitation unit.</note></l>
+               <l rend="indent2">people gone, squirrels playing in the front-yard,</l>
+               <l rend="indent">a house left lonely – like that, empty,</l>
+               <l>I am in distress, friend, since he left.</l>
+               <lg type="alternate" resp="#Srin">
+                <l>Because [my] lover is a tough worker (cf. DED 586; āka as bhavati),</l>
+                <l>I will rejoice like the people of an ūr who are having a festival, for sure (i.e. when he comes back</l>
+                <l>as a wealthy man who is able to marry me), (but for the time being,) while he is away I will be</l>
+                <l>afflicted ...</l>
+               </lg>
+                    </lg>
+                
+
+                
+                
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT41">
+    <interp type="alignment" select="0">23MG25MG10MR18MG34MG14MG26M2G2M,160M</interp>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>uḻaiyar</form>
+    <def>neighbour</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>āka<pc>+</pc></form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big it</def>
+    </entry>
+    <entry>
+    <form>uvantu</form>
+    <def>delighted/come</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>cāṟu</form>
+    <def>festival</def>
+    </entry>
+    <entry>
+    <form>koḷ</form>
+    <def>take-</def>
+    </entry>
+    <entry>
+    <form>ūriṉ</form>
+    <def>village</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pukalvēṉ-maṉṟa</form>
+    <def>I rejoice </def>
+    <form type="simple">pukalvēṉ</form>
+    <gramGrp type="particle"><form>maṉṟa</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>attam</form>
+    <def>road</def>
+    </entry>
+    <entry>
+    <form>naṇṇiya</form>
+    <def>situated-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kuṭi<pc>+</pc></form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>makkaḷ</form>
+    <def>people</def>
+    </entry>
+    <entry>
+    <form>pōkiya</form>
+    <def>gone-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṇil</form>
+    <def>squirrel</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>play-</def>
+    </entry>
+    <entry>
+    <form>muṉṟil</form>
+    <def>front yard</def>
+    </entry>
+    <entry>
+    <form>pulapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>loneliness house</def>
+    </entry>
+    <entry>
+    <form>il</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>grass</def>
+    </entry>
+    <entry>
+    <form>pulleṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>alappeṉ</form>
+    <def>I grieve</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>avar</form>
+    <def>he-</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>akaṉṟa</form>
+    <def>left-</def>
+    </entry>
+    <entry>
+    <form>ñāṉṟ*-ē</form>
+    <def>when</def>
+    <form type="simple">ñāṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

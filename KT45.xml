@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 45. <persName xml:lang="ta">ālaṅkuṭi vaṅkaṉa(ār)</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.S. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT45-kilavi">
+          <p type="edition">talaimakaṟkup pāṅkāyiṉāyiṉār vāyil vēṇṭiyavaḻit tōḻi vāyil nērntatu.</p>
+          <p type="translation" xml:lang="en">The confidante granting mediation/the door, when those close to HIM wished for mediation/the door.</p>
+          </div>
+
+
+
+        <div xml:id="KT45">
+            <lg type="edition">
+<l>                kālai yeḻuntu kaṭuntēr paṇṇi</l>
+<l>                vāliḻai makaḷirt taḻīiya ceṉṟa</l>
+<l>                malla lūra ṉelliṉaṉ periteṉa</l>
+<l>                maṟuvaruñ ciṟuvaṉ ṟāyē</l>
+<l>                teṟuva tammavit tiṇaippiṟat tallē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">Risen in the morning, after preparing the swift chariot,</l>
+             <l rend="indent">[he's] gone to embrace women with pure ornaments (?) </l>
+             <l rend="indent">“Very glorious [is] the man from the prosperous village”<note place="foot"><term xml:lang="ta">peritu</term> seems to be an adverb in emphatic postposition. Moreover, given the context of the poem, we cannot but read this line as an ironical statement.</note>,</l>
+             <l rend="indent4">[thinking] thus</l>
+             <l>the little one's mother is agitated.</l>
+             <l>Painful, alas, to be born into this family.</l>
+             <lg type="alternate" resp="#Srin" sameAs="5b">
+                <l>Painful, alas, to be born into this sex (as a woman).<note place="foot">In the first interpretation the speaker rather seems to express pity for the child arisen from this relationship than pity for HER. The second, <term xml:lang="ta">tiṇai</term> as "sex", is tendentious and may be anachronistic; but see NA 94 where SHE complains about the difference in the rules set up for men and women.</note></l>
+             </lg>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT45">
+    <interp type="alignment" select="0">74MG22MG8M2G24M,132M</interp>
+    <entry>
+    <form>kālai</form>
+    <def>morning</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eḻuntu</form>
+    <def>risen</def>
+    </entry>
+    <entry>
+    <form>kaṭum</form>
+    <def>quick</def>
+    </entry>
+    <entry>
+    <form>tēr</form>
+    <def>chariot</def>
+    </entry>
+    <entry>
+    <form>paṇṇi</form>
+    <def>prepared</def>
+    </entry>
+    <entry>
+    <form>vāl</form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>iḻai</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>makaḷir<pc>+</pc></form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>taḻīiya</form>
+    <def>embrace</def>
+    </entry>
+    <entry>
+    <form>ceṉṟa</form>
+    <def>gone-</def>
+    </entry>
+    <entry>
+    <form>mallal</form>
+    <def>abundance</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village he</def>
+    </entry>
+    <entry>
+    <form>elliṉaṉ</form>
+    <def>sunlight he</def>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big it</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>maṟuvarum</form>
+    <def>being mixed up-</def>
+    </entry>
+    <entry>
+    <form>ciṟuvaṉ</form>
+    <def>little he</def>
+    </entry>
+    <entry>
+    <form>tāy-ē</form>
+    <def>mother</def>
+    <form type="simple">tāy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>teṟuvat*-amma</form>
+    <def>scorch it</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>i<pc>+</pc></form>
+    <def>amma</def>
+    </entry>
+    <entry>
+    <form>tiṇai<pc>+</pc></form>
+    <def>family/gender</def>
+    </entry>
+    <entry>
+    <form>piṟattal-ē</form>
+    <def>being born</def>
+    <form type="simple">piṟattal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

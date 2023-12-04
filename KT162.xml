@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 162. <persName xml:lang="ta">karuvūrp pavuttiraṉ</persName>: <i>HE / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT162-kilavi">
+          <p type="edition">viṉaimuṟṟi mīḷun talaimakaṉ mullaikku uraippāṉāy uraittatu.</p>
+          <p type="translation" xml:lang="en">Told as if talking to the jasmine by HIM who returns after [his] work has been completed.</p>
+          </div>
+
+
+        <div xml:id="KT162">
+            <lg type="edition">
+<l>                kārpuṟan tanta nīruṭai viyaṉpulattup</l>
+<l>                palarpuku tarūum pulleṉ mālai</l>
+<l>                mullai vāḻiyō mullai nīniṉ</l>
+<l>                ciṟuveṇ mukaiyiṉ muṟuval koṇṭaṉai</l>
+<l>                nakuvai pōlak kāṭṭa</l>
+<l>                ṟakumō maṟṟitu tamiyōr māṭṭē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Jasmine, defying the rain, in the wide fields full of water,</l>
+           <l rend="indent">on a bleak evening, when many go home<note place="foot"><term xml:lang="ta">palar puku tarūum</term>: this means presumably that people return home in the evening after work. What is the function of <term xml:lang="ta">taru-tal</term> here? Is it the nuance of suddenness from the perspective of those who are inside: suddenly they enter the house?</note>,</l>
+           <l>live, jasmine, you took on</l>
+           <l rend="indent">a smile with [your] little white buds.</l>
+           <l>To show yourself as if laughing</l>
+           <l>– is this what is befitting<note place="foot"><term xml:lang="ta">takumō maṟṟu itu</term>: for <term xml:lang="ta">maṟṟu</term> in this peculiar position after a predicate marked by -<term xml:lang="ta">ō</term> and before a pronominal subject cf. KT 148.5, 271.3.</note> in front of those who are alone?</l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT162">
+    <interp type="alignment" select="0">8MG8MG53MG61ML4MGMG4MG14M2G2M,164M</interp>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>puṟam-tanta</form>
+    <def>defied-</def>
+    </entry>
+    <entry>
+    <form>nīr-uṭai</form>
+    <def>water possess-</def>
+    </entry>
+    <entry>
+    <form>viyal</form>
+    <def>width</def>
+    </entry>
+    <entry>
+    <form>pulattu<pc>+</pc></form>
+    <def>field-</def>
+    </entry>
+    <entry>
+    <form>palar</form>
+    <def>many</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>puku</form>
+    <def>enter-</def>
+    </entry>
+    <entry>
+    <form>tarūum</form>
+    <def>giving-</def>
+    </entry>
+    <entry>
+    <form>pulleṉ</form>
+    <def>grass say-</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>vāḻi-<pc>~</pc>ō</form>
+    <def>live</def>
+    <form type="simple">vāḻi</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>nī</form>
+    <def>you</def>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>mukaiyiṉ</form>
+    <def>bud</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>muṟuval</form>
+    <def>smile</def>
+    </entry>
+    <entry>
+    <form>koṇṭaṉai</form>
+    <def>you took</def>
+    </entry>
+    <entry>
+    <form>nakuvai</form>
+    <def>you laugh</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>kāṭṭal</form>
+    <def>showing</def>
+    </entry>
+    <entry>
+    <form>takum-ō-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>fitting-ō</def>
+    </entry>
+    <entry>
+    <form>itu</form>
+    <def>maṟṟu</def>
+    </entry>
+    <entry>
+    <form>tamiyōr</form>
+    <def>this</def>
+    </entry>
+    <entry>
+    <form>māṭṭ*-ē</form>
+    <def>alone they</def>
+    <form type="simple">māṭṭu</form>
+    <gram type="role">honorific locative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

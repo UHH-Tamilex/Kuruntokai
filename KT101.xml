@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 101. <persName xml:lang="ta">parūumōvāyp (paruvumōvāy, C1: paruvamōvāy) patumaṉ</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT101-kilavi">
+          <p type="edition">1. talaimakaṭkup (C1+3: talaimakaṉārkup, C5: talaimakaḷukkup) pāṅkāyiṉār kēṭpac colaliyatu.
+            2. valitta neñciṟkuc collic celavaḻuṅkiyatūumām.</p>
+          <p type="translation" xml:lang="en">1. Uttered to hear for those who are close to HER.
+            2. What suspends from going, uttered to a heart that has become greedy.</p>
+          </div>
+
+
+
+        <div xml:id="KT101">
+            <lg type="edition">
+<l>                viritiraip peruṅkaṭal vaḷaiiya vulakamu</l>
+<l>                maritupeṟu ciṟappiṟ puttē ṇāṭu</l>
+<l>                miraṇṭun tūkkiṟ cīrcā lāvē</l>
+<l>                pūppō luṇkaṭ poṉpōṉ mēṉi</l>
+<l>                māṇvari yalkuṟ kuṟumaka</l>
+<l>                tōṇmāṟu paṭūum vaikalō ṭemakkē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Weighing both:</l> 
+           <l>the [whole] world surrounded by the broad-waved big sea</l>
+           <l>and the country of the gods, of an excellence hard to obtain<note place="foot"><term xml:lang="ta">aritu peṟu ciṟappu</term>: the n.sg. mark on aru probably has adverbial function (compare, however, the formula <term xml:lang="ta">arum peṟal</term> X, KT 83.1 et al.).</note>,</l>
+           <l rend="indent3">for us they are not equal in worth</l>
+           <l rend="indent">
+            <choice>
+                <seg>to the day that comes and changes the shoulder</seg>
+                <seg>with the day [her] shoulders experienced opposition ...<note place="foot">The phrase <term xml:lang="ta">tōḷ māṟupaṭūum</term> is not totally clear. It might be connected, like in the first translation, with the poetological idiom where the noun <term xml:lang="ta">māṟupāṭu</term> refers to HER changes due to HIS absence (i.e. the sense here being that he would not leave her and expose her to suffering for the world). "Shoulders put in opposition" could also be taken as a rather euphemistic or elliptical phrase for their making love, in fact that is the explanation given by TVG who cannot, however, in this case name parallels from Caṅkam literature itself (the meaning being then that their embrace was worth to him more than anything else).</note></seg>
+            </choice>
+           </l>
+           <l rend="indent">of the little woman with hips of glorious outline,</l>
+           <l rend="indent">a body like gold [and] collyrium eyes like flowers<note place="foot"><term xml:lang="ta">uṇkaṇ: uṇ</term> is frequently read as a comparison particle by Cām., but revealingly not in the gloss to this passage (gloss: <term xml:lang="ta">maiyuṇṭa</term>). This seems to be a point for taking the formulaic compound as above.</note>.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT101">
+    <interp type="alignment" select="0">35MG25ML2M2G7M2G15MG44MG21MG5M2G2M,167M</interp>
+    <entry>
+    <form>viri</form>
+    <def>expand-</def>
+    </entry>
+    <entry>
+    <form>tirai<pc>+</pc></form>
+    <def>wave</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>kaṭal</form>
+    <def>sea</def>
+    </entry>
+    <entry>
+    <form>vaḷaiiya</form>
+    <def>surrounding-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ulakam-um</form>
+    <def>world</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aritu</form>
+    <def>difficult it</def>
+    </entry>
+    <entry>
+    <form>peṟu</form>
+    <def>obtain-</def>
+    </entry>
+    <entry>
+    <form>ciṟappiṉ</form>
+    <def>superiority</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>puttēḷ</form>
+    <def>god</def>
+    </entry>
+    <entry>
+    <form>nāṭ*-um</form>
+    <def>land</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>iraṇṭ*-um</form>
+    <def>two</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tūkkiṉ</form>
+    <def>lift if</def>
+    </entry>
+    <entry>
+    <form>cīr</form>
+    <def>excellence</def>
+    </entry>
+    <entry>
+    <form>cālā-<pc>~</pc>ē</form>
+    <def>not worthy they</def>
+    <form type="simple">cālā</form>
+    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">cālā</term>: for the negative neuter plural see Agesthialingom p. 113.</note></gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>uṇ</form>
+    <def>collyrium</def>
+    </entry>
+    <entry>
+    <form>kaṉ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>mēṉi</form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form>māṇ</form>
+    <def>glory</def>
+    </entry>
+    <entry>
+    <form>vari</form>
+    <def>line</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alkul</form>
+    <def>hip</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>māṟu</form>
+    <def>change-</def>
+    </entry>
+    <entry>
+    <form>paṭūum</form>
+    <def>happening-</def>
+    </entry>
+    <entry>
+    <form>vaikalōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>day with</def>
+    </entry>
+    <entry>
+    <form>emakk*-ē</form>
+    <def>us</def>
+    <form type="simple">emakku</form>
+    <gram type="role">dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

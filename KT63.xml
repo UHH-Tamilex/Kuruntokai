@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 63. <persName xml:lang="ta">ukāykkuṭikiḻār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT63-kilavi">
+          <p type="edition">poruḷ kaikkūṭṭiya (C2+3: kaṭaikkūṭṭiya) neñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the heart that adored wealth.</p>
+          </div>
+
+
+
+        <div xml:id="KT63">
+            <lg type="edition">
+<l>                ītalun tuyttalu millōrk killeṉac</l>
+<l>                ceyviṉai kaimmika veṇṇuti yavviṉaik</l>
+<l>                kammā varivaiyum varumō</l>
+<l>                vemmai yuyttiyō vuraittici ṉeñcē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Giving and enjoying [are] not for those who
+                <choice>
+                    <seg>have nothing!</seg>
+                    <seg>stay at home!<note place="foot">This connotation presumably is also present: at home a man cannot win a fortune, as is emphasised over and again by the poems.</note></seg>
+                </choice>
+             </l>
+             <l>
+                <choice>
+                    <seg>Consider well</seg>
+                    <seg>You reflect well upon</seg>
+                </choice>
+                the work to be done:<note place="foot"><term xml:lang="ta">eṇṇuti/uytti</term>: the nuance expressed by the double subjunctive here is voluntative, which in the first case is approaching the value of an imperative, while in the second it comes close to a future of intention.</note>
+             </l>
+             <l rend="indent4">for that work,</l>
+             <l>will that dark young woman also be coming</l>
+             <l>[or] will you send us alone?</l>
+             <l rend="indent4">Tell [me], heart!</l>
+
+
+             
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT63">
+    <interp type="alignment" select="0">4MG9MG9MG40MG11MG8MG13MG13MG3M2G2M,122M</interp>
+    <entry>
+    <form>ītal-um</form>
+    <def>giving</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tuyttal-um</form>
+    <def>enjoying</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>illōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>house they/not they</def>
+    <gram type="role">honorific dative</gram>
+    </entry>
+    <entry>
+    <form>il</form>
+    <def>be not</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>eṉa<pc>+</pc></form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>cey</form>
+    <def>make-</def>
+    </entry>
+    <entry>
+    <form>viṉai</form>
+    <def>work</def>
+    </entry>
+    <entry>
+    <form>kai<pc>+</pc></form>
+    <def>hand<note place="foot">Is this to be understood as <term xml:lang="ta">viṉai kai</term>: "work action", that is, a synonym compound? Or <term xml:lang="ta">kaimmika</term> as an adverb "overmuch"? The formulaic occurrence (and perhaps the sandhi) speaks in favour of the latter.</note></def>
+    </entry>
+    <entry>
+    <form>mika</form>
+    <def>be much</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>veṇṇuti</form>
+    <def>you consider</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>a<pc>+</pc></form>
+    <def>that-<note place="foot">TVG (as Cām.) reads <term xml:lang="ta">am-mā</term> "pretty [and] dark".</note></def>
+    </entry>
+    <entry>
+    <form>viṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>work</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>a<pc>+</pc></form>
+    <def>that-<note place="foot">TVG (as Cām.) reads am-mā "pretty [and] dark".</note></def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>arivai-<pc>~</pc>um</form>
+    <def>young woman</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varum-ō</form>
+    <def>coming-</def>
+    <form type="simple">varum</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>emmai</form>
+    <def>us</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uytti-<pc>~</pc>ō</form>
+    <def>you send</def>
+    <form type="simple">uytti</form>
+    <gram type="role">subjuntive</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uraitticiṉ</form>
+    <def>declare</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form>neñc*-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+
+</TEI>
+    

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 47. <persName xml:lang="ta">neṭuveṇṇilaviṉār</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT47-kilavi">
+          <p type="edition">irā vantoḻukuṅ kālai muṉṉilaip puṟamoḻiyāka nilāviṟku uraippāḷākat tōḻi uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to the confidante as if declared to the moonlight to scold the addressee in the time that was long as the night had come.</p>
+          </div>
+
+
+
+        <div xml:id="KT47">
+            <lg type="edition">
+<l>                karuṅkāl vēṅkai vīyuku tuṟuka</l>
+<l>                lirumpulik kuruḷaiyiṟ ṟōṉṟuṅ kāṭṭiṭai</l>
+<l>                yelli varunar kaḷaviṟku</l>
+<l>                nallai yallai neṭuveṇ ṇilavē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">For the tryst with the one who comes at night</l>
+             <l rend="indent">when a thick stone strewn with blossoms</l>
+             <l rend="indent4">of the black-trunked Vēṅkai</l>
+             <l rend="indent">appears like a big tiger cub, in the middle of the wilderness,</l>
+             <l>you are no good<note place="foot"><term xml:lang="ta">nallai yallai</term> cf. KT 102.4 <term xml:lang="ta">cāṉṟōr allar</term>.</note>, long white moonlight!</l>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT47">
+    <interp type="alignment" select="0">56MG49M2G2M,110M</interp>
+    <entry>
+    <form>karum</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>vēṅkai</form>
+    <def>Vēṅkai</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uku</form>
+    <def>shed-</def>
+    </entry>
+    <entry>
+    <form>tuṟu</form>
+    <def>thick</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>irum</form>
+    <def>dark/big</def>
+    </entry>
+    <entry>
+    <form>puli<pc>+</pc></form>
+    <def>tiger</def>
+    </entry>
+    <entry>
+    <form>kuruḷaiyiṉ</form>
+    <def>young</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing-</def>
+    </entry>
+    <entry>
+    <form>kāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wilderness</def>
+    </entry>
+    <entry>
+    <form>iṭai</form>
+    <def>middle</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>elli</form>
+    <def>night</def>
+    </entry>
+    <entry>
+    <form>varunar</form>
+    <def>coming he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kaḷaviṟku</form>
+    <def>secret meeting</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>nallai</form>
+    <def>good you</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>allai</form>
+    <def>not so you</def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>nilav*-ē</form>
+    <def>moonlight</def>
+    <form type="simple">nilavu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

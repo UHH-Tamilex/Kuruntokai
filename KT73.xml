@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 73. <persName xml:lang="ta">paraṇar</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT73-kilavi">
+          <p type="edition">pakaṟkuṟi maṟuttu iravukkuṟi nērntu atuvu maṟuttamai paṭat talaimakaṭkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the confidante to HER after having refused a day tryst, [but] granted a night tryst, in order to refuse also the latter.</p>
+          </div>
+
+
+
+        <div xml:id="KT73">
+            <lg type="edition">
+<l>                makiḻnaṉ mārpē veyyai yāṉī</l>
+<l>                yaḻiyal vāḻi tōḻi naṉṉa</l>
+<l>                ṉaṟumā koṉṟu nāṭṭiṟ pōkiya</l>
+<l>                voṉṟumoḻik kōcar pōla</l>
+<l>                vaṉkaṭ cūḻcciyum vēṇṭumāṟ ciṟitē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>Just for the delightful man's(?) chest you are aglow,</l>
+          <l>don't worry, oh friend,</l>
+          <l rend="indent">as with the Kōcars of one counsel</l>
+          <l rend="indent">who went to Naṉṉaṉ's land [and] felled [his] fragrant Mango tree<note place="foot">The legend (attested only in KT 292) says that <term xml:lang="ta">Naṉṉaṉ</term> in rage had a girl killed who had by accident eaten a mango fruit of his tutelary tree, that had fallen into the river. Indignant about this disgraceful deed (the killing of a woman), his enemies, the <term xml:lang="ta">Kōcars</term>, decided to destroy him: they cut down the tree of the defeated king. The only further textual reference is an allusion in PN 151.</note></l>
+          <l>what is necessary, too, is a little crafty<note place="foot"><term xml:lang="ta">vaṉkaṇ</term> or <term xml:lang="ta">vaṉ kaṇ</term> "strong eye" = "sharp-eyed" planning (cf. also KT 274.4).</note> planning.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT73">
+    <interp type="alignment" select="0">12M2G10ML22ML53MG9MG7M2G2M,123M</interp>
+    <entry>
+    <form>makiḻnaṉ</form>
+    <def>delight he</def>
+    </entry>
+    <entry>
+    <form>mārp*-ē</form>
+    <def>chest</def>
+    <form type="simple">mārpu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>veyyaiyāl</form>
+    <def>hot you</def>
+    <form type="simple">veyyaiy</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nī</form>
+    <def>you<note place="foot"><term xml:lang="ta">nī</term>, put without particle-marking at the end of line 1, can function as a subject for line 1 and for line 2.</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḻiyal</form>
+    <def>don't perish</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>naṉṉaṉ</form>
+    <def>Naṉṉaṉ</def>
+    </entry>
+    <entry>
+    <form>naṟu</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>mango tree</def>
+    </entry>
+    <entry>
+    <form>koṉṟu</form>
+    <def>felled</def>
+    </entry>
+    <entry>
+    <form>nāṭṭiṉ</form>
+    <def>land</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pōkiya</form>
+    <def>gone-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oṉṟu</form>
+    <def>one it</def>
+    </entry>
+    <entry>
+    <form>moḻi<pc>+</pc></form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>kōcar</form>
+    <def>Kōcar</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>vaṉkaṇ</form>
+    <def>strength</def>
+    </entry>
+    <entry>
+    <form>cūḻcci-<pc>~</pc>um</form>
+    <def>deliberation</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vēṇṭum-āl</form>
+    <def>is necessary</def>
+    <form type="simple">vēṇṭum</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ciṟit*-ē</form>
+    <def>little it</def>
+    <form type="simple">ciṟitu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

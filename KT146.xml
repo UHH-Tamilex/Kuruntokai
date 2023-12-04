@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 146. <persName xml:lang="ta">veḷḷi vītiyār</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT146-kilavi">
+          <p type="edition">talaimakaṉ tamar varaivoṭu vantu collāṭukiṉṟuḻi (C1+5: niṉṟuḻi) varaivu maṟuppavō eṉak kavaṉṟa talaimakaṭkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the confidante to HER who was anxious they would deny marriage, while they were talking, after HIS relations had come with [an offer of] marriage.</p>
+          </div>
+
+
+        <div xml:id="KT146">
+            <lg type="edition">
+<l>                amma vāḻi tōḻi nammūrp</l>
+<l>                pirintōrp puṇarppō riruntaṉar kollō</l>
+<l>                taṇṭuṭaik kaiyar veṇṭalaic citavalar</l>
+<l>                naṉṟunaṉ ṟeṉṉu mākkaḷō</l>
+<l>                ṭiṉṟuperi teṉṉu māṅkaṇa tavaiyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Alas, oh friend, in our village,</l>
+           <l>have there [once] been those who united the separated?<note place="foot">puṇarppōr iruntaṉar: this construction with a predicative verb of existence following a participial noun subject can well be understood literally, namely as a (rhetorical) question inquiring about past conditions (the perfective aspect of iruntaṉar), preluded by a lamenting amma, and quite obviously expecting a negative answer.</note></l>
+           <l>The assembly is a place where they say “today [is] a big [day]”,</l>
+           <l rend="indent">with people saying “good, good”,<note place="foot">The problem in this poem are the social lacunae: there are no helpful parallels illuminating the notions connected with this kind of assembly, and the kiḷavi is dubious, because it is not backed up by the wording in any way. Here Tieken's interpretation (a bad outcome of the marriage negotiations) is as preposterous as those of his predecessors. The poem simply does not allow for conclusions as to Caṅkam marriage customs of the kind that HIS people usually come to HER house and propose. And yet, so many Caṅkam cultural notions discussed in secondary literature are based on poems just as allusive as this.</note></l>
+           <l rend="indent">staffs in hand, well-worn clothes on [their] white heads.<note place="foot">This line obviously gives a sequence of epithets of honour, the staffs and the white hair of old age, the worn cloth (citaval), which has kept, according to Srin. and TVG, the same association of honour up to this day. TVG holds it to be used to wrap the hair, but it might also simply refer to the clothes they wear.</note></l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT146">
+    <interp type="alignment" select="0">46MG9MG38MG5ML7MG9MG12MG4MG3M,141M</interp>
+    <entry>
+    <form>amma</form>
+    <def></def>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr<pc>+</pc></form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>pirintōr<pc>+</pc></form>
+    <def>separated they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>puṇarppōr</form>
+    <def>connect they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>iruntaṉar-kollō</form>
+    <def>they were</def>
+    <form type="simple">iruntaṉar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>taṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>staff</def>
+    </entry>
+    <entry>
+    <form>uṭai<pc>+</pc></form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>kaiyar</form>
+    <def>hand they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>talai<pc>+</pc></form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>citavalar</form>
+    <def>rag they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>naṉṟu</form>
+    <def>good it</def>
+    </entry>
+    <entry>
+    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>good it</def>
+    </entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>saying-</def>
+    </entry>
+    <entry>
+    <form>mākkaḷōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>people with</def>
+    </entry>
+    <entry>
+    <form>iṉṟu</form>
+    <def>today</def>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big it</def>
+    </entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>saying-</def>
+    </entry>
+    <entry>
+    <form>āṅkaṇat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>there that<note place="foot"><term xml:lang="ta">āṅkaṇatu</term>: here the sandhi indicates that we have to read an pronominal noun, because a free-standing <term xml:lang="ta">atu</term> before <term xml:lang="ta">avaiyē</term> should change into <term xml:lang="ta">aḵt’ avaiyē</term>.</note></def>
+    </entry>
+    <entry>
+    <form>avai-<pc>~</pc>ē</form>
+    <def>assembly</def>
+    <form type="simple">avai</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 14. <persName xml:lang="ta">Tolkapilar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT14-kilavi">
+          <p type="edition">maṭaṉ mā kūṟumiṭaṉumār uṇṭē eṉpataṉāl tōḻi kuṟai maṟuttuḻit talaimakaṉ maṭal ēṟuval eṉpatupaṭac colliyatu.</p>
+          <p type="translation" xml:lang="en">HE speaking to make clear that he would mount the Palmyra-stem[-horse], when the confidante refused [his] request according to the teaching: “There definitely is an occasion for mounting the Palmyra horse.” (cf. TP 99, l. 20)</p>
+          </div>
+
+        <div xml:id="KT14">
+            <lg type="edition">
+<l>                amiḻtupoti cennā vañca vanta</l>
+<l>                vārntilaṅku vaiyeyiṟṟuc ciṉmoḻi yarivaiyaip</l>
+<l>                peṟukatil lamma yāṉē peṟṟāṅ</l>
+<l>                kaṟikatil lammaviv vūrē maṟuki</l>
+<l>                ṉallōḷ kaṇava ṉivaṉeṉap</l>
+<l>                pallōr kūṟukayā nāṇukañ ciṟitē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l rend="indent">The young woman of few words and shining, sharp teeth in a row</l>
+                <l rend="indent">which came so that the red tongue full of nectar was afraid,</l>
+                <l>if only I could get [her]!<note place="foot">The <term xml:lang="ta">amma</term>, ignored by Cām., in my opinion adds to til, the particle of wishing, in <term xml:lang="ta">peṟukatil</term> the nuance of an irreal wish (thus in KT 56.4). An air of hopelessness is also backed up by the <term xml:lang="ta">kiḷavi</term> which shows HIM on the verge of making use of the very last means, the mounting of the Palmyra horse.</note></l>
+                <l rend="indent4">After getting [her],</l>
+                <l>if only the village knew!</l>
+                <l rend="indent4">In the street</l>
+                <l>many might talk: “this man [is] the husband of the good one!”,</l>
+                <l>we would feel ashamed, a little.<note place="foot">If, as seems to be demanded by the particles, the two optative sentences have to be understood as irrealis, the same, of course, has to be valid for the last sentence. Now the verb is simply i.a., but how to express an irrealis in the indicative mode? Alternatively the sentence might be understood as an image of HIS fantasy in the indicative. The traditional interpretation of the poem is, of course, directed by the <term xml:lang="ta">kiḷavi</term> and views the fulfilment of HIS wish in the near future, enforced by mounting the Palmyra horse – which is not mentioned at all by the text itself.</note></l>
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT14">
+    <interp type="alignment" select="0">30MG41MG3MG8MG5MG3MG5MG14MG8ML34MR12M2G2M,177M</interp>
+    <entry>
+    <form>amiḻtu</form>
+    <def>nectar</def>
+    </entry>
+    <entry>
+    <form>poti</form>
+    <def>hoard</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>nā</form>
+    <def>tongue</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>añca</form>
+    <def>fear</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vanta</form>
+    <def>come-</def>
+    </entry>
+    <entry>
+    <form>vārnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>been in row(?)<note place="foot"><term xml:lang="ta">vārntu</term>, abs. to <term xml:lang="ta">vār</term>, is explained by TVG as "standing in a row" which might be one way of interpreting the TL entry "to be in order".</note></def>
+    </entry>
+    <entry>
+    <form>ilaṅku</form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>vai</form>
+    <def>sharpness</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eyiṟṟu<pc>+</pc></form>
+    <def>tooth</def>
+    </entry>
+    <entry>
+    <form>cil</form>
+    <def>few</def>
+    </entry>
+    <entry>
+    <form>moḻi</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>arivaiyai<pc>+</pc></form>
+    <def>young woman</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>peṟuka-til-<pc>+</pc>amma</form>
+    <def>may obtain</def>
+    <form type="simple">peṟukatil</form>
+    <gramGrp type="particle"><form>tillamma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>peṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>obtained</def>
+    </entry>
+    <entry>
+    <form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>like<note place="foot">A problem here is <term xml:lang="ta">peṟṟāṅku</term>. The usual form of absolutive + <term xml:lang="ta">āṅku</term> as a particle of comparison does not fit. Cām. glosses <term xml:lang="ta">peṟṟapiṉpu</term> "after having obtained", and this seems to be the only thing that makes sense.</note></def>
+    </entry>
+    <entry>
+    <form>aṟika-tillamma</form>
+    <def>may know</def>
+    <form type="simple">aṟika</form>
+    <gramGrp type="particle"><form>tillamma</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>maṟukiṉ</form>
+    <def>street</def>
+    <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+    <form>nallōḷ</form>
+    <def>good she</def>
+    </entry>
+    <entry>
+    <form>kaṇavaṉ</form>
+    <def>husband</def>
+    </entry>
+    <entry>
+    <form>ivaṉ</form>
+    <def>this</def>
+    <gram type="role">masculine</gram>
+    </entry>
+    <entry>
+    <form>eṉa<pc>+</pc></form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>pallōr</form>
+    <def>many</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kūṟuka</form>
+    <def>they talk</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we<note place="foot"><term xml:lang="ta">yām</term>, that is, the exclusive "we", will hardly be employed by chance here.</note></def>
+    </entry>
+    <entry>
+    <form>nāṇukam</form>
+    <def>we are ashamed</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>ciṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>little it</def>
+    <form type="simple">ciṟit*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

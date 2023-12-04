@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 102. <persName xml:lang="ta">avvaiyār (auvaiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+            <abbr>T.V.G.</abbr>
+            <expan>T. V. Gopal Iyer</expan>
+            </persName>
+          </person>
+          <person xml:id="Srin">
+          <persName>
+            <abbr>Srin.</abbr>
+            <expan>S.A. Srinivasan</expan>
+          </persName>
+        </person>
+      </listPerson>
+            
+              
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT102-kilavi">
+          <p type="edition">āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti yāṉ yāṅkaṉam (L1: yāṅṅaṉam) aṟṟuvēṉ eṉkiṉṟatu.</p>
+          <p type="translation" xml:lang="en">SHE saying “how shall I have the strength?” to the confidante who was anxious she might not have the strength.</p>
+          </div>
+
+
+
+        <div xml:id="KT102">
+            <lg type="edition">
+<l>              uḷḷi ṉuḷḷam vēmē yuḷḷā</l>
+<l>              tiruppiṉem maḷavait taṉṟē varutti </l>
+<l>              vāṉṟōy vaṟṟē kāmañ</l>
+<l>              cāṉṟō rallaryā marīi yōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Remembering, it burns [us] inside;</l>
+           <l>not remembering, it is measureless<note place="foot"><term xml:lang="ta">aḷavaittu</term> is to be understood as predicative (to <term xml:lang="ta">kāmam</term>), just as the postpositioned <term xml:lang="ta">kāmam</term> is the subject of all three sentences. To the first, however, it could also be the object, depending on a transitive or intransitive interpretation of <term xml:lang="ta">vēm</term>.</note> to us<note place="foot">Problematic is the connection of <term xml:lang="ta">em</term>. It is hard to understand it as a genitive (as is suggested by form and position, unless we take it as in 2b). Either a locative ("with us") or, as above, a dativus ethicus, seem possible here.</note>;</l>
+           <l>causing suffering it is such as to touch the skies – [that] desire.</l>
+           <l>He is not noble<note place="foot"><term xml:lang="ta">cāṉṟōr allar</term> cf. <term xml:lang="ta">nallai yallai</term> KT 47.4.</note>, the man with whom we joined.</l>
+           <lg type="alternate" resp="#TVG" sameAs="2b">
+            <l>... it is not of our measure (= human measure?).</l>
+           </lg>
+           <lg type="alternate" resp="#Srin" sameAs="2c">
+            <l>	... it (i.e. such a behaviour) would not be [appropriate] to our limits.</l>
+           </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT102">
+    <interp type="alignment" select="0">13MG7MG18MG3M2G15MG3M2G20MG7MG2M,98M</interp>
+    <entry>
+    <form>uḷḷiṉ</form>
+    <def>remember if</def>
+    </entry>
+    <entry>
+    <form>uḷḷam</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>vēm-ē</form>
+    <def>burning-</def>
+    <form type="simple">vēm</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>remember not</def>
+    </entry>
+    <entry>
+    <form>iruppiṉ</form>
+    <def>be if</def>
+    </entry>
+    <entry>
+    <form>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aḷavaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>measure it</def>
+    </entry>
+    <entry>
+    <form>aṉṟ*-ē</form>
+    <def>is not so</def>
+    <form type="simple">aṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varutti</form>
+    <def>made to suffer</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>tōyv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>touch</def>
+    </entry>
+    <entry>
+    <form>aṟṟ*-ē</form>
+    <def>thus it</def>
+    <form type="simple">aṟṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>cāṉṟōr</form>
+    <def>noble he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>allar</form>
+    <def>is not so he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we</def>
+    </entry>
+    <entry>
+    <form>marīiyōr-ē</form>
+    <def>joined he</def>
+    <form type="simple">marīiyōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

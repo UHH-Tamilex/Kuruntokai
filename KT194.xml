@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 194. <persName xml:lang="ta">kōvatattaṉ (C1: kōvattaṉ)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT194-kilavi">
+          <p type="edition">paruva varaviṉkaṇ āṟṟāḷām eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
+          </div>
+          
+
+        <div xml:id="KT194">
+            <lg type="edition">
+<l>                eṉṉeṉap paṭuṅko ṟōḻi miṉṉupu</l>
+<l>                vāṉēr piraṅku moṉṟō vataṉetir</l>
+<l>                kāṉa maññai kaṭiya vēṅku</l>
+<l>                mētila kalanta viraṇṭaṟkeṉ</l>
+<l>                pētai neñcam perumalak kuṟumē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+              <l>
+                <choice>
+                    <seg>Do you ask<note place="foot"><term xml:lang="ta">eṉa paṭum</term>: besides in KT 17.3 and KT 288.5 this seems to be the only place in the KT where the verb <term xml:lang="ta">paṭu-tal</term> might already be a passive-forming auxiliary, i.e. literally "Is it asked by you, friend?" TVG understands: "Does it happen [that someone asks] what [is it with you]?"</note>: what [is that], friend?</seg>
+                    <seg>What can be said [about it], friend?<note place="foot">The idiomatic flavour of the first sentence is unclear. This second possibility, question + vocative, would be literally: "what is said, friend", namely by you and me to what follows (cf. <term xml:lang="ta">eṉappaṭum</term> in modern Tamil).</note></seg>
+                </choice>
+              </l>  
+              <l>[Is it] only this, flashing [and] sky-high thundering?<note place="foot">The syntax of this sentence is slightly awkward. TVG prefers to take vāṉ as "cloud" and thus subject of the sentence: "Is the cloud, risen after lightning [and] thundering, the only thing?" Here still the position of miṉṉupu is a little uncomfortable.</note></l>
+              <l>On top of that the forest peacock laments loudly.<note place="foot"><term xml:lang="ta">kaṭiya</term> is best rendered as an adverb in English, though actually it is a direct object in n.pl.: "the peacock wails loud [notes]". And it should be noted that the evaluation of the sound is a question of perspective: lament to HER, but joy to the peacocks themselves.</note></l>
+              <l rend="indent">Because of [these] two [sounds]</l>
+              <l rend="indent3">that have mixed [although being] strangers<note place="foot">What can be expressed by <term xml:lang="ta">ētila kalanta</term>? Of course these two sounds are not identical in their kind, but they usually occur together (peacocks call out in the rainy season), so why <term xml:lang="ta">ētila</term>? Is it that they are "strange/unfriendly" to her rather than to each other?</note></l>
+              <l>my foolish hearts suffers great confusion.<note place="foot">The syntax of the last four lines is hardly marked and difficult to understand. The <term xml:lang="ta">-ō</term> in line 2 (<term xml:lang="ta">oṉṟō</term>) has induced me to read an independent sentence. And it seems plausible, even if there is no marking, to end the second sentence with <term xml:lang="ta">ēṅkum</term>, thus reading for each of the two noises one sentence. It is, however, also possible to construe one long sentence and read the two imperfective <term xml:lang="ta">peyareccam</term>-s (<term xml:lang="ta">iraṅkum</term> and <term xml:lang="ta">ēṅkum</term>) as dependent on <term xml:lang="ta">iraṇṭaṟku</term>, as is obviously done by Cām., though the <term xml:lang="ta">oṉṟō</term> remains problematic.</note></l>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT194">
+        <interp type="alignment" select="0">7MG5MG3ML16MG11MG5MG9ML38MG23MG4MG2M,133M</interp>
+        <entry>
+        <form>eṉ</form>
+        <def>what</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>eṉa<pc>+</pc></form>
+        <def>say</def>
+        <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+        <form>-paṭum-kol</form>
+        <def>happening </def>
+        <form type="simple">paṭum</form>
+        <gramGrp type="particle"><form>kol</form></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>miṉṉupu</form>
+        <def>flashed</def>
+        </entry>
+        <entry>
+        <form>vāṉ</form>
+        <def>sky</def>
+        </entry>
+        <entry>
+        <form>ērp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>risen</def>
+        </entry>
+        <entry>
+        <form>iraṅkum</form>
+        <def>sounding-</def>
+        </entry>
+        <entry>
+        <form>oṉṟ*-ō</form>
+        <def>one it</def>
+        <form type="simple">oṉṟu</form>
+        <gramGrp type="particle"><form>ō</form></gramGrp>
+        </entry>
+        <entry>
+        <form>ataṉ-etir</form>
+        <def>that(obl.) opposite</def>
+        </entry>
+        <entry>
+        <form>kāṉam</form>
+        <def>forest</def>
+        </entry>
+        <entry>
+        <form>maññai</form>
+        <def>peacock</def>
+        </entry>
+        <entry>
+        <form>kaṭiya</form>
+        <def>quick they</def>
+        <gram type="role">neuter plural</gram>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ēṅkum</form>
+        <def>lamenting-</def>
+        </entry>
+        <entry>
+        <form>ētila</form>
+        <def>strange they(n.pl)</def>
+        </entry>
+        <entry>
+        <form>kalanta</form>
+        <def>mixed-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iraṇṭaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>two</def>
+        <gram type="role">dative</gram>
+        </entry>
+        <entry>
+        <form>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form>pētai</form>
+        <def>folly</def>
+        </entry>
+        <entry>
+        <form>neñcam</form>
+        <def>heart</def>
+        </entry>
+        <entry>
+        <form>peru</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>malakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>confusion</def>
+        </entry>
+        <entry>
+        <form>uṟum-ē</form>
+        <def>having-</def>
+        <form type="simple">uṟum</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

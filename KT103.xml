@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 103. <persName xml:lang="ta">vāyilāṉ tēvaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT103-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante by HER who is desolate at the sight of the season.</p>
+          </div>
+          
+
+
+        <div xml:id="KT103">
+            <lg type="edition">
+<l>                kaṭumpuṉa ṟoṭutta naṭuṅkaña raḷḷaṟ</l>
+<l>                kavirita ḻaṉṉa tūvic cevvā</l>
+<l>                yiraitēr nāraik kevva mākat</l>
+<l>                tūun tuvalait tuyarkūr vāṭaiyum</l>
+<l>                vārār pōlvarnaṅ kātalar</l>
+<l>                vāḻēṉ pōlva ṟōḻi yāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">Even with the north wind,</l>
+           <l rend="indent3">abounding in the misery of spattering spray,</l>
+           <l rend="indent">so that the mire, trembling sorrow, stored by the quick flood,</l>
+           <l rend="indent">becomes troublesome to the flamingo<note place="foot">The colour description makes one rather think of a flamingo, but that does not fit in well with the behaviour (looking for prey, and moving singly). The explanation adduced by TVG is that <term xml:lang="ta">nārai-s</term> (by him translated as "cranes" which need mean nothing in particular) turn a little red in colour when they are aged. He gives another reference in Nacc. on Kali 124 where <term xml:lang="ta">nārai-s</term> are compared to brahmin sanyasins who traditionally wear red clothes.</note> searching for prey,</l>
+           <l rend="indent">with red mouth [and] feathers like the petals of the silkcotton,</l>
+           <l>he doesn't seem to come, our lover.</l>
+           <l>It seems I won't  live, friend.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT103">
+    <interp type="alignment" select="0">10ML12MG47MG34MG35ML6MG2M,152M</interp>
+    <entry>
+    <form>kaṭum</form>
+    <def>quick</def>
+    </entry>
+    <entry>
+    <form>puṉal</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>toṭutta</form>
+    <def>linked-</def>
+    </entry>
+    <entry>
+    <form>naṭuṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tremble-</def>
+    </entry>
+    <entry>
+    <form>añar</form>
+    <def>sorrow</def>
+    </entry>
+    <entry>
+    <form>aḷḷal</form>
+    <def>mire</def>
+    </entry>
+    <entry>
+    <form>kavir</form>
+    <def>silkcotton tree</def>
+    </entry>
+    <entry>
+    <form>itaḻ</form>
+    <def>petal</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>tūvi<pc>+</pc></form>
+    <def>feather</def>
+    </entry>
+    <entry>
+    <form>ce<pc>+</pc></form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>vāy</form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>irai</form>
+    <def>prey</def>
+    </entry>
+    <entry>
+    <form>tēr</form>
+    <def>search-</def>
+    </entry>
+    <entry>
+    <form>nāraikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wader</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>evvam</form>
+    <def>trouble</def>
+    </entry>
+    <entry>
+    <form>āka<pc>+</pc></form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tūum</form>
+    <def>spatter</def>
+    </entry>
+    <entry>
+    <form>tuvalai<pc>+</pc></form>
+    <def>spray</def>
+    </entry>
+    <entry>
+    <form>tuyar</form>
+    <def>misery</def>
+    </entry>
+    <entry>
+    <form>kūr</form>
+    <def>abundance</def>
+    </entry>
+    <entry>
+    <form>vāṭai-<pc>~</pc>um</form>
+    <def>north wind</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pōlvar</form>
+    <def>he is similar</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vāḻēṉ</form>
+    <def>I don't live</def>
+    </entry>
+    <entry>
+    <form>pōlval</form>
+    <def>I am similar</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

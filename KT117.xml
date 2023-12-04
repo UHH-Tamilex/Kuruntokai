@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 117. <persName xml:lang="ta">kuṉṟiyaṉa(ār)</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT117-kilavi">
+          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaṭkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the confidante to HER, when [he] delayed marriage.</p>
+          </div>
+
+
+        <div xml:id="KT117">
+            <lg type="edition">
+<l>                māri yāmpa laṉṉa kokkiṉ</l>
+<l>                pārva lañciya paruvara līrñeṇṭu</l>
+<l>                kaṇṭal vēraḷaic celīiya raṇṭar</l>
+<l>                kayiṟari yeruttiṟ kataḻun tuṟaivaṉ</l>
+<l>                vārā tamaiyiṉu mamaika</l>
+<l>                ciṟiyavu muḷavīṇṭu vilaiñarkai vaḷaiyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">
+            <choice>
+              <seg>Even if he is content not to come<note place="foot"><term xml:lang="ta">varātu amaiyiṉum amaika</term>: this is a play on the root <term xml:lang="ta">amai-tal</term>, but still it is possible to read an auxiliary in the first case, in the sense of reaching permanently a new condition. Cf. note on KT 92.5, 132.3.</note>,</seg>
+              <seg>If he is also content not to come, may he be content<note place="foot">Is this an intended ambiguity? For either HE has come free from HER like the ox from the herdsman, and thus content in the sense of indifferent towards her (2-5b), or HE has come free from his duties and is hurrying back, but is delayed on the way. In the first case SHE can do nothing but put up with it, in the second she needs the strength to go on waiting: line 6 with the smaller bangles, signifying the will not to give her anxiety away.</note></seg>
+            </choice>
+            </l>
+           <l>the man from the ghat where, like an ox cut loose from the rope</l>
+           <l rend="indent2">of the herdsmen, the wet crab hastens to go into the hole</l>
+           <l rend="indent3">of a mangrove root, suffering for fear of being seen<note place="foot">What is the function of the verbal nouns? <term xml:lang="ta">pārval</term> certainly is actualisation (in this moment), but what is <term xml:lang="ta">paruvaral</term>, a fixed state? Or: "the wet crab, all suffering, as it fears the crane’s seeing [it] ..."?</note></l>
+           <l rend="indent4">by the crane(?) like a waterlily in the shower</l>
+           <l rend="indent5">– may he be content:</l>
+           <l>With the merchants here there are small bangles for the arms.</l>
+            
+           
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT117">
+    <interp type="alignment" select="0">80MG31MG21MG27MG3M,166M</interp>
+    <entry>
+    <form>māri</form>
+    <def>shower</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āmpal</form>
+    <def>waterlily</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>kokkiṉ</form>
+    <def>crane(?)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pārval</form>
+    <def>seeing</def>
+    </entry>
+    <entry>
+    <form>añciya</form>
+    <def>feared-</def>
+    </entry>
+    <entry>
+    <form>paruvaral</form>
+    <def>suffering</def>
+    </entry>
+    <entry>
+    <form>īr</form>
+    <def>wetness</def>
+    </entry>
+    <entry>
+    <form>ñeṇṭu</form>
+    <def>crab</def>
+    </entry>
+    <entry>
+    <form>kaṇṭal</form>
+    <def>mangrove</def>
+    </entry>
+    <entry>
+    <form>vēr</form>
+    <def>root</def>
+    </entry>
+    <entry>
+    <form>aḷai<pc>+</pc></form>
+    <def>hole</def>
+    </entry>
+    <entry>
+    <form>celīiyar</form>
+    <def>go</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>aṇṭar</form>
+    <def>herdsman</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kayiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>rope</def>
+    </entry>
+    <entry>
+    <form>ari</form>
+    <def>cut-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eruttiṉ</form>
+    <def>ox</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kataḻum</form>
+    <def>hastening-</def>
+    </entry>
+    <entry>
+    <form>tuṟaivaṉ</form>
+    <def>ghat he</def>
+    </entry>
+    <entry>
+    <form>vārāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>come not</def>
+    </entry>
+    <entry>
+    <form>amaiyiṉum</form>
+    <def>become quiet if even</def>
+    </entry>
+    <entry>
+    <form>amaika</form>
+    <def>may become quiet</def>
+    </entry>
+    <entry>
+    <form>ciṟiya-<pc>~</pc>um</form>
+    <def>little</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>uḷa</form>
+    <def>they are</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṇṭu</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>vilaiñar</form>
+    <def>merchant</def>
+    </entry>
+    <entry>
+    <form>kai</form>
+    <def>hand</def>
+    </entry>
+    <entry>
+    <form>vaḷai-<pc>~</pc>ē</form>
+    <def>bangle</def>
+    <form type="simple">vaḷai</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

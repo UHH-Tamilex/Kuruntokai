@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 110. <persName xml:lang="ta">kiḷḷimaṅkalaṅkiḻār (kiḷima.)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT110-kilavi">
+          <p type="edition">1. paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikku uraittatu. 2. talaimakaṉaik koṭumai kūṟit talaimakaḷait tōḻi vaṟpuṟīiyatūumām.</p>
+          <p type="translation" xml:lang="en">1. Told to the confidante by HER who was desolate at the sight of the season.
+            2. The confidante encouraging HER after having talked to HIM about [his] cruelty.</p>
+          </div>
+          
+
+
+        <div xml:id="KT110">
+            <lg type="edition">
+<l>                vārā rāyiṉum variṉu mavarnamak</l>
+<l>                kiyārā kiyarō tōḻi nīra</l>
+<l>                nīlap paimpō tuḷarip putala</l>
+<l>                pīli yoṇpoṟik karuviḷai yāṭṭi</l>
+<l>                nuṇmu ḷīṅkaic cevvarum pūḻtta</l>
+<l>                vaṇṇat tuymmala rutirat taṇṇeṉ</l>
+<l>                ṟiṉṉā teṟitarum vāṭaiyō</l>
+<l>                ṭeṉṉā yiṉaḷko leṉṉā tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Whether he doesn't come, whether he does,</l>
+           <l>
+            <choice>
+                <seg>what is he to us now<note place="foot"><term xml:lang="ta">yār ākiyar-ō</term>: here <term xml:lang="ta">āku-tal</term> is clearly used in a predicative sense like Skt. <term xml:lang="ta">bhū</term>, though when read as a perfective aspect a change of state could also be implied, i.e. a reference to HIS former behaviour which had effected a change in HER feelings. This aspect has been rendered in the translation by "now".</note>, friend?</seg>
+                <seg>what can he be to us, friend,</seg>
+            </choice>
+           </l>
+           <l>
+            <choice>
+                <seg>– he who didn't say: what has become of her</seg>
+                <seg>who has not asked: has she become mine?</seg>
+            </choice>
+           </l>
+           <l rend="indent">with the north wind tossing about unsweetly,</l>
+           <l rend="indent">cold, for blossoms to drop off in colourful filaments</l>
+           <l rend="indent">that have withered as red buds on the fine-thorned mimosa,</l>
+           <l rend="indent">after it has shaken the Karuviḷai creepers,</l>
+           <l rend="indent3">bright eyes of peacock feathers in the shrubs,</l>
+           <l rend="indent">
+            <choice>
+            <seg>[and] ruffled the green buds of the blue [lilies] of the water<note place="foot">The internal syntax of lines 3-6 is once again unmarked and gives room for different possibilities, though without effecting major changes in the message.</note>.</seg>
+            <seg>[and] made to rot the water-blue fresh buds.<note place="foot"><term xml:lang="ta">nīra</term> might either be taken as an elliptical allusion to the flowers growing there, i.e. the lilies, or as a specification to the <term xml:lang="ta">nīla</term> of the following line.</note></seg>
+            </choice>
+        </l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT110">
+    <interp type="alignment" select="0">28MGMG9MG21MG59MG33MG5MG16MG9MG10MG2M,203M</interp>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>āyiṉum</form>
+    <def>if even</def>
+    </entry>
+    <entry>
+    <form>variṉum</form>
+    <def>come if even</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>namakk<pc>(</pc>u<pc>)</pc></form>
+    <def>us</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>yār</form>
+    <def>who</def>
+    </entry>
+    <entry>
+    <form>ākiyar-ō</form>
+    <def>become he(h.)/may become</def>
+    <form type="simple">ākiyar</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nīra</form>
+    <def>water</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nīla<pc>+</pc></form>
+    <def>blue</def>
+    </entry>
+    <entry>
+    <form>paim</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>uḷari<pc>+</pc></form>
+    <def>whiffled</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>putala</form>
+    <def>shrub</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pīli</form>
+    <def>peacock feather</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>poṟi<pc>+</pc></form>
+    <def>spot</def>
+    </entry>
+    <entry>
+    <form>karuviḷai</form>
+    <def>Karuviḷai( plant)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṭṭi</form>
+    <def>shaken</def>
+    </entry>
+    <entry>
+    <form>nuṇ</form>
+    <def>fine</def>
+    </entry>
+    <entry>
+    <form>muḷ</form>
+    <def>thorn</def>
+    </entry>
+    <entry>
+    <form>īṅkai<pc>+</pc></form>
+    <def>mimosa</def>
+    </entry>
+    <entry>
+    <form>ce<pc>+</pc></form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>arump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>ūḻtta</form>
+    <def>withered-</def>
+    </entry>
+    <entry>
+    <form>vaṇṇam</form>
+    <def>colour</def>
+    </entry>
+    <entry>
+    <form>tuy<pc>+</pc></form>
+    <def>filament</def>
+    </entry>
+    <entry>
+    <form>malar</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>utira<pc>+</pc></form>
+    <def>drop off</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>taṇṇeṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>cool said</def>
+    </entry>
+    <entry>
+    <form>iṉṉāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>unpleasant it</def>
+    </entry>
+    <entry>
+    <form>eṟi</form>
+    <def>throw-</def>
+    </entry>
+    <entry>
+    <form>tarum</form>
+    <def>giving-</def>
+    </entry>
+    <entry>
+    <form>vāṭaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>north wind with</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>what/my</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>āyiṉaḷ-kol</form>
+    <def>she has become</def>
+    <form type="simple">āyiṉaḷ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>eṉṉātōr-ē</form>
+    <def>said not he</def>
+    <form type="simple">eṉṉātōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 114. <persName xml:lang="ta">poṉṉākaṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT114-kilavi">
+          <p type="edition">iṭattuyttu nīṅkun tōḻi talaimakaṟkuk kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken to HIM by the confidante who leaves [him] after having led [him] to the place [of meeting].<note place="foot">According to Takahashi (with reference to Nakk. on IA and AV) the confidante has led HER to HIM.</note></p>
+          </div>
+
+
+        <div xml:id="KT114">
+            <lg type="edition">
+<l>                neytaṟ parappiṟ pāvai kiṭappiṉe</l>
+<l>                ṉiṉkuṟi vantaṉe ṉiyaṟērk koṇka</l>
+<l>                celkañ celaviyaṅ koṇmō valkalu</l>
+<l>                māra laruntum vayiṟṟa</l>
+<l>                nārai mitikku meṉmaka ṇutalē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>I laid down [my] doll on a spread of blue waterlilies.</l>
+           <l>I came to your sign, o man from the sea with speedy chariot.</l>
+           <l>We should go; obey the order to go.<note place="foot">The traditional interpretation, in accordance with Takahashi's explanation of the <term xml:lang="ta">kiḷavi</term> and with TVG's reading of the text is that the confidante has brought HER to HIM, but that she adds that both SHE and herself will soon have to go. What one would expect in this case, however, is forms like <term xml:lang="ta">vantaṉam</term> "we have come" and <term xml:lang="ta">celku</term> "I go", referring to the confidante being about to leave the couple for some time. Another problem with this is <term xml:lang="ta">viyaṅkoḷ</term>, which is to be found in the TL (as one would expect by etymology) as a lexeme meaning "to obey" ("to receive an order"). So it would be more natural to take the whole as HER speech to HIM, saying that she has come to meet him (<term xml:lang="ta">vantaṉeṉ</term>), but that they should now go to another (safer?) place (<term xml:lang="ta">celkam</term>). The doll then can be either understood as a pretext, or as a peculiar kind of coquetry, because she is presumably not about to play with dolls with him.</note></l>
+           <l>The one with a belly that eats Āral fish even at night<note place="foot"><term xml:lang="ta">alkalum</term> is a little awkward. Easier to understand would be the variant <term xml:lang="ta">vaikalum</term>: eating fish "all day".</note>,</l>
+           <l>the heron treads on my daughter's forehead.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT114">
+    <interp type="alignment" select="0">29ML18ML34MG40MG4MG2M,132M</interp>
+    <entry>
+    <form>neytal</form>
+    <def>blue waterlily</def>
+    </entry>
+    <entry>
+    <form>parappiṉ</form>
+    <def>extension</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pāvai</form>
+    <def>image/doll</def>
+    </entry>
+    <entry>
+    <form>kiṭappiṉeṉ</form>
+    <def>I laid down</def>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>kuṟi</form>
+    <def>sign</def>
+    </entry>
+    <entry>
+    <form>vantaṉeṉ</form>
+    <def>I came</def>
+    </entry>
+    <entry>
+    <form>iyal</form>
+    <def>move forward-</def>
+    </entry>
+    <entry>
+    <form>tēr<pc>+</pc></form>
+    <def>chariot</def>
+    </entry>
+    <entry>
+    <form>koṇka</form>
+    <def>man from the sea(?)<note place="foot"><term xml:lang="ta">koṇkaṉ</term> is one of the few designation of the man with regional association which defy etymological analysis (it is not included in DEDR). So what else is there to do than to follow tradition and take it as one of the words for the man from the seashore?</note></def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form>celkam</form>
+    <def>we go</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>cela</form>
+    <def>go</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>viyam</form>
+    <def>order</def>
+    </entry>
+    <entry>
+    <form>koṇmō</form>
+    <def>take</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alkal-um</form>
+    <def>night</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>āral</form>
+    <def>Āral( fish)</def>
+    </entry>
+    <entry>
+    <form>aruntum</form>
+    <def>eating-</def>
+    </entry>
+    <entry>
+    <form>vayiṟṟa</form>
+    <def>belly</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nārai</form>
+    <def>wader</def>
+    </entry>
+    <entry>
+    <form>mitikkum</form>
+    <def>treading-</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>nutal-ē</form>
+    <def>forehead</def>
+    <form type="simple">nutal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

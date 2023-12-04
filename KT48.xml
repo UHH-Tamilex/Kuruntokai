@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 48. <persName xml:lang="ta">pūṅkaṇuttiraiyār</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT48-kilavi">
+          <p type="edition">pakaṟkuṟikkaṇ kāṇum poḻutiṉuṅ kāṇāp poḻutu peritu ākaliṉ vēṟupaṭṭa kiḻattiyatu vēṟupāṭu kaṇṭu tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by the confidante on seeing changes in HER who had changed, because the time she has not seen [him] was longer than the time she sees [him] during the day tryst. ( ≅ TP 105)</p>
+          </div>
+
+
+
+        <div xml:id="KT48">
+            <lg type="edition">
+<l>                tātiṟ ceyta taṇpaṉip pāvai</l>
+<l>                kālai varuntuṅ kaiyā ṟōmpeṉa</l>
+<l>                vōrai yāyaṅ kūṟak kēṭṭu</l>
+<l>                miṉṉa paṇpi ṉiṉaiperi tuḻakku</l>
+<l>                naṉṉutaṟ pacalai nīṅka vaṉṉa</l>
+<l>                nacaiyāku paṇpi ṉoruco</l>
+<l>                licaiyātu kollō kātalar tamakkē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Is it not possible to the lover himself,</l>
+             <l>a single word of a yearning kind<note place="foot"><term xml:lang="ta">aṉṉa nacai āku paṉpiṉ</term> oru col: the meaning of the phrase is sufficiently clear, but not its exact syntax. Is it: "a single word of a nature to convey such longing"? And what about this aṉṉa, obviously here used in an attributive position, not as a particle of comparison, and corresponding (in which way?) to the iṉṉa of line 4?</note>,</l>
+             <l rend="indent">so that pallor will leave the good forehead</l>
+             <l rend="indent">that heavily<note place="foot"><term xml:lang="ta">peritu</term> must be taken as an adverb.</note> bears despair of this kind</l>
+             <l>–even when he heard [her] girl companions in play say:</l>
+             <l rend="indent">“beware of the motionlessness suffered in the morning</l>
+                
+             <l rend="indent">by a doll in the cool dew, made of pollen”?(?)<note place="foot">Syntax and message of lines 1+2 are fairly unclear. The traditional interpretation (which is neither syntactically nor semantically clear to me) is that HER companions even care about her doll (coloured with pollen) which feels cold in the morning dew and must be consoled, how much more than she herself, who is enduring separation.</note></l>
+             <lg type="alternate" resp="#Srin" sameAs="2b, 5+6b">
+              <l>...the helplessness, [which is connected with her] being sad</l>
+              <l>	one word of the kind that love develops [in her],</l>
+              <l>so that the pallor passes away...</l>
+             </lg>
+
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT48">
+    <interp type="alignment" select="0">42MG3MG22M2G21MG6MR54MG18M2G2M,177M</interp>
+    <entry>
+    <form>tātiṉ</form>
+    <def>pollen</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ceyta</form>
+    <def>made-</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>paṉi<pc>+</pc></form>
+    <def>dew</def>
+    </entry>
+    <entry>
+    <form>pāvai</form>
+    <def>doll</def>
+    </entry>
+    <entry>
+    <form>kālai</form>
+    <def>morning</def>
+    </entry>
+    <entry>
+    <form>varuntum</form>
+    <def>suffering-</def>
+    </entry>
+    <entry>
+    <form>kaiyāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>motionlessness</def>
+    </entry>
+    <entry>
+    <form>ōmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>beware</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōrai</form>
+    <def>play(?)<note place="foot"><term xml:lang="ta">ōrai</term> is, according to the TL, a kind of game played by women. It is not included in the DEDR, and TVG wants to render it just by "play" (thus also in the case of <term xml:lang="ta">vaṇṭal</term>, cf. KT 238.3, 243.3).</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āyam</form>
+    <def>attendant</def>
+    </entry>
+    <entry>
+    <form>kūṟa<pc>+</pc></form>
+    <def>talk</def>
+    </entry>
+    <entry>
+    <form>kēṭṭ*-um</form>
+    <def>heard</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>iṉṉa</form>
+    <def>such</def>
+    </entry>
+    <entry>
+    <form>paṇpiṉ</form>
+    <def>nature</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>iṉai</form>
+    <def>despair</def>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big it</def>
+    </entry>
+    <entry>
+    <form>uḻakkum</form>
+    <def>bearing-</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>nutal</form>
+    <def>forehead</def>
+    </entry>
+    <entry>
+    <form>pacalai</form>
+    <def>pallor</def>
+    </entry>
+    <entry>
+    <form>nīṅka</form>
+    <def>leave</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>such</def>
+    </entry>
+    <entry>
+    <form>nacai</form>
+    <def>yearning</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āku</form>
+    <def>become(r.)-</def>
+    </entry>
+    <entry>
+    <form>paṇpiṉ</form>
+    <def>nature</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>col</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>icaiyātu-kollō</form>
+    <def>possible not</def>
+    <form type="simple">icaiyātu</form>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tamakk*-ē</form>
+    <def>self(pl.dat.)</def>
+    <form type="simple">tamakku</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

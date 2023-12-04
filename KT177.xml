@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 177. <persName xml:lang="ta">ulōccaṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="DG">
+            <persName>
+              <abbr>D.G.</abbr>
+              <expan>Dominic Goodall</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT177-kilavi">
+          <p type="edition">kiḻavaṉ varavuṇarntu tōḻi kiḻattikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to HER by the confidante after she had realised HIS coming.</p>
+          </div>
+
+
+        <div xml:id="KT177">
+            <lg type="edition">
+<l>                kaṭalpā ṭavintu kāṉaṉ mayaṅkit</l>
+<l>                tuṟainī riruṅkaḻi pulleṉ ṟaṉṟē</l>
+<l>                maṉṟavam peṇṇai maṭalcēr vāḻkkai</l>
+<l>                yaṉṟilum paiyeṉa naralu miṉṟavar</l>
+<l>                varuvarkol vāḻi tōḻi nāntap</l>
+<l>                pulappiṉum pirivāṅ kañcit</l>
+<l>                taṇapparuṅ kāman taṇṭi yōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>The sea ceased singing, the seashore groves [fell] enchanted,</l>
+           <l>the ghat waters [have become] dark backwaters – it is empty.<note place="foot">For <term xml:lang="ta">pulleṉṟaṉṟē</term> cf. <term xml:lang="ta">nalleṉṟaṉṟē</term> in KT 6.1.</note></l>
+           <l rend="indent">Today, as the Aṉṟil is calling gently,</l>
+           <l rend="indent">whose living is amongst the Palmyra stems</l>
+           <l rend="indent3">of the village common,<note place="foot">What is meant to be conveyed by the first four lines is not clear. It might be the description of a certain unrealness coming along with the onset of evening. Srin., however, thinks the first four lines might represent bad omens.</note></l>
+           <l>will he come, oh friend,</l>
+           <l>he who has captured [our] desire, difficult to escape,</l>
+           <l rend="indent">[which we] fear just like separation, even if we sulk with him?<note place="foot">The exact syntax and message of the last two-and-a-half lines are unclear. The point seems to be that SHE is struggling with <term xml:lang="ta">kāmam</term>: either HE does not come, and then she will have to endure separation, or he comes, and in this case she is determined not to yield, but fears she will be unable to. TVG thinks the point is that HE insists on having union with HER, even if she is sulking in love quarrel: "he who compels our love, difficult to escape, as if fearing separation even if we sulk with him", and from the syntactic point of view it is of course more natural to take HIM as the subject not only of <term xml:lang="ta">taṇṭiyōrē</term>, but also of the absolutive <term xml:lang="ta">añci</term>. In accordance with this interpretation he also assumes a scholastic reading of the main sentence: <term xml:lang="ta">varuvar-kol</term> "it seems he will come" (thus Nacc. on Kali 11.5).</note></l>
+           <lg type="alternate" resp="#DG" sameAs="6+7b">
+            <l>he who has captured [our] desire, [which is] difficult to escape,</l>
+            <l>[and which we] fear more than loneliness<note place="foot"><term xml:lang="ta">pulappiṉum</term> is traditionally analysed as a concessive, but morphologically it might also be a parallel formation to <term xml:lang="ta">pulampu</term> "loneliness", as it is attested also in KT 41.5, in which case it would have to be a comparative here. Then the meaning of the whole would be that SHE fears <term xml:lang="ta">kāmam</term> more than loneliness and separation, which seems to make excellent sense.</note>, just like separation.</l>
+           </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT177">
+    <interp type="alignment" select="0">8MG38MG7M2G36MG19MG11MG32MG3MG11MG17MG2M,195M</interp>
+    <entry>
+    <form>kaṭal</form>
+    <def>sea</def>
+    </entry>
+    <entry>
+    <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sing-</def>
+    </entry>
+    <entry>
+    <form>avintu</form>
+    <def>ceased</def>
+    </entry>
+    <entry>
+    <form>kāṉal</form>
+    <def>seashore grove</def>
+    </entry>
+    <entry>
+    <form>mayaṅki<pc>+</pc></form>
+    <def>confused</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>kaḻi</form>
+    <def>backwaters</def>
+    </entry>
+    <entry>
+    <form>pul-</form>
+    <def>grass</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>eṉṟaṉṟ*-ē</form>
+    <def>it saidē/said is not so</def>
+    <form type="simple">eṉṟaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>maṉṟavam</form>
+    <def>village common</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>peṇṇai</form>
+    <def>Palmyra</def>
+    </entry>
+    <entry>
+    <form>maṭal</form>
+    <def>Palmyra stem</def>
+    </entry>
+    <entry>
+    <form>cēr</form>
+    <def>join-</def>
+    </entry>
+    <entry>
+    <form>vāḻkkai</form>
+    <def>livelihood</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṟil-um</form>
+    <def>Aṉṟil( bird)</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paiyeṉa</form>
+    <def>gently</def>
+    </entry>
+    <entry>
+    <form>naralum</form>
+    <def>calling-</def>
+    </entry>
+    <entry>
+    <form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>today</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varuvar-kol</form>
+    <def>he comes</def>
+    <form type="simple">varuvar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nām</form>
+    <def>we</def>
+    </entry>
+    <entry>
+    <form>tam</form>
+    <def>self-</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>pulappiṉum</form>
+    <def>lonelinessiṉum/sulk if even</def>
+    </entry>
+    <entry>
+    <form>piriv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>separation</def>
+    </entry>
+    <entry>
+    <form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>añci<pc>+</pc></form>
+    <def>feared</def>
+    </entry>
+    <entry>
+    <form>taṇapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>departing</def>
+    </entry>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>taṇṭiyōr-ē</form>
+    <def>gathered he</def>
+    <form type="simple">taṇṭiyōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

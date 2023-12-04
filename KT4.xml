@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 4. <persName xml:lang="ta">Kāmañcērkuḷattār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+              <persName>
+                  <abbr>T.V.G.</abbr>
+                  <expan>T. V. Gopal Iyer</expan>
+              </persName>
+          </person>
+      </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT4-kilavi">
+          <p type="edition">piriviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she might not have the strength in the time of separation.</p>
+          </div>
+
+        <div xml:id="KT4">
+            <lg type="edition">
+<l>                nōmeṉ ṉeñcē nōmeṉ ṉeñcē</l>
+<l>                yimaitīyp paṉṉa kaṇṇīr tāṅki</l>
+<l>                yamaitaṟ kamaintanaṅ kātala</l>
+<l>                ramaivila rākuta ṉōmeṉ ṉeñcē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>              Aches my heart. Aches my heart.</l>
+<l rend="indent">Lids as if burned by eye-water<note place="foot">Literally: "in having endured tears like burnt the lids."</note>,</l>
+<l rend="indent">he who was content to be content, our lover,</l>
+<l rend="indent">that he should be discontent</l>
+        <l rend="indent4">–aches my heart.</l>
+        <lg type="alternate" resp="#TVG" sameAs="2-4b">
+          <l>He who was content with [our] being content, our lover,</l>
+          <l>dispelling eye-water [that is] as if burning [our] eyes,</l>
+          <l>	that he should be content [no longer]...</l>
+        </lg>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT4">
+    <interp type="alignment" select="0">9M2G10M2G35MG22MG10ML8M2G2M,105M</interp>
+    <entry>
+    <form>nōm</form>
+    <def>aching-</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nōm</form>
+    <def>aching</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>imai</form>
+    <def>lid</def>
+    </entry>
+    <entry>
+    <form>tīyppaṉṉa</form>
+    <def>burned<note place="foot"><term xml:lang="ta">tīyppu</term>: the Index reads a verbal noun meaning “the act of scorching”. Better might be an absolutive to the transitive <term xml:lang="ta">tīy-ttal</term> "burn".</note> like</def>
+    </entry>
+    <entry>
+    <form>kaṇṇīr</form>
+    <def>eye water</def>
+    </entry>
+    <entry>
+    <form>tāṅki</form>
+    <def>endured</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>amaitaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>becoming<note place="foot"><term xml:lang="ta">ākutal</term>: the function of the verbal noun here is a pointed "that" (cf. KT 195.7, 360.2, 386.6).</note> quiet</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>amainta</form>
+    <def>become quiet-</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>amaiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>quietness</def>
+    </entry>
+    <entry>
+    <form>ilar</form>
+    <def>is not</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ākutal</form>
+    <def>becoming</def>
+    </entry>
+    <entry>
+    <form>nōm</form>
+    <def>aching-</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

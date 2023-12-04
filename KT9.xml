@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 9. <persName xml:lang="ta">Kayamaṉār</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT9-kilavi">
+          <p type="edition">talaimakaṟkut tōḻi vāyil nērntatu.</p>
+          <p type="translation" xml:lang="en">The confidante granting the door/mediation to HIM.</p>
+          </div>
+
+        <div xml:id="KT9">
+            <lg type="edition">
+<l>                yāyā kiyaḷē māa yōḷē</l>
+<l>                maṭaimāṇ ceppiṟ ṟamiya vaikiya</l>
+<l>                peyyāp pūviṉ meycā yiṉaḷē</l>
+<l>                pācaṭai nivanta kaṇaikkā ṉeyta</l>
+<l>                liṉamī ṉiruṅkaḻi yōta malkutoṟuṅ</l>
+<l>                kayamūḻku makaḷir kaṇṇiṉ māṉun</l>
+<l>                taṇṇan tuṟaivaṉ koṭumai</l>
+<l>                nammu ṇāṇik karappā ṭummē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>She is [now] mother<note place="foot"><term xml:lang="ta">yāy</term> "mother" in this connection is interpreted by TVG as the person who feels responsible for the integrity and honour of her house and who accordingly wishes to keep secret HIS escapades – an appealing sense for a rather enigmatic phrase. Though taking it literal should also be considered: since SHE has become mother, HE has an even transcultural reason for going astray.</note>, the dark one!</l>
+<l>Like a flower kept alone in a vessel famed for<note place="foot"><term xml:lang="ta">maṭai māṇ</term> is explained by TVG as <q>tight clasp</q>, but that does not fit the context any better, and the word order should rather be <term xml:lang="ta">māṇ maṭai</term>.</note> its clasp,</l>
+<l>unworn, her body is emaciated.</l>
+<l>Ashamed among us she plays hiding<note place="foot"><term xml:lang="ta">āṭum</term>: the choice of habitual future emphasises the durative character of the action; one is tempted to translate <q>she usually plays over</q>.</note></l>
+<l rend="indent">the faithlessness of the man from the cool ghat</l>
+<l rend="indent">where the round-stemmed blue waterlilies risen up from green leaves</l>
+<l rend="indent">whenever the flood rises in the dark backwaters with various fish<note place="foot">TVG sees <term xml:lang="ta">iṉam mīṉ</term> as <q>varieties of fish</q>. This might be an explanation for the unusual positioning (contrary to <term xml:lang="ta">mīṉ iṉam</term> <q>fish swarm</q>, i.e. many of one sort).</note></l>
+<l rend="indent">resemble the eyes of women diving in tanks.</l>
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT9">
+    <interp type="alignment" select="0">9MG7MG49MG4MG20ML9ML15ML4MG10ML46MG3ML10MG4MG3M,206M</interp>
+    <entry>
+    <form>yāy</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>ākiyaḷ-ē</form>
+    <def>become she</def>
+    <form type="simple">ākiyaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>māayōḷ-ē</form>
+    <def>black she</def>
+    <form type="simple">māayōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>maṭai</form>
+    <def>clasp</def>
+    </entry>
+    <entry>
+    <form>māṇ</form>
+    <def>fame</def>
+    </entry>
+    <entry>
+    <form>ceppiṉ</form>
+    <def>vessel</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tamiya</form>
+    <def>alone</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>vaikiya</form>
+    <def>kept-</def>
+    </entry>
+    <entry>
+    <form>peyyā<pc>+</pc></form>
+    <def>wear not</def>
+    </entry>
+    <entry>
+    <form>pūviṉ</form>
+    <def>flower</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>mey</form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form>cāyiṉaḷ-ē</form>
+    <def>she was emaciated</def>
+    <form type="simple">cāyiṉaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>aṭai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form>nivanta</form>
+    <def>come up-</def>
+    </entry>
+    <entry>
+    <form>kaṇai<pc>+</pc></form>
+    <def>cylinder</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>neytal</form>
+    <def>blue waterlily</def>
+    </entry>
+    <entry>
+    <form>iṉam</form>
+    <def>group</def>
+    </entry>
+    <entry>
+    <form>mīṉ</form>
+    <def>fish</def>
+    </entry>
+    <entry>
+    <form>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>kaḻi</form>
+    <def>backwaters</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōtam</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>malku-toṟum</form>
+    <def>increasing ever</def>
+    </entry>
+    <entry>
+    <form>kayam</form>
+    <def>tank</def>
+    </entry>
+    <entry>
+    <form>mūḻku</form>
+    <def>dive-</def>
+    </entry>
+    <entry>
+    <form>makaḷir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>kaṇṇiṉ</form>
+    <def>eye</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>māṉum</form>
+    <def>resembling-</def>
+    </entry>
+    <entry>
+    <form>taṇṇam</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>tuṟaivaṉ</form>
+    <def>ford he</def>
+    </entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    </entry>
+    <entry>
+    <form>nam-<pc>+</pc>uḷ</form>
+    <def>us</def>
+    <gram type="role">locative</gram>
+    </entry>
+    <entry>
+    <form>nāṇi<pc>+</pc></form>
+    <def>ashamed</def>
+    </entry>
+    <entry>
+    <form>karapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hiding</def>
+    </entry>
+    <entry>
+    <form>āṭum-<pc>+</pc>ē</form>
+    <def>playing-</def>
+    <form type="simple">āṭum</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

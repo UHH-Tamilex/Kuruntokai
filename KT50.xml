@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 50. <persName xml:lang="ta">kuṉṟiyaṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT50-kilavi">
+          <p type="edition">kiḻavaṟkup pāṅkāyiṉa vāyilkaṭkuk kiḻatti colliyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the mediators who were close to HIM.</p>
+          </div>
+
+
+
+        <div xml:id="KT50">
+            <lg type="edition">
+<l>                aiyavi yaṉṉa ciṟuvī ñāḻal</l>
+<l>                cevvī marutiṉ cemmaloṭu tāayt</l>
+<l>                tuṟaiyaṇin taṉṟava rūrē yiṟaiyiṟan</l>
+<l>                tilaṅkuvaḷai nekiḻac cāayp</l>
+<l>                pulampaṇin taṉṟavar maṇanta tōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Like white mustard the small-blossomed Ñāḻal</l>
+             <l rend="indent">spread together with withered red Arjuna blossoms</l>
+             <l>adorned<note place="foot"><term xml:lang="ta">aṇintaṉṟu</term>: here another clear example for the aspectual character of the "preterite". The nuance is not to be found in a retrospective, but rather in the fact that the blossoms have already fallen and the loneliness has been put on as an ornament.</note> the ghat in his village.</l>
+             <l rend="indent4">Wasted away</l>
+             <l rend="indent">so that the shining bangles become loose [and] slip over the joints,<note place="foot">A smaller syntactical problem here is the absolutive <term xml:lang="ta">iṟantu</term>. One would expect either infinitive (as in the above translation) or a different sequence: bangles first become loose and only then slip down.</note></l>
+             <l>the arms he clung to are adorned by loneliness.</l>
+
+
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT50">
+    <interp type="alignment" select="0">62MG6MG12MG29MG8MG14MG2M,139M</interp>
+    <entry>
+    <form>aiyavi</form>
+    <def>white mustard</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>small</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>ñāḻal</form>
+    <def>Ñāḻal( tree)</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>marutiṉ</form>
+    <def>Arjuna( tree)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>cemmaloṭu</form>
+    <def>withered flower with</def>
+    </entry>
+    <entry>
+    <form>tāay<pc>+</pc></form>
+    <def>spread</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṇintaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it adorned</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟai</form>
+    <def>joint</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>crossed</def>
+    </entry>
+    <entry>
+    <form>ilaṅku</form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>vaḷai</form>
+    <def>bangle</def>
+    </entry>
+    <entry>
+    <form>nekiḻa<pc>+</pc></form>
+    <def>loosen</def>
+    </entry>
+    <entry>
+    <form>cāay<pc>+</pc></form>
+    <def>exhausted</def>
+    </entry>
+    <entry>
+    <form>pulamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>loneliness</def>
+    </entry>
+    <entry>
+    <form>aṇintaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it adorned</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>maṇanta</form>
+    <def>united-</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

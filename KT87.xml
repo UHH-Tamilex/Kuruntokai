@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 87. <persName xml:lang="ta">kapilar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT87-kilavi">
+          <p type="edition">talaimakaḷ teyvattiṟkup parāayatu (C2+3: parāyatu).</p>
+          <p type="translation" xml:lang="en">SHE praising the deity.</p>
+          </div>
+
+
+
+        <div xml:id="KT87">
+            <lg type="edition">
+<l>                maṉṟa marāatta pēemutir kaṭavuḷ</l>
+<l>                koṭiyōrt teṟūu meṉpa yāvatuṅ</l>
+<l>                koṭiya rallareṅ kuṉṟukeḻu nāṭar</l>
+<l>                pacaiip pacantaṉṟu nutalē</l>
+<l>                ñekiḻa ñekiḻntaṉṟu taṭameṉ ṟōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>The dreadful god in the Marām tree on the village common</l>
+                <l>torments the faithless ones, they say.</l>
+                <l rend="indent">Being kind to our man from a land full of hills,</l>
+                <l>who is not at all faithless,</l>
+                <l>[My] full tender shoulder has wasted and wasted away.<note place="foot">Is this the meaning of the figura etymologica <term xml:lang="ta">ñekiḻa ñekiḻntaṉṟu</term> (= "... is emaciated as it emaciates")? TVG understands: "as [the mind] is becoming weak the ... shoulders are emaciated".</note></l>
+                <lg type="alternate" sameAs="3b">
+                  <l>Not at all faithless is our man from a land full of hills.<note place="foot">Thus Cām., but without final <term xml:lang="ta">-ē</term> I do not believe in an independent sentence. TVG, however, affirms that the negation with allar cannot be used as a participial noun and thus apposition.</note></l>
+                </lg>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT87">
+    <interp type="alignment" select="0">6ML11ML34M2G52MG28MG2M,139M</interp>
+    <entry>
+    <form>maṉṟam</form>
+    <def>village common</def>
+    </entry>
+    <entry>
+    <form>marāatta</form>
+    <def>tree-/Marām( tree)-</def>
+    </entry>
+    <entry>
+    <form>pēem</form>
+    <def>fear</def>
+    </entry>
+    <entry>
+    <form>mutir</form>
+    <def>ripen-</def>
+    </entry>
+    <entry>
+    <form>kaṭavuḷ</form>
+    <def>god</def>
+    </entry>
+    <entry>
+    <form>koṭiyōr<pc>+</pc></form>
+    <def>cruel they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>teṟūum</form>
+    <def>tormenting-</def>
+    </entry>
+    <entry>
+    <form>eṉpa</form>
+    <def>they say</def>
+    </entry>
+    <entry>
+    <form>yāvat*-um</form>
+    <def>anything</def>
+    </entry>
+    <entry>
+    <form>koṭiyar</form>
+    <def>cruel he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>allar</form>
+    <def>not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kuṉṟu</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>nāṭar</form>
+    <def>land he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pacaii<pc>+</pc></form>
+    <def>been kind</def>
+    </entry>
+    <entry>
+    <form>pacantaṉṟu</form>
+    <def>it became pale</def>
+    </entry>
+    <entry>
+    <form>nutal-ē</form>
+    <def>forehead</def>
+    <form type="simple">nutal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ñekiḻa</form>
+    <def>become loose</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>ñekiḻntaṉṟu</form>
+    <def>it became loose</def>
+    </entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

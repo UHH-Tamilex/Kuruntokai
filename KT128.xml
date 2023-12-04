@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 128. <persName xml:lang="ta">paraṇar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT128-kilavi">
+          <p type="edition">1. allakuṟippaṭṭu mīḷun talaimakaṉ taṉṉeñciṉai neruṅkic colliyatu.
+            2. iḵtu uṇarppuvayiṉ vārā ūṭaṟkaṇ talaimakaṉ kūṟiyatūumām.</p>
+          <p type="translation" xml:lang="en">1. Uttered, directed to [his] own heart, by HIM who returns led astray by a wrong sign.
+            2. Spoken by him during a love quarrel, before regaining mental clarity.</p>
+          </div>
+
+
+        <div xml:id="KT128">
+            <lg type="edition">
+<l>                kuṇakaṭaṟ ṟiraiyatu paṟaitapu nārai</l>
+<l>                tiṇṭērp poṟaiyaṉ ṟoṇṭi muṉṟuṟai</l>
+<l>                yayirai yāriraik kaṇavan tāṅkuc</l>
+<l>                cēya ḷariyōṭ paṭarti</l>
+<l>                nōyai neñcē nōyppā lōyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">Like a cormorant<note place="foot">As for the description in the poem the bird rather looks like a cormorant, for these hunt while flying. Probably the explanation of words like <term xml:lang="ta">nārai/kuruku</term> is that they are general terms, which denote, in this case, big fish-eating water-birds, that are marked within the specific context as herons, cormorants, egrets and the like.</note> with failing wings from<note place="foot"><term xml:lang="ta">tiraiyatu</term>: here an adverbial reading of <term xml:lang="ta">-atu</term> does not make sense, and also a genitive suffix lacks conviction. Cf. <term xml:lang="ta">micaiyatu</term> in KT 78.1, karaiyatu in KT 246.1, 313.1. Notable is this identical position in the 2nd foot of the first line. The best solution seems to be an pronominal noun n.sg., used in an attributive function.</note> the waves</l>
+           <l rend="indent4">of the eastern sea</l>
+           <l rend="indent">lifts [its] head towards prey difficult [to obtain], the Ayirai fish,</l>
+           <l rend="indent">[near] the ghat in front<note place="foot"><term xml:lang="ta">muṉ-tuṟai</term> is understood as a compound by TVG, that is, "front ghat".</note> of Toṇṭi,</l>
+           <l rend="indent3">[the city] of Poṟaiyaṉ of firm chariot,<note place="foot">According to TVG the point of the image is that the heron is longing for the better fish of the western coast (<term xml:lang="ta">Toṇṭi</term> is associated with the Cēras and has been identified with the Greek Tyndis on the west coast). Even if this were not the case, it could be maintained that the heron is no longer strong enough to hunt for its prey, but has to take whatever the waves give.</note></l>
+           <l>[so too] you will think of her who is distant, difficult [to obtain],</l>
+           <l>full of pain you [are], heart, pain your share.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT128">
+    <interp type="alignment" select="0">70MG6MG39M2G10MG2M,132M</interp>
+    <entry>
+    <form>kuṇa</form>
+    <def>east-</def>
+    </entry>
+    <entry>
+    <form>kaṭal</form>
+    <def>sea</def>
+    </entry>
+    <entry>
+    <form>tiraiyatu</form>
+    <def>wave it</def>
+    </entry>
+    <entry>
+    <form>paṟai</form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>tapu</form>
+    <def>fail-</def>
+    </entry>
+    <entry>
+    <form>nārai</form>
+    <def>wader</def>
+    </entry>
+    <entry>
+    <form>tiṇ</form>
+    <def>firm</def>
+    </entry>
+    <entry>
+    <form>tēr<pc>+</pc></form>
+    <def>chariot</def>
+    </entry>
+    <entry>
+    <form>poṟaiyaṉ</form>
+    <def>Poṟaiyaṉ</def>
+    </entry>
+    <entry>
+    <form>toṇṭi</form>
+    <def>Toṇṭi</def>
+    </entry>
+    <entry>
+    <form>muṉ</form>
+    <def>in front</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ayirai</form>
+    <def>Ayirai( fish)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>iraikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>prey</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>aṇavantāṅku<pc>+</pc></form>
+    <def>head lift come(abs.) like</def>
+    </entry>
+    <entry>
+    <form>cēyaḷ</form>
+    <def>distant she</def>
+    </entry>
+    <entry>
+    <form>ariyōḷ</form>
+    <def>difficult she</def>
+    </entry>
+    <entry>
+    <form>paṭarti</form>
+    <def>you think</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>nōyai</form>
+    <def>pain you</def>
+    </entry>
+    <entry>
+    <form>neñc*-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nōy<pc>+</pc></form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>pālōy-ē</form>
+    <def>part you</def>
+    <form type="simple">pālōy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

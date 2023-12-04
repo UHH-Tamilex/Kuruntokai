@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 76. <persName xml:lang="ta">kiḷḷimaṅkalaṅkiḻār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT76-kilavi">
+          <p type="edition">pirivuṇarttac ceṉṟa tōḻikku avar piriyum (C2: pirivu) muṉṉar uṇarnta talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER who had [already] realised that he would separate to the confidante who was about to announce the separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT76">
+            <lg type="edition">
+<l>                kāntaḷ vēli yōṅkumalai naṉṉāṭṭuc</l>
+<l>                celpa veṉpavō kalvarai mārpar</l>
+<l>                cilampiṟ cēmpi ṉalaṅkal vaḷḷilai</l>
+<l>                peruṅkaḷiṟṟuc ceviyiṉ māṉat taiit</l>
+<l>                taṇvaral vāṭai tūṅkuṅ</l>
+<l>                kaṭumpaṉi yaṟcira naṭuṅkaña ruṟavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>Do they say he with the chest of a stony mountain will go<note place="foot"><term xml:lang="ta">celpa</term> actually is plural, presumably in adjustment to <term xml:lang="ta">eṉpa</term>. Is it possible to use it as a honorific (i.e. construed with <term xml:lang="ta">mārpar</term>)? (The simpler variant reads <term xml:lang="ta">celvaṉ</term> ... <term xml:lang="ta">mārpaṉ</term>.)</note></l>
+          <l rend="indent">to a good land with high mountains [and] fences of Malabar lilies,</l>
+          <l rend="indent">for me to have trembling sorrow in the cold season with harsh dew</l>
+          <l rend="indent">when the north wind, the coming of coolness, sticks to</l>
+          <l rend="indent">the many swaying leaves, like<note place="foot">The point of the comparison must be the ongoing movement of the leaves and the ears, one caused by the wind, the other a habit of elephants.</note> the ears of big elephant bulls,</l>
+          <l rend="indent">of the Cēmpu on the mountain-side [and] hangs on?</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT76">
+    <interp type="alignment" select="0">39MG110MR6MG7MG3M,169M</interp>
+    <entry>
+    <form>kāntaḷ</form>
+    <def>malabar lily</def>
+    </entry>
+    <entry>
+    <form>vēli</form>
+    <def>fence</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>nāṭṭu<pc>+</pc></form>
+    <def>land-</def>
+    </entry>
+    <entry>
+    <form>celpa</form>
+    <def>they go</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉpa-<pc>~</pc>ō</form>
+    <def>they say</def>
+    <form type="simple">eṉpa</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>mārpar</form>
+    <def>chest he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>cilampiṉ</form>
+    <def>mountain side</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>cēmpiṉ</form>
+    <def>Cēmpu( plant)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>alaṅkal</form>
+    <def>swaying<note place="foot"><term xml:lang="ta">alaṅkal</term>: what is the function of the verbal noun? Srin.: "on the many leaves [with their] fluttering".</note></def>
+    </entry>
+    <entry>
+    <form>vaḷ</form>
+    <def>abundance</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ilai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>kaḷiṟṟu<pc>+</pc></form>
+    <def>elephant bull-</def>
+    </entry>
+    <entry>
+    <form>ceviyiṉ</form>
+    <def>ear</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>māṉa<pc>+</pc></form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>taii<pc>+</pc></form>
+    <def>knitted</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>varal</form>
+    <def>coming<note place="foot"><term xml:lang="ta">taṇ varal</term>: is the function of the verbal noun here simply an apposition? Srin.: "North wind, the coming of which [is connected] with coolness".</note></def>
+    </entry>
+    <entry>
+    <form>vāṭai</form>
+    <def>north wind</def>
+    </entry>
+    <entry>
+    <form>tūṅkum</form>
+    <def>hanging-</def>
+    </entry>
+    <entry>
+    <form>kaṭum</form>
+    <def>quick</def>
+    </entry>
+    <entry>
+    <form>paṉi</form>
+    <def>dew</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟciram</form>
+    <def>cold season</def>
+    </entry>
+    <entry>
+    <form>naṭuṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tremble-</def>
+    </entry>
+    <entry>
+    <form>añar</form>
+    <def>sorrow</def>
+    </entry>
+    <entry>
+    <form>uṟa-<pc>~</pc>ē</form>
+    <def>have</def>
+    <form type="simple">uṟa</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

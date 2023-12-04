@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 170. <persName xml:lang="ta">karuvūr kiḻār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT170-kilavi">
+          <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she would not have the strength [to await] the time of marriage.</p>
+          </div>
+
+
+        <div xml:id="KT170">
+            <lg type="edition">
+<l>                palaruṅ kūṟukavaḵ taṟiyā tōrē</l>
+<l>                yaruvi tanta nāṭkura leruvai</l>
+<l>                kayanā ṭiyāṉai kavaḷa māntu</l>
+<l>                malaikeḻu nāṭaṉ kēṇmai</l>
+<l>                talaipō kāmainaṟ kaṟintaṉeṉ yāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>May all the many talk who don't know that:</l>
+           <l>I have well understood the limitlessness</l>
+           <l rend="indent">of the intimacy with the man from the mountainous land,</l>
+           <l rend="indent">where the elephant searching the pond feeds, [like] on rice balls,<note place="foot">Or, with the tradition: "... where the elephant (normally) feeds on rice-balls, (but now) searches the pond for Eruvai plants ...". (Cf. PN 101.7, 114.3, 337.14).</note></l>
+           <l rend="indent">on the reed<note place="foot">What might eruvai be (not included in the DED)? And what is meant by the specification <term xml:lang="ta">aruvi tanta nāḷ</term>? What is expressed by the image? HE will return to HER, just as the elephant gets enough of the eruvai found by chance and comes back to his usual <term xml:lang="ta">kavaḷam</term>?</note> in fresh(?)<note place="foot"><term xml:lang="ta">nāḷ</term> is somewhat strange here. TVG reads it as "in the early morning", but that seems quite arbitrary.</note> bunches given by the waterfall.</l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT170">
+    <interp type="alignment" select="0">5MG12MG8MG30MR3MGMG12ML5ML35MG12MG2M,135M</interp>
+    <entry>
+    <form>palar-um</form>
+    <def>many</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kūṟuka</form>
+    <def>may talk</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form>aṟiyātōr-ē</form>
+    <def>know not they</def>
+    <form type="simple">aṟiyātōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aruvi</form>
+    <def>waterfall</def>
+    </entry>
+    <entry>
+    <form>tanta</form>
+    <def>given-</def>
+    </entry>
+    <entry>
+    <form>nāḷ</form>
+    <def>day</def>
+    </entry>
+    <entry>
+    <form>kural</form>
+    <def>bunch</def>
+    </entry>
+    <entry>
+    <form>eruvai</form>
+    <def>reed</def>
+    </entry>
+    <entry>
+    <form>kayam</form>
+    <def>pond</def>
+    </entry>
+    <entry>
+    <form>nāṭ<pc>(</pc>u<pc>)</pc></form>
+    <def>search-</def>
+    </entry>
+    <entry>
+    <form>yāṉai</form>
+    <def>elephant</def>
+    </entry>
+    <entry>
+    <form>kavaḷam</form>
+    <def>rice ball</def>
+    </entry>
+    <entry>
+    <form>māntum</form>
+    <def>feeding-</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    </entry>
+    <entry>
+    <form>talaipōkāmai</form>
+    <def>not having come to an end</def>
+    </entry>
+    <entry>
+    <form>naṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>good it</def>
+    </entry>
+    <entry>
+    <form>aṟintaṉeṉ</form>
+    <def>I knew</def>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

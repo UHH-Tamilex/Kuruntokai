@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 163. <persName xml:lang="ta">ammūvaṉa(ār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT163-kilavi">
+          <p type="edition">taṉṉuṭai (C2+5, Cām.: taṉṉuṭ) kaiyāṟu eytiṭu kiḷavi.</p>
+          <p type="translation" xml:lang="en">Words addressing her helplessness/motionlessness.</p>
+          </div>
+
+
+        <div xml:id="KT163">
+            <lg type="edition">
+<l>                yāraṇaṅ kuṟṟaṉai kaṭalē pūḻiyar</l>
+<l>                ciṟutalai veḷḷait tōṭuparan taṉṉa</l>
+<l>                mīṉār kurukiṉ kāṉalam peruntuṟai</l>
+<l>                veḷvīt tāḻait tiraiyalai</l>
+<l>                naḷḷeṉ kaṅkuluṅ kēṭkuniṉ kuralē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Who troubled you, ocean?<note place="foot"><term xml:lang="ta">yār aṇaṅku uṟṟaṉai</term> is literally "whom did you have/experience as trouble?" It is impossible to decide whether the p.a. here expresses a completeness of action (who has troubled you last night?), or a state which had begun in the past but does still last.</note></l>
+           <l>We can hear your voice all through the deep night,</l>
+           <l rend="indent">when waves slap<note place="foot">alai: this is a remarkable use of the mere verbal root, namely in a syntactically relevant position at the end of the penultimate line. What would be expected is the imperfective <term xml:lang="ta">peyareccam</term>, so frequently to be found in this position. But <term xml:lang="ta">aḷaikkum</term> would be hypermetrical here.</note> the white-blossomed Tāḻai trees</l>
+           <l rend="indent">in the big ghat of seashore groves with fish-eating herons,</l>
+           <l rend="indent">spread like a flock of small-headed goats of the Pūḻiyar.</l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT163">
+    <interp type="alignment" select="0">8MG12MG101MG7MR8MG2M,143M</interp>
+    <entry>
+    <form>yār</form>
+    <def>who</def>
+    </entry>
+    <entry>
+    <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>torment</def>
+    </entry>
+    <entry>
+    <form>uṟṟaṉai</form>
+    <def>you had</def>
+    </entry>
+    <entry>
+    <form>kaṭal-ē</form>
+    <def>sea</def>
+    <form type="simple">kaṭal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pūḻiyar</form>
+    <def>Pūḻiyar</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>veḷḷai<pc>+</pc></form>
+    <def>goat<note place="foot"><term xml:lang="ta">veḷḷai</term> is literally "whiteness"; according to the Index it is a variety of sheep; Cām. on his part glosses with <term xml:lang="ta">veḷḷāṭu</term> "he-goat".</note></def>
+    </entry>
+    <entry>
+    <form>tōṭu</form>
+    <def>mass</def>
+    </entry>
+    <entry>
+    <form>parantaṉṉa</form>
+    <def>spread like</def>
+    </entry>
+    <entry>
+    <form>mīṉ</form>
+    <def>fish</def>
+    </entry>
+    <entry>
+    <form>ār</form>
+    <def>become full-</def>
+    </entry>
+    <entry>
+    <form>kurukiṉ</form>
+    <def>wader</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṉalam</form>
+    <def>seashore grove</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>vī<pc>+</pc></form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>tāḻai<pc>+</pc></form>
+    <def>Tāḻai( tree)</def>
+    </entry>
+    <entry>
+    <form>tirai</form>
+    <def>wave</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alai</form>
+    <def>slap</def>
+    </entry>
+    <entry>
+    <form>naḷḷeṉ</form>
+    <def>middle say-</def>
+    </entry>
+    <entry>
+    <form>kaṅkul-um</form>
+    <def>night</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kēṭkum</form>
+    <def>we hear</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>kural-ē</form>
+    <def>voice</def>
+    <form type="simple">kural</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 44. <persName xml:lang="ta">veḷḷi vītiyār</persName>: <i>the foster-mother</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT44-kilavi">
+          <p type="edition">iṭaiccurattuc cevilittāy kaiyaṟṟuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Spoken in helplessness by the foster-mother in the middle of the wilderness.</p>
+          </div>
+
+
+
+        <div xml:id="KT44">
+            <lg type="edition">
+<l>                kālē paritap piṉavē kaṇṇē</l>
+<l>                nōkki nōkki vāḷiḻan taṉavē</l>
+<l>                yakaliru vicumpiṉ mīṉiṉum</l>
+<l>                palarē maṉṟaviv vulakattup piṟarē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Ah [my] legs, they have given up moving.</l>\
+             <l rend="indent4">Ah [my] eyes,</l>
+             <l>peering, peering they have lost [their] sight!</l>
+             <l>Many more indeed than stars in the wide dark sky</l>
+             <l>[are] the strangers in this world.</l>
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT44">
+    <interp type="alignment" select="0">3MG12MG5MG23MG30MGMG23MG2M,106M</interp>
+    <entry>
+    <form>kāl-ē</form>
+    <def>leg</def>
+    <form type="simple">kāl</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pari</form>
+    <def>motion</def>
+    </entry>
+    <entry>
+    <form>tappiṉa-<pc>~</pc>ē</form>
+    <def>they failed</def>
+    <form type="simple">tappiṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nōkki</form>
+    <def>looked out</def>
+    </entry>
+    <entry>
+    <form>nōkki</form>
+    <def>looked out</def>
+    </entry>
+    <entry>
+    <form>vāḷ</form>
+    <def>light</def>
+    </entry>
+    <entry>
+    <form>iḻantaṉa-<pc>~</pc>ē</form>
+    <def>they lost</def>
+    <form type="simple">iḻantaṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akal</form>
+    <def>widen-</def>
+    </entry>
+    <entry>
+    <form>iru</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>vicumpiṉ</form>
+    <def>sky</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>mīṉiṉum</form>
+    <def>star</def>
+    <gramGrp type="affix"><form>iṉum</form></gramGrp>
+    </entry>
+    <entry>
+    <form>palar-ē-maṉṟa</form>
+    <def>many(h.)ē </def>
+    <form type="simple">palarē</form>
+    <gramGrp type="particle"><form>maṉṟa</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ulakattu<pc>+</pc></form>
+    <def>world-</def>
+    </entry>
+    <entry>
+    <form>piṟar-ē</form>
+    <def>other they</def>
+    <form type="simple">piṟar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

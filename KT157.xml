@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 157. <persName xml:lang="ta">aḷḷūr naṉmullai(yār) (C1: naṉmūlaṉ)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT157-kilavi">
+          <p type="edition">pūppeytiya talaimakaḷ uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER who had reached her (monthly) menstruation.</p>
+          </div>
+
+
+        <div xml:id="KT157">
+            <lg type="edition">
+<l>                kukkū veṉṟatu kōḻi yataṉetir</l>
+<l>                tuṭkeṉ ṟaṉṟeṉ ṟūya neñcan</l>
+<l>                tōṭōy kātalarp pirikkum</l>
+<l>                vāḷpōl vaikaṟai vantaṉṟā leṉavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>“Kukkū” said the cock.</l>
+           <l rend="indent3">At that</l>
+           <l>my pure heart stopped beating:<note place="foot">There is a second way to split the sandhi here, namely as <term xml:lang="ta">tuṭku eṉṟu aṉṟu</term>: "my pure heart did not say <term xml:lang="ta">tuṭku</term> [anymore]".</note></l>
+           <l rend="indent">To separate [me] from the lover at my shoulder</l>
+           <l>just like a sword dawn has come,</l>
+           <l rend="indent4">says he.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT157">
+    <interp type="alignment" select="0">21MG8MG6MG15ML39M2G5MG3M,104M</interp>
+    <entry>
+    <form>kukkū</form>
+    <def>'kukkū'</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉṟatu</form>
+    <def>said it</def>
+    </entry>
+    <entry>
+    <form>kōḻi</form>
+    <def>fowl</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ataṉ-</form>
+    <def>that</def>
+    <gram type="role">oblique</gram>
+    </entry>
+    <entry>
+    <form>etir</form>
+    <def>opposite</def>
+    </entry>
+    <entry>
+    <form>tuṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>'tuṭku'</def>
+    </entry>
+    <entry>
+    <form>eṉṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it said</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>tūya</form>
+    <def>pure</def>
+    </entry>
+    <entry>
+    <form>neñcam</form>
+    <def>heart</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>tōy</form>
+    <def>touch-</def>
+    </entry>
+    <entry>
+    <form>kātalar<pc>+</pc></form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pirikkum</form>
+    <def>separating-</def>
+    </entry>
+    <entry>
+    <form>vāḷ</form>
+    <def>sword</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>vaikaṟai</form>
+    <def>dawn</def>
+    </entry>
+    <entry>
+    <form>vantaṉṟ*-āl</form>
+    <def>it came</def>
+    <form type="simple">vantaṉṟu</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>eṉa-<pc>~</pc>ē</form>
+    <def>say</def>
+    <form type="simple">eṉa</form>
+    <gram type="role">infinitive</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

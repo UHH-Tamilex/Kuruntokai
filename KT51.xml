@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 51. <persName xml:lang="ta">kuṉṟiyaṉa(ār)</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT51-kilavi">
+          <p type="edition">varaivu nīṭṭittaviṭattu āṟṟāḷākiya talaimakaṭkut tōḻi varaivu malivu kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">The confidante talking about the prospect of marriage to HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT51">
+            <lg type="edition">
+<l>                kūṉmuṇ muṇṭakak kūrmpaṉi māmalar</l>
+<l>                nūlaṟu muttiṟ kāloṭu pāṟit</l>
+<l>                tuṟaitoṟum parikkun tūmaṇaṟ cērppaṉai</l>
+<l>                yāṉuṅ kātaleṉ yāyunaṉi veyya</l>
+<l>                ḷentaiyuṅ koṭīiyar vēṇṭu</l>
+<l>                mampa lūru mavaṉoṭu moḻimē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">The man from the coast of pure sands spreading in every ghat</l>
+             <l rend="indent">where the full dewy big blossoms of the curvy-thorned Muṇṭakam</l>
+             <l rend="indent">are scattered by the wind like pearls from a broken thread,</l>
+             <l>him I love and mother has warmed [to him]</l>
+             <l>and father must give [him to me]<note place="foot">Also possible is a transitive rendering of <term xml:lang="ta">vēṇṭum</term>: "and my father wants to give ...".</note></l>
+             <l>and even the prattling village speaks for him.</l>
+             <lg type="alternate" resp="#TVG" sameAs="6b">
+              <l>and even the village talks about [my connection] with him.</l>
+             </lg>
+
+
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT51">
+    <interp type="alignment" select="0">57MG32MG12MGMR15MG24MG16M,163M</interp>
+    <entry>
+    <form>kūṉ</form>
+    <def>curve</def>
+    </entry>
+    <entry>
+    <form>muḷ</form>
+    <def>thorn</def>
+    </entry>
+    <entry>
+    <form>muṇṭaka<pc>+</pc></form>
+    <def>Muṇṭakam</def>
+    </entry>
+    <entry>
+    <form>kūr<pc>+</pc></form>
+    <def>abundance</def>
+    </entry>
+    <entry>
+    <form>paṉi</form>
+    <def>dew</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>malar</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>nūl</form>
+    <def>thread</def>
+    </entry>
+    <entry>
+    <form>aṟu</form>
+    <def>be severed-</def>
+    </entry>
+    <entry>
+    <form>muttiṉ</form>
+    <def>pearl</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kāloṭu</form>
+    <def>wind with</def>
+    </entry>
+    <entry>
+    <form>pāṟi<pc>+</pc></form>
+    <def>scattered</def>
+    </entry>
+    <entry>
+    <form>tuṟai-toṟum</form>
+    <def>ghat ever</def>
+    </entry>
+    <entry>
+    <form>parikkum</form>
+    <def>spreading-</def>
+    </entry>
+    <entry>
+    <form>tū</form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>maṇal</form>
+    <def>sand</def>
+    </entry>
+    <entry>
+    <form>cērppaṉai</form>
+    <def>coast he</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>yāṉ-um</form>
+    <def>I</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kātaleṉ</form>
+    <def>love I</def>
+    </entry>
+    <entry>
+    <form>yāy-um</form>
+    <def>my mother</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>naṉi</form>
+    <def>abundant</def>
+    </entry>
+    <entry>
+    <form>veyyaḷ</form>
+    <def>hot she</def>
+    </entry>
+    <entry>
+    <form>entai-<pc>~</pc>um</form>
+    <def>my father</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>koṭīiyar</form>
+    <def>give</def>
+    </entry>
+    <entry>
+    <form>vēṇṭum</form>
+    <def>is necessary</def>
+    </entry>
+    <entry>
+    <form>ampal</form>
+    <def>calumny</def>
+    </entry>
+    <entry>
+    <form>ūr-um</form>
+    <def>village</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>avaṉoṭu</form>
+    <def>he with</def>
+    </entry>
+    <entry>
+    <form>moḻimē</form>
+    <def>speaking-<note place="foot"><term xml:lang="ta">moḻimē</term>: this form is usually analysed as a short form of the habitual future (for <term xml:lang="ta">moḻiyum</term>), but morphologically speaking it looks rather like an imperative that has exchanged its end-particle <term xml:lang="ta">-ō</term> for an <term xml:lang="ta">-ē</term> in poem-final position (cf. <term xml:lang="ta">cenmē</term> for <term xml:lang="ta">ceṉmō</term> in NA 19.9; <term xml:lang="ta">teḷimē</term> in KT 273.8). In that case the last line would have to be split off: "Let this prattling village too speak for him."</note></def>
+    <form type="simple">moḻim</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

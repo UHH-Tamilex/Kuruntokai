@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 89. <persName xml:lang="ta">paraṇar</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin &amp; Cām.</abbr>
+              <expan>S.A.Srinivasan &amp; Caminataiyar</expan>
+            </persName>
+          </person>
+        
+      
+
+        </listPerson>
+
+        
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT89-kilavi">
+          <p type="edition">1. talaimakaṉ ciṟaippuṟattāṉākat tōḻi taṉṉuḷḷē colluvāḷāyc colliyatu. 2. talaimakaṟkup (C1+3+4: talaimakaṭkup) pāṅkāyiṉār kēṭpac colliya vāyiṉ maṟuttatūumām. (EA: ciṟaippuṟam.)</p>
+          <p type="translation" xml:lang="en">1. Uttered as if to herself by the confidante, while HE is behind the hedge. 2. Mediation/the door refused [and] uttered to be heard by those close to HIM.</p>
+          </div>
+
+
+
+        <div xml:id="KT89">
+            <lg type="edition">
+<l>                pāvaṭi yurala pakuvāy vaḷḷai</l>
+<l>                yētiṉ mākka ṇuvaṟalu nuvalpa</l>
+<l>                vaḻiva tevaṉkolip pētai yūrkkē</l>
+<l>                perumpūṭ poṟaiyaṉ pēemutir kollik</l>
+<l>                karuṅkaṭ ṭeyvaṅ kuṭavarai yeḻutiya</l>
+<l>                nalliyaṟ pāvai yaṉṉavim</l>
+<l>                melliyaṟ kuṟumakaḷ pāṭiṉaḷ kuṟiṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Let other people do the talk</l>
+                <l rend="indent">about the Vaḷḷai<note place="foot">The <term xml:lang="ta">vaḷḷai</term> seems to be a traditional song sung by women when working with grain. When we take the syntactical marks in this poem seriously, we have to construe it as the indirect object of <term xml:lang="ta">nuvaṟal</term>, that is, people talk about the way SHE sings the <term xml:lang="ta">Vaḷḷai</term>, which probably insinuates that she is not singing about dead warriors as the other women, but about her lover.</note>, [sounding] at the split mouth</l>
+                <l rend="indent4">of the broad-based mortar.</l>
+                <l>What harm is it to this foolish village?</l>
+                <l>This tender-natured little woman was singing when pounding,<note place="foot">So SHE sang while working and was in good spirits, though people are talking.</note></l>
+                <l rend="indent">like a good-natured image<note place="foot">This image of the deity on mount <term xml:lang="ta">Kolli</term> seems to be a topos. Besides KT 100, compare, for example, Kali 56.</note></l>
+                <l rend="indent">of the black-eyed god drawn on the western [side of] the mountain,</l>
+                <l rend="indent">the dreadful Kolli of Poṟaiyaṉ with big ornaments.</l>
+                
+                <lg type="alternate" resp="#Srin" sameAs="1+6b">
+                  
+                  <l>“If [the women] were to pound [grain], the kuṟumakaḷ would sing</l>
+                  <l>[inserting the name of her lover into] the vaḷḷai [at/around] the split</l>
+                  <l> mouth characteristic of the mortar with broad base”</l>
+                  <l>– thus will other people talk, and emphatically at that (nuvaṟalum).</l>
+                </lg>
+              
+
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT89">
+    <interp type="alignment" select="0">36ML6MGMR14MG4MG15M2G21ML91MG2M,199M</interp>
+    <entry>
+    <form>pā</form>
+    <def>expanse</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭi</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>urala</form>
+    <def>mortar</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paku</form>
+    <def>split-</def>
+    </entry>
+    <entry>
+    <form>vāy</form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>vaḷḷai</form>
+    <def>Vaḷḷai( song)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ētil</form>
+    <def>strange</def>
+    </entry>
+    <entry>
+    <form>mākkaḷ</form>
+    <def>people</def>
+    </entry>
+    <entry>
+    <form>nuvaṟal-um</form>
+    <def>talking</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nuvalpa</form>
+    <def>they talk</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḻivat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>perish it</def>
+    </entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form>pētai</form>
+    <def>folly</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūrkk*-ē</form>
+    <def>village</def>
+    <form type="simple">ūrkku</form>
+    <gram type="role">dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>pūṇ</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>poṟaiyaṉ</form>
+    <def>Poṟaiyaṉ</def>
+    </entry>
+    <entry>
+    <form>pēem</form>
+    <def>fear</def>
+    </entry>
+    <entry>
+    <form>mutir</form>
+    <def>ripen-</def>
+    </entry>
+    <entry>
+    <form>kolli<pc>+</pc></form>
+    <def>Kolli( hill)</def>
+    </entry>
+    <entry>
+    <form>karum</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>teyvam</form>
+    <def>god</def>
+    </entry>
+    <entry>
+    <form>kuṭa</form>
+    <def>western</def>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eḻutiya</form>
+    <def>drawn-</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iyal</form>
+    <def>nature</def>
+    </entry>
+    <entry>
+    <form>pāvai</form>
+    <def>image</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form>mel</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iyal</form>
+    <def>nature</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>pāṭiṉaḷ</form>
+    <def>she sang<note place="foot"><term xml:lang="ta">pāṭiṉaḷ</term>: here the p.a. might either refer to an incident that has taken place in the recent past, or it might express that SHE kept singing in spite of the talk.</note></def>
+    </entry>
+    <entry>
+    <form>kuṟiṉ-ē</form>
+    <def>pound if</def>
+    <form type="simple">kuṟiṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 160. <persName xml:lang="ta">maturai marutaṉ iḷanākaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT160-kilavi">
+          <p type="edition">varaivu nīṭṭippa āṟaṟāḷākiya talaimakaḷai nōkkit tōḻi “varaivar” eṉa āṟṟuvipapuḻit talaimakaḷ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER, when the confidante is reassuring HER [with the words] “he will marry [you]”, who didn't have the strength [anymore] when [he] delayed marriage.</p>
+          </div>
+
+
+        <div xml:id="KT160">
+            <lg type="edition">
+<l>                neruppi ṉaṉṉa centalai yaṉṟi</l>
+<l>                liṟavi ṉaṉṉa koṭuvāyp peṭaiyoṭu</l>
+<l>                taṭavi ṉōṅkuciṉaik kaṭciyiṟ pirintōr</l>
+<l>                kaiyaṟa naralu naḷḷeṉ yāmattup</l>
+<l>                peruntaṇ vāṭaiyum vārā</l>
+<l>                riḵtō tōḻinaṅ kātalar varavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>[Is] this, friend, the coming [promised by] our lover,</l>
+           <l>who has not come even with the great, cool north wind</l>
+           <l rend="indent">at deepest midnight, where the Aṉṟil bird, [its] head red like fire,</l>
+           <l rend="indent">with<note place="foot">Or <term xml:lang="ta">peṭaiyoṭu ... naralum</term>: "calls out for its female"?</note> its female, [its] beak bent like a prawn,</l>
+           <l rend="indent">calls out, such that activity ends</l>
+           <l rend="indent">in those who are separated, in the nest on a twig high in the tree?</l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT160">
+    <interp type="alignment" select="0">89MG10MR27MG11M2G20M2G2M,166M</interp>
+    <entry>
+    <form>neruppiṉ</form>
+    <def>fire</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṟil</form>
+    <def>Aṉṟil( bird)</def>
+    </entry>
+    <entry>
+    <form>iṟaviṉ</form>
+    <def>prawn</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>koṭu</form>
+    <def>curved</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>peṭaiyoṭu</form>
+    <def>female bird with</def>
+    </entry>
+    <entry>
+    <form>taṭaviṉ</form>
+    <def>tree<note place="foot"><term xml:lang="ta">taṭavu</term> is little attested; the TL says only "a tree"; DEDR 3020 gives <term xml:lang="ta">taṭa</term> "large, broad, full", respectively <term xml:lang="ta">taṭavu</term> "largeness, greatness", that is, perhaps a lexicalised metaphor (the tree as the broad one). Further Caṅkam references are: NA 19.1, 235.1; PN 105.2, 199.1, 201.8.</note></def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>ciṉai<pc>+</pc></form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>kaṭciyiṉ</form>
+    <def>nest</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pirintōr</form>
+    <def>separated they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>Kai-</form>
+    <def>action</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟa</form>
+    <def>end</def>
+    </entry>
+    <entry>
+    <form>naralum</form>
+    <def>calling-</def>
+    </entry>
+    <entry>
+    <form>naḷḷeṉ</form>
+    <def>middle say-</def>
+    </entry>
+    <entry>
+    <form>yāmattu<pc>+</pc></form>
+    <def>midnight-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>vāṭai-<pc>~</pc>um</form>
+    <def>north wind</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>iḵt*-ō</form>
+    <def>this</def>
+    <form type="simple">iḵtu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varav*-ē</form>
+    <def>coming</def>
+    <form type="simple">varavu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

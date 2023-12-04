@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 140. <persName xml:lang="ta">aḷḷūr naṉmullai</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT140-kilavi">
+          <p type="edition">poruḷavayiṟ pirintaviṭattu nī āṟṟukiṉṟilai eṉṟa tōḻikkut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante who had said “you have not got the strength”, when [he] separated for the sake of wealth.</p>
+          </div>
+
+
+        <div xml:id="KT140">
+            <lg type="edition">
+<l>                vētiṉa verini ṉōti mutupōt</l>
+<l>                tāṟuceṉ mākkaḷ puṭkoḷap poruntuñ</l>
+<l>                curaṉē ceṉṟaṉar kātala ruraṉaḻin</l>
+<l>                tīṅkiyāṉ ṟāṅkiya vevvam</l>
+<l>                yāṅkaṟin taṉṟiv vaḻuṅka lūrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Into the desert the lover has gone,</l>
+           <l rend="indent">which is apt to make people walking the route take as an omen</l>
+           <l rend="indent">the old male of the chameleon with [its] saw-back.</l>
+           <l>What does this noisy village know<note place="foot"><term xml:lang="ta">aṟintaṉṟu</term>: what is achieved here by the p.a.? "What has the village understood?" Or a real question: "How has this noisy village got knowledge of my trouble?"</note></l>
+           <l rend="indent">of the trouble I endured here, [my] strength perished?</l>
+        
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT140">
+    <interp type="alignment" select="0">24MG33MG25MG3MGMG20MG8MG12MG2M,136M</interp>
+    <entry>
+    <form>vētiṉa</form>
+    <def>saw</def>
+    </entry>
+    <entry>
+    <form>veriniṉ</form>
+    <def>back</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ōti</form>
+    <def>chameleon</def>
+    </entry>
+    <entry>
+    <form>mutu</form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>pōtt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>male</def>
+    </entry>
+    <entry>
+    <form>āṟu</form>
+    <def>path</def>
+    </entry>
+    <entry>
+    <form>cel</form>
+    <def>go-</def>
+    </entry>
+    <entry>
+    <form>mākkaḷ</form>
+    <def>people</def>
+    </entry>
+    <entry>
+    <form>puḷ</form>
+    <def>bird/omen</def>
+    </entry>
+    <entry>
+    <form>koḷa<pc>+</pc></form>
+    <def>take</def>
+    </entry>
+    <entry>
+    <form>poruntum</form>
+    <def>being suitable-</def>
+    </entry>
+    <entry>
+    <form>curaṉ-ē</form>
+    <def>desert</def>
+    <form type="simple">curaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ceṉṟaṉar</form>
+    <def>he went</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>uraṉ</form>
+    <def>strength</def>
+    </entry>
+    <entry>
+    <form>aḻint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>perished</def>
+    </entry>
+    <entry>
+    <form>īṅk<pc>(</pc>u<pc>)</pc></form>
+    <def>so/here</def>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>tāṅkiya</form>
+    <def>endured-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>evvam</form>
+    <def>trouble</def>
+    </entry>
+    <entry>
+    <form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>how</def>
+    </entry>
+    <entry>
+    <form>aṟintaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it knew</def>
+    </entry>
+    <entry>
+    <form>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḻuṅkal</form>
+    <def>noise</def>
+    </entry>
+    <entry>
+    <form>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

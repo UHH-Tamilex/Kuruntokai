@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 21. <persName xml:lang="ta">ōtalāntaiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+              <persName>
+                  <abbr>T.V.G.</abbr>
+                  <expan>T. V. Gopal Iyer</expan>
+              </persName>
+          </person>
+          <person xml:id="Srin">
+            <persName>
+            <abbr>Srin.</abbr>
+            <expan>S.A. Srinivasan</expan>
+          </persName>
+        </person>
+      </listPerson>
+      
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT21-kilavi">
+          <p type="edition">paruvam varuntuṇaiyum āṟṟuvitta tōḻi “avar varak kuṟitta paruva varaviṉkaṇ iṉi āṟṟuvikkum vāṟu evvāṟu” eṉṟu (C2: āṟṟuvikkumāṟu evvāṟu' eṉṟu) taṉṉuḷḷē kavaṉṟāṭku avaḷatu kuṟippaṟinta talaimakaḷ “kāṉam avar varuṅ kār kālattaik kāṭṭiṟṟāyiṉum yāṉ itu kār kālam eṉṟu tēṟēṉ eṟṟikkavar (C2: tēṟēṉ avar; G2: tēṟēṉ eṉṟaṟika avar) poy kūṟār ākaliṉ” eṉat talaimakaḷ āṟṟuval eṉpatupaṭac colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to make clear that she would have the strength [with the words]: “even if the forest has indicated the time of his coming I don't believe this to be the rainy season, because he who is compassionate doesn't tell lies”, by HER who comprehended the intention of the one who was anxious in herself: “now, at the coming of the season, what is the way to reassure [her]?”, [i.e.] the confidante who reassured [her] even up to the coming of the season.</p>
+          </div>
+
+
+
+        <div xml:id="KT21">
+            <lg type="edition">
+<l>                vaṇṭupaṭat tatainta koṭiyiṇa riṭaiyiṭupu</l>
+<l>                poṉcey puṉaiyiḻai kaṭṭiya makaḷir</l>
+<l>                katuppiṟ ṟōṉṟum putuppūṅ koṉṟaik</l>
+<l>                kāṉaṅ kāreṉak kūṟiṉum</l>
+<l>                yāṉō tēṟēṉavar poyvaḻaṅ kalarē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Even if they say: “rainy season”, when the forest</l>
+                <l rend="indent">of Laburnum trees with new flowers appears like the hair of women</l>
+                <l rend="indent">who have tied beautiful ornaments made of gold,</l>
+                <l rend="indent">in the midst of trailing clusters full for the bees to visit<note place="foot">Whether the 1st line also belongs to the comparison, that is, whether it is the women who wear not only golden ornaments but also flowers in their hair, or whether the line deals exclusively with the Laburnum flowers, is not to be decided on the syntactic plain. The motif of bees visiting the hair of women is in any case also attested.</note></l>
+                <l>–I don't believe [it]. He doesn't tell lies.</l>
+                <lg type="alternate" resp="#TVG" sameAs="4c">
+                  <l>Even if the forest says “rainy season” ...</l>
+                </lg>
+                  <lg type="alternate" resp="#Srin" sameAs="3+4b">
+                    <l>Even if [they] exclaim: “rainy season”, in the forest,</l>
+                    <l>where the Laburnum trees appear with new flowers ...</l>
+                  </lg>
+                </lg>
+
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT21">
+    <interp type="alignment" select="0">118MG23MG2M,145M</interp>
+    <entry>
+    <form>vaṇṭu</form>
+    <def>bee</def>
+    </entry>
+    <entry>
+    <form>paṭa<pc>+</pc></form>
+    <def>happen</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tatainta</form>
+    <def>been full-</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṇar</form>
+    <def>cluster</def>
+    </entry>
+    <entry>
+    <form>iṭai</form>
+    <def>between</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṭupu</form>
+    <def>placed</def>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>cey</form>
+    <def>make-</def>
+    </entry>
+    <entry>
+    <form>puṉai</form>
+    <def>adorn-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḻai</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>kaṭṭiya</form>
+    <def>tied-</def>
+    </entry>
+    <entry>
+    <form>makaḷir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>katuppiṉ</form>
+    <def>hair</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing-</def>
+    </entry>
+    <entry>
+    <form>putu<pc>+</pc></form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>pūm</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>koṉṟai<pc>+</pc></form>
+    <def>Laburnum( tree)</def>
+    </entry>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>eṉa<pc>+</pc></form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>kūṟiṉum</form>
+    <def>talking if even</def>
+    </entry>
+    <entry>
+    <form>yāṉ-ō</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ō<note place="foot"><term xml:lang="ta">yāṉō</term>: this is an example of the special usage of <term xml:lang="ta">-ō</term> as a particle demarcating a topic ("as for me, I don't believe it").</note></form></gramGrp>
+    </entry>
+    <entry>
+    <form>tēṟēṉ</form>
+    <def>I don't believe</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>poy</form>
+    <def>lie</def>
+    </entry>
+    <entry>
+    <form>vaḻaṅkalar-ē</form>
+    <def>he uses not</def>
+    <form type="simple">vaḻaṅkalar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

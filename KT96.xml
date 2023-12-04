@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 96. <persName xml:lang="ta">aḷḷūr naṉmullai</persName>: <i>SHE / HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT96-kilavi">
+          <p type="edition">talaimakaṉai iyaṟpaḻittut teruṭṭun tōḻikkut talaimakaḷ iyaṟpaṭac colliyatu.</p>
+          <p type="translation" xml:lang="en">SHE speaking to make clear [his] qualities, to the confidante who openly belittled HIS qualities.</p>
+          </div>
+
+
+
+        <div xml:id="KT96">
+            <lg type="edition">
+<l>                aruvi vēṅkaip perumalai nāṭaṟ</l>
+<l>                kiyāṉevaṉ ceykō veṉṟi yāṉatu</l>
+<l>                nakaiyeṉa vuṇarē ṉāyi</l>
+<l>                ṉeṉṉā kuvaiko ṉaṉṉuta ṉīyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+            <l>“Waterfall, Vēṅkai on the big mountain –</l>
+            <l>what can I do for the man from that place?”</l>
+            <l rend="indent4">you say.</l>
+            <l>If I don’t realise that is a joke,</l>
+            <l>will you be mine, you of good forehead?</l>
+                <lg type="alternate">
+                    Or, with the kiḷavi interpretation, SHE is talking to the confidante:<note place="foot">TVG actually reads in the sense of the <term xml:lang="ta">kiḷavi</term>, that is, the reported direct speech of the first two lines from the mouth of the confidante supposed to say that HE deserves punishment (<term xml:lang="ta">nāṭaṟku yāṉ evaṉ ceykō</term> "what shall I do (as a punishment) to the man from the land ...?), an odd interpretation of a dative, and not counting the unequivocal erotic associations and the ambiguities of the poem (which are supported by formulae or even based on a real quotation).</note>
+                    
+                    <l>You say: “what can I do</l>
+                    <l>for the man from the big mountain with Vēṅkai [and] waterfalls?”</l>
+                   <l>– if I don't  realise that is a joke,</l>
+                    <l>what will become of you, you of good forehead?</l>
+                    </lg>  
+                
+            
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT96">
+    <interp type="alignment" select="0">27MGMG11M2G41MG3ML7MGMG3M,102M</interp>
+    <entry>
+    <form>aruvi</form>
+    <def>waterfall</def>
+    </entry>
+    <entry>
+    <form>vēṅkai<pc>+</pc></form>
+    <def>Vēṅkai( tree)</def>
+    </entry>
+    <entry>
+    <form>peru</form>
+    <def>tree</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṟk<pc>(</pc>u<pc>)</pc></form>
+    <def>land he</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>evaṉ</form>
+    <def>what</def>
+    </entry>
+    <entry>
+    <form>ceyk*-ō</form>
+    <def>I do</def>
+    <form type="simple">ceyku</form>
+    <gram type="role">subjuntive</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉṟi</form>
+    <def>you say</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>atu</form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form>nakai</form>
+    <def>joke</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṇarēṉ</form>
+    <def>I don't realise</def>
+    </entry>
+    <entry>
+    <form>āyiṉ</form>
+    <def>if</def>
+    </entry>
+    <entry>
+    <form>eṉ<pc>+</pc></form>
+    <def>my-/what</def>
+    </entry>
+    <entry>
+    <form>ākuvai-kol</form>
+    <def>you become</def>
+    <form type="simple">ākuvai</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>nutal</form>
+    <def>forehead</def>
+    </entry>
+    <entry>
+    <form>nī-<pc>~</pc>ē</form>
+    <def>you</def>
+    <form type="simple">nī</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

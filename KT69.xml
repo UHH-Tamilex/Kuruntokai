@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 69. <persName xml:lang="ta">kaṭuntōṭkaravīraṉ</persName>: <i>the friend / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT69-kilavi">
+          <p type="edition">tōḻi iravukkuṟi maṟuttatu.</p>
+          <p type="translation" xml:lang="en">The confidante refusing a night tryst.</p>
+          </div>
+
+
+
+        <div xml:id="KT69">
+            <lg type="edition">
+<l>                karuṅkaṭ ṭākkalai perumpiṟi tuṟṟeṉak</l>
+<l>                kaimmai yuyyāk kāmar manti</l>
+<l>                kallā vaṉpaṟaḻ kiḷaimutaṟ cērtti</l>
+<l>                yōṅkuvarai yaṭukkattup pāyntuyir cekukkuñ</l>
+<l>                cāra ṉāṭa naṭunāḷ</l>
+<l>                vāral vāḻiyō varuntutum yāmē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Rather don't come</l>
+             <l rend="indent">at midnight, man from a land of slopes,</l>
+             <l rend="indent">where the love-struck female monkey</l>
+             <l rend="indent4">who did not escape widowhood,</l>
+             <l rend="indent">after joining to the group [her] inexperienced strong young one,</l>
+             <l rend="indent">destroys [her] life by jumping from the high mountain's side</l>
+             <l rend="indent">because the black-eyed restless male had attained the great other.<note place="foot"><term xml:lang="ta">perum piṟitu</term>: this phrase is traditionally explained as a metaphor for death, and this is indeed what is suggested at least by the parallel in KT 302.3, where SHE fears that the suffering on account of HIM might kill her.</note></l>
+             <l rend="indent3">We would be worried.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT69">
+    <interp type="alignment" select="0">26MG48MG37MG17ML7MG12MG15MG2M,171M</interp>
+    <entry>
+    <form>karum</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>tā<pc>+</pc></form>
+    <def>rushing<note place="foot"><term xml:lang="ta">tā</term>: Cām. glosses with <term xml:lang="ta">tāvutalaiyumuṭaiya</term> "jumping". The two KT parallels seem to point to fast movement, once in connection with a bat (KT 172.1) and once in connection with water (KT 391.8).</note></def>
+    </entry>
+    <entry>
+    <form>kalai</form>
+    <def>male monkey</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>other it</def>
+    </entry>
+    <entry>
+    <form>uṟṟeṉa<pc>+</pc></form>
+    <def>had say</def>
+    </entry>
+    <entry>
+    <form>kaimmai</form>
+    <def>widowhood</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uyyā<pc>+</pc></form>
+    <def>escape not</def>
+    </entry>
+    <entry>
+    <form>kāmar</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>manti</form>
+    <def>female monkey</def>
+    </entry>
+    <entry>
+    <form>kallā</form>
+    <def>learn not</def>
+    </entry>
+    <entry>
+    <form>val</form>
+    <def>strong</def>
+    </entry>
+    <entry>
+    <form>paṟaḻ</form>
+    <def>young one</def>
+    </entry>
+    <entry>
+    <form>kiḷai-mutal</form>
+    <def>horde</def>
+    <gramGrp type="affix"><form>mutal</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>cērtti</form>
+    <def>joined</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭukkattu<pc>+</pc></form>
+    <def>mountain side-</def>
+    </entry>
+    <entry>
+    <form>pāynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sprung</def>
+    </entry>
+    <entry>
+    <form>uyir</form>
+    <def>life</def>
+    </entry>
+    <entry>
+    <form>cekukkum</form>
+    <def>destroying-</def>
+    </entry>
+    <entry>
+    <form>cāral</form>
+    <def>slope</def>
+    </entry>
+    <entry>
+    <form>nāṭa</form>
+    <def>land he</def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form>naṭu-nāḷ</form>
+    <def>middle day</def>
+    </entry>
+    <entry>
+    <form>vāral</form>
+    <def>don't come</def>
+    </entry>
+    <entry>
+    <form>vāḻi-<pc>~</pc>ō</form>
+    <def>live(ipt)</def>
+    <form type="simple">vāḻi</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varuntutum</form>
+    <def>we are worried</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

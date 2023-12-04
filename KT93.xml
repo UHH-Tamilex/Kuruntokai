@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 93. <persName xml:lang="ta">aḷḷūr naṉmullai</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT93-kilavi">
+          <p type="edition">vāyilākap pukkat tōḻikku vāyiṉ maṟuttatu.</p>
+          <p type="translation" xml:lang="en">Mediation/the door refused to the confidante who had entered as a mediator.</p>
+          </div>
+
+
+
+        <div xml:id="KT93">
+            <lg type="edition">
+<l>                naṉṉalan tolaiya nalamikac cāa</l>
+<l>                yiṉṉuyir kaḻiyiṉu muraiya lavarnamak</l>
+<l>                kaṉṉaiyu mattaṉu mallarō tōḻi</l>
+<l>                pulaviyaḵ tevaṉō vaṉpilaṅ kaṭaiyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l rend="indent">Even if [our] dear life is passing,</l>
+                <l rend="indent">since [our] innocence<note place="foot">Here again by another attribute, i.e. <term xml:lang="ta">nal</term> "good", <term xml:lang="ta">nalam</term> appears to be divided into two varieties, and presumably the distinguished kind refers again to her virginity (cf. <term xml:lang="ta">putu nalaṉ</term> KT 81).</note> is lost [and] beauty wasting away fast,</l>
+                <l rend="indent3">don't speak:</l>
+                <l>isn't he mother and father [to us], friend?</l>
+                <l>Being vexed, what [is] that, [if his] love is not with us?</l>
+                <lg type="alternate" sameAs="4b/4c">
+                  <l>What [is] the [good] of being vexed?</l>
+                  <l>With us there is no love [for him anymore]./ We are boundless in [our] love [for him].</l>
+                </lg>
+                
+                        
+                
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT93">
+    <interp type="alignment" select="0">20ML41MG5MG8MG7MG15MG4MG5MG4MG5MG3M,127M</interp>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>nalam</form>
+    <def>goodness</def>
+    </entry>
+    <entry>
+    <form>tolaiya</form>
+    <def>get lost</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>nalam</form>
+    <def>goodness</def>
+    </entry>
+    <entry>
+    <form>mika<pc>+</pc></form>
+    <def>be much</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>cāay</form>
+    <def>exhausted</def>
+    </entry>
+    <entry>
+    <form>iṉ</form>
+    <def>pleasant</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uyir</form>
+    <def>life</def>
+    </entry>
+    <entry>
+    <form>kaḻiyiṉum</form>
+    <def>pass if even</def>
+    </entry>
+    <entry>
+    <form>uraiyal</form>
+    <def>don't talk</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>namakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>us</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>aṉṉai-<pc>~</pc>um</form>
+    <def>mother</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>attaṉ-um</form>
+    <def>father</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>allar-ō</form>
+    <def>is not so</def>
+    <form type="simple">allar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>pulaviyaḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sulking that</def>
+    </entry>
+    <entry>
+    <form>evaṉ-ō</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>love</def>
+    </entry>
+    <entry>
+    <form>ilam-kaṭai-<pc>~</pc>ē</form>
+    <def>not we limit/am kaṭai-</def>
+    <form type="simple">ilamkaṭai</form>
+    <gramGrp type="particle"><form>ē<note place="foot">Depending on whether <term xml:lang="ta">kaṭai</term> is taken as a noun meaning "limit" or simply as a locative suffix, contrary statements are made. The former is related to her love for him: it is without limit (which he just seems to be about to transgress). The latter means his love for her: it does not exist any longer, and still she stands by him. Can this be mere coincidence? Srin. does not believe in verbal nouns + locative ending. His suggestion: "we are without love [for one another (cf. StII 11/12 '86: 282, note 4/ZDMG 135 '85: 384, note 1)]. Stop (<term xml:lang="ta">kaṭai-ē</term>)!" Tradition, however, does not read a 1st pl. (<term xml:lang="ta">ilam</term>) at all, but a further expletive infix -<term xml:lang="ta">am</term>, so that would be simply the absence of love plus a locative suffix.</note></form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

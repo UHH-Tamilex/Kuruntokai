@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 32. <persName xml:lang="ta">aḷḷūr naṉmullaiyār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT32-kilavi">
+          <p type="edition">piṉṉiṉṟāṉ kūṟukiṉṟatu (C2: kūṟiyatu).</p>
+          <p type="translation" xml:lang="en">Told by HIM who had entreated [her/the confidante].</p>
+          </div>
+
+
+
+        <div xml:id="KT32">
+            <lg type="edition">
+<l>                kālaiyum pakaluṅ kaiyaṟu mālaiyu</l>
+<l>                mūrtuñ ciyāmamum viṭiyalu meṉṟip</l>
+<l>                poḻutiṭai teriyiṟ poyyē kāma</l>
+<l>                māveṉa maṭaloṭu maṟukiṟ ṟōṉṟit</l>
+<l>                teṟṟeṉat tūṟṟalum paḻiyē</l>
+<l>                vāḻtlum paḻiyē pirivutalai variṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l>Morning and midday and motionless evening</l>
+               <l>and midnight when the village sleeps and dawn</l>
+               <l rend="indent">if [still] familiar with these daytimes,</l>
+               <l rend="indent4">desire [is but] a lie<note place="foot"><term xml:lang="ta">poyyē kāmam</term>: the antepositioned predicate noun <term xml:lang="ta">poy</term> is marked as such by <term xml:lang="ta">-ē</term>; the sentence remains open-ended.</note>.</l>
+               <l rend="indent">As horse the Palmyra-stem, appearing in the streets</l>
+               <l>blame in spreading [it] clearly,</l>
+               <l>and blame in living,</l>
+               <l rend="indent2">if separation comes to pass.</l>
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT32">
+    <interp type="alignment" select="0">5MG8MG14MG9MGMG5MG9MG5MG7MG14MG7ML40MG6MG6MGMG6MG18MG2M,180M</interp>
+    <entry>
+    <form>kālai-<pc>~</pc>um</form>
+    <def>morning</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pakal-um</form>
+    <def>midday</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaiyaṟu</form>
+    <def>be motionless-</def>
+    </entry>
+    <entry>
+    <form>mālai-<pc>~</pc>um</form>
+    <def>evening</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>tuñc<pc>(</pc>u<pc>)</pc></form>
+    <def>sleep-</def>
+    </entry>
+    <entry>
+    <form>yāmam-um</form>
+    <def>midnight</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>viṭiyal-um</form>
+    <def>dawn</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>time of day</def>
+    </entry>
+    <entry>
+    <form>iṭai</form>
+    <def>between</def>
+    </entry>
+    <entry>
+    <form>teriyiṉ</form>
+    <def>understand if</def>
+    </entry>
+    <entry>
+    <form>poy-<pc>+</pc>ē</form>
+    <def>lie</def>
+    <form type="simple">poy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>horse</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>maṭaloṭu</form>
+    <def>Palmyra stem with</def>
+    </entry>
+    <entry>
+    <form>maṟukiṉ</form>
+    <def>street</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟi<pc>+</pc></form>
+    <def>appeared</def>
+    </entry>
+    <entry>
+    <form>teṟṟeṉa<pc>+</pc></form>
+    <def>clearly<note place="foot">What is meant is the public announcement of the secret. I understand <term xml:lang="ta">teṟṟeṉa</term> as an adverb (just as KT 213.1 <term xml:lang="ta">ñerēreṉa</term> and KT 177.4 <term xml:lang="ta">paiyeṉa</term>), not as an ideophone, though morphologically they may be identical.</note></def>
+    </entry>
+    <entry>
+    <form>tūṟṟal-um</form>
+    <def>spreading</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paḻi-<pc>~</pc>ē</form>
+    <def>blame</def>
+    <form type="simple">paḻi</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻtal-um</form>
+    <def>life</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paḻi-<pc>~</pc>ē</form>
+    <def>blame</def>
+    <form type="simple">paḻi</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pirivu</form>
+    <def>separation</def>
+    </entry>
+    <entry>
+    <form>talaivariṉ-ē</form>
+    <def>happen if</def>
+    <form type="simple">talaivariṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

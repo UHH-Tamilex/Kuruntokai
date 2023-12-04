@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 75. <persName xml:lang="ta">paṭumarattu mōcikīraṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT75-kilavi">
+          <p type="edition">talaimakaṉ varavuṇarttiya pāṇaṟkut talaimakaḷ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the bard who had announced HIS coming.</p>
+          </div>
+
+
+
+        <div xml:id="KT75">
+            <lg type="edition">
+<l>                nīkaṇ ṭaṉaiyō kaṇṭārkkēṭ ṭaṉaiyō</l>
+<l>                voṉṟu teḷiya nacaiyiṉa moḻimō</l>
+<l>                veṇkōṭ ṭiyāṉai cōṇai paṭiyum</l>
+<l>                poṉmali pāṭali peṟīiyar</l>
+<l>                yārvāyk kēṭṭaṉai kātalar varavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>Did you see [it] or have you heard from those who have seen?</l>
+          <l>One thing we yearn<note place="foot"><term xml:lang="ta">nacaiyiṉam</term>: this form could be analysed as a p.a. 1.pl., but the aspect would be problematic, then. The second possibility is to take it as a pronominal noun (<term xml:lang="ta">nacai</term> + obl. + 1st pl.).</note> to be clear:</l>
+          <l rend="indent4">speak</l>
+          <l>– may you obtain (the town) Pāṭali, full of gold,</l>
+          <l rend="indent">
+            <choice>
+                <seg>settling on the [river] Cōṇai with [her] white-tusked elephants – </seg>
+                <seg>where white-tusked elephants bath in the Cōṇai – </seg>
+            </choice>
+          </l>
+          <l>from whose mouth have you heard that [our/her] lover is coming?</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT75">
+    <interp type="alignment" select="0">10MG17MG23ML12MGMG65M2G2M,137M</interp>
+    <entry>
+    <form>nī</form>
+    <def>you</def>
+    </entry>
+    <entry>
+    <form>kaṇṭaṉai-<pc>~</pc>ō</form>
+    <def>you saw</def>
+    <form type="simple">kaṇṭaṉai</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇṭār<pc>+</pc></form>
+    <def>seen they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kēṭṭaṉai-<pc>~</pc>ō</form>
+    <def>you heard</def>
+    <form type="simple">kēṭṭaṉai</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oṉṟu</form>
+    <def>one it</def>
+    </entry>
+    <entry>
+    <form>teḷiya</form>
+    <def>become clear</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>nacaiyiṉam</form>
+    <def>yearning we</def>
+    </entry>
+    <entry>
+    <form>moḻimō</form>
+    <def>speak</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>kōṭṭ<pc>(</pc>u<pc>)</pc></form>
+    <def>tusk-</def>
+    </entry>
+    <entry>
+    <form>yāṉai</form>
+    <def>elephant</def>
+    </entry>
+    <entry>
+    <form>cōṇai</form>
+    <def>Cōṇai( river)</def>
+    </entry>
+    <entry>
+    <form>paṭiyum</form>
+    <def>settling-</def>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>mali</form>
+    <def>much</def>
+    </entry>
+    <entry>
+    <form>pāṭali</form>
+    <def>Pāṭali</def>
+    </entry>
+    <entry>
+    <form>peṟīiyar</form>
+    <def>may obtain</def>
+    </entry>
+    <entry>
+    <form>yār</form>
+    <def>who</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>kēṭṭaṉai</form>
+    <def>you heard</def>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varav*-ē</form>
+    <def>coming</def>
+    <form type="simple">varavu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

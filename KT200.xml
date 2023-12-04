@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 200. <persName xml:lang="ta">avvaiyār (auvaiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT200-kilavi">
+          <p type="edition">paruva varaviṉkaṇ āṟṟāḷākiya talaimakaṭkut tōḻi “paruvam aṉṟu vampu” eṉṟavaḻit talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER when the confidante said “the season is not in time”, to HER, who didn't have the strength [anymore] at the coming of the season.</p>
+          </div>
+          
+
+        <div xml:id="KT200">
+            <lg type="edition">
+<l>                peyta kuṉṟattup pūnāṟu taṇkaluḻ</l>
+<l>                mīmicait tāaya vīi cumantuvan</l>
+<l>                tiḻitarum puṉalum vārār tōḻi</l>
+<l>                maṟantōr maṉṟa maṟavā nāmē</l>
+<l>                kāla māri mālai māmaḻai</l>
+<l>                yiṉṉicai yurumiṉ kuralu</l>
+<l>                muṉvara lēmañ ceytakaṉ ṟōrē.</l>
+                
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>He has not come, friend, even with the descending flood,</l>
+          <l rend="indent">coming laden with blossoms [that were] spread on the heights,<note place="foot"><term xml:lang="ta">mī micai</term>: this formulaic combination (cf. KT 284.2) can be taken either as a synonym compound (but in which function?), or as a locative, as is done by Cām. and TVG, who takes it as "on the surface" and connects it with the blossoms (which would be swimming on the surface of the water).</note>
+            <note place="foot">
+              mī micai: this formulaic combination (cf. KT 284.2) can be taken either as a synonym compound (but in which function?), or as a locative, as is done by Cām. and TVG, who takes it as "on the surface" and connects it with the blossoms (which would be swimming on the surface of the water).
+            </note>
+          </l>
+          <l rend="indent">cool [and] muddy, fragrant from the flowers on the rain-wet hills:</l>
+          <l>surely he has forgotten,</l>
+          <l>he who departed after having promised<note place="foot"><term xml:lang="ta">ēmam ceytu</term>: what is meant here? Literally HE has <q>made protection</q>, which might mean, so to speak, that he has given security in the form of a promise</note>to come before</l>
+          <l rend="indent">even the voice of thunder with sweet sound,</l>
+          <l rend="indent">in the big rain in the evening of timely showers.</l>
+          <l rend="indent3">We don't forget.</l>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT200">
+        <interp type="alignment" select="0">55MG3MG10MG19MG11MR3MG6ML35MG2ML15MG7MG2M,179M</interp>
+        <entry>
+        <form>peyta</form>
+        <def>rained-</def>
+        </entry>
+        <entry>
+        <form>kuṉṟattu<pc>+</pc></form>
+        <def>hill-</def>
+        </entry>
+        <entry>
+        <form>pū</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>nāṟu</form>
+        <def>be fragrant-</def>
+        </entry>
+        <entry>
+        <form>taṇ</form>
+        <def>cool</def>
+        </entry>
+        <entry>
+        <form>kaluḻ</form>
+        <def>dimness</def>
+        </entry>
+        <entry>
+        <form>mī</form>
+        <def>height</def>
+        </entry>
+        <entry>
+        <form>micai<pc>+</pc></form>
+        <def>elevation</def>
+        </entry>
+        <entry>
+        <form>tāaya</form>
+        <def>spread-</def>
+        </entry>
+        <entry>
+        <form>vīi</form>
+        <def>blossom</def>
+        </entry>
+        <entry>
+        <form>cumantu</form>
+        <def>laden</def>
+        </entry>
+        <entry>
+        <form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>come</def>
+        <gram type="role">absolutive</gram>
+        </entry>
+        <entry>
+        <form>iḻi-</form>
+        <def>fall-</def>
+        </entry>
+        <entry>
+        <form>tarum</form>
+        <def>giving-</def>
+        </entry>
+        <entry>
+        <form>puṉal-um</form>
+        <def>flood</def>
+        <gramGrp type="affix"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+        <form>vārār</form>
+        <def>come not he</def>
+        <gram type="role">honorific</gram>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>maṟantōr-maṉṟa</form>
+        <def>he forgot(h.) </def>
+        <form type="simple">maṟantōr</form>
+        <gramGrp type="particle"><form>maṉṟa</form></gramGrp>
+        </entry>
+        <entry>
+        <form>maṟavām</form>
+        <def>we don't forget</def>
+        </entry>
+        <entry>
+        <form>nām-ē</form>
+        <def>we</def>
+        <form type="simple">nām</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form>kālam</form>
+        <def>time</def>
+        </entry>
+        <entry>
+        <form>māri</form>
+        <def>shower</def>
+        </entry>
+        <entry>
+        <form>mālai</form>
+        <def>evening</def>
+        </entry>
+        <entry>
+        <form>mā</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>maḻai</form>
+        <def>rain</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṉ</form>
+        <def>pleasant</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>icai</form>
+        <def>sound</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>urumiṉ</form>
+        <def>thunder</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>kural</form>
+        <def>voice</def>
+        <gramGrp type="affix"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+        <form>muṉ</form>
+        <def>before</def>
+        </entry>
+        <entry>
+        <form>varal</form>
+        <def>coming</def>
+        </entry>
+        <entry>
+        <form>ēmam</form>
+        <def>protection</def>
+        </entry>
+        <entry>
+        <form>ceyt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>made</def>
+        </entry>
+        <entry>
+        <form>akaṉṟōr-ē</form>
+        <def>departed he</def>
+        <form type="simple">akaṉṟōr</form>
+        <gram type="role">honorific</gram>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

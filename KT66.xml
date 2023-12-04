@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 66. <persName xml:lang="ta">kōvattaṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT66-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷait tōḻi “paruvam aṉṟu” eṉṟu vaṟpuṟīiyatu.</p>
+          <p type="translation" xml:lang="en">The confidante encouraging HER, who was desolate when seeing the season, [by the words] “that is not the season”.</p>
+          </div>
+
+
+
+        <div xml:id="KT66">
+            <lg type="edition">
+<l>                maṭava maṉṟa taṭavunilaik koṉṟai</l>
+<l>                kalpiṟaṅ kattañ ceṉṟōr kūṟiya</l>
+<l>                paruvam vārā vaḷavai neritarak</l>
+<l>                kompucēr koṭiyiṇa rūḻtta</l>
+<l>                vampa māriyaik kāreṉa matittē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Foolish indeed [are] the broad-shaped Laburnum trees,</l>
+             <l rend="indent">having taken the new showers for the rainy season</l>
+             <l rend="indent">when trailing clusters joined to twigs have blown</l>
+             <l rend="indent">so that they are crushed all the while the season has not come</l>
+             <l rend="indent">that he named, who had gone the road glistening with stones.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT66">
+    <interp type="alignment" select="0">6MG32MG39MG52M2G2M,136M</interp>
+    <entry>
+    <form>maṭava-maṉṟa</form>
+    <def>ignorance they(n.pl)</def>
+    <form type="simple">maṭava</form>
+    <gramGrp type="particle"><form>maṉṟa</form></gramGrp>
+    </entry>
+    <entry>
+    <form>taṭavu</form>
+    <def>breadth<note place="foot"><term xml:lang="ta">taṭavu</term>: according to DEDR 3020 "largeness, greatness"; <term xml:lang="ta">taṭa</term> "large, broad, full", thus my suggestion "breadth". Cām. glosses <term xml:lang="ta">vaḷainta</term> "curved" (given in the TL under <term xml:lang="ta">taṭavu</term> as "curve, bent", though not in the DED). In Caṅkam texts it is usually found in connection with <term xml:lang="ta">nilai</term> (and thus to be related to the trunk of trees): KT 66.1, 219.6, 301.1; AN 10.3, 165.10, 320.10; PN 140.1.</note></def>
+    </entry>
+    <entry>
+    <form>nilai<pc>+</pc></form>
+    <def>state</def>
+    </entry>
+    <entry>
+    <form>koṉṟai</form>
+    <def>Laburnum( tree)</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>piṟaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>glisten-<note place="foot"><term xml:lang="ta">kal piṟaṅku attam</term> is explained by TVG as a desert path with protruding stones which make it even more difficult to walk.</note></def>
+    </entry>
+    <entry>
+    <form>attam</form>
+    <def>road</def>
+    </entry>
+    <entry>
+    <form>ceṉṟōr</form>
+    <def>gone he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kūṟiya</form>
+    <def>spoken-</def>
+    </entry>
+    <entry>
+    <form>paruvam</form>
+    <def>season</def>
+    </entry>
+    <entry>
+    <form>vārā</form>
+    <def>come not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḷavai</form>
+    <def>(time-)measure</def>
+    </entry>
+    <entry>
+    <form>neri-</form>
+    <def>be crushed-</def>
+    </entry>
+    <entry>
+    <form>tara<pc>+</pc></form>
+    <def>give</def>
+    </entry>
+    <entry>
+    <form>kompu</form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>cēr</form>
+    <def>unite-</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṇar</form>
+    <def>cluster</def>
+    </entry>
+    <entry>
+    <form>ūḻtta</form>
+    <def>withered-</def>
+    </entry>
+    <entry>
+    <form>vampa</form>
+    <def>new they</def>
+    <gram type="role">neuter plural<note place"foot">Tradition takes <term xml:lang="ta">vampa</term> just as <term xml:lang="ta">vampu</term>, which appears in the variants, as a term denoting the rains that come outside the proper season, but it is equally well possible to take it literally.</note></gram>
+    </entry>
+    <entry>
+    <form>māriyai<pc>+</pc></form>
+    <def>shower</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form>matitt*-ē</form>
+    <def>estimated</def>
+    <form type="simple">matittu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

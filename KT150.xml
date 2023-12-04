@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 150. <persName xml:lang="ta">māṭalūr (C1: māṭaṉār) kiḻār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT150-kilavi">
+          <p type="edition">iravukkuṟi nērnta tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante who had granted night trysts.</p>
+          </div>
+
+
+        <div xml:id="KT150">
+            <lg type="edition">
+<l>                cēṇōṉ māṭṭiya naṟumpukai ñekiḻi</l>
+<l>                vāṉa mīṉiṉ vayiṉvayi ṉimaikku</l>
+<l>                mōṅkumalai nāṭaṉ cāntupula rakala</l>
+<l>                muḷḷi ṉuṇṇōy malkum</l>
+<l>                pulliṉ māyva tevaṉko laṉṉāy.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>The chest with drying sandal paste of the man from a land</l>
+           <l rend="indent4">of high mountains,</l>
+           <l rend="indent">where flash forth in place after place like stars in the sky</l>
+           <l rend="indent">the fire-brands with fragrant smoke,</l>
+           <l rend="indent3">kindled by the [field-]guardian<note place="foot">Or rather literally: "[in turn] inflamed by one who is far"?</note>;</l>
+           <l>remembering [it], [my] inner pain increases,</l>
+           <l>embracing, it vanishes.</l>
+           <l rend="indent2">What [is this], mother?<note place="foot">Possible would also be a construction in the sense of KT 89.3: "What (why), mother, does it vanish when embracing, | the interior pain which increases when ...".</note></l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT150">
+    <interp type="alignment" select="0">33ML80MG4MG9M,129M</interp>
+    <entry>
+    <form>cēṇōṉ</form>
+    <def>distance he</def>
+    </entry>
+    <entry>
+    <form>māṭṭiya</form>
+    <def>kindled-</def>
+    </entry>
+    <entry>
+    <form>naṟum</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>pukai</form>
+    <def>smoke</def>
+    </entry>
+    <entry>
+    <form>ñekiḻi</form>
+    <def>fire brand</def>
+    </entry>
+    <entry>
+    <form>vāṉam</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>mīṉiṉ</form>
+    <def>star</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vayiṉ</form>
+    <def>place</def>
+    </entry>
+    <entry>
+    <form>vayiṉ</form>
+    <def>place</def>
+    </entry>
+    <entry>
+    <form>imaikkum</form>
+    <def>twinkling-</def>
+    </entry>
+    <entry>
+    <form>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>cāntu</form>
+    <def>sandal paste</def>
+    </entry>
+    <entry>
+    <form>pular</form>
+    <def>dry-</def>
+    </entry>
+    <entry>
+    <form>akalam</form>
+    <def>chest</def>
+    </entry>
+    <entry>
+    <form>uḷḷiṉ</form>
+    <def>remember if</def>
+    </entry>
+    <entry>
+    <form>uḷ</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>malkum</form>
+    <def>increasing-</def>
+    </entry>
+    <entry>
+    <form>pulliṉ</form>
+    <def>embrace if</def>
+    </entry>
+    <entry>
+    <form>māyvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it vanishes</def>
+    </entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother(voc.?)<note place="note">Here we have the only poem in the KT which ends on <term xml:lang="ta">aṉṉāy</term> instead of the usual <term xml:lang="ta">-ē</term> (a few variants have <term xml:lang="ta">-ō</term> instead of <term xml:lang="ta">-ē</term>; see KT 158)! For <term xml:lang="ta">aṉṉay</term> cf. note on 33.1.</note></def>
+    </entry>
+    </standOff>
+</TEI>
+    

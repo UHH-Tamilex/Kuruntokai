@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 131. <persName xml:lang="ta">ōrēruḻavaṉār (C1, C5: nakkīrar)</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT131-kilavi">
+          <p type="edition">viṉaimuṟṟiya talaimakaṉ paruva varaviṉkaṇ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered at the coming of the season by HIM who had completed [his] work.</p>
+          </div>
+
+
+        <div xml:id="KT131">
+            <lg type="edition">
+<l>                āṭamai puraiyum vaṉappiṟ paṇaittōṭ</l>
+<l>                pēramark kaṇṇi yirunta vūrē</l>
+<l>                neṭuñcē ṇāriṭai yatuvē neñcē</l>
+<l>                yīram paṭṭa cevvip paimpuṉat</l>
+<l>                tōrē ruḻavaṉ pōlap</l>
+<l>                peruvitup puṟṟaṉṟā ṉōkō yāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>The village where she with big beautiful eyes was,</l>
+           <l rend="indent">[her] bamboo shoulder of a beauty resembling dancing bamboo,</l>
+           <l>far away, a place difficult [to attain] it [is], heart.<note place="foot"><term xml:lang="ta">neñcē</term> as the joint between the two sentences can either be a postpositioned vocative in the first sentence, or an antepositioned one in the second. (For an antepositioned vocative, however, references are few, if <term xml:lang="ta">amma vāḻi tōḻi</term> has not to be counted as such.) But since <term xml:lang="ta">atu</term> is also marked by <term xml:lang="ta">-ē</term>, and accordingly the first sentence can be understood as complete, it seems reasonable to suppose that the double relation of <term xml:lang="ta">neñcē</term> is calculated.</note></l>
+           <l rend="indent">Like a ploughman with one plough</l>
+           <l rend="indent">on a fresh field in the time wetness has come,</l>
+           <l>it was in headlong haste.<note place="foot">The second sentence allows for two ways of construction, namely either with <term xml:lang="ta">neñcē</term> or with <term xml:lang="ta">vituppu</term> as a subject to <term xml:lang="ta">uṟṟaṉṟu</term>: ("o heart, great haste arose [for you]")?</note></l>
+           <l rend="indent4">Ah, I ache.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT131">
+    <interp type="alignment" select="0">2MG32MG20MG11MG8MG6M2G27MG25MG6M2G2ML2M2G4MG2M,162M</interp>
+    <entry>
+    <form>āṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>play-</def>
+    </entry>
+    <entry>
+    <form>amai</form>
+    <def>bamboo</def>
+    </entry>
+    <entry>
+    <form>puraiyum</form>
+    <def>resembling-</def>
+    </entry>
+    <entry>
+    <form>vaṉappiṉ</form>
+    <def>beauty</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>paṇai<pc>+</pc></form>
+    <def>bamboo<note place="foot"><term xml:lang="ta">paṇai</term> appears, in the KT, 15 times as an attribute to <term xml:lang="ta">tōḷ</term> "shoulder" (though sometimes not in the directly preceding position). Generally it is glossed as bamboo but, for unclear reasons, in 5 places it is understood as "bulged". This is one of these, presumably because there is the comparison with another kind of bamboo in the same line.</note></def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>amar<pc>+</pc></form>
+    <def>beauty</def>
+    </entry>
+    <entry>
+    <form>kaṇṇi</form>
+    <def>eye she</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irunta</form>
+    <def>been-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>neṭum</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>cēṇ</form>
+    <def>distance</def>
+    </entry>
+    <entry>
+    <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>iṭaiyatu-<pc>~</pc>ē</form>
+    <def>place it</def>
+    <form type="simple">iṭaiyatu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>neñc*-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īram</form>
+    <def>wetness</def>
+    </entry>
+    <entry>
+    <form>paṭṭa</form>
+    <def>happened-</def>
+    </entry>
+    <entry>
+    <form>cevvi<pc>+</pc></form>
+    <def>occasion</def>
+    </entry>
+    <entry>
+    <form>paim</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>puṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>field-</def>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>ēr</form>
+    <def>plough</def>
+    </entry>
+    <entry>
+    <form>uḻavaṉ</form>
+    <def>ploughman</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>peru</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>vitupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>haste</def>
+    </entry>
+    <entry>
+    <form>uṟṟaṉṟ*-āl</form>
+    <def>it had</def>
+    <form type="simple">uṟṟaṉṟu</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nōk*-ō</form>
+    <def>I feel pain</def>
+    <form type="simple">nōku</form>
+    <gram type="role">subjuntive</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 19. <persName xml:lang="ta">Paraṇar</persName>: <i>He</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT19-kilavi">
+          <p type="edition">uṇarppuvayiṉ vārā ūṭaṟkaṇ talaimakaṉ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HIM in love-quarrel before regaining mental clarity.</p>
+          </div>
+
+        <div xml:id="KT19">
+            <lg type="edition">
+<l>                evvi yiḻanta vaṟumaiyāḻp pāṇar</l>
+<l>                pūvil vaṟuntalai pōlap pulleṉ</l>
+<l>                ṟiṉaimati vāḻiya neñcē maṉaimarat</l>
+<l>                telluṟu mauva ṉāṟum</l>
+<l>                palliruṅ kūntal yāraḷō namakkē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l rend="indent">Like the head, poor without flowers,</l>
+                <l rend="indent">
+                    <choice>
+                        <seg>of the poor lute-player who has lost Evvi,</seg>
+                        <seg>of the lute-player, poor since he lost Evvi,</seg>
+                    </choice>
+                </l>
+                <l>despair, go on, heart!</l>
+                <l>[She with] many<note place="foot"><term xml:lang="ta">pal</term> in this connection is explained by TVG as a hint to the five ways of doing the hair on one head as described by Nacc. in his commentary to Cīvak. 2437.</note> dark tresses,</l>
+                <l rend="indent">fragrant from fair wild jasmine of the tree near the house(?)</l>
+                <l rend="indent4">–who [is] she to us?</l>
+
+
+
+
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT19">
+    <interp type="alignment" select="0">54MG18M2G12MG12ML23MG7M2G2M,136M</interp>
+    <entry>
+    <form>evvi</form>
+    <def>Evvi</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḻanta</form>
+    <def>lost-</def>
+    </entry>
+    <entry>
+    <form>vaṟumai</form>
+    <def>poverty</def>
+    </entry>
+    <entry>
+    <form>yāḻ<pc>+</pc></form>
+    <def>lute</def>
+    </entry>
+    <entry>
+    <form>pāṇar</form>
+    <def>bard</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>il</form>
+    <def>poor</def>
+    </entry>
+    <entry>
+    <form>vaṟum</form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>grass</def>
+    </entry>
+    <entry>
+    <form>pulleṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>iṉaimati</form>
+    <def>despair</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form>vāḻiya</form>
+    <def>may live</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>maṉai</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>maratt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tree-</def>
+    </entry>
+    <entry>
+    <form>el</form>
+    <def>light</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uṟu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>mauval</form>
+    <def>wild jasmine</def>
+    </entry>
+    <entry>
+    <form>nāṟum</form>
+    <def>smelling-</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>kūntal</form>
+    <def>tresses</def>
+    </entry>
+    <entry>
+    <form>yāraḷ-ō</form>
+    <def>who she</def>
+    <form type="simple">yāraḷ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>namakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>us</def>
+    <form type="simple">namakk*</form>
+    <gram type="role">dative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

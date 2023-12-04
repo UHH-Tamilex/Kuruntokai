@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 85. <persName xml:lang="ta">vaṭamaṉ tāmōtaraṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT85-kilavi">
+          <p type="edition">vāyil vēṇṭic ceṉṟa pāṇaṟkut tōḻi colli vāyiṉ maṟuttatu.</p>
+          <p type="translation" xml:lang="en">The confidante refusing mediation/the door, speaking to the bard who came wishing for mediation/the door.</p>
+          </div>
+
+
+
+        <div xml:id="KT85">
+            <lg type="edition">
+<l>                yāriṉu miṉiyaṉ pēraṉ piṉaṉē</l>
+<l>                yuḷḷūrk kurīit tuḷḷunaṭaic cēval</l>
+<l>                cūṉmutir pēṭaik kīṉi liḻaiiyar</l>
+<l>                tēmpotik koṇṭa tīṅkaḻaik karumpi</l>
+<l>                ṉāṟā veṇpūk koḻutum</l>
+<l>                yāṇa rūraṉ pāṇaṉ vāyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Sweeter than all [and] full of loving [is] he,</l>
+                <l>the man from the fertile village</l>
+                <l rend="indent">where the male with [its] hopping gait of the birds within</l>
+                <l rend="indent">the village pecks at the scentless white flower</l>
+                <l rend="indent">of the sweet-tubed<note place="foot">The metaphor of the "sweet bamboo" as sugarcane cannot be conveyed in a translation, because in English exactly that frozen metaphor has become the word to denote the plant: sugarcane.</note> sugarcane with [its] honey hoard</l>
+                <l rend="indent">to make a house for laying [eggs] for [its] fully pregnant female</l>
+                <l rend="indent3">– in the mouth of [his] bard!</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT85">
+    <interp type="alignment" select="0">16MG7MG45MG42ML33MG2M,150M</interp>
+    <entry>
+    <form>yāriṉum</form>
+    <def>who</def>
+    <gramGrp type="affix"><form>iṉum</form></gramGrp>
+    </entry>
+    <entry>
+    <form>iṉiyaṉ</form>
+    <def>pleasant he</def>
+    </entry>
+    <entry>
+    <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>aṉpiṉaṉ-ē</form>
+    <def>love he</def>
+    <form type="simple">aṉpiṉaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷ</form>
+    <def>inside/be-<note place="foot">Combinations such as <term xml:lang="ta">uḷḷūr</term> literally "inner village" might be read as a kind of inverted compound similar to Sanskrit pūrvakāya? TVG, however, reads uḷ as root "to be" and takes it as the native village of the birds.</note></def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr<pc>+</pc></form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>kurīi<pc>+</pc></form>
+    <def>bird</def>
+    </entry>
+    <entry>
+    <form>tuḷḷu</form>
+    <def>hop-</def>
+    </entry>
+    <entry>
+    <form>naṭai<pc>+</pc></form>
+    <def>gait</def>
+    </entry>
+    <entry>
+    <form>cēval</form>
+    <def>cock</def>
+    </entry>
+    <entry>
+    <form>cūl</form>
+    <def>pregnancy</def>
+    </entry>
+    <entry>
+    <form>mutir</form>
+    <def>ripen-</def>
+    </entry>
+    <entry>
+    <form>pēṭaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>she bird</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>īṉ</form>
+    <def>bring forth-</def>
+    </entry>
+    <entry>
+    <form>il</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>iḻaiiyar</form>
+    <def>make</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tēm</form>
+    <def>honey</def>
+    </entry>
+    <entry>
+    <form>poti<pc>+</pc></form>
+    <def>hoard</def>
+    </entry>
+    <entry>
+    <form>koṇṭa</form>
+    <def>taken-</def>
+    </entry>
+    <entry>
+    <form>tīm</form>
+    <def>sweet</def>
+    </entry>
+    <entry>
+    <form>kaḻai<pc>+</pc></form>
+    <def>bamboo</def>
+    </entry>
+    <entry>
+    <form>karumpiṉ</form>
+    <def>sugarcane</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>nāṟā</form>
+    <def>smell not</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>koḻutum</form>
+    <def>pecking-</def>
+    </entry>
+    <entry>
+    <form>yāṇar</form>
+    <def>fertility</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village he</def>
+    </entry>
+    <entry>
+    <form>pāṇaṉ</form>
+    <def>bard</def>
+    </entry>
+    <entry>
+    <form>vāy-ē</form>
+    <def>mouth</def>
+    <form type="simple">vāy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

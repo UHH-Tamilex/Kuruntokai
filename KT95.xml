@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 95. <persName xml:lang="ta">kapilar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT95-kilavi">
+          <p type="edition">talaimakaṉ pāṅkaṟku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to the companion by HIM.</p>
+          </div>
+
+
+
+        <div xml:id="KT95">
+            <lg type="edition">
+<l>                mālvarai yiḻitarun tūveḷ ḷaruvi</l>
+<l>                kaṉmukait tatumpum paṉmalarc cāraṟ</l>
+<l>                ciṟukuṭik kuṟavaṉ peruntōṭ kuṟumaka</l>
+<l>                ṇīrō raṉṉa cāya</l>
+<l>                ṟīyō raṉṉaveṉ ṉuraṉavit taṉṟē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+            <l>The big-shouldered little daughter of the hill habitant</l>
+            <l rend="indent4">from the small hamlet<note place="foot"><term xml:lang="ta">ciṟukuṭi</term> is explained as a nomen proprium by TVG, but with a designation as frequent and formulaic as this such an interpretation sounds quite baroque, unless the context supplies some hint.</note></l>
+            <l rend="indent">on the slope with many blossoms, where in stone caves</l>
+            <l rend="indent">the pure white waterfall resounds,</l>
+            <l rend="indent3">plunging down from the big mountain,</l>
+            <l>[her] grace, just like water, got</l>
+            <l>my strength, just like fire, extinguished.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT95">
+    <interp type="alignment" select="0">12MG80ML13ML24M2G2M,136M</interp>
+    <entry>
+    <form>māl</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḻi-tarum</form>
+    <def>fall giving-</def>
+    </entry>
+    <entry>
+    <form>tū</form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aruvi</form>
+    <def>waterfall</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>mukai<pc>+</pc></form>
+    <def>cave</def>
+    </entry>
+    <entry>
+    <form>tatumpum</form>
+    <def>resounding-</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>malar<pc>+</pc></form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>cāral</form>
+    <def>slope</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>kuṭi<pc>+</pc></form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>kuṟavaṉ</form>
+    <def>hill inhabitant</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like<note place="foot"><term xml:lang="ta">ōr-aṉṉa</term> is traditionally read as one lexeme and <term xml:lang="ta">ōr</term> as an expletive element. It is to be found in other combinations, though: KT 38.5, 282.5, 316.5 <term xml:lang="ta">ōrāṅku</term>; KT 312.4,8 <term xml:lang="ta">ōraṉṉaḷ</term>.</note></def>
+    </entry>
+    <entry>
+    <form>cāyal</form>
+    <def>grace<note place="foot"><term xml:lang="ta">cāyal</term>: here it seems possible to see, at least by sound association, a conscious connection to the topological <term xml:lang="ta">cāy</term> "emaciate", and thus a double sense: HER emaciating makes HIM waver in his decision to leave her. In that case he would already have been united with her and the <term xml:lang="ta">uraṉ</term> would gain quite a different tone.</note></def>
+    </entry>
+    <entry>
+    <form>tī</form>
+    <def>fire</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōr</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uraṉ</form>
+    <def>strength</def>
+    </entry>
+    <entry>
+    <form>avittaṉṟ*-ē</form>
+    <def>it extinguished</def>
+    <form type="simple">avittaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

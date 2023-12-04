@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 123. <persName xml:lang="ta">aiyūr muṭavaṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT123-kilavi">
+          <p type="edition">pakaṟkuṟiyiṭattu vanta talaimakaṉaik kāṇāt tōḻi avaṉ ciṟaippuṟattāṉātal aṟintu talaimakaṭkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Spoken to HER in the knowledge that he is behind the hedge, by the confidante who had not seen HIM come to the day tryst.</p>
+          </div>
+
+
+        <div xml:id="KT123">
+            <lg type="edition">
+<l>                iruṭiṇin taṉṉa vīrntaṇ koḻuniḻa</l>
+<l>                ṉilavukkuvit taṉṉa veṇmaṇa loruciṟaik</l>
+<l>                karuṅkōṭṭup puṉṉaip pūmpoḻil pulampa</l>
+<l>                viṉṉum vārār varūum</l>
+<l>                paṉmīṉ vēṭṭat teṉṉaiyar timilē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Such that the grove of black-branched Puṉṉai trees grows lonely,<note place="foot">TVG here takes the infinitive <term xml:lang="ta">pulampa</term> in an optative sense: "may become lonely ...".</note></l>
+           <l rend="indent">[on] one wing white sand like heaped moonlight,</l>
+           <l rend="indent">[on the other] cool, moist, dense shadow like solid darkness,</l>
+           <l>even now he doesn't come.</l>
+           <l rend="indent3">[There] comes</l>
+           <l>the boat of my people, hunting for many fish.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT123">
+    <interp type="alignment" select="0">4ML25ML96MG13MG2M,144M</interp>
+    <entry>
+    <form>iruḷ</form>
+    <def>darkness</def>
+    </entry>
+    <entry>
+    <form>tiṇintaṉṉa</form>
+    <def>become solid like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īrṅ</form>
+    <def>wetness</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>koḻu</form>
+    <def>rich</def>
+    </entry>
+    <entry>
+    <form>niḻal</form>
+    <def>shadow</def>
+    </entry>
+    <entry>
+    <form>nilavu<pc>+</pc></form>
+    <def>moonlight</def>
+    </entry>
+    <entry>
+    <form>kuvittaṉṉa</form>
+    <def>heaped like</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>maṇal</form>
+    <def>sand</def>
+    </entry>
+    <entry>
+    <form>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>ciṟai<pc>+</pc></form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>karum</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>kōṭṭu<pc>+</pc></form>
+    <def>branch-</def>
+    </entry>
+    <entry>
+    <form>puṉṉai<pc>+</pc></form>
+    <def>Puṉṉai tree</def>
+    </entry>
+    <entry>
+    <form>pūm</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>poḻil</form>
+    <def>grove</def>
+    </entry>
+    <entry>
+    <form>pulampa</form>
+    <def>become lonely</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉṉum</form>
+    <def>now</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varūum</form>
+    <def>coming-</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>mīṉ</form>
+    <def>fish</def>
+    </entry>
+    <entry>
+    <form>vēṭṭatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hunt-</def>
+    </entry>
+    <entry>
+    <form>eṉṉaiyar</form>
+    <def>my they</def>
+    <gram type="role">honorific<note place="foot">It is true that the TL knows only specific meanings for <term xml:lang="ta">eṉṉai</term> ("my father, my mother, my master"), but here the general variant seems in place and morphologically equally possible.</note></gram>
+    </entry>
+    <entry>
+    <form>timil-ē</form>
+    <def>boat</def>
+    <form type="simple">timil</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

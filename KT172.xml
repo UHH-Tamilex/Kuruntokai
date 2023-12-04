@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 172. <persName xml:lang="ta">kaccipēṭṭu naṉṉākaiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT172-kilavi">
+          <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ kūṟiyatu. (C2+3+5: ituvumatu.)</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she would not have the strength [to await] the time of marriage.</p>
+          </div>
+
+
+        <div xml:id="KT172">
+            <lg type="edition">
+<l>                tāa vañciṟai noppaṟai vāval</l>
+<l>                paḻumaram paṭarum paiyuṇ mālai</l>
+<l>                yemiya māka vīṅkut tuṟantōr</l>
+<l>                tamiya māka viṉiyar kollō</l>
+<l>                vēḻūrp potuviṉaik kōrūr yātta</l>
+<l>                vulaivāṅku mititōl pōlat</l>
+<l>                talaivaram paṟiyātu varuntumeṉ ṉeñcē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>The one who has abandoned [us] here<note place="foot">Here TVG interprets the <term xml:lang="ta">īṅku</term> not as a designation of place, but as a substitute for the missing (or ellipitical) personal pronoun and direct object <term xml:lang="ta">emmai</term>, "us", (thus Nacc. on Tol. Col. 29).</note>,</l>
+           <l rend="indent3">so that we are by ourselves<note place="foot"><term xml:lang="ta">āka</term> here and in the following line has to be taken in a predicative sense.</note></l>
+           <l rend="indent">in sorrowful evening, when the bats with light flight</l>
+           <l rend="indent">[and] rushing, fine wings set out for trees with ripening [fruit],</l>
+           <l>is he happy that we are alone?</l>
+           <l rend="indent">Like the bellows pressed in the smithy</l>
+           <l rend="indent">of one village bound to the public work of seven villages,<note place="foot">Once again a piece of social information without the necessary context. And what is achieved by the image? It must be a metaphor for an accelerating heart-beat, but why the hyperbole?</note></l>
+           <l>
+            <choice>
+                <seg>without [my] head<note place="foot">Is it possible to take talai literally in the above sense? Or (Srin.): "without knowing beginning and end" = permanently? TVG feels that talai- in this position conveys no semantic flavour (i.e. <term xml:lang="ta">talaivarampu</term> = <term xml:lang="ta">varampu</term>). D.G. suggests that the <term xml:lang="ta">talai</term> might imply the semantic information of an upper limit (see 7b).</note> knowing [any] limit my heart suffers.</seg>
+                <seg>without knowing an upper limit my heart suffers.</seg>
+            </choice>
+           </l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT172">
+    <interp type="alignment" select="0">92MG22MG2MG40MG21M2G2M,185M</interp>
+    <entry>
+    <form>tāa</form>
+    <def>rushing</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>ciṟai</form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>no<pc>+</pc></form>
+    <def>ease</def>
+    </entry>
+    <entry>
+    <form>paṟai</form>
+    <def>flight</def>
+    </entry>
+    <entry>
+    <form>vāval</form>
+    <def>bat</def>
+    </entry>
+    <entry>
+    <form>paḻu</form>
+    <def>ripe-</def>
+    </entry>
+    <entry>
+    <form>maram</form>
+    <def>tree</def>
+    </entry>
+    <entry>
+    <form>paṭarum</form>
+    <def>set out-</def>
+    </entry>
+    <entry>
+    <form>paiyuḷ</form>
+    <def>sorrow</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>emiyam</form>
+    <def>our we</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṅku<pc>+</pc></form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>tuṟantōr</form>
+    <def>abandoned he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tamiyam</form>
+    <def>alone we</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉiyar-kollō</form>
+    <def>pleasant he</def>
+    <form type="simple">iṉiyar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēḻ</form>
+    <def>seven</def>
+    </entry>
+    <entry>
+    <form>ūr<pc>+</pc></form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>potu</form>
+    <def>public</def>
+    </entry>
+    <entry>
+    <form>viṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>work</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>ōr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>yātta</form>
+    <def>bound-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ulai</form>
+    <def>smithy</def>
+    </entry>
+    <entry>
+    <form>vāṅku</form>
+    <def>bow-</def>
+    </entry>
+    <entry>
+    <form>mititōl</form>
+    <def>bellows</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>limit</def>
+    </entry>
+    <entry>
+    <form>aṟiyātu</form>
+    <def>know not</def>
+    </entry>
+    <entry>
+    <form>varuntum</form>
+    <def>suffering-</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc*-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

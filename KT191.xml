@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 191. <persName xml:lang="ta">Anonymous</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT191-kilavi">
+          <p type="edition">piriviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu (C5: kūṟiyatu).</p>
+          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious that she would not have the strength in the time of separation.</p>
+          </div>
+          
+
+        <div xml:id="KT191">
+            <lg type="edition">
+<l>                utukkā ṇatuvē yituveṉ moḻikō</l>
+<l>                nōṉciṉai yirunta viruntōṭṭup puḷḷiṉan</l>
+<l>                tāmpuṇarn tamaiyiṟ pirintō ruḷḷā</l>
+<l>                tīṅkura lakavak kēṭṭu nīṅkiya</l>
+<l>                vēti lāḷa rivaṇvariṟ pōtiṟ</l>
+<l>                pomma lōtiyum puṉaiya</l>
+<l>                lemmun toṭāa leṉkuva maṉṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+     <l>
+        <choice>
+            <seg>There, see that!<note place="foot">Has <term xml:lang="ta">atuvē</term> the connotation of not being new (the same again!) as in modern Tamil?</note> What shall I say to this?</seg>
+            <seg>See there. That! Do I ask: what [is] this?<note place="foot">itu <term xml:lang="ta">eṉ moḻikō</term>: it is possible to understand <term xml:lang="ta">moḻikō</term> as an embedding verb for the question <term xml:lang="ta">itu eṉ</term> or to read the whole as a question sentence. (Note the the peculiar <term xml:lang="ta">sandhi</term> against the regular <term xml:lang="ta">iḵteṉ</term>.)</note></seg>
+        </choice>
+     </l>
+     <l>If the stranger<note place="foot"><term xml:lang="ta">ētilāḷar</term>: tradition takes this as a designation of the man, i.e. as a <term xml:lang="ta">ētil-āḷ</term> "strange man" + honorific (and for this there is a clear parallel in KT 231.3). Morphologically, however, it could also be a feminine plus plural/honorific (<term xml:lang="ta">ētilāḷ-ar</term>; for the f.sg. there is a parallel in Kali 81.30), and then we could be confronted with a topos explained away by poetics, but not totally unattested elsewhere, namely the jealousy of a female friend directed against a faithless companion who comes back from a man she is in love with. The honorific might be understood in this case as a means of dissociation.</note> comes here,</l>
+     <l rend="indent">who has left [us], although he heard the sweet voices call</l>
+     <l rend="indent">that don't remember those from whom they had separated</l>
+     <l rend="indent">when they are content<note place="foot"><term xml:lang="ta">puṇarntamaiyiṉ</term>: cf. note on KT 92.5. Possible here is a construction with <term xml:lang="ta">amai</term>- as an auxiliary as above or the abstract noun: "because of the connection".</note> in a [new] match,</l>
+     <l rend="indent">[the voices] of the flock of birds, in a dark mass,</l>
+     <l rend="indent3">perched on supporting branches<note place="foot"><term xml:lang="ta">irunta</term> denotes the temporary sojourn in a place, one further aspect in the picture of inconstancy.</note>,</l>
+     <l>[if he comes] we will indeed say:</l>
+     <l rend="indent2">don't touch us,</l>
+     <l rend="indent2">[and] don't adorn [our] thick hair with buds.</l>
+           </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT191">
+        <interp type="alignment" select="0">10MG14M2G52M7G30M2GMG39MG13MG16M2G2MG3M,198M</interp>
+        <entry>
+        <form>utu<pc>+</pc></form>
+        <def>that</def>
+        </entry>
+        <entry>
+        <form>kāṇ</form>
+        <def>see</def>
+        <gram type="role">imperative</gram>
+        </entry>
+        <entry>
+        <form>atu-<pc>~</pc>ē</form>
+        <def>that</def>
+        <form type="simple">atu</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form><pc>~</pc>itu</form>
+        <def>this</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉ</form>
+        <def>what</def>
+        </entry>
+        <entry>
+        <form>moḻik*-ō</form>
+        <def>I say</def>
+        <form type="simple">moḻiku</form>
+        <gram type="role">subjuntive</gram>
+        <gramGrp type="particle"><form>ō</form></gramGrp>
+        </entry>
+        <entry>
+        <form>nōṉ</form>
+        <def>endure-</def>
+        </entry>
+        <entry>
+        <form>ciṉai</form>
+        <def>twig</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>irunta</form>
+        <def>been-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>irum</form>
+        <def>dark/big</def>
+        </entry>
+        <entry>
+        <form>tōṭṭu<pc>+</pc></form>
+        <def>mass-</def>
+        </entry>
+        <entry>
+        <form>puḷ</form>
+        <def>bird</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>iṉam</form>
+        <def>group</def>
+        </entry>
+        <entry>
+        <form>tām</form>
+        <def>self</def>
+        <gram type="role">plural</gram>
+        </entry>
+        <superEntry type="ambiguous">
+        <entry>
+        <entry>
+        <form>puṇarntamaiyiṉ</form>
+        <def>connectioniṉ</def>
+        </entry>
+        </entry><entry>
+        <entry>
+        <form>puṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>connected</def>
+        </entry>
+        </entry>
+        </superEntry>
+        <entry>
+        <form>amaiyiṉ</form>
+        <def>become quiet if</def>
+        </entry>
+        <entry>
+        <form>pirintōr</form>
+        <def>separated they</def>
+        <gram type="role">honorific</gram>
+        </entry>
+        <entry>
+        <form>uḷḷā</form>
+        <def>remember not</def>
+        </entry>
+        <entry>
+        <form>tīm</form>
+        <def>sweet</def>
+        </entry>
+        <entry>
+        <form>kural</form>
+        <def>voice</def>
+        </entry>
+        <entry>
+        <form>akava<pc>+</pc></form>
+        <def>call</def>
+        <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+        <form>kēṭṭ*-um</form>
+        <def>heard</def>
+        <gramGrp type="affix"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+        <form>nīṅkiya</form>
+        <def>left-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ētilāḷar</form>
+        <def>stranger(f./m.h.)</def>
+        </entry>
+        <entry>
+        <form>ivaṇ</form>
+        <def>here</def>
+        </entry>
+        <entry>
+        <form>variṉ</form>
+        <def>come if</def>
+        </entry>
+        <entry>
+        <form>pōtiṉ</form>
+        <def>bud</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>pommal</form>
+        <def>thickness</def>
+        </entry>
+        <entry>
+        <form>ōti-<pc>~</pc>um</form>
+        <def>hair</def>
+        <gramGrp type="affix"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+        <form>puṉaiyal</form>
+        <def>don't adorn</def>
+        </entry>
+        <entry>
+        <form>em-<pc>+</pc>um</form>
+        <def>us</def>
+        <gramGrp type="affix"><form>um</form></gramGrp>
+        </entry>
+        <entry>
+        <form>toṭāal</form>
+        <def>don't touch</def>
+        </entry>
+        <entry>
+        <form>eṉkuvam-maṉ-<pc>+</pc>ē</form>
+        <def>we say maṉṉ</def>
+        <form type="simple">eṉkuvammaṉ</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

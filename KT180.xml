@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 180. <persName xml:lang="ta">kaccipēṭṭu naṉṉākaiyār</persName>: <i>the confidante  / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT180-kilavi">
+          <p type="edition">piriviṭai vēṟupaṭṭāḷait tōḻi vaṟpuṟuttiyatu.</p>
+          <p type="translation" xml:lang="en">The confidante encouraging her, who had changed in the time of separation.</p>
+          </div>
+
+
+        <div xml:id="KT180">
+            <lg type="edition">
+<l>                paḻūuppal laṉṉa paruvukirp pāvaṭi</l>
+<l>                yiruṅkaḷiṟ ṟiṉanirai yēntal variṉmāyn</l>
+<l>                taṟaimaṭi karumpiṉ kaṇṇiṭai yaṉṉa</l>
+<l>                paita lorukaḻai nīṭiya curaṉiṟan</l>
+<l>                teytiṉar kollō poruḷē yalku</l>
+<l>                lavvari vāṭat tuṟantōr</l>
+<l>                vaṉpa rākattāñ ceṉṟa nāṭṭē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">In the land where he has gone, becoming hard,</l>
+           <l rend="indent">he who abandoned [me] for that line to fade,</l>
+           <l rend="indent">on [my] hip</l>
+           <l rend="indent3">– wealth! Has he reached [it],</l>
+           <l rend="indent">having traversed the desert</l>
+           <l rend="indent2">where a suffering<note place="foot"><term xml:lang="ta">paital</term>: in order to understand the image the double association of <term xml:lang="ta">paital</term> has to be taken into account, namely on the one hand "suffering", or here rather "miserable", on the other hand the acoustic closeness to <term xml:lang="ta">pai-ttal</term> "become green". The bamboo green in the (hot, dry?) desert like the sugarcane trodden down by the elephant. And what is the message? A ray of hope?</note>, single bamboo has grown</l>
+           <l rend="indent">as long as [the gap] between the nodes of sugarcane,</l>
+           <l rend="indent">drooping on the rocks,</l>
+           <l rend="indent">perishing when the head of the group,</l>
+           <l rend="indent2">the dark elephant bull comes,</l>
+           <l rend="indent2">broad feet with nails big as devil's teeth?</l>
+           <lg type="alternate" resp="#Srin" sameAs="4-7b">
+            <l>...who has as a hard one given up [my love] so that [my] hip</l>
+            <l>emaciates ...</l>
+           </lg>
+
+           
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT180">
+    <interp type="alignment" select="0">41MG3MR21MG59MG7MG10MG48M2G2M,199M</interp>
+    <entry>
+    <form>paḻūu<pc>+</pc></form>
+    <def>devil<note place="foot"><term xml:lang="ta">paḻūu</term> is attested only here in Caṅkam literature; the TL refers to this passage. What is attested is, as in the variant, <term xml:lang="ta">paḻu</term> "devil" (whatever that may be exactly), so the explanation lying at hand would be a metrical lengthening, as is confirmed also by TVG</note></def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>tooth</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>paru</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ukir<pc>+</pc></form>
+    <def>nail</def>
+    </entry>
+    <entry>
+    <form>pā</form>
+    <def>expanse</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭi</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>kaḷiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bull elephant-</def>
+    </entry>
+    <entry>
+    <form>iṉam</form>
+    <def>group</def>
+    </entry>
+    <entry>
+    <form>nirai</form>
+    <def>row</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēntal</form>
+    <def>eminence<note place="foot"><term xml:lang="ta">ēntal</term>: the TL and also Cām. read "king". How is this to be understood? Is it a transposition of an abstract like "eminence, majesty"?</note></def>
+    </entry>
+    <entry>
+    <form>variṉ</form>
+    <def>come if</def>
+    </entry>
+    <entry>
+    <form>māynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>vanished</def>
+    </entry>
+    <entry>
+    <form>aṟai</form>
+    <def>rock</def>
+    </entry>
+    <entry>
+    <form>maṭi</form>
+    <def>droop-</def>
+    </entry>
+    <entry>
+    <form>karumpiṉ</form>
+    <def>sugarcane</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iṭai</form>
+    <def>middle</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>paital</form>
+    <def>suffering</def>
+    </entry>
+    <entry>
+    <form>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>kaḻai</form>
+    <def>bamboo</def>
+    </entry>
+    <entry>
+    <form>nīṭiya</form>
+    <def>prolonged-</def>
+    </entry>
+    <entry>
+    <form>curaṉ</form>
+    <def>desert</def>
+    </entry>
+    <entry>
+    <form>iṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>traversed</def>
+    </entry>
+    <entry>
+    <form>eytiṉar-kollō</form>
+    <def>he reached</def>
+    <form type="simple">eytiṉar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>poruḷ-ē</form>
+    <def>wealth</def>
+    <form type="simple">poruḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alkul</form>
+    <def>hip</def>
+    </entry>
+    <entry>
+    <form>a<pc>+</pc></form>
+    <def>that-</def>
+    </entry>
+    <entry>
+    <form>vari</form>
+    <def>line</def>
+    </entry>
+    <entry>
+    <form>vāṭa<pc>+</pc></form>
+    <def>fade</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tuṟantōr</form>
+    <def>abandoned he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vaṉpar</form>
+    <def>hardness he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>āka<pc>+</pc></form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tām</form>
+    <def>self</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>ceṉṟa</form>
+    <def>gone-</def>
+    </entry>
+    <entry>
+    <form>nāṭṭ*-ē</form>
+    <def>land-</def>
+    <form type="simple">nāṭṭu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

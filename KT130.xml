@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 130. <persName xml:lang="ta">veḷḷi vīti(yār)</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT130-kilavi">
+          <p type="edition">1. piriviṭai aḻinta talaimakaḷait tōḻi vaṟpuṟuttiyatu. [rest of 2 not kiḷavi but commentary in C5] 2. nī avar pirintār eṉṟu aṟṟāy ākiṉṟatu eṉṉai, yāṉ avar uḷvaḻi aṟintu tūtu viṭṭukkoṇarvēṉ niṉ āṟṟāmai nīṅkuka eṉat tōḻi talaimakaḷai āṟṟuviṭṭatūumām. 3. tōḻi tūtu viṭuvāḷākat talaimakaḷ taṉatu āṟṟāmaiyāṟ kūṟiyatūumām.</p>
+          <p type="translation" xml:lang="en">1. The confidante encouraging HER who is desolate in the time of separation. 2. The confidante reassuring HER, saying “what happened that you don't have the strength because he has separated? I, knowing the way of his mind (or: to his mind) will bring him here by sending a messenger. May your lack of strength subside.” 3. Spoken because of her lack of strength by HER, so that the confidante would send a messenger.</p>
+          </div>
+
+
+        <div xml:id="KT130">
+            <lg type="edition">
+<l>                nilantoṭṭup pukāar vāṉa mēṟār</l>
+<l>                vilaṅkiru munnīr kāliṟ cellār</l>
+<l>                nāṭṭi ṉāṭṭi ṉūri ṉūriṟ</l>
+<l>                kuṭimuṟai kuṭimuṟai tēriṟ</l>
+<l>                keṭunaru muḷarōnaṅ kāta lōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">[Since] he will not disappear inside the earth, not climb the sky,</l>
+           <l rend="indent">not go<note place="foot">Srin. proposes, since <term xml:lang="ta">cel</term> is rather "to get into motion in the direction of an aim": "he hasn't set out [to cross] the ocean on foot".</note> by foot across the transverse, dark three waters,</l>
+           <l rend="indent">if we search land by land, village by village,</l>
+           <l rend="indent">every home row by row,<note place="foot"><term xml:lang="ta">kuṭimuṟai</term> could either be the rows of houses or the different kinds of homes.</note></l>
+           <l>is he one to get lost<note place="foot">What is the function of <term xml:lang="ta">-um</term> here? Is he, in addition to all the other things he has not done, one to get lost?</note>, our lover?</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT130">
+    <interp type="alignment" select="0">32MG26ML43MG6MG11MG2M,125M</interp>
+    <entry>
+    <form>nilam</form>
+    <def>earth</def>
+    </entry>
+    <entry>
+    <form>toṭṭu<pc>+</pc></form>
+    <def>dug</def>
+    </entry>
+    <entry>
+    <form>pukāar</form>
+    <def>enter not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vāṉam</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>ēṟār</form>
+    <def>mount not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vilaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>transverse-</def>
+    </entry>
+    <entry>
+    <form>iru</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>mu<pc>+</pc></form>
+    <def>three-</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water<note place="foot"><term xml:lang="ta">munnīr</term> is a standing phrase. Cām. glosses "sea", as one containing three kinds of water (river-, spring- and salt-water), presumably relying on the oldest gloss available, namely the one in the commentary on PN, where <term xml:lang="ta">munnīr</term> is fairly frequent and usually glossed by <term xml:lang="ta">kaṭal</term>. Later commentators, such as Nacc. on Cint. 5, explain it also as sea water, but as water possessing three qualities (creative, protective, destructive). But perhaps it simply means the three oceans, i.e. the eastern, the western and the southern.</note></def>
+    </entry>
+    <entry>
+    <form>kāliṉ</form>
+    <def>foot</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>cellār</form>
+    <def>go not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nāṭṭiṉ</form>
+    <def>land</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>nāṭṭiṉ</form>
+    <def>land</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūriṉ</form>
+    <def>village</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūriṉ</form>
+    <def>village</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kuṭi</form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>muṟai</form>
+    <def>kind</def>
+    </entry>
+    <entry>
+    <form>kuṭi</form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>muṟai</form>
+    <def>kind</def>
+    </entry>
+    <entry>
+    <form>tēriṉ</form>
+    <def>search if</def>
+    </entry>
+    <entry>
+    <form>keṭunar-um</form>
+    <def>get lost he</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>uḷar-ō</form>
+    <def>is he</def>
+    <form type="simple">uḷar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kātalōr-ē</form>
+    <def>lover</def>
+    <form type="simple">kātalōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

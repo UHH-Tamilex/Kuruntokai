@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 90. <persName xml:lang="ta">maturai eḻuttāḷaṉ cēntaṉ pūtaṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT90-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaṭkut talaimakaṉ ciṟaippuṟamākat tōḻi kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by the confidante, while HE was behind the hedge, to HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT90">
+            <lg type="edition">
+<l>                eṟṟō vāḻi tōḻi muṟṟupu</l>
+<l>                kaṟivaḷa raṭukkat tiraviṉ muḻaṅkiya</l>
+<l>                maṅkuṉ māmaḻai vīḻnteṉap poṅkumayirk</l>
+<l>                kalaitoṭa viḻukkiya pūnāṟu palavukkaṉi</l>
+<l>                varaiyiḻi yaruvi yuṇṭuṟait tarūuṅ</l>
+<l>                kuṉṟa nāṭaṉ kēṇmai</l>
+<l>                meṉṟōḷ cāyttuñ cālpiṉ ṟaṉṟē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Why is it, oh friend?</l>
+                <l>
+                    <choice>
+                        <seg>It is something noble, isn't it,</seg>
+                        <seg>It is not noble,</seg>
+                    </choice>
+                </l>
+                <l rend="indent3">even when bending<note place="foot">Actually <term xml:lang="ta">cāyttum</term>, transitive of <term xml:lang="ta">cāytal</term>, intr. "to bend" (DEDR 2456), is not satisfactory. We could either think of an adhoc transitive formation to <term xml:lang="ta">cāytal</term>, "to be emaciated" (DEDR 2453), or we could think of emending into <term xml:lang="ta">cāyntum</term>.</note> [my] soft shoulders,</l>
+                <l>the intimacy with the man from the hills,</l>
+                <l rend="indent">where the waterfall plunging from the mountain</l>
+                <l rend="indent">brings<note place="foot">For the gift of the waters cf. KT 109.2: <term xml:lang="ta">ikutirai tarūun tuṟaivaṉ</term>.</note> to the collyrium ghat<note place="foot"><term xml:lang="ta">uṇ tuṟai</term> is ambiguous and may on the one hand refer to the collyrium-dark colour of the water, on the other hand to its status as drinking water reservoir. In KT 399.1 <term xml:lang="ta">uṇ kēṇi</term> "drinking water well" precedes the <term xml:lang="ta">uṇtuṟai</term>. Perhaps the double employment of <term xml:lang="ta">uṇ</term> in one phrase points to the fact that both meanings could be actualised.</note> the ripe fruit of the jackfruit tree</l>
+                <l rend="indent">fragrant with flowers that had slipped off</l>
+                <l rend="indent">at the touch of the male monkey with bushy(?)<note place="foot">poṅku, literally "to foam", but with hair "to become erect", seems to be too special a formulation to be just taken as an attribute denoting the mass of hair, as is understood by Cām. TVG renders it with "bushy".</note> hair,</l>
+                <l rend="indent">because<note place="foot">Is the <term xml:lang="ta">vīḻnteṉa</term> clause to be connected with <term xml:lang="ta">varai iḻi yaruvi</term>?</note> great rains had fallen from the cloud</l>
+                <l rend="indent">that thundered at night near the mountain side</l>
+                <l rend="indent4">grown with ripe pepper.</l>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT90">
+    <interp type="alignment" select="0">3M2G33MG118MR22M2G9MG3M2G2M,199M</interp>
+    <entry>
+    <form>eṟṟ*-ō</form>
+    <def>of which kind</def>
+    <form type="simple">eṟṟu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>muṟṟupu</form>
+    <def>fully grown</def>
+    </entry>
+    <entry>
+    <form>kaṟi</form>
+    <def>pepper</def>
+    </entry>
+    <entry>
+    <form>vaḷar</form>
+    <def>grow-</def>
+    </entry>
+    <entry>
+    <form>aṭukkatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>mountain side-</def>
+    </entry>
+    <entry>
+    <form>iraviṉ</form>
+    <def>night</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>muḻaṅkiya</form>
+    <def>thundered-</def>
+    </entry>
+    <entry>
+    <form>maṅkul</form>
+    <def>cloud</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>maḻai</form>
+    <def>rain</def>
+    </entry>
+    <entry>
+    <form>vīḻnteṉa<pc>+</pc></form>
+    <def>fallen say</def>
+    </entry>
+    <entry>
+    <form>poṅku</form>
+    <def>foam-</def>
+    </entry>
+    <entry>
+    <form>mayir<pc>+</pc></form>
+    <def>pelt</def>
+    </entry>
+    <entry>
+    <form>kalai</form>
+    <def>male monkey</def>
+    </entry>
+    <entry>
+    <form>toṭa</form>
+    <def>touch</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḻukkiya</form>
+    <def>slipped off-</def>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>nāṟu</form>
+    <def>smell-</def>
+    </entry>
+    <entry>
+    <form>palavu<pc>+</pc></form>
+    <def>jack tree</def>
+    </entry>
+    <entry>
+    <form>kaṉi</form>
+    <def>ripe fruit</def>
+    </entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iḻi</form>
+    <def>fall-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aruvi</form>
+    <def>waterfall</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṇ</form>
+    <def>collyrium/eat-</def>
+    </entry>
+    <entry>
+    <form>tuṟai<pc>+</pc></form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>tarūum</form>
+    <def>giving-</def>
+    </entry>
+    <entry>
+    <form>kuṉṟam</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>cāytt*-um</form>
+    <def>bent</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>cālpiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>quality it</def>
+    </entry>
+    <entry>
+    <form>aṉṟ*-ē</form>
+    <def>not so it</def>
+    <form type="simple">aṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

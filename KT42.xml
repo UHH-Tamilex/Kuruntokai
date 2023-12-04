@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 42. <persName xml:lang="ta">Kapilar</persName>: <i>the confidante(?)</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT42-kilavi">
+          <p type="edition">iravukkuṟi vēṇṭiya kiḻavaṟkut tōḻi nērnta vāyppaṭṭāṉ maṟuttatu.</p>
+          <p type="translation" xml:lang="en">The confidante refusing HIM who wished for night trysts, while granting by implication.</p>
+          </div>
+
+
+
+        <div xml:id="KT42">
+            <lg type="edition">
+<l>                kāma moḻiva tāyiṉum yāmattuk</l>
+<l>                karuvi māmaḻai vīḻnteṉa varuvi</l>
+<l>                viṭarakat tiyampu nāṭaven</l>
+<l>                toṭarpun tēyumō niṉvayi ṉāṉē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Even if desire is passing<note place="foot"><term xml:lang="ta">oḻivatu</term> as a form is ambiguous, that is, either finite verb or participial noun. If the latter, then the nuance might rather be attributive and general: "even if desire is transitory ...".</note>, man of the mountains</l>  
+             <l rend="indent">where inside a cave the waterfall is sounding</l>
+             <l rend="indent">because so much rain has fallen at midnight</l>
+             <l>
+               <choice> 
+                <seg>does our attachment dwindle, too, on your side?</seg>
+                <seg>– does our attachment dwindle, too? I [am] with you.<note place="foot"><term xml:lang="ta">nāṉ</term>: cf. note on KT 36.6.</note></seg>
+             </choice>
+            </l>
+
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT42">
+    <interp type="alignment" select="0">11MG51MG6MR13M2G7MG4MG7MG2M,109M</interp>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>oḻivat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>ceasing it</def>
+    </entry>
+    <entry>
+    <form>āyiṉum</form>
+    <def>if even</def>
+    </entry>
+    <entry>
+    <form>yāmattu<pc>+</pc></form>
+    <def>midnight-</def>
+    </entry>
+    <entry>
+    <form>karuvi</form>
+    <def>amount</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>maḻai</form>
+    <def>rain<note place="foot"><term xml:lang="ta">karuvi mā maḻai</term> is explained by TVG (with reference to Nacc. and deviating from Cām.) as a big cloud endowed with the attributes of a thunderstorm such as lightning, thunder and so forth. The word order (<term xml:lang="ta">karuvi mā</term> instead of <term xml:lang="ta">mā karuvi</term> "big amount") is odd enough to suspect a special meaning.</note></def>
+    </entry>
+    <entry>
+    <form>vīḻnteṉa</form>
+    <def>fallen say</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aruvi</form>
+    <def>waterfall</def>
+    </entry>
+    <entry>
+    <form>viṭar</form>
+    <def>cave</def>
+    </entry>
+    <entry>
+    <form>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>inside-</def>
+    </entry>
+    <entry>
+    <form>iyampum</form>
+    <def>sounding-</def>
+    </entry>
+    <entry>
+    <form>nāṭa</form>
+    <def>land he</def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>toṭarp*-um</form>
+    <def>attachment</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tēyum-ō</form>
+    <def>dwindling-</def>
+    <form type="simple">tēyum</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>niṉ-vayiṉāṉ-ē</form>
+    <def>your side(loc.)/I</def>
+    <form type="simple">niṉvayiṉāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

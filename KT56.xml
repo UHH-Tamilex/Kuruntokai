@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 56. <persName xml:lang="ta">ciṟaikkuṭiyāntaiyār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT56-kilavi">
+          <p type="edition">talaimakaṉ koṇṭu talaippiritalai maṟuttut tāṉē pōkiṉṟavaḻi iṭaiccurattiṉ pollāṅku kaṇṭu kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HIM when seeing deficiency in the middle of the wilderness when he went alone after having refused to take [her along and] separate [her from her family?].</p>
+          </div>
+
+
+
+        <div xml:id="KT56">
+            <lg type="edition">
+<l>                vēṭṭac cennāy kiḷaittūṇ micciṟ</l>
+<l>                kuḷavi moytta vaḻukaṟ ciṉṉīr</l>
+<l>                vaḷaiyuṭaik kaiya ḷemmō ṭuṇīiya</l>
+<l>                varukatil lamma tāṉē</l>
+<l>                yaḷiyaḷō vaḷiyaḷeṉ ṉeñcamarn tōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">Relics of food dug up by the red dog from [its] hunt,</l>
+             <l rend="indent">Putrid scarce water
+                <choice>
+                    <seg>swarming with wasps</seg>
+                    <seg>surrounded by wild jasmine<note place="foot">At times even the different semantic possibilities look like variants. Here it is hardly possible to decide what is meant: on the one hand <term xml:lang="ta">kuḷavi</term> is used elsewhere several times in the sense of jasmine, but on the other hand <term xml:lang="ta">mōy</term> is by nature a verb of movement and thus easier to combine with an animal than with a plant. So compositional design should at least be considered: the very openness of expression permits the actualisation of both images.</note></seg>
+                </choice>
+             </l>
+             <l>–if only she were to come, alas<note place="foot"><term xml:lang="ta">varuka tillamma: tilamma</term> clearly marks the unreal (unfortunately unrealisable) wish, while <term xml:lang="ta">tilla</term> (see KT 57.4 <term xml:lang="ta">pōkuka tilla</term>) goes with the urgent wish (the fulfilment is in heaven's hand).</note>, she herself,</l>
+             <l rend="indent">to eat with us, she with bangles on [her] hands,</l>
+             <l>the pitiful,
+                <choice>
+                    <seg>pitiful</seg>
+                    <seg>pitiable the loving</seg>
+                </choice>
+                one who abides in my heart.<note place="foot"><term xml:lang="ta"> amarntōḷē</term> is another example for the functioning of the p.a. Here the point is not past, but being already realised: she has taken her place in his heart.</note>
+            </l>
+             
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT56">
+    <interp type="alignment" select="0">9MG10MG55MG12MG3MG8MG8MG14MG8MG2M,138M</interp>
+    <entry>
+    <form>vēṭṭa<pc>+</pc></form>
+    <def>hunt</def>
+    </entry>
+    <entry>
+    <form>cem-nāy</form>
+    <def>red dog<note place="foot"><term xml:lang="ta">cennāy</term> perhaps does not simply mean a "red dog", but a particular species, namely the Asiatic wild dog (Cuon alpinus) still found throughout the bigger part of the Peninsula.</note></def>
+    </entry>
+    <entry>
+    <form>kiḷaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>dug up</def>
+    </entry>
+    <entry>
+    <form>ūṇ</form>
+    <def>food</def>
+    </entry>
+    <entry>
+    <form>miccil</form>
+    <def>rest</def>
+    </entry>
+    <entry>
+    <form>kuḷavi</form>
+    <def>wasp</def>
+    </entry>
+    <entry>
+    <form>moytta</form>
+    <def>swarmed/wild jasmine surrounded-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḻukal</form>
+    <def>putrefied matter</def>
+    </entry>
+    <entry>
+    <form>cil</form>
+    <def>few</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>vaḷai</form>
+    <def>bangle</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṭai<pc>+</pc></form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>kaiyaḷ</form>
+    <def>hand she</def>
+    </entry>
+    <entry>
+    <form>emmōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>us with</def>
+    </entry>
+    <entry>
+    <form>uṇīiya</form>
+    <def>eat</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>varuka-til-<pc>+</pc>amma</form>
+    <def>may cometill</def>
+    <form type="simple">varukatil</form>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tāṉ-ē</form>
+    <def>self</def>
+    <form type="simple">tāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḷiyaḷ-ō</form>
+    <def>love/pity she</def>
+    <form type="simple">aḷiyaḷ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḷiyaḷ</form>
+    <def>love/pity she</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>heart</def>
+    </entry>
+    <entry>
+    <form>amarntōḷ-ē</form>
+    <def>abiding she</def>
+    <form type="simple">amarntōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 118. <persName xml:lang="ta">naṉṉākaiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT118-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ poḻutu kaṇṭu tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante upon seeing the time [of day] by HER, when [he] delayed marriage.</p>
+          </div>
+
+
+        <div xml:id="KT118">
+            <lg type="edition">
+<l>                puḷḷu māvum pulampoṭu vatiya</l>
+<l>                naḷḷeṉa vanta nāriṉ mālai</l>
+<l>                palarpuku vāyi laṭaiyak kaṭavunar</l>
+<l>                varuvi ruḷirō veṉavum</l>
+<l>                vārār tōḻinaṅ kāta lōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">In bondless<note place="foot">TVG explains <term xml:lang="ta">nār il</term> as "without love". The metaphorical transposition is undoubtedly there, but it is hard to decide whether it is already a semantic extension. DEDR 3652 just gives "fibre, string, cord, rope".</note> evening that has come just like that<note place="foot">For <term xml:lang="ta">naḷ</term> cf. note on KT 6. Here we have obviously an ideophone, but what is the message? Is it the sound (or soundlessness) or is it something like "suddenly, inevitably"? TVG takes it to refer to the insects to be heard at night.</note></l>
+           <l rend="indent">for birds and beasts to stay with loneliness,</l>
+           <l rend="indent">even when they urge,</l>
+           <l rend="indent2">when the door is secured that many have entered,</l>
+           <l rend="indent">“Is there anybody [there still] coming?”</l>
+           <l>he doesn't come, friend, our lover<note place="foot">The form <term xml:lang="ta">kātalōr</term> for <term xml:lang="ta">kātalar</term> seems to be obligatory in poem-final position.</note>.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT118">
+    <interp type="alignment" select="0">3MG3MLMG33MG48MG5MG22MG2M,124M</interp>
+    <entry>
+    <form>puḷ-<pc>+</pc>um</form>
+    <def>bird</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mā-<pc>~</pc>um</form>
+    <def>animal</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pulampoṭu</form>
+    <def>loneliness with</def>
+    </entry>
+    <entry>
+    <form>vatiya</form>
+    <def>stay</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>naḷḷeṉa</form>
+    <def>middle say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vanta</form>
+    <def>come-</def>
+    </entry>
+    <entry>
+    <form>nār-il</form>
+    <def>bond not</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>palar</form>
+    <def>many</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>puku</form>
+    <def>enter-</def>
+    </entry>
+    <entry>
+    <form>vāyil</form>
+    <def>door</def>
+    </entry>
+    <entry>
+    <form>aṭaiya<pc>+</pc></form>
+    <def>be secured</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kaṭavunar</form>
+    <def>urge they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varuvir</form>
+    <def>you come</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>uḷir-ō</form>
+    <def>you are</def>
+    <form type="simple">uḷir</form>
+    <gram type="role">plural</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa-<pc>~</pc>um</form>
+    <def>say</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>kātalōr-ē</form>
+    <def>lover</def>
+    <form type="simple">kātalōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

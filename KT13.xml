@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 13. <persName xml:lang="ta">Kapilar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT13-kilavi">
+          <p type="edition">toḻiyiṟ kūṭṭaṅ kūṭṭi āṟṟuvakaiyāṉ āṟṟuvittup piriya vēṟupaṭṭa kiḻatti tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to the confidante by HER who was changed when [he] separated after reassuring [her], he [himself being of] the type who has the strength after having begged the help of the confidante.</p>
+          </div>
+
+        <div xml:id="KT13">
+            <lg type="edition">
+<l>                mācaṟak kaḻīiya yāṉai pōlap</l>
+<l>                perumpeya luḻanta virumpiṇart tuṟukaṟ</l>
+<l>                paita lorutalai cēkku nāṭa</l>
+<l>                ṉōytan taṉaṉē tōḻi</l>
+<l>                pacalai yārntaṉa kuvaḷaiyaṅ kaṇṇē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>Pain he gave, friend,</l>
+<l>the man from a [mountain] land</l>
+<l rend="indent4">who rests in the single cool spot</l>
+<l rend="indent">dark, rough, thick stones<note place="foot">Thus, against the usual syntax of imperfective peyareccam clauses connected with <term xml:lang="ta">nāṭaṉ</term> (though possible, of course), the interpretation of Cām. and TVG, justified by the latter with an understanding of the image: the "elephant-stone" served to protect the lovers, because no one will want to rouse a sleeping elephant.</note> that endured great raining</l>
+<l rend="indent">like elephants fully washed of dust.</l>
+<l>With pallor filled [these] eyes pretty as waterlilies.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT13">
+    <interp type="alignment" select="0">3MG74MR5ML10MG33MG3M,133M</interp>
+    <entry>
+    <form>māc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>dust</def>
+    </entry>
+    <entry>
+    <form>aṟa<pc>+</pc></form>
+    <def>subside</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kaḻīiya</form>
+    <def>washed-</def>
+    </entry>
+    <entry>
+    <form>yāṉai</form>
+    <def>elephant</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>peyal</form>
+    <def>raining</def>
+    </entry>
+    <entry>
+    <form>uḻanta</form>
+    <def>borne-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irum</form>
+    <def>big/dark</def>
+    </entry>
+    <entry>
+    <form>piṇar<pc>+</pc></form>
+    <def>roughness</def>
+    </entry>
+    <entry>
+    <form>tuṟu</form>
+    <def>thick</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>paital</form>
+    <def>coldness<note place="foot"><term xml:lang="ta">paital</term> is not without problems semantically; it should be a kind of nominal derivation of pai <q>become green/pale</q> (though not the verbal noun of the 11th class = <term xml:lang="ta">paittal</term>). The TL gives, among others, the meanings "affliction" and "cold". The former might be derived from the second connotation of "become green", i.e. not the fresh sprouting of plants, but bodily decline. The latter, seemingly the only one to make sense here, is harder to justify, though the DEDR includes it under the same lemma 3821.</note></def>
+    </entry>
+    <entry>
+    <form>oru</form>
+    <def>one<note place="foot">What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note></def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>place</def>
+    </entry>
+    <entry>
+    <form>cēkkum</form>
+    <def>resting-</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>tantaṉaṉ-ē</form>
+    <def>he gave</def>
+    <form type="simple">tantaṉaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>pacalai</form>
+    <def>pallor</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ārntaṉa</form>
+    <def>they became full(n.pl)</def>
+    </entry>
+    <entry>
+    <form>kuvaḷai</form>
+    <def>waterlily</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 99. <persName xml:lang="ta">avvaiyār (G2: auvaiyār)</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT99-kilavi">
+          <p type="edition">poruṇ muṟṟip pukunta talaimakaṉ “emmai niṉaittum aṟitirō” eṉṟa tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HIM, who entered having accumulated wealth, to the confidante who said “do you [still] know us, at least having thought [of us]?”.</p>
+          </div>
+
+
+
+        <div xml:id="KT99">
+            <lg type="edition">
+<l>                uḷḷiṉe ṉalleṉō yāṉē yuḷḷi</l>
+<l>                niṉaittaṉe ṉalleṉō peritē niṉaittu</l>
+<l>                maruṇṭaṉe ṉalleṉō vulakattup paṇpē</l>
+<l>                nīṭiya maratta kōṭutōy malirniṟai</l>
+<l>                yiṟaittuṇac ceṉṟaṟ ṟāaṅ</l>
+<l>                kaṉaipperuṅ kāma mīṇṭukaṭaik koḷalē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+            <l>Didn't I remember [and], remembering,</l>
+            <l>didn't I think a lot [of you/her?] [and], thinking [of you/her?]</l>
+            <l>wasn't I confused about the state of the world:</l>
+            <l rend="indent">that a desire so great would end here,</l>
+            <l rend="indent">like the big flood that disperses,</l>
+            <l rend="indent4">touching the long branches of trees,</l>
+            <l rend="indent">[and then] subsides to be drunken<note place="foot">What is the exact syntax of <term xml:lang="ta">uṇa ceṉṟu aṟṟu</term>, where <term xml:lang="ta">ceṉṟu</term> and <term xml:lang="ta">aṟṟu</term> seem to express the same idea? And what is achieved with the image regarding the message of the whole? The wording seems to be a lament on the transitoriness of desire, but in the first three lines tradition understands, in accordance with the <term xml:lang="ta">kiḷavi</term>, a solemn affirmation by the man that he has thought of HER when on his way, while the last line is read as desire satisfied in the moment of return ("while [now] such a big desire comes to an end ..."), and this is what agrees with the image: the flood does not disappear totally, but becomes useful by dwindling.</note>?</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT99">
+    <interp type="alignment" select="0">12MG4MG22MG6M2G24MG15M2G38MG8MG7MG30MG2M,180M</interp>
+    <entry>
+    <form>uḷḷiṉeṉ</form>
+    <def>I remembered</def>
+    </entry>
+    <entry>
+    <form>alleṉ-ō</form>
+    <def>not so I</def>
+    <form type="simple">alleṉ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷi</form>
+    <def>remembered</def>
+    </entry>
+    <entry>
+    <form>niṉaittaṉeṉ</form>
+    <def>I thought</def>
+    </entry>
+    <entry>
+    <form>alleṉ-ō</form>
+    <def>not so I</def>
+    <form type="simple">alleṉ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>perit*-ē</form>
+    <def>big it</def>
+    <form type="simple">peritu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>niṉaittu</form>
+    <def>thought</def>
+    </entry>
+    <entry>
+    <form>maruṇṭaṉeṉ</form>
+    <def>I was confused</def>
+    </entry>
+    <entry>
+    <form>alleṉ-ō</form>
+    <def>not so I</def>
+    <form type="simple">alleṉ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ulakattu<pc>+</pc></form>
+    <def>world-</def>
+    </entry>
+    <entry>
+    <form>paṇp*-ē</form>
+    <def>nature</def>
+    <form type="simple">paṇpu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nīṭiya</form>
+    <def>prolonged-</def>
+    </entry>
+    <entry>
+    <form>maratta</form>
+    <def>tree-</def>
+    </entry>
+    <entry>
+    <form>kōṭu</form>
+    <def>branch</def>
+    </entry>
+    <entry>
+    <form>tōy</form>
+    <def>touch-</def>
+    </entry>
+    <entry>
+    <form>malir</form>
+    <def>flood-</def>
+    </entry>
+    <entry>
+    <form>niṟai</form>
+    <def>fullness</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>dispersed</def>
+    </entry>
+    <entry>
+    <form>uṇa<pc>+</pc></form>
+    <def>eat</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>ceṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>gone</def>
+    </entry>
+    <entry>
+    <form>aṟṟāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>subsided like</def>
+    </entry>
+    <entry>
+    <form>aṉai<pc>+</pc></form>
+    <def>such</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>īṇṭu</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>kaṭai<pc>+</pc></form>
+    <def>end</def>
+    </entry>
+    <entry>
+    <form>koḷal-ē</form>
+    <def>taking</def>
+    <form type="simple">koḷal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

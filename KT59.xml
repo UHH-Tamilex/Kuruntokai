@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 59. <persName xml:lang="ta">mōcikīraṉār</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT59-kilavi">
+          <p type="edition">piriviṭai aḻinta kiḻattiyait tōḻi vaṟpuṟuttiyatu.</p>
+          <p type="translation" xml:lang="en">The confidante encouraging HER who was desolate in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT59">
+            <lg type="edition">
+<l>                patalaip pāṇip paricilar kōmāṉ</l>
+<l>                ṟalaikkuṉṟat takalvāyk kuṇṭucuṉaik kuvaḷaiyoṭu</l>
+<l>                potinta kuḷavi nāṟuniṉ ṉaṟunuta</l>
+<l>                ṟāveṉa maṟapparō maṟṟē muyalavuñ</l>
+<l>                curampala vilaṅkiya varumporu </l>
+<l>                ṇirampā vākali ṉīṭalō viṉṟē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>
+                <choice>
+                    <seg>Will he forget in a rush</seg>
+                    <seg>will he ever forget ...?</seg>
+                </choice>
+             </l>
+             <l rend="indent">your fragrant forehead, smelling of wild jasmine tied</l>
+             <l rend="indent2">with waterlilies from the deep broad-mouthed pool on the hill top</l>
+             <l rend="indent">[belonging to] the king of
+                <choice>
+                    <seg>suppliants</seg>
+                    <seg>solicitors</seg>
+                </choice>
+                with the beat of drums<note place="foot">Solicitors with drums presumably are the traveling minstrels for whom the king is always at home. If HE is the subject also of line 1 (1+4b), this might be considered as an elliptical metaphor about his generosity.</note>?
+             </l>
+             <l rend="indent">Because, even if he makes an effort,</l>
+             <l rend="indent">the wealth difficult [to attain] lying athwart in many deserts</l>
+             <l rend="indent">has not been attained,</l>
+             <l rend="indent4">will there be delay?<note place="foot"><term xml:lang="ta">nīṭalō</term>: the <term xml:lang="ta">-ō</term> here is one of the difficult cases. It seems possible to understand an actual question which is negated immediately afterwards (<term xml:lang="ta">iṉṟē</term>). Possible as well is a demarcation of topic.</note> No.</l>
+
+
+             
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT59">
+    <interp type="alignment" select="0">40MG47MR12ML13MGMG4M2G7MG31ML13ML4MG5M2G2M,192M</interp>
+    <entry>
+    <form>patalai<pc>+</pc></form>
+    <def>drum</def>
+    </entry>
+    <entry>
+    <form>pāṇi<pc>+</pc></form>
+    <def>beat</def>
+    </entry>
+    <entry>
+    <form>paricilar</form>
+    <def>suppliant</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kōmāṉ</form>
+    <def>king</def>
+    </entry>
+    <entry>
+    <form>talai<pc>+</pc></form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>kuṉṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>akal</form>
+    <def>widen-</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>kuṇṭu</form>
+    <def>depth</def>
+    </entry>
+    <entry>
+    <form>cuṉai<pc>+</pc></form>
+    <def>mountain pool</def>
+    </entry>
+    <entry>
+    <form>kuvaḷaiyoṭu</form>
+    <def>waterlily with</def>
+    </entry>
+    <entry>
+    <form>potinta</form>
+    <def>bundled-</def>
+    </entry>
+    <entry>
+    <form>kuḷavi</form>
+    <def>wild jasmine</def>
+    </entry>
+    <entry>
+    <form>nāṟum</form>
+    <def>smelling-</def>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>naṟu</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>nutal</form>
+    <def>forehead</def>
+    </entry>
+    <entry>
+    <form>tāveṉa</form>
+    <def>rushing say</def>
+    </entry>
+    <entry>
+    <form>maṟappar-ō-maṟṟ*-ē</form>
+    <def>he forgets(h.)ōmaṟṟ*-</def>
+    <form type="simple">maṟapparōmaṟṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>muyala-<pc>~</pc>um</form>
+    <def>persevere</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>curam</form>
+    <def>desert</def>
+    </entry>
+    <entry>
+    <form>pala</form>
+    <def>many</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>vilaṅkiya</form>
+    <def>transverse-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>poruḷ</form>
+    <def>wealth</def>
+    </entry>
+    <entry>
+    <form>nirampā</form>
+    <def>complete not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ākaliṉ</form>
+    <def>because</def>
+    </entry>
+    <entry>
+    <form>nīṭal-ō</form>
+    <def>delaying</def>
+    <form type="simple">nīṭal</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉṟ*-ē</form>
+    <def>is not</def>
+    <form type="simple">iṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

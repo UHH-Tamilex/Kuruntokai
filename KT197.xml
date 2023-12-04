@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 197. <persName xml:lang="ta">kaccipēṭṭu naṉṉākaiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT197-kilavi">
+          <p type="edition">paruva varaviṉkaṇ vaṟpuṟuttun tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER to the confidante who encourages [her] at the coming of the season.</p>
+          </div>
+          
+
+        <div xml:id="KT197">
+            <lg type="edition">
+<l>                yātucey vāṅko ṟōḻi nōtaka</l>
+<l>                nīretir karuviya kāretir kiḷaimaḻai</l>
+<l>                yūtaiyaṅ kuḷiroṭu pētuṟṟu mayaṅkiya</l>
+<l>                kūti ruruviṟ kūṟṟaṅ</l>
+<l>                kātalarp pirinta veṟkuṟittu varumē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>What [can] we do, friend?</l>
+             <l>
+                <choice>
+                <seg>Word</seg>
+                <seg>Death<note place="foot">According to the DEDR 1924 <term xml:lang="ta">kūṟṟam</term> does not necessarily come with the aṉ-suffix in order to designate Yama, so the traditional understanding is equally possible: "The god of death comes in the form of autumn ...".</note></seg>
+             </choice>
+                comes in the form of the cold season</l>
+             <l rend="indent">thoroughly disturbed<note place="foot"><term xml:lang="ta">pētu uṟṟu mayaṅkiya</term>: is this simply to be understood as elativic redundancy?</note> with the coldness of the cold wind,</l>
+             <l rend="indent">more rain than in the rainy season, more abundant than water,<note place="foot">What is the exact syntax and meaning of <term xml:lang="ta">nīr etir karuviya kār etir</term>? This is one of the passages where one asks whether also in the KT we have to reckon with textual corruption.</note></l>
+             <l rend="indent">fitting for pain, [and] marks me who is separate from [her] lover.</l>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT197">
+        <interp type="alignment" select="0">10MG3ML60MG60MG2M,139M</interp>
+        <entry>
+        <form>yātu</form>
+        <def>what</def>
+        </entry>
+        <entry>
+        <form>ceyvām-kol</form>
+        <def>we do</def>
+        <form type="simple">ceyvām</form>
+        <gramGrp type="particle"><form>kol</form></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>nō</form>
+        <def>pain</def>
+        </entry>
+        <entry>
+        <form>taka</form>
+        <def>fit</def>
+        <gram type="role">infinitive<note place="foot"><term xml:lang="ta">nōtaka</term>: Index/Cām. read an infinitive, but that should be <term xml:lang="ta">nōva/nōka</term>, so it might be preferable to separate into <term xml:lang="ta">nō taka</term>.</note></gram>
+        </entry>
+        <entry>
+        <form>nīr</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>etir</form>
+        <def>opposite</def>
+        </entry>
+        <entry>
+        <form>karuviya</form>
+        <def>amount</def>
+        <gramGrp type="affix"><form>a</form></gramGrp>
+        </entry>
+        <entry>
+        <form>kār</form>
+        <def>rainy season</def>
+        </entry>
+        <entry>
+        <form>etir</form>
+        <def>opposite</def>
+        </entry>
+        <entry>
+        <form>kiḷai</form>
+        <def>multiply-</def>
+        </entry>
+        <entry>
+        <form>maḻai</form>
+        <def>rain</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ūtaiyam</form>
+        <def>cold wind</def>
+        <gramGrp type="affix"><form>am</form></gramGrp>
+        </entry>
+        <entry>
+        <form>kuḷiroṭu</form>
+        <def>coldness with</def>
+        </entry>
+        <entry>
+        <form>pēt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>confusion</def>
+        </entry>
+        <entry>
+        <form>uṟṟu</form>
+        <def>had</def>
+        <gram type="role">absolutive</gram>
+        </entry>
+        <entry>
+        <form>mayaṅkiya</form>
+        <def>confused-</def>
+        </entry>
+        <entry>
+        <form>kūtir</form>
+        <def>cold season</def>
+        </entry>
+        <entry>
+        <form>uruviṉ</form>
+        <def>form</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>kūṟṟam</form>
+        <def>word/god of death</def>
+        </entry>
+        <entry>
+        <form>kātalar<pc>+</pc></form>
+        <def>lover</def>
+        <gram type="role">honorific</gram>
+        </entry>
+        <entry>
+        <form>pirinta</form>
+        <def>separated-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form>kuṟittu</form>
+        <def>intended</def>
+        </entry>
+        <entry>
+        <form>varum-ē</form>
+        <def>coming-</def>
+        <form type="simple">varum</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

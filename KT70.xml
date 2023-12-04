@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 70. <persName xml:lang="ta">ōrampōkiyār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT70-kilavi">
+          <p type="edition">puṇarntu nīṅkun talaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to his own heart by HIM who leaves after having had union [with her].</p>
+          </div>
+
+
+
+        <div xml:id="KT70">
+            <lg type="edition">
+<l>                oṭuṅkī rōti yoṇṇutaṟ kuṟumaka</l>
+<l>                ṇaṟuntaṇ ṇīra ḷāraṇaṅ kiṉaḷē</l>
+<l>                yiṉaiya ḷeṉṟavaṭ puṉaiyaḷa vaṟiyēṉ</l>
+<l>                cilamel liyavē kiḷavi</l>
+<l>                yaṇaimel liyaḷyāṉ muyaṅkuṅ kālē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Restrained with oil [her] hair, bright forehead – the small girl</l>
+             <l>who [is] fragrant, cool, water-like,</l>
+             <l rend="indent4">
+                <choice>
+                    <seg>she has mightily tormented me.</seg>
+                    <seg>rarely has she suffered.<note place="foot"><term xml:lang="ta">aṇaṅku</term> as a verb leaves open both possibilities, transitive or intransitive. The topos is, of course, that SHE is plaguing HIM, but in the given context, together with the equally ambiguous aru, the intransitive variant might also be understood.</note></seg>
+                </choice>
+             </l>
+             <l>“Troublesome” is said of her, how much of an ornament<note place="foot">The meaning of this strange phrase might be: "I do not know how much is artifice".</note></l>
+             <l rend="indent4">
+              <choice>
+                <seg>I don't know.</seg>
+                <seg>	thus (as in lines 1+2) she is to be described, ...</seg>
+              </choice>
+            </l>
+              <l>Few, [but] tender [her] words,</l>
+              <l>
+                <choice>
+                  <seg>tender to touch [is] she while I embrace [her].</seg>
+                  <seg>on the bed tender [is] she ...</seg>
+                </choice>
+              </l>
+                
+             
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT70">
+    <interp type="alignment" select="0">5MG22ML14MG9MG12MG14MG17MG35MG2M,138M</interp>
+    <entry>
+    <form>oṭuṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>restrain-</def>
+    </entry>
+    <entry>
+    <form>īr</form>
+    <def>moisture/oil</def>
+    </entry>
+    <entry>
+    <form>ōti</form>
+    <def>hair</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>nutal</form>
+    <def>forehead</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>naṟum</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>nīraḷ</form>
+    <def>water she<note place="foot"><term xml:lang="ta">nīraḷ</term>: tradition here takes "nature, disposition" as a meaning for nīr, but I rather like the metaphor of HER being like water.</note></def>
+    </entry>
+    <entry>
+    <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>rare/difficult</def>
+    </entry>
+    <entry>
+    <form>aṇaṅkiṉaḷ-ē</form>
+    <def>she tormentwd</def>
+    <form type="simple">aṇaṅkiṉaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉaiyaḷ</form>
+    <def>such she/paining she</def>
+    </entry>
+    <entry>
+    <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>avaḷ</form>
+    <def>she</def>
+    </entry>
+    <entry>
+    <form>puṉai</form>
+    <def>adornment</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḷav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>measure</def>
+    </entry>
+    <entry>
+    <form>aṟiyēṉ</form>
+    <def>I don't know</def>
+    </entry>
+    <entry>
+    <form>cila</form>
+    <def>few</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>melliya-<pc>~</pc>ē</form>
+    <def>tender</def>
+    <form type="simple">melliya</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kiḷavi</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṇai</form>
+    <def>touch-</def>
+    </entry>
+    <entry>
+    <form>mel</form>
+    <def>tender-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iyaḷ</form>
+    <def>she</def>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>muyaṅkum</form>
+    <def>embracing-</def>
+    </entry>
+    <entry>
+    <form>kāl-ē</form>
+    <def>time</def>
+    <form type="simple">kāl</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

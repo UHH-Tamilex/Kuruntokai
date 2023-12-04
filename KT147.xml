@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 147. <persName xml:lang="ta">kōpperuṅcōḻaṉ</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT147-kilavi">
+          <p type="edition">talaimakaṉ pirintaviṭattuk kaṉāk kaṇṭu colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered at the sight of a dream when HE was separated [from her].</p>
+          </div>
+
+
+        <div xml:id="KT147">
+            <lg type="edition">
+<l>                vēṉiṟ pātirik kūṉmala raṉṉa</l>
+<l>                mayirō ṭoḻukiya vaṅkaluḻ māmai</l>
+<l>                nuṇpūṇ maṭantaiyait tantōy pōla</l>
+<l>                viṉṟuyi leṭupputi kaṉavē</l>
+<l>                yeḷḷā ramma tuṇaippirin tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>O dream, you arouse [me] from sweet sleep,</l>
+           <l rend="indent2">as if you had brought<note place="foot"><term xml:lang="ta">tantōy pōla</term>: what is the relation of this construction of a finite verb plus the infinitive <term xml:lang="ta">pōla</term> to that of double finite verb as in KT 103.6: <term xml:lang="ta">vāḻēṉ pōlvaṉ</term>?</note> the girl with fine ornaments,</l>
+           <l rend="indent">of beautiful, [now] dimming darkness that was grown</l>
+           <l rend="indent4">with a line of body-hair,</l>
+           <l rend="indent">like on the curved blossom of the trumpet flower tree in summer.<note place="foot">This comparison seems to refer to a peculiar kind of plant the flowers of which have fur reminiscent of  body-hair.</note></l>
+           <l>They won't censure [you], alas,</l>
+           <l rend="indent3">those who are separated from [their] mates.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT147">
+    <interp type="alignment" select="0">31MG69M2G7MG18MG2M,132M</interp>
+    <entry>
+    <form>vēṉil</form>
+    <def>summer</def>
+    </entry>
+    <entry>
+    <form>pātiri<pc>+</pc></form>
+    <def>trumpet flower tree</def>
+    </entry>
+    <entry>
+    <form>kūṉ</form>
+    <def>curve</def>
+    </entry>
+    <entry>
+    <form>malar</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>mayirōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hair with</def>
+    </entry>
+    <entry>
+    <form>oḻukiya</form>
+    <def>grown-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kaluḻ</form>
+    <def>dim-</def>
+    </entry>
+    <entry>
+    <form>māmai</form>
+    <def>blackness</def>
+    </entry>
+    <entry>
+    <form>nuṇ</form>
+    <def>fine</def>
+    </entry>
+    <entry>
+    <form>pūṇ</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>maṭantaiyai<pc>+</pc></form>
+    <def>girl</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>tantōy</form>
+    <def>given you</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉ</form>
+    <def>pleasant</def>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    </entry>
+    <entry>
+    <form>eṭupputi</form>
+    <def>you arouse</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>kaṉav*-ē</form>
+    <def>dream</def>
+    <form type="simple">kaṉavu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eḷḷār-amma</form>
+    <def>censure not they</def>
+    <form type="simple">eḷḷār</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tuṇai<pc>+</pc></form>
+    <def>mate</def>
+    </entry>
+    <entry>
+    <form>pirintōr-ē</form>
+    <def>separated they</def>
+    <form type="simple">pirintōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 72. <persName xml:lang="ta">maḷḷaṉār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT72-kilavi">
+          <p type="edition">talaimakaṉ taṉ vēṟupāṭu kaṇṭu viṉāya pāṅkaṟku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared by HIM to the companion who had questioned [him] when seeing changes in him.</p>
+          </div>
+
+
+
+        <div xml:id="KT72">
+            <lg type="edition">
+<l>                pūvot talamarun takaiya vēvot</l>
+<l>                tellāru maṟiya nōycey taṉavē</l>
+<l>                tēmoḻit tiraṇṭa meṉṟōṇ māmalaip</l>
+<l>                parīi vittiya vēṉaṟ</l>
+<l>                kurīi yōppuvāḷ perumaḻaik kaṇṇē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l rend="indent">Like flowers, like arrows that are fit to flit,</l>
+          <l>they have caused pain
+            <choice>
+                <seg>for all to know,</seg>
+                <seg>known by all people<note place="foot">That is, not his personal situation, but referring to love-pain as such.</note></seg>
+            </choice>
+          </l>
+          <l>the big rain eyes of her who chases birds away</l>
+          <l rend="indent">
+            <choice>
+            <seg>from the millet into which cotton is sown</seg>
+            <seg>away from cotton sown<note place="foot"><term xml:lang="ta">vittiya-v-ēṉal: ēṉal</term> "millet" reads Cām., and this praxis of doubly sowing a field seems also to be found in KT 82 (beans and millet). As for the wording, it seems equally well possible to read <term xml:lang="ta">vēṉal</term> "summer" (4b), but arguably cotton is in less danger of being eaten away by birds than millet, which in any case is the topos.</note> in summer</seg>
+          </choice>
+            on the big mountain,
+          
+          </l>
+          <l rend="indent">[she with] honey[-sweet] words [and] round tender shoulders.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT72">
+    <interp type="alignment" select="0">6MG21MG5MG17MG5ML68MG3M,131M</interp>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ott<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>resembled</def>
+    </entry>
+    <entry>
+    <form>alamarum</form>
+    <def>whirling-</def>
+    </entry>
+    <entry>
+    <form>takaiya</form>
+    <def>fit they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ē</form>
+    <def>arrow</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ott<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>resembled</def>
+    </entry>
+    <entry>
+    <form>ellār-um</form>
+    <def>all</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aṟiya</form>
+    <def>know</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>ceytaṉa-<pc>~</pc>ē</form>
+    <def>they made</def>
+    <form type="simple">ceytaṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tēm</form>
+    <def>honey</def>
+    </entry>
+    <entry>
+    <form>moḻi<pc>+</pc></form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>tiraṇṭa</form>
+    <def>rounded-</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>soft</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>malai<pc>+</pc></form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>parīi</form>
+    <def>cotton</def>
+    </entry>
+    <entry>
+    <form>vittiya</form>
+    <def>sown-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēṉal</form>
+    <def>summer/millet</def>
+    </entry>
+    <entry>
+    <form>kurīi</form>
+    <def>bird</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōppuvāḷ</form>
+    <def>chasing she</def>
+    </entry>
+    <entry>
+    <form>peru</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>maḻai<pc>+</pc></form>
+    <def>rain</def>
+    </entry>
+    <entry>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

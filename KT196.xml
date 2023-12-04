@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 196. <persName xml:lang="ta">miḷaikkantaṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT196-kilavi">
+          <p type="edition">vāyil vēṇṭip pukka kiḻavaṟkut tōḻi kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by the confidante to HIM who entered wishing for the door/for mediation.</p>
+          </div>
+          
+
+        <div xml:id="KT196">
+            <lg type="edition">
+<l>                vēmpiṉ paiṅkāyeṉ ṟōḻi tariṉē</l>
+<l>                tēmpūṅ kaṭṭi yeṉṟaṉi riṉiyē</l>
+<l>                pāri paṟampiṟ paṉiccuṉait teṇṇīr</l>
+<l>                taiit tiṅkaṭ ṭaṇṇiya tariṉum</l>
+<l>                veyya vuvarkku meṉṟaṉi</l>
+<l>                raiya vaṟṟā laṉpiṉ pālē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">If my friend had given you a fresh, unripe Neem fruit,</l> 
+             <l>you would have said<note place="foot">Here the perfective aspects (<term xml:lang="ta">eṉṟaṉir</term> in lines 2 and 5) are used to express the hypothetical character of the conditional clauses.</note>: honey-flower-sweets!</l>
+             <l rend="indent4">Now,</l>
+             <l rend="indent">even if she were to give you cool [draughts], in the Tai month,</l>
+             <l rend="indent">of clear water from a dewy pool of Pāri's Paṟampu mountain,</l>
+             <l>you would say: hot<note place="foot"><term xml:lang="ta">veyya uvarkkum</term> is presumably literally "[these] hot [water draughts taste] salty". <term xml:lang="ta">veyya</term> here can also be taken as an infinitive of <term xml:lang="ta">vey-tal</term> "to burn", that is, "[so] salty that it burns".</note>, brackish!</l>
+             <l>O sir, so that's how [her] share in [your] love is<note place="foot"><term xml:lang="ta">aṉpiṉ pāl</term> might also be read as a general statement, "the fate of love". Also <term xml:lang="ta">pāl</term> "milk" = essence could be considered.</note>.</l>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT196">
+        <interp type="alignment" select="0">24MG23MG85M2G10MG2M,149M</interp>
+        <entry>
+        <form>vēmpiṉ</form>
+        <def>Neem tree</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>paim</form>
+        <def>fresh</def>
+        </entry>
+        <entry>
+        <form>kāy</form>
+        <def>unripe fruit</def>
+        </entry>
+        <entry>
+        <form>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>tariṉ-ē</form>
+        <def>give if</def>
+        <form type="simple">tariṉ</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form>tēm</form>
+        <def>honey</def>
+        </entry>
+        <entry>
+        <form>pūm</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>kaṭṭi</form>
+        <def>sweets</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉṟaṉir</form>
+        <def>you said</def>
+        <gram type="role">plural</gram>
+        </entry>
+        <entry>
+        <form>iṉi-<pc>~</pc>ē</form>
+        <def>now</def>
+        <form type="simple">iṉi</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form>pāri</form>
+        <def>Pāri</def>
+        </entry>
+        <entry>
+        <form>paṟampiṉ</form>
+        <def>Paṟampu( mountain)</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>paṉi<pc>+</pc></form>
+        <def>dew</def>
+        </entry>
+        <entry>
+        <form>cuṉai<pc>+</pc></form>
+        <def>mountain pool</def>
+        </entry>
+        <entry>
+        <form>teḷ</form>
+        <def>clear</def>
+        </entry>
+        <entry>
+        <form>nīr</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>taii<pc>+</pc></form>
+        <def>Tai</def>
+        </entry>
+        <entry>
+        <form>tiṅkaḷ</form>
+        <def>moon</def>
+        </entry>
+        <entry>
+        <form>taṇṇiya</form>
+        <def>cool they</def>
+        <gram type="role">neuter plural</gram>
+        </entry>
+        <entry>
+        <form>tariṉum</form>
+        <def>give if even</def>
+        </entry>
+        <entry>
+        <form>veyya</form>
+        <def>hot they</def>
+        <gram type="role">neuter plural</gram>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uvarkkum</form>
+        <def>tasting salty-</def>
+        </entry>
+        <entry>
+        <form>eṉṟaṉir</form>
+        <def>you said</def>
+        <gram type="role">plural</gram>
+        </entry>
+        <entry>
+        <form>aiya</form>
+        <def>lord</def>
+        <gram type="role">vocative</gram>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṟṟ*-āl</form>
+        <def>thus it</def>
+        <form type="simple">aṟṟu</form>
+        <gramGrp type="particle"><form>āl</form></gramGrp>
+        </entry>
+        <entry>
+        <form>aṉpiṉ</form>
+        <def>love</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>pāl-ē</form>
+        <def>part</def>
+        <form type="simple">pāl</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

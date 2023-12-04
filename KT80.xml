@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 80. <persName xml:lang="ta">avvaiyār (C4: auvaiyār)</persName>: <i>the other woman/courtesan</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT80-kilavi">
+          <p type="edition">talaimakaṭkup pāṅkāyiṉār kēṭpap parattai colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the other woman/courtesan to be heard by those who are close to HER.</p>
+          </div>
+
+
+
+        <div xml:id="KT80">
+            <lg type="edition">
+<l>                kūnta lāmpaṉ muḻuneṟi yaṭaiccip</l>
+<l>                perumpuṉal vanta viruntuṟai virumpi</l>
+<l>                yāmaḵ tayarkañ cēṟun tāṉaḵ</l>
+<l>                tañcuva tuṭaiya ḷāyiṉ vempōr</l>
+<l>                nukampaṭak kaṭakkum palvē leḻiṉi</l>
+<l>                muṉaiyāṉ perunirai pōlak</l>
+<l>                kiḷaiyoṭuṅ kākkataṉ koḻunaṉ mārpē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l rend="indent">Whole calyxes of waterlily put in [our] tresses,</l>
+          <l rend="indent">desirous of the dark ghat where the great flood has come</l>
+          <l>we shall go to immerse ourselves there.</l>
+          <l rend="indent">If she is possessed by fear of that</l>
+          <l>she may guard her husband, together with [her] relatives too,</l>
+          <l>like many-speared Eḻiṉi, with big rows on the [battle-]front,</l>
+          <l>who conquers [enemies] in hot battle to bear [his] yoke.</l>
+          <lg type="alternate" sameAs="5+6b">
+            <l>just as many-speared Eḻiṉi who conquers ...</l>
+              <l>[guards] a big herd of cows on the [battle-]front.</l>
+          </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT80">
+    <interp type="alignment" select="0">66MG18MG7MG76M2G21M2G2M,197M</interp>
+    <entry>
+    <form>kūntal</form>
+    <def>tresses</def>
+    </entry>
+    <entry>
+    <form>āmpal</form>
+    <def>waterlily</def>
+    </entry>
+    <entry>
+    <form>muḻu</form>
+    <def>whole</def>
+    </entry>
+    <entry>
+    <form>neṟi</form>
+    <def>calyx(?)<note place="foot"><term xml:lang="ta">neṟi</term>: according to the Ind., "a flower stripped of its calyx"; to the TL, a verb: "to strip a flower of its calyx". If so, what would be left then? Is she supposed to wear the stems in her hair? Or is this an elliptical statement: stripping the flowers of their calyxes (<term xml:lang="ta">muḻuneṟi</term>) she puts them into her hair?</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭaicci<pc>+</pc></form>
+    <def>inserted</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>puṉal</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>vanta</form>
+    <def>come-</def>
+    <gram type="role">peyareccam</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>virumpi</form>
+    <def>desired</def>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we</def>
+    </entry>
+    <entry>
+    <form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form>ayarkam</form>
+    <def>we engage</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>cēṟum</form>
+    <def>we go</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form>añcuvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>fearing it</def>
+    </entry>
+    <entry>
+    <form>uṭaiyaḷ</form>
+    <def>possess she</def>
+    </entry>
+    <entry>
+    <form>āyiṉ</form>
+    <def>if</def>
+    </entry>
+    <entry>
+    <form>vem</form>
+    <def>hot</def>
+    </entry>
+    <entry>
+    <form>pōr</form>
+    <def>battle</def>
+    </entry>
+    <entry>
+    <form>nukam</form>
+    <def>yoke</def>
+    </entry>
+    <entry>
+    <form>paṭa<pc>+</pc></form>
+    <def>happen</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kaṭakkum</form>
+    <def>surmounting-</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>vēl</form>
+    <def>spear</def>
+    </entry>
+    <entry>
+    <form>eḻiṉi</form>
+    <def>Eḻiṉi</def>
+    </entry>
+    <entry>
+    <form>muṉaiyāṉ</form>
+    <def>front(loc.)/cow</def>
+    </entry>
+    <entry>
+    <form>peru</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>nirai</form>
+    <def>row</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>kiḷaiyoṭ*-um</form>
+    <def>relative with<note place="foot"><term xml:lang="ta">kiḷai</term> is otherwise used of bigger crowds as for example hordes of monkeys (cf. KT 69.3). Are we to perceive here a pejorative nuance?</note></def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kākka</form>
+    <def>guard</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form>koḻunaṉ</form>
+    <def>husband</def>
+    </entry>
+    <entry>
+    <form>mārp*-ē</form>
+    <def>chest</def>
+    <form type="simple">mārpu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

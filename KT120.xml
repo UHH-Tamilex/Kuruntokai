@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 120. <persName xml:lang="ta">paraṇar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT120-kilavi">
+          <p type="edition">1. allakuṟippaṭṭu mīḷun talaimakaṉ taṉṉeñciṟkuc colliyatu.
+            2. iḵtu iyaṟkaippuṇarcci puṇarnta talaimakaṉ pirintavaḻik kalaṅkiṟṟūumām (C5: kalaṅkiyatūmām).</p>
+          <p type="translation" xml:lang="en">1. Uttered to [his] own heart by HIM who comes back led astray by a false sign.
+            2. HE who had consummated the natural union [with her] being upset about the separation.</p>
+          </div>
+
+
+        <div xml:id="KT120">
+            <lg type="edition">
+<l>                illō ṉiṉpaṅ kāmuṟ ṟāaṅ</l>
+<l>                karituvēṭ ṭaṉaiyā ṉeñcē kātali</l>
+<l>                nalla ḷākuta laṟintāṅ</l>
+<l>                kariya ḷākuta laṟiyā tōyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">In the way that a pauper desires pleasure,</l>
+           <l>you really wanted that which is hard [to obtain], heart.</l>
+           <l rend="indent">In the way that
+            <choice>
+                <seg>you knew [our] beloved would be good,</seg>
+                <seg>[our] beloved knew [how] to become good<note place="note">This would mean, probably, that SHE has stopped to meet HIM in secret.</note>,</seg>
+            </choice>
+           </l>
+           <l>you didn't know
+            <choice>
+                <seg>her to be hard to obtain.<note place="foot">What is the function of <term xml:lang="ta">ākutal</term> here? It looks very much like Skt. <i>bhavati</i>, that is, either wholly predicative or actually connected with a change of condition.</note></seg>
+                <seg>she would become hard to obtain.</seg>
+            </choice>
+           </l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT120">
+    <interp type="alignment" select="0">20MG13MG3ML3M2G27MG20MG2M,95M</interp>
+    <entry>
+    <form>illōṉ</form>
+    <def>not he</def>
+    </entry>
+    <entry>
+    <form>iṉpam</form>
+    <def>pleasure</def>
+    </entry>
+    <entry>
+    <form>kāmuṟṟāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>desire had like</def>
+    </entry>
+    <entry>
+    <form>aritu</form>
+    <def>difficult it</def>
+    </entry>
+    <entry>
+    <form>vēṭṭaṉai-<pc>~</pc>āl</form>
+    <def>wanted you</def>
+    <form type="simple">vēṭṭaṉai</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>neñc*-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kātali</form>
+    <def>lover</def>
+    <gram type="role">feminine</gram>
+    </entry>
+    <entry>
+    <form>nallaḷ</form>
+    <def>good she</def>
+    </entry>
+    <entry>
+    <form>ākutal</form>
+    <def>becoming</def>
+    </entry>
+    <entry>
+    <form>aṟintāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>known like</def>
+    </entry>
+    <entry>
+    <form>ariyaḷ</form>
+    <def>difficult she</def>
+    </entry>
+    <entry>
+    <form>ākutal</form>
+    <def>becoming</def>
+    </entry>
+    <entry>
+    <form>aṟiyātōy-ē</form>
+    <def>know not you</def>
+    <form type="simple">aṟiyātōy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

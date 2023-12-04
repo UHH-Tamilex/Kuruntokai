@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 173. <persName xml:lang="ta">maturaikkāñcip pulavaṉ</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT173-kilavi">
+          <p type="edition">kuṟai maṟukkappaṭṭa talaimakaṉ tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to the confidante by HIM whose requests had been refused.</p>
+          </div>
+
+
+        <div xml:id="KT173">
+            <lg type="edition">
+<l>                poṉṉē rāviraip putumalar miṭainta</l>
+<l>                paṉṉūṉ mālaip paṉaipaṭu kalimāp</l>
+<l>                pūṇmaṇi kaṟaṅka vēṟi nāṇaṭ</l>
+<l>                ṭaḻipaṭa ruṇṇōy vaḻivaḻi ciṟappa</l>
+<l>                viṉṉāḷ ceyta tituveṉa muṉṉiṉ</l>
+<l>                ṟavaḷpaḻi nuvalu mivvū</l>
+<l>                rāṅkuṇarn tamaiyiṉīṅ kēkumā ruḷeṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>While destructive affliction [and] inner pain increase steadily,</l>
+           <l rend="indent">[my] shame killed, mounting, so that [its] bells ring,</l>
+           <l rend="indent">the spirited horse of Palmyra with a many-threaded garland</l>
+           <l rend="indent">close-set with new blossoms of the gold-like Āvirai,</l>
+           <l>
+            <choice>
+                <seg>– I am [prepared]<note place="foot">The syntax of the last three lines is unclear in several respects. Firstly, how to understand the construction of <term xml:lang="ta">ēkumār uḷeṉ</term>? Cām. glosses with <term xml:lang="ta">pōkum poruṭṭu uḷḷēṉ</term>, while it remains unclear, whether he takes <term xml:lang="ta">uḷḷēṉ</term> as the "modern" 1st sg. of <term xml:lang="ta">uḷ</term>, "to be", or as 1st neg. to <term xml:lang="ta">uḷ</term>, "remember". The latter, of course, would be conceivable ("I don't think of going"), but the negative forms of <term xml:lang="ta">uḷ</term> also in Caṅkam texts are only attested with double <term xml:lang="ta">ḷ</term>. Secondly, there is certainly a correspondence between <term xml:lang="ta">āṅku – īṅku</term> in the last lines, which seems to point to modal, not spatial use. Thirdly, besides the decision between the two possibilities of <term xml:lang="ta">uṇarntamaiyiṉ</term> (see last but one note), the <term xml:lang="ta">peyareccam nuvalum</term> before <term xml:lang="ta">ivvūr</term> raises problems. What kind of subordinate clause can be meant here? With regard to content the point must be in any case the reaction of the village to the realisation.</note> to go up to this point, for this village to realise,</seg>
+                <seg>– I am [prepared] to go thus far, if this village then at last realises,</seg>
+            </choice>
+           </l>
+           <l rend="indent">
+            <choice>
+                <seg>so that it confronts [her] saying: she has acted unkindly<note place="foot"><term xml:lang="ta">iṉṉāḷ ceytatu itu</term>: literally "this has been done by one who is unkind". The ambiguity of structure here is impossible to represent in the translation: on the one hand it is HER action that has caused HIS reaction described in the first four lines, on the other hand these four lines also give the content of <term xml:lang="ta">uḷeṉ</term>.</note></seg>
+                <seg>[and] confronts [her] saying: this is the doing of such a one,</seg>
+            </choice>
+           </l>
+           <l rend="indent">[and] talks of her blame.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT173">
+    <interp type="alignment" select="0">82MG40MG14MG23MG13M7G3MG10MG2M,200M</interp>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ēr</form>
+    <def>resemble-</def>
+    </entry>
+    <entry>
+    <form>āvirai<pc>+</pc></form>
+    <def>Āvirai( plant)</def>
+    </entry>
+    <entry>
+    <form>putu</form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>malar</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>miṭainta</form>
+    <def>set close-</def>
+    <gram type="role">peyareccam</gram>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>nūl</form>
+    <def>thread</def>
+    </entry>
+    <entry>
+    <form>mālai<pc>+</pc></form>
+    <def>garland</def>
+    </entry>
+    <entry>
+    <form>paṉai</form>
+    <def>Palmyra</def>
+    </entry>
+    <entry>
+    <form>paṭu</form>
+    <def>happen-</def>
+    </entry>
+    <entry>
+    <form>kali</form>
+    <def>temperament</def>
+    </entry>
+    <entry>
+    <form>mā<pc>+</pc></form>
+    <def>horse</def>
+    </entry>
+    <entry>
+    <form>pūṇ</form>
+    <def>put on-</def>
+    </entry>
+    <entry>
+    <form>maṇi</form>
+    <def>bell</def>
+    </entry>
+    <entry>
+    <form>kaṟaṅka</form>
+    <def>sound</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēṟi</form>
+    <def>mounted</def>
+    </entry>
+    <entry>
+    <form>nāṇ</form>
+    <def>shame</def>
+    </entry>
+    <entry>
+    <form>aṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>killed</def>
+    </entry>
+    <entry>
+    <form>aḻi</form>
+    <def>destroy-</def>
+    </entry>
+    <entry>
+    <form>paṭar</form>
+    <def>affliction</def>
+    </entry>
+    <entry>
+    <form>uḷ</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>vaḻi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form>vaḻi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form>ciṟappa</form>
+    <def>increase</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉṉāḷ</form>
+    <def>pleasant not she</def>
+    </entry>
+    <entry>
+    <form>ceytatu</form>
+    <def>made it</def>
+    </entry>
+    <entry>
+    <form>itu</form>
+    <def>this</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>muṉ</form>
+    <def>in front</def>
+    </entry>
+    <entry>
+    <form>niṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>stood<note place="foot"><term xml:lang="ta">muṉṉiṉṟu</term> is the absolutive of <term xml:lang="ta">muṉ-nil</term>, literally "to stand in front of someone", but in the <term xml:lang="ta">kiḷavi</term>-s it clearly means "to entreat". Here the nuance might rather be "to confront".</note></def>
+    </entry>
+    <entry>
+    <form>avaḷ</form>
+    <def>she</def>
+    </entry>
+    <entry>
+    <form>paḻi</form>
+    <def>blame</def>
+    </entry>
+    <entry>
+    <form>nuvalum</form>
+    <def>talking-</def>
+    </entry>
+    <entry>
+    <form>i<pc>+</pc></form>
+    <def>this</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>so</def>
+    </entry>
+    <superEntry type="ambiguous">
+    <entry>
+    <entry>
+    <form>uṇarntamaiyiṉ</form>
+    <def>realisingiṉ</def>
+    </entry>
+    </entry><entry>
+    <entry>
+    <form>uṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>realised</def>
+    </entry>
+    </entry>
+    </superEntry>
+    <entry>
+    <form>amaiyiṉ</form>
+    <def>become quiet if<note place="foot"><term xml:lang="ta">uṇarntamaiyiṉ/uṇarntu amaiyiṉ</term> see note on KT 92.5. Here the traditional interpretation seems more convincing, unless <term xml:lang="ta">amai</term> is taken in a sense of finality: when the village realises once and for all what has happened.</note></def>
+    </entry>
+    <entry>
+    <form>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>ēkumār</form>
+    <def>go</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>uḷeṉ-ē</form>
+    <def>I am</def>
+    <form type="simple">uḷeṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

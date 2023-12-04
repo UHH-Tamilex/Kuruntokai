@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 154. <persName xml:lang="ta">maturaic cīttalaic (C1+5: cītaṅka) cāttaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT154-kilavi">
+          <p type="edition">poruḷvayiṟ pirinta talaimakaṉai niṉaintu talaimakaḷ tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to the confidante by HER, when she thought of HIM who had separated because of wealth.</p>
+          </div>
+
+
+        <div xml:id="KT154">
+            <lg type="edition">
+<l>                yāṅkaṟin taṉarko ṟōḻi pāmpi</l>
+<l>                ṉurinimirn taṉṉa vuruppavi ramaiyat</l>
+<l>                tiraivēṭ ṭeḻunta cēva luṉṉip</l>
+<l>                poṟimayi reruttiṟ kuṟunaṭaip pēṭai</l>
+<l>                porikāṟ kaḷḷi virikā yaṅkavaṭṭut</l>
+<l>                tayaṅka viruntu pulampak kūu</l>
+<l>                maruñcura vaippiṟ kāṉam</l>
+<l>                pirintucē ṇuṟaital vallu vōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>How has he known<note place="foot"><term xml:lang="ta">yāṅku aṟintaṉar kol</term>: how to understand this question? Is it really possible to find in <term xml:lang="ta">valluvōr</term> the content of the knowledge, which would mean to take a verbal noun as modal in character? Srin. prefers to take the question independently and to relate it to the content of 7b.</note>, friend,</l>
+                <l>he who is able to remain distant, separated,</l>
+                <l rend="indent">in the forest of the difficult desert region,</l>
+                <l rend="indent">where the short-gaited hen, with spotted plumage on the neck,</l>
+                <l rend="indent">is cooing while she is lonely, perched<note place="foot">Srin. proposes tentatively to connect <term xml:lang="ta">iruntu</term> adverbially with <term xml:lang="ta">pulampa</term>: "so that [one] feels lastingly (<term xml:lang="ta">iruntu</term>) loneliness". This does not seem impossible, but there are many parallels of <term xml:lang="ta">irunta</term> being used for birds perched on branches.</note> so that she shines<note place="foot"><term xml:lang="ta">tayaṅka</term>: it is hard to decide whether a rather strong actual infinitive sentence is intended or whether this ought to be taken as an adverb (TVG: "clearly").</note></l>
+                <l rend="indent">on the pretty twig with broad unripe fruits of the Kaḷḷi tree</l>
+                <l rend="indent3">with parched trunk,</l>
+                <l rend="indent">thinking of the cock who had risen for prey</l>
+                <l rend="indent">in a time of heat shining like the outstretched<note place="foot">The syntax of the comparison is a little awkward. The tertium comparationis is certainly the glittering, so it would be more natural to have the <term xml:lang="ta">nimir</term> as a <term xml:lang="ta">peyareccam</term> in attributive position.</note> skin of a snake?</l>
+              <lg type="alternate" resp="#Srin" sameAs="7b">
+                <l>The forest is not [full of] wealth (vaippu + il), [it is full of]</l>
+                <l>ways difficult to go,</l>
+              </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT154">
+    <interp type="alignment" select="0">4MG9MG3ML29MG12MG8MG110MG37MG2M,222M</interp>
+    <entry>
+    <form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>how</def>
+    </entry>
+    <entry>
+    <form>aṟintaṉar-kol</form>
+    <def>they knew</def>
+    <form type="simple">aṟintaṉar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>pāmpiṉ</form>
+    <def>snake</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>uri</form>
+    <def>skin</def>
+    </entry>
+    <entry>
+    <form>nimirntaṉṉa</form>
+    <def>stretched out like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>urupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>heat</def>
+    </entry>
+    <entry>
+    <form>avir</form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>amaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>occasion-</def>
+    </entry>
+    <entry>
+    <form>irai</form>
+    <def>prey</def>
+    </entry>
+    <entry>
+    <form>vēṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wanted</def>
+    </entry>
+    <entry>
+    <form>eḻunta</form>
+    <def>risen-</def>
+    </entry>
+    <entry>
+    <form>cēval</form>
+    <def>cock</def>
+    </entry>
+    <entry>
+    <form>uṉṉi<pc>+</pc></form>
+    <def>thought</def>
+    </entry>
+    <entry>
+    <form>poṟi</form>
+    <def>dot</def>
+    </entry>
+    <entry>
+    <form>mayir</form>
+    <def>fur</def>
+    </entry>
+    <entry>
+    <form>eruttiṉ</form>
+    <def>neck</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>naṭai<pc>+</pc></form>
+    <def>gait</def>
+    </entry>
+    <entry>
+    <form>pēṭai</form>
+    <def>female bird</def>
+    </entry>
+    <entry>
+    <form>pori</form>
+    <def>be parched-</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>kaḷḷi</form>
+    <def>Kaḷḷi( tree)</def>
+    </entry>
+    <entry>
+    <form>viri</form>
+    <def>expand-</def>
+    </entry>
+    <entry>
+    <form>kāy</form>
+    <def>unripe fruit</def>
+    </entry>
+    <entry>
+    <form>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kavaṭṭu<pc>+</pc></form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>tayaṅka</form>
+    <def>glitter</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iruntu</form>
+    <def>been</def>
+    </entry>
+    <entry>
+    <form>pulampa<pc>+</pc></form>
+    <def>become lonely</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kūum</form>
+    <def>crowing-</def>
+    </entry>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>curam</form>
+    <def>desert</def>
+    </entry>
+    <entry>
+    <form>vaippiṉ</form>
+    <def>region</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>pirintu</form>
+    <def>separated</def>
+    </entry>
+    <entry>
+    <form>cēṇ</form>
+    <def>distance</def>
+    </entry>
+    <entry>
+    <form>uṟaital</form>
+    <def>remaining</def>
+    </entry>
+    <entry>
+    <form>valluvōr-ē</form>
+    <def>able he</def>
+    <form type="simple">valluvōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 40. <persName xml:lang="ta">cempulappeyaṉīrār</persName>: <i>HE / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT40-kilavi">
+          <p type="edition">iyaṟkaip puṇarcci puṇarnta piṉṉarp “pirivar” eṉak karuti añciya talaimakaḷ kuṟippu vēṟupāṭu kaṇṭu talaimakaṉ kūṟukiṉṟatu (C2: kūṟiyatu).</p>
+          <p type="translation" xml:lang="en">Told by HIM upon seeing changes in the inner state of HER, who was afraid judging “he will separate [from me]”, after having consumated the natural union.</p>
+          </div>
+
+
+
+        <div xml:id="KT40">
+            <lg type="edition">
+<l>                yāyu ñāyum yārā kiyarō</l>
+<l>                ventaiyu nuntaiyu memmuṟaik kēḷir</l>
+<l>                yāṉu nīyu mevvaḻi yaṟituñ</l>
+<l>                cempulap peyaṉīr pōla</l>
+<l>                vaṉpuṭai neñcan tāṅkalan taṉavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l>My mother and your mother,
+                <choice>
+                    <seg>what might they be [to each other]?</seg>
+                    <seg>what has become of them?</seg>
+                </choice>
+            </l>
+            <l>
+                <choice>
+                    <seg>And your father and my father, what kind of relations?</seg>
+                    <seg>And of my father and your father [and] our close relations?</seg>
+                </choice>
+            </l>
+            <l>And I and you,
+                <choice>
+                    <seg>how do we know [about each other]?<note place="foot">An alternative not considered so far would be <term xml:lang="ta">evvaḻi aṟitum</term> with <term xml:lang="ta">evvaḻi</term> as a direct object: "which way do we know [to each other]", which would make excellent, perhaps even better sense in the case of the first reading, but somehow is at odds with Tamilian linguistic instinct.</note></seg>
+                    <seg>what do we know [about them]?</seg>
+                </choice>
+            </l>
+            <l rend="indent">Like red soil and streaming rain</l>
+            <l>
+                <choice>
+                    <seg>broken<note place="foot">For <term xml:lang="ta">aṉpuṭai neñcam</term> cf. KT 86.1 <term xml:lang="ta">paṉi uṭainta</term> ... kaṉ: "eyes from which dew has broken forth", that is, "hearts from which love is breaking/has broken forth". See also NA 199.4f. <term xml:lang="ta">uḷḷuṭaintu</term> | <term xml:lang="ta">uḷḷeṉ</term>: "I won’t remember, broken inside", where <term xml:lang="ta">uḷ</term> seems to be synonymous to <term xml:lang="ta">neñcu</term>, and NA 118.6+11 <term xml:lang="ta">uṭaivataṉ-talai</term>...<term xml:lang="ta">nōm eṉ neñcē</term>.</note> by love [our] hearts on their own have mingled.</seg>
+                    <seg>in love our hearts themselves have mingled.<note place="foot">For a different interpretation of this poem see Tieken 1997: 316f. For criticism against Tieken and a detailed discussion of the two possible ways of reading this poem see Wilden 1999: 239ff.</note></seg>
+                </choice>
+            </l>
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT40">
+    <interp type="alignment" select="0">3MGMG3MG11MG7MG2MR6MG19MGMR2MG29ML10MG22MG3M,132M</interp>
+    <entry>
+    <form>yāy-um</form>
+    <def>my mother</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ñāy-um</form>
+    <def>your mother</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yār</form>
+    <def>who</def>
+    </entry>
+    <entry>
+    <form>ākiyar-ō</form>
+    <def>may become/become they</def>
+    <form type="simple">ākiyar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>entai-<pc>~</pc>um</form>
+    <def>my father</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nuntai-<pc>~</pc>um</form>
+    <def>your father</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>e<pc>+</pc></form>
+    <def>what-</def>
+    </entry>
+    <entry>
+    <form>muṟai<pc>+</pc></form>
+    <def>kind/our-</def>
+    </entry>
+    <entry>
+    <form>kēḷir</form>
+    <def>relatives</def>
+    </entry>
+    <entry>
+    <form>yāṉ-um</form>
+    <def>I</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nī-<pc>~</pc>um</form>
+    <def>you</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>e<pc>+</pc></form>
+    <def>what-</def>
+    </entry>
+    <entry>
+    <form>vaḻi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟitum</form>
+    <def>we know</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>pulam</form>
+    <def>soil</def>
+    </entry>
+    <entry>
+    <form>peyal</form>
+    <def>raining</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>love</def>
+    </entry>
+    <entry>
+    <form>uṭai</form>
+    <def>possess-/break-</def>
+    </entry>
+    <entry>
+    <form>neñcam</form>
+    <def>heart</def>
+    </entry>
+    <entry>
+    <form>tām</form>
+    <def>self</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>kalantaṉa-<pc>~</pc>ē</form>
+    <def>they mingled</def>
+    <form type="simple">kalantaṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

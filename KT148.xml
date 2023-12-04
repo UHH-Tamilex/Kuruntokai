@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 148. <persName xml:lang="ta">iḷaṅkīrantaiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT148-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷait tōḻi paruvam aṉṟu eṉṟu vaṟpuṟuttat talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER who was encouraged by the confidante [with the words] “that isn't the season”, [namely] HER who is desolate at the sight of the season.</p>
+          </div>
+
+
+        <div xml:id="KT148">
+            <lg type="edition">
+<l>                celvac ciṟāar cīṟaṭip polinta </l>
+<l>                tavaḷai vāya polañcey kiṇkiṇik</l>
+<l>                kāci ṉaṉṉa pōtīṉ koṉṟai</l>
+<l>                kuruntō ṭalamvarum peruntaṇ kālaiyuṅ</l>
+<l>                kāraṉ ṟeṉṟi yāyiṟ</l>
+<l>                kaṉavō maṟṟitu viṉavuval yāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>If you are to say “[this] is not the rainy season”,</l>
+           <l rend="indent">even at times when along with<note place="foot">Is this a botanical information? Are these two notoriously flowering at the same time?</note> the wild lemon</l>
+           <l rend="indent">the Laburnum tree is agitated, bringing forth buds, like beads</l>
+           <l rend="indent">on the golden anklets with frogs' voices<note place="foot"><term xml:lang="ta">tavaḷai vāya</term>: the associations connected with the epithet, literally "frog-mouthed", presumably is twofold, namely on the one hand acoustic and on the other poetological. The beads on the anklets sound in moving like the croak of the frogs, and the frogs are associated with the rainy season. Another possibility is to take it as an optical comparison: <term xml:lang="ta">kācu</term> might also be little bells with frog-mouth-shaped slits.</note></l>
+           <l rend="indent">which glittered on the feet of prosperous children</l>
+           <l>– I ask: [is] this just a dream?</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT148">
+    <interp type="alignment" select="0">15MG50MG16MG22MG9MG14M2GMG4MG15MG2M,158M</interp>
+    <entry>
+    <form>celva<pc>+</pc></form>
+    <def>prosperity</def>
+    </entry>
+    <entry>
+    <form>ciṟāar</form>
+    <def>little they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>aṭi<pc>+</pc></form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>polinta</form>
+    <def>glittered-</def>
+    </entry>
+    <entry>
+    <form>tavaḷai</form>
+    <def>frog</def>
+    </entry>
+    <entry>
+    <form>vāya</form>
+    <def>mouth</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>polam</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>cey</form>
+    <def>make-</def>
+    </entry>
+    <entry>
+    <form>kiṇkiṇi<pc>+</pc></form>
+    <def>anklet<note place="foot"><term xml:lang="ta">kiṇkiṇi</term> is presumably an onomatopoeic for something making a tinkling sound on metal. The context allows to identify it here as an ornament worn on the leg. This may be the oldest attestation of the word.</note></def>
+    </entry>
+    <entry>
+    <form>kāciṉ</form>
+    <def>bead</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>īṉ</form>
+    <def>bring forth-</def>
+    </entry>
+    <entry>
+    <form>koṉṟai</form>
+    <def>Laburnum( tree)</def>
+    </entry>
+    <entry>
+    <form>kuruntōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wild lemon with</def>
+    </entry>
+    <entry>
+    <form>alamvarum</form>
+    <def>being agitated-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>kālai-<pc>~</pc>um</form>
+    <def>time</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>is not so</def>
+    </entry>
+    <entry>
+    <form>eṉṟi</form>
+    <def>you say</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āyiṉ</form>
+    <def>if</def>
+    </entry>
+    <entry>
+    <form>kaṉav*-ō-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>dreamō</def>
+    </entry>
+    <entry>
+    <form>itu</form>
+    <def>maṟṟuthis</def>
+    </entry>
+    <entry>
+    <form>viṉavuval</form>
+    <def>I ask</def>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

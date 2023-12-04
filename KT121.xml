@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 121. <persName xml:lang="ta">kapilar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT121-kilavi">
+          <p type="edition">iravukkuṟi varun talaimakaṉ ceyyun kuṟip piṟitu oṉṟiṉāṉ nikaḻntu maṟṟu avaṉ kuṟiyai ottavaḻi avvoppumaiyai meypporuḷāka uṇarntu ceṉṟāḷ āṇṭu avaṉaik kāṇātu talaimakaḷ mayaṅkiyavaḻip piṉṉar avaṉ varavu uṇarttiya tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER to the confidante, who made her realise that he would come on another day, [that is,] when she had got confused because she didn't see him there [where she had awaited him]: she had gone there, because another sign had been given that had been similar to the one he used to give when coming to the night tryst, so that she had mistaken the similarity for the real sign.</p>
+          </div>
+
+
+        <div xml:id="KT121">
+            <lg type="edition">
+<l>                meyyō vāḻi tōḻi cāraṉ</l>
+<l>                maippaṭ ṭaṉṉa māmuka mucukkalai</l>
+<l>                yāṟṟap pāyāt tappa lēṟṟa</l>
+<l>                kōṭṭoṭu pōki yāṅku nāṭaṉ</l>
+<l>                ṟāṉkuṟi vāyāt tappaṟkut</l>
+<l>                tāmpacan taṉaveṉ ṟaṭameṉ ṟōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>
+            <choice>
+                <seg>[Is it] truth<note place="foot"><term xml:lang="ta">mey</term> can either be understood literally as "body" or in a figurative sense as "truth/reality". The variant <term xml:lang="ta">meyyē</term> would have to be taken as an antepositioned exclamation: "[It is] true, oh friend!" or "[My] body, oh friend!"</note>, oh friend?</seg>
+                <seg>[Is this (still) my] body, oh friend?</seg>
+            </choice>
+           </l>
+           <l rend="indent">Because of the mistake
+            <choice>
+                <seg>that he didn't reach the sign,</seg>
+                <seg>of having not jumped in the right way<note place="foot">TVG takes <term xml:lang="ta">āṟṟa</term> as an adverbial derivation from <term xml:lang="ta">āṟu</term>, literally "river, path", but also, in a transferred sense, "right way, conduct". One would like, of course, parallels for such a usage, as well as a general study on the employment of adverbs in these texts.</note>,</seg>
+            </choice>
+           </l>
+           <l rend="indent">the man from a mountain land, like the male langur on the slope,</l>
+           <l rend="indent">black in the face as if full of collyrium<note place="foot">maippaṭṭaṉṉa is literally "as if it had suffered collyrium".</note>,</l>
+           <l rend="indent2">who went down with a branch that was convenient,</l>
+           <l rend="indent">[because of] the mistake of not jumping [one] that bears [him],</l>
+           <l>they have become pale, my full soft shoulders.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT121">
+    <interp type="alignment" select="0">3MG34ML41MG56MG2M,140M</interp>
+    <entry>
+    <form>mey-<pc>+</pc>ō</form>
+    <def>body/truth</def>
+    <form type="simple">mey</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>cāral</form>
+    <def>slope</def>
+    </entry>
+    <entry>
+    <form>mai<pc>+</pc></form>
+    <def>collyrium</def>
+    </entry>
+    <entry>
+    <form>paṭṭaṉṉa</form>
+    <def>happened like</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>mukam</form>
+    <def>face</def>
+    </entry>
+    <entry>
+    <form>mucu<pc>+</pc></form>
+    <def>langur</def>
+    </entry>
+    <entry>
+    <form>kalai</form>
+    <def>male monkey</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṟṟa<pc>+</pc></form>
+    <def>bear</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>pāyā<pc>+</pc></form>
+    <def>spring not</def>
+    </entry>
+    <entry>
+    <form>tappal</form>
+    <def>mistake</def>
+    </entry>
+    <entry>
+    <form>ēṟṟa</form>
+    <def>been convenient-</def>
+    </entry>
+    <entry>
+    <form>kōṭṭoṭu</form>
+    <def>branch with</def>
+    </entry>
+    <entry>
+    <form>pōki-<pc>~</pc>āṅku</form>
+    <def>gone like</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>kuṟi</form>
+    <def>sign</def>
+    </entry>
+    <entry>
+    <form>vāyā<pc>+</pc></form>
+    <def>reach not</def>
+    </entry>
+    <entry>
+    <form>tappaṟku<pc>+</pc></form>
+    <def>mistake</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>tām</form>
+    <def>self</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>pacantaṉa</form>
+    <def>they became pale</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>soft</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

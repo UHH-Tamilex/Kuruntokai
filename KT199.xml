@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 199. <persName xml:lang="ta">paraṇar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT199-kilavi">
+          <p type="edition">tōḻi ceṟippaṟivuṟuppa neñciṟkuk kiḻavaṉ uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HIM to [his] heart when the confidante informed [him] of [HER] confinement.</p>
+          </div>
+          
+
+        <div xml:id="KT199">
+            <lg type="edition">
+<l>                peṟuva tiyaiyā tāyiṉu muṟuvatoṉ</l>
+<l>                ṟuṇṭumaṉ vāḻiya neñcē tiṇṭērk</l>
+<l>                kaivaḷ ḷōri kāṉan tīṇṭi</l>
+<l>                yeṟivaḷi kamaḻu neṟipaṭu kūntaṉ</l>
+<l>                maiyī rōti māa yōḷvayi</l>
+<l>                ṉiṉṟai yaṉṉa naṭpi ṉinnō</l>
+<l>                yiṟumuṟai yeṉavoṉ ṟiṉṟi</l>
+<l>                maṟumai yulakattu maṉṉutal peṟiṉē.</l>
+                
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l rend="indent">Even if it were not to have the enjoyment of getting [her], one thing</l>  
+          <l>it will have for sure – may the heart live –</l>
+          <l>if it will obtain permanence in the world during the next life</l>
+          <l rend="indent">without [that] one thing, namely this destructive kind<note place="foot">How to understand the exact syntax of line 6? I think the traditional interpretation, according to which he will obtain the woman in the next life, is not to the point. Even if <term xml:lang="ta">i nōy</term> is taken as the subject, what is said is simply that he will not before the next life get over the pain she has afflicted him with, and it remains open at least whether pain-free steadiness of the heart is congruent with love fulfilled.</note></l>
+          <l rend="indent">of pain because of intimacy like today's,</l>
+          <l rend="indent">with the dark one with collyrium[-dark], moist tresses,<note place="foot">What is the difference between <term xml:lang="ta">kūntal</term> (line 4) and <term xml:lang="ta">ōti</term> (line 5)? TVG explains that <term xml:lang="ta">ōti</term> is the hair itself, <term xml:lang="ta">kūntal</term> the dressed hair.</note></l>
+          <l rend="indent">hair put into curls<note place="foot">What is the difference between <term xml:lang="ta">neṟi</term> (cf. 116.4, 190.1) and <term xml:lang="ta">neṟi paṭu</term> with reference to the hair? Is one naturally curly hair and the other hair that has been put into curls?</note> which smells, when the wind takes</l>
+          <l rend="indent">[and] tosses [it], of the forest of Ōri, generous of hand</l>
+          <l rend="indent3">and] with firm chariot.</l>
+          <lg type="alternate" resp="#TVG" sameAs="6-8b">
+            <l>if this pain of the friendship will obtain permanence</l>
+            <l>in the world during the next life, as [it has already] today,</l>
+            <l>without [being] something which is called “the transient kind”.</l>
+          </lg>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT199">
+        <interp type="alignment" select="0">7MG7MG12MG3MG4MG13M2G42MR29MG42MG33MG2M,205M</interp>
+        <entry>
+        <form>peṟuvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>obtain it</def>
+        </entry>
+        <entry>
+        <form>iyaiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>enjoy not it</def>
+        </entry>
+        <entry>
+        <form>āyiṉum</form>
+        <def>if even</def>
+        </entry>
+        <entry>
+        <form>uṟuvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>have it</def>
+        </entry>
+        <entry>
+        <form>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>one</def>
+        </entry>
+        <entry>
+        <form>uṇṭu-maṉ</form>
+        <def>it is</def>
+        <form type="simple">uṇṭu</form>
+        <gramGrp type="particle"><form>maṉ</form></gramGrp>
+        </entry>
+        <entry>
+        <form>vāḻiya</form>
+        <def>may live</def>
+        </entry>
+        <entry>
+        <form>neñc*-ē</form>
+        <def>heart</def>
+        <form type="simple">neñcu</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form>tiṇ</form>
+        <def>firm</def>
+        </entry>
+        <entry>
+        <form>tēr<pc>+</pc></form>
+        <def>chariot</def>
+        </entry>
+        <entry>
+        <form>kai</form>
+        <def>hand</def>
+        </entry>
+        <entry>
+        <form>vaḷ</form>
+        <def>generosity</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>ōri</form>
+        <def>Ōri</def>
+        </entry>
+        <entry>
+        <form>kāṉam</form>
+        <def>forest</def>
+        </entry>
+        <entry>
+        <form>tīṇṭi</form>
+        <def>gripped</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṟi</form>
+        <def>throw-</def>
+        </entry>
+        <entry>
+        <form>vaḷi</form>
+        <def>wind</def>
+        </entry>
+        <entry>
+        <form>kamaḻum</form>
+        <def>being fragrant-</def>
+        </entry>
+        <entry>
+        <form>neṟi</form>
+        <def>curl-</def>
+        </entry>
+        <entry>
+        <form>paṭu</form>
+        <def>happen-</def>
+        </entry>
+        <entry>
+        <form>kūntal</form>
+        <def>tresses</def>
+        </entry>
+        <entry>
+        <form>mai</form>
+        <def>collyrium</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>īr</form>
+        <def>moistness</def>
+        </entry>
+        <entry>
+        <form>ōti</form>
+        <def>hair</def>
+        </entry>
+        <entry>
+        <form>māayōḷ-vayiṉ</form>
+        <def>black she at</def>
+        </entry>
+        <entry>
+        <form>iṉṟai</form>
+        <def>today</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṉṉa</form>
+        <def>like</def>
+        </entry>
+        <entry>
+        <form>naṭpiṉ</form>
+        <def>intimacy</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>i<pc>+</pc></form>
+        <def>this-</def>
+        </entry>
+        <entry>
+        <form>nōy</form>
+        <def>pain</def>
+        </entry>
+        <entry>
+        <form>iṟu</form>
+        <def>break-</def>
+        </entry>
+        <entry>
+        <form>muṟai</form>
+        <def>kind</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉa</form>
+        <def>say</def>
+        <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+        <form><pc>~</pc>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>one</def>
+        </entry>
+        <entry>
+        <form>iṉṟi</form>
+        <def>without</def>
+        </entry>
+        <entry>
+        <form>maṟumai</form>
+        <def>next life</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ulakattu</form>
+        <def>world-</def>
+        </entry>
+        <entry>
+        <form>maṉṉutal</form>
+        <def>being permanent</def>
+        </entry>
+        <entry>
+        <form>peṟiṉ-ē</form>
+        <def>obtain if</def>
+        <form type="simple">peṟiṉ</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

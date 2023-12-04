@@ -16,16 +16,17 @@
             </summary>
           </msContents>    
         </msDesc>
-    
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
       </sourceDesc>
     </fileDesc>
-<revisionDesc/>
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
         <div xml:id="KT12-kilavi">
           <p type="edition">āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she might not have the strength in the time of separation.</p>
+          <p type="translation" xml:lang="en">Declared by HER to the confidante who was anxious she might not have the strength.</p>
           </div>
 
         <div xml:id="KT12">
@@ -37,17 +38,19 @@
 <l>                yatumaṟ ṟavalaṅ koḷḷātu</l>
 <l>                notumaṟ kaḻaṟumiv vaḻuṅka lūrē.</l>
             </lg>
-        
             <lg type="translation" xml:lang="en">
 <l>The way his chariot has gone, they say, has crossroads</l>
 <l rend="indent">where hunters with bent bows sharpen arrows,</l>
 <l rend="indent">climbing on rocks [hot] as the stone of a smithy</l>
-<l rend="indent2">with many pools tiny as ant holes.</l>
+<l rend="indent">with many pools tiny as ant holes.</l>
 <l rend="indent">Without taking in just that is troubling,</l>
-    
-
-        
-      </lg>
+<l>
+    <choice>
+        <seg>this noisy village murmurs indifferent things.</seg>
+        <seg>this noisy village, declaring indifference!<note place="foot">The formulation <term xml:lang="ta">notumal kaḻaṟum</term> is not unequivocal and seems to have created problems, if the variants are considered. Firstly it is possible to understand "... talks this ... village about indifferent things" (i.e. things having nothing to do with HIM). This interpretation is called for with the variant <term xml:lang="ta">notumaṟ kaluḻum</term> "... is this ... village sad about indifferent things". More difficult is the other variant, <term xml:lang="ta">notumalar kaḻuṟum</term>. This might be read either as an exclamation: "this ... village, where strangers are talking", that is, people strange to HER and her sorrow. It might also be understood as an allusion to the topos of the threatening marriage with strangers: "... talks this ... village about strangers" (as possible candidates for marrying HER).</note></seg>
+    </choice>
+</l>
+            </lg>
         </div>
     </body>
   </text>
@@ -55,7 +58,7 @@
     <interp type="alignment" select="0">87MG20M2G5MG4MG39MG2M,163M</interp>
     <entry>
     <form>eṟumpi</form>
-    <def>ant</def>
+    <def>ant<note place="foot"><term xml:lang="ta">eṟumpi</term> is to be understood as a rare deviation (here and AN 377.3) from the common erumpu "ant". <term xml:lang="ta">erumpiṉ</term> would be smoother but is clearly the lectio facilior.</note></def>
     </entry>
     <entry>
     <form><pc>~</pc>aḷaiyiṉ</form>
@@ -73,7 +76,7 @@
     <entry>
     <form>cuṉaiya</form>
     <def>mountain pool</def>
-    <gramGrp type="affix"><form>a</form></gramGrp>
+    <gramGrp type="affix"><form>a<note place="foot">Many of the numerous nominal derivations ending in -a can be explained neither by a suffix of genitive plural (Lehmann 1994: 47), nor as verbal nouns in neuter plural (Rajam 1993 et.al.). Much more likely, however, is a suffix forming adjectives (as has already been suggested by Srinivasan 1977: 205. References: KT 12.1, 193.2 (<term xml:lang="ta">cuṉaiya</term>), 25.3 (<term xml:lang="ta">kāla</term>), 89.1 (<term xml:lang="ta">urala</term>), 92.3 (<term xml:lang="ta">marāatta</term>), 110.2,3 (<term xml:lang="ta">nīra</term>, <term xml:lang="ta">putala</term>), 114.4 (<term xml:lang="ta">vayiṟṟa</term>), 138.3 (<term xml:lang="ta">ilaiya</term>), 144.1 (<term xml:lang="ta">kaṭala</term>, <term xml:lang="ta">kaḻiya</term>), 148.2 (<term xml:lang="ta">vāya</term>), 183.1 (<term xml:lang="ta">nāṭṭa</term>), 186.2 (<term xml:lang="ta">puṉatta</term>), 197.2 (<term xml:lang="ta">karuviya</term>), 198.2 (<term xml:lang="ta">mutala</term>).</note></form></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>ulai<pc>+</pc></form>
@@ -138,14 +141,15 @@
     <def>gone-</def>
     </entry>
     <entry>
-    <form><pc>~</pc>āṟ*-ē</form>
+    <form><pc>~</pc>āṟ<pc>*</pc>ē</form>
     <def>way</def>
     <form type="simple">āṟu</form>
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>atu-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>thatmaṟṟu</def>
+    <def>that</def>
+    <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
     </entry>
     <entry>
     <form>avalam</form>
@@ -153,7 +157,7 @@
     </entry>
     <entry>
     <form>koḷḷātu</form>
-    <def>take not</def>
+    <def>take not<note place="foot">Here <term xml:lang="ta">koḷ</term> is employed as an embedding verb instead of <term xml:lang="ta">eṉ</term>, concluding a sentence of direct speech in which the predicate noun is marked by the restrictive particle <term xml:lang="ta">maṟṟu</term>.</note></def>
     </entry>
     <entry>
     <form>notumal</form>
@@ -161,7 +165,7 @@
     </entry>
     <entry>
     <form>kaḻaṟum</form>
-    <def>murmuring-</def>
+    <def>murmuring-<note place="foot"><term xml:lang="ta">kaḻaṟu</term> is a slightly problematic lexical item. According to DEDR 1354 it is nothing but "to thunder", but its use in the KT shows quite clearly that it is meant as a kind of incessant talking – which is in one case (KT 158.2) metaphorically transferred to thunder.</note></def>
     </entry>
     <entry>
     <form>i<pc>+</pc></form>
@@ -178,4 +182,4 @@
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     </standOff>
-  </TEI>
+    </TEI>

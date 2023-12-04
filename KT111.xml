@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 111. <persName xml:lang="ta">tīṉmiti (tīṉmati) nākaṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT111-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ vēṟupāṭu kaṇṭu veṟiyeṭuppak (C5: veṟiyeṭukkak) karutiya tāyatu nilaimai talaimakaṭkuc colluvāḷāyt talaivaṉ ciṟaippuṟamākat tōḻi kūṟiyatu (C5, EA: talaimakaṉ ca. colliyatu).</p>
+          <p type="translation" xml:lang="en">Uttered by the confidante, when HE was behind the hedge, as if talking to HER about the state of the mother who intended to exorcise the deity at the sight of HER changes, when [he] delayed marriage.</p>
+          </div>
+          
+
+
+        <div xml:id="KT111">
+            <lg type="edition">
+<l>                meṉṟō ṇekiḻtta cellal vēlaṉ</l>
+<l>                veṉṟi neṭuvē ḷeṉṉu maṉṉaiyu</l>
+<l>                matuveṉa vuṇaru māyi ṉāyiṭaik</l>
+<l>                kūḻai yirumpiṭik kaikaran taṉṉa</l>
+<l>                kēḻirun tuṟukaṟ ceḻumalai nāṭaṉ</l>
+<l>                vallē varuka tōḻinam</l>
+<l>                millōr perunakai kāṇiya ciṟitē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Quickly he may come, friend,</l>
+           <l>the man from the mountain land ample in lustrous dark thick stones</l>
+           <l rend="indent">like short, dark, elephant cows hiding [their] trunks,</l>
+           <l rend="indent">
+            <choice>
+                <seg>in order to see a little of the great laughter among those in our house</seg>
+                <seg>in order to see a little of the big joke that it wouldn't be him for us,<note place="foot">The rendering 7b is supported by the variant, allōr, which can only be understood as a negation with al. It is, however, a little strange from the syntactical point of view; one would expect an inserted eṉa – if it is not just the ambiguity of the phrase that has been wanted. (Moreover it would be possible to read the illōr/allōr as an unmarked direct object to a still strongly verbal and transitive nakai: "the laughter about the one who is it not".)</note></seg>
+            </choice>
+           </l>
+           <l rend="indent">on the occasion<note place="foot">The syntax of lines 1-3 is not so easy to explain. My proposition is to read <term xml:lang="ta">vēlaṉ eṉṉum + aṉṉai uṇarum</term> as dependent on <term xml:lang="ta">āyiṉ āyiṭai</term> (parallel construction: subject plus habitual future positioned at the end of the preceding line), and connected by <term xml:lang="ta">-um</term>. And the whole is described at not yet having happened, that is, at a time when the <term xml:lang="ta">vēlaṉ</term> is awaited in the house.</note> of the priest's saying about the distress that</l>
+           <l rend="indent">emaciated the soft shoulder:</l>
+           <l rend="indent3">“[it is] Murukaṉ<note place="foot">An additional irony lies in the choice of the word <term xml:lang="ta">vēḷ</term> as a designation of Murukaṉ, a word etymologically meaning "desire", and thus containing the "correct solution", which nevertheless escapes the notice of the mother.</note>, long [be his] victory”,</l>
+           <l rend="indent3">and mother realises<note place="foot">The use of the word <term xml:lang="ta">uṇar-tal</term> is difficult to explain here, since the meaning is not that the mother at least understands the truth, but that she believes in the wrong judgement of the priest (the reason why the people of the house laugh). So the sentence has to be read from the perspective of the mother who believes to have an insight.</note>: That['s it].</l>
+        
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT111">
+    <interp type="alignment" select="0">6ML40MG128M2G2M,180M</interp>
+    <entry>
+    <form>meṉ</form>
+    <def>soft</def>
+    </entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    </entry>
+    <entry>
+    <form>nekiḻtta</form>
+    <def>loosened-</def>
+    </entry>
+    <entry>
+    <form>cellal</form>
+    <def>distress</def>
+    </entry>
+    <entry>
+    <form>vēlaṉ</form>
+    <def>spear he</def>
+    </entry>
+    <entry>
+    <form>veṉṟi</form>
+    <def>victory</def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>vēḷ</form>
+    <def>desire/Murukaṉ</def>
+    </entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>saying-</def>
+    </entry>
+    <entry>
+    <form>aṉṉai-<pc>~</pc>um</form>
+    <def>mother</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>atu</form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṇarum</form>
+    <def>realizing-</def>
+    </entry>
+    <entry>
+    <form>āyiṉ</form>
+    <def>if</def>
+    </entry>
+    <entry>
+    <form>āyiṭai<pc>+</pc></form>
+    <def>at that time</def>
+    </entry>
+    <entry>
+    <form>kūḻai</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>piṭi<pc>+</pc></form>
+    <def>elephant</def>
+    <gram type="role">feminine</gram>
+    </entry>
+    <entry>
+    <form>kai</form>
+    <def>hand</def>
+    </entry>
+    <entry>
+    <form>karantaṉṉa</form>
+    <def>hidden like</def>
+    </entry>
+    <entry>
+    <form>kēḻ</form>
+    <def>lustre</def>
+    </entry>
+    <entry>
+    <form>irum</form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>tuṟu</form>
+    <def>thick</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form>ceḻu</form>
+    <def>ample</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>vallē</form>
+    <def>strong<note place="foot"><term xml:lang="ta">vallē</term>: one of the rarer function of <term xml:lang="ta">-ē</term> is the formation of adverbs.</note></def>
+    <form type="simple">vall</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varuka</form>
+    <def>may come</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>us-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>illōr</form>
+    <def>house they(h.)/not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>peru</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>nakai</form>
+    <def>joke</def>
+    </entry>
+    <entry>
+    <form>kāṇiya</form>
+    <def>see</def>
+    </entry>
+    <entry>
+    <form>ciṟit*-ē</form>
+    <def>little it</def>
+    <form type="simple">ciṟitu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 188. <persName xml:lang="ta">maturai aḷakkar nāḻār (C1: vaḷakkar ñāḻār) makaṉa(ār) maḷḷaṉa(ār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT188-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta kiḻatti tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to the confidante by HER who is desolate at the sight of the season.</p>
+          </div>
+          
+
+        <div xml:id="KT188">
+            <lg type="edition">
+<l>                mukaimuṟ ṟiṉavē mullai mullaiyoṭu</l>
+<l>                takaimuṟ ṟiṉavē taṇkār viyaṉpuṉam</l>
+<l>                vāliḻai nekiḻttōr vārār</l>
+<l>                mālai vantaṉṟeṉ māṇalaṅ kuṟittē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+     <l>The jasmine buds are fully grown.</l>
+     <l rend="indent4">With the jasmine,</l>
+     <l>the splendour<note place="foot"><term xml:lang="ta">takai muṟṟiṉa</term> is actually plural – is this just for the sake of parallelism or does it mean: the different glorious aspects have reached a climax? Moreover, is <term xml:lang="ta">takai</term> just something like "splendour", or is there a note of destination: the jasmine as the epitome of the rainy season?</note> is fully grown on the wide fields in the rainy season.</l>
+     <l>He who has loosened [my] pure ornaments has not come.</l>
+     <l>Evening has come for<note place="foot">Or does <term xml:lang="ta">kuṟittu</term> say more than this? Srin. thinks, with Cām., that the evening aims at HER <term xml:lang="ta">nalam</term>.</note> my precious beauty.</l>
+           </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT188">
+    <interp type="alignment" select="0">12MG30MG51MG5ML10M2G2M,116M</interp>
+    <entry>
+    <form>mukai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>muṟṟiṉa-<pc>~</pc>ē</form>
+    <def>they matured</def>
+    <form type="simple">muṟṟiṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>mullaiyoṭu</form>
+    <def>jasmine with</def>
+    </entry>
+    <entry>
+    <form>takai</form>
+    <def>fitting</def>
+    </entry>
+    <entry>
+    <form>muṟṟiṉa-<pc>~</pc>ē</form>
+    <def>they matured</def>
+    <form type="simple">muṟṟiṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>viyal</form>
+    <def>width</def>
+    </entry>
+    <entry>
+    <form>puṉam</form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form>vāl</form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>iḻai</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form>nekiḻttōr</form>
+    <def>loosened he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it came</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>māṇ</form>
+    <def>glory</def>
+    </entry>
+    <entry>
+    <form>nalam</form>
+    <def>goodness</def>
+    </entry>
+    <entry>
+    <form>kuṟitt*-ē</form>
+    <def>intended</def>
+    <form type="simple">kuṟittu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

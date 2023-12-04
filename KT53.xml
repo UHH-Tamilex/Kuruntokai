@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 53. <persName xml:lang="ta">kōpperuñcōḻaṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT53-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻit tōḻi talaimakaṟku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to HIM by the confidante when [he] delayed marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT53">
+            <lg type="edition">
+<l>                emmaṇaṅ kiṉavē makiḻna muṉṟi</l>
+<l>                ṉaṉaimutir puṉkiṉ pūttāḻ veṇmaṇal</l>
+<l>                vēlaṉ puṉainta veṟiyayar kaḷantoṟuñ</l>
+<l>                cennel vāṉpori citaṟi yaṉṉa</l>
+<l>                vekkar naṇṇiya vemmūr viyaṉṟuṟai</l>
+<l>                nēriṟai muṉkai paṟṟic</l>
+<l>                cūrara makaḷirō ṭuṟṟa cūḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>The oaths made in front of<note place="foot"><term xml:lang="ta">-oṭu</term> must be understood here in the sense of "in the presence of". Another possibility (D.G.) would be "together [with the names of] awe-inspiring celestial damsels". Unfortunately we do not even know whether they have names.</note> dreadful celestial women,</l>
+             <l>tormented us, delightful man,</l>
+             <l rend="indent">when you had grasped [my] forearm with tender joints</l>
+             <l rend="indent">at the wide ghat of our village close to the dunes</l>
+             <l rend="indent">with white sand, on which hang down the flowers of the Puṉku</l>
+             <l rend="indent4">with ripe buds</l>
+             <l rend="indent">in the front-yard, like bright grains together with red rice<note place="foot"><term xml:lang="ta">cennel</term> is explained by TVG (as by Cām.) to be not red rice but a particular sort of rice (an especially good one). Is it possible that the gist of the image is that red flowers are coming down into the white sand just as on the Veṟi ground red rice contrasts with bright corn? But to make an argument out of that one would have to know the colour of Puṉku blossoms.</note>,</l>
+             <l rend="indent">strewn in all grounds where [they] dance the Veṟi<note place="foot">It is difficult to tell whether <term xml:lang="ta">ayar</term> is used here in a semantically strong sense, or rather as a copula for the Veṟi dance, i.e. a floor for the Veṟi.</note>,</l>
+             <l rend="indent2">
+                <choice>
+                    <seg>practised</seg>
+                    <seg>adorned</seg>
+                </choice>
+                by Murukaṉ's priest.<note place="foot"><term xml:lang="ta">puṉai</term> otherwise is clearly used in the sense of "adorn", so perhaps puṉainta should not be connected with the dance, but with the place.</note>
+             </l>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT53">
+    <interp type="alignment" select="0">11MG15ML56MG92MG7MG2M,188M</interp>
+    <entry>
+    <form>em</form>
+    <def>us-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aṇaṅkiṉa-<pc>~</pc>ē</form>
+    <def>they tormented</def>
+    <form type="simple">aṇaṅkiṉa</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>makiḻna</form>
+    <def>delight he(?)</def>
+    </entry>
+    <entry>
+    <form>muṉṟil</form>
+    <def>front yard</def>
+    </entry>
+    <entry>
+    <form>naṉai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>mutir</form>
+    <def>ripen</def>
+    </entry>
+    <entry>
+    <form>puṉkiṉ</form>
+    <def>Puṉku( tree)</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>tāḻ</form>
+    <def>hang down-</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>maṇal</form>
+    <def>sand</def>
+    </entry>
+    <entry>
+    <form>vēlaṉ</form>
+    <def>spear he</def>
+    </entry>
+    <entry>
+    <form>puṉainta</form>
+    <def>adorned-/practised-</def>
+    </entry>
+    <entry>
+    <form>veṟi</form>
+    <def>Veṟi dance</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ayar</form>
+    <def>engage-</def>
+    </entry>
+    <entry>
+    <form>kaḷam-toṟum</form>
+    <def>floor ever</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>nel</form>
+    <def>rice</def>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>pori</form>
+    <def>grain</def>
+    </entry>
+    <entry>
+    <form>citaṟiyaṉṉa</form>
+    <def>strewn like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ekkar</form>
+    <def>dune</def>
+    </entry>
+    <entry>
+    <form>naṇṇiya</form>
+    <def>situated-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>viyal</form>
+    <def>wideness</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>nēr</form>
+    <def>fineness</def>
+    </entry>
+    <entry>
+    <form>iṟai</form>
+    <def>joint</def>
+    </entry>
+    <entry>
+    <form>muṉkai</form>
+    <def>forearm</def>
+    </entry>
+    <entry>
+    <form>paṟṟi<pc>+</pc></form>
+    <def>grasped</def>
+    </entry>
+    <entry>
+    <form>cūrara</form>
+    <def>fear/deity</def>
+    </entry>
+    <entry>
+    <form>makaḷirōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>celestial damsels<note place="foot">cūrara makaḷir: instead of postulating an adjective ara celestial (with a dubious etymology to Skt. amara- "immortal") another reading of the text might be considered here, namely cūrar makaḷir (as the puḷḷi is usually absent in the manuscripts the burden of interpretation is that of the editor in any case). That would be the "women inspiring fear" and might be read as an explication of the more frequent cūr without further qualification (see note on KT 52.2).</note> with</def>
+    </entry>
+    <entry>
+    <form>uṟṟa</form>
+    <def>had-</def>
+    </entry>
+    <entry>
+    <form>cūḷ-ē</form>
+    <def>oath</def>
+    <form type="simple">cūḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 16. <persName xml:lang="ta">Pālaipāṭiya Peruṅkaṭuṅkō</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT16-kilavi">
+          <p type="edition">poruḷvayiṟ pirintaviṭattut talaimakaḷ āṟṟāmai kaṇṭu tōḻi kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by the confidante on seeing HER lack of strength when [he] separated for [the search of] wealth.</p>
+          </div>
+
+        <div xml:id="KT16">
+            <lg type="edition">
+<l>                uḷḷār kollō tōḻi kaḷvartam</l>
+<l>                poṉpuṉai pakaḻi ceppaṅ koṇmā</l>
+<l>                rukirnuti puraṭṭu mōcai pōlac</l>
+<l>                ceṅkāṟ palli taṉṟuṇai payiru</l>
+<l>                maṅkāṟ kaḷḷiyaṅ kāṭiṟan tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Won't he remember, friend,</l>
+                <l>he who has traversed the wilderness of fine-trunked Kaḷḷi trees</l>
+                <l rend="indent">where the red-legged gecko is calling its mate</l>
+                <l rend="indent">with a sound like that of robbers turning(?)<note place="foot">The exact syntax and meaning of <term xml:lang="ta">ukir nuti puraṭṭum ōcai</term> is unclear, and unfortunately this is the only occurrence of this verb in the <term xml:lang="ta">Eṭṭuttokai</term>.</note></l>
+                <l rend="indent4">between the tips of [their] nails</l>
+                <l rend="indent">their arrows adorned with gold(?)<note place="foot">Thus a literal translation of <term xml:lang="ta">poṉpuṉai</term>. Cām. glosses here <term xml:lang="ta">irumpiṉāṟ ceyyapaṭṭa</term> "made of iron" – which is quite unlikely as arrows will have to fly and iron is too heavy. But perhaps what should be thought of is "armed with metal", for instance the tip of the arrow.</note> to get them ready?</l>
+
+
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT16">
+    <interp type="alignment" select="0">5MG111MG7MG2M,128M</interp>
+    <entry>
+    <form>uḷḷār-kollō</form>
+    <def>remember not he</def>
+    <form type="simple">uḷḷār</form>
+    <gram type="role">honorific<note place="foot"><term xml:lang="ta">uḷḷar</term> – <term xml:lang="ta">iṟantōr</term>: while in the root <term xml:lang="ta">uḷ</term> "remember" the second root <term xml:lang="ta">uḷ</term> "be" reverberates (different flection) and evokes a sub-tone of anxiety whether he is still alive after all, in the root <term xml:lang="ta">iṟa</term> "traverse" there also is a connotation of traversing in the sense of dying (cf. iṟanta in KT 297.3).</note></gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>kaḷvar</form>
+    <def>robber</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tam</form>
+    <def>own-</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>puṉai</form>
+    <def>adorn-</def>
+    </entry>
+    <entry>
+    <form>pakaḻi</form>
+    <def>arrow</def>
+    </entry>
+    <entry>
+    <form>ceppam</form>
+    <def>fitness</def>
+    </entry>
+    <entry>
+    <form>koṇmār</form>
+    <def>take</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>ukir</form>
+    <def>nail</def>
+    </entry>
+    <entry>
+    <form>nuti</form>
+    <def>tip</def>
+    </entry>
+    <entry>
+    <form>puraṭṭum</form>
+    <def>turning-</def>
+    </entry>
+    <entry>
+    <form>ōcai</form>
+    <def>sound</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>palli</form>
+    <def>gecko</def>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form>tuṇai</form>
+    <def>companion</def>
+    </entry>
+    <entry>
+    <form>payirum</form>
+    <def>calling-</def>
+    </entry>
+    <entry>
+    <form>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>kaḷḷiyam</form>
+    <def>Kaḷḷi( tree)</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wilderness</def>
+    </entry>
+    <entry>
+    <form>iṟantōr-ē</form>
+    <def>traversed he</def>
+    <form type="simple">iṟantōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+    
+</TEI>

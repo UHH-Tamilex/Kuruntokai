@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 77. <persName xml:lang="ta">maturai marutaṉ iḷanākaṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT77-kilavi">
+          <p type="edition">piriviṉkaṇ āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT77">
+            <lg type="edition">
+<l>                amma vāḻi tōḻi yāvatun</l>
+<l>                tavaṟeṉiṟ ṟavaṟō vilavē veñcurat</l>
+<l>                tulanta vampala ruvaliṭu patukkai</l>
+<l>                neṭunal yāṉaik kiṭuniḻa lāku</l>
+<l>                mariya kāṉañ ceṉṟōrk</l>
+<l>                keḷiya vākiya taṭameṉ ṟōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l rend="indent">Alas, oh friend, if [you] say:</l>
+          <l>somehow they are mistaken,</l>
+          <l>[my] broad, tender shoulders that have become [too] easy<note place="foot">In this interpretation of <term xml:lang="ta">eḷiya</term> I follow Chevillard 1996:73, against the traditional understanding as "emaciated" (<term xml:lang="ta">melintavaṉa ākiya</term> in Cām.'s gloss). Parallels such as KT 269.8 (where SHE is easy to have, since her parents are out of the house) are unequivocally in its favour.</note></l>
+          <l rend="indent">for him who has gone to the difficult forests</l>
+          <l rend="indent">where the stone-heap piled with leaves for the dead traveller</l>
+          <l rend="indent">gives some shade to the large good elephant in the hot desert</l>
+          <l rend="indent3">– they are rather not mistaken.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT77">
+    <interp type="alignment" select="0">17M2G7MG9M2G5MG11MG43MG30MG21MG2M,155M</interp>
+    <entry>
+    <form>amma</form>
+    <def></def>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>yāvat*-um</form>
+    <def>anything</def>
+    </entry>
+    <entry>
+    <form>tavaṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>mistake</def>
+    </entry>
+    <entry>
+    <form>eṉiṉ</form>
+    <def>say if</def>
+    </entry>
+    <entry>
+    <form>tavaṟ*-ō</form>
+    <def>mistake</def>
+    <form type="simple">tavaṟu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ila-<pc>~</pc>ē</form>
+    <def>are not</def>
+    <form type="simple">ila</form>
+    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">ila</term>: n.pl., can be connected either with <term xml:lang="ta">tavaṟu</term> or with <term xml:lang="ta">tōḷ</term>.</note></gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vem</form>
+    <def>hot</def>
+    </entry>
+    <entry>
+    <form>curatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>desert-</def>
+    </entry>
+    <entry>
+    <form>ulanta</form>
+    <def>died-</def>
+    </entry>
+    <entry>
+    <form>vampalar</form>
+    <def>traveller(h.)(?)<note place="foot">Is <term xml:lang="ta">vampalaṉ</term> really ambiguous and does it designate the traveller as well as the highwayman who attacks him? Literally it should just mean "new-comer".</note></def>
+    </entry>
+    <entry>
+    <form>uval</form>
+    <def>foliage</def>
+    </entry>
+    <entry>
+    <form>iṭu</form>
+    <def>place-</def>
+    </entry>
+    <entry>
+    <form>patukkai</form>
+    <def>(stone-)heap<note place="foot"><term xml:lang="ta">patukkai</term>: for an explanation why this is, contrary to the traditional explanation, rather a "stone-heap" than a "leaf-heap" see note on KT 297.4.</note></def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>yāṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>elephant</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>iṭu</form>
+    <def>place-</def>
+    </entry>
+    <entry>
+    <form>niḻal</form>
+    <def>shade</def>
+    </entry>
+    <entry>
+    <form>ākum</form>
+    <def>becoming-</def>
+    </entry>
+    <entry>
+    <form>ariya</form>
+    <def>difficult they</def>
+    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">aṟiya</term>: just as with <term xml:lang="ta">tamiya</term> (KT 9.2), it might be preferable to read an adjective derivation in the sg., though it is tempting to see the parallel construction <term xml:lang="ta">aṟiya kāṉam – eḷiya</term> ... <term xml:lang="ta">tōḷ</term>.</note></gram>
+    </entry>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>ceṉṟōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>gone he</def>
+    <gram type="role">honorific dative</gram>
+    </entry>
+    <entry>
+    <form>eḷiya</form>
+    <def>light they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ākiya</form>
+    <def>become-<note place="foot"><term xml:lang="ta">eḷiya ākiya</term>: of a kind that have become thin? Or a predication, like Sanskrit <i>bhavati</i>?</note></def>
+    </entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

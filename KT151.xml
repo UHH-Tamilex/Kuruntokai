@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 151. <persName xml:lang="ta">tūṅkalōri (C1: cāṅkalōri)</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT151-kilavi">
+          <p type="edition">poruḷ valikkappaṭṭa neñciṟkut talaimakaṉ (C5: talaivaṉ) colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HIM to his heart that was keen on wealth.</p>
+          </div>
+
+
+        <div xml:id="KT151">
+            <lg type="edition">
+<l>                vaṅkāk kaṭanta ceṅkāṟ pēṭai</l>
+<l>                yeḻāluṟa vīḻnteṉak kaṇavaṟ kāṇātu</l>
+<l>                kuḻalicaik kurala kuṟumpala vakavuṅ</l>
+<l>                kuṉṟukeḻu ciṟuneṟi yariya veṉṉātu</l>
+<l>                maṟapparuṅ kātali yoḻiya</l>
+<l>                viṟappa leṉpatīṇ ṭiṉmaikku muṭivē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Here<note place="foot"><term xml:lang="ta">īṇṭu</term> "here" can be used like Skt. iha as a particle of universalisation (cf. Srinivasan 1967: 194 n. 131).</note> [is] the end to destitution</l>
+           <l rend="indent3">– to say: I traverse<note place="foot">Unclear is whether <term xml:lang="ta">ciṟu neṟi</term> has to be taken as a direct object to iṟappal</term>. An elliptical statement is equally possible, which would mean to supplement one of the usual direct objects of <term xml:lang="ta">iṟa-ttal</term> like <term xml:lang="ta">kāṭu</term> and to understand the <term xml:lang="ta">eṉṉātu</term> sentence as a further qualification.</note>,</l>
+           <l rend="indent">while [my] love, who is difficult to forget, stays behind,</l>
+           <l rend="indent">without saying they are difficult, the small hilly ways</l>
+           <l rend="indent">where the red-legged female left behind by the Vaṅkā bird</l>
+           <l rend="indent">is calling many short flute-sound voiced [notes],</l>
+           <l rend="indent">without seeing [her] husband,</l>
+           <l rend="indent2">because the Eḻāl bird has descended to take her.
+            <note place="foot">
+                ... because
+                <choice>
+                    <seg>she</seg>
+                    <seg>he</seg>
+                </choice>
+                has fallen so that the Eḻāl bird will take
+                <choice>
+                    <seg>[her]</seg>
+                    <seg>[him]<note place="foot">So in this case she would call out in fear for him.</note></seg>
+                </choice>   
+            </note>
+           </l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT151">
+    <interp type="alignment" select="0">122MG29MG3MG13M2G2M,174M</interp>
+    <entry>
+    <form>vaṅkā<pc>+</pc></form>
+    <def>Vaṅkā( bird)</def>
+    </entry>
+    <entry>
+    <form>kaṭanta</form>
+    <def>left behind-<note place="foot"><term xml:lang="ta">kaṭa</term> is not easy to understand in this context. Literally (DEDR 1109) it is something like "to overcome". The further construction here with <term xml:lang="ta">eḻāl uṟa</term>, though, gives rise to the presupposition that the female bird is further specified by <term xml:lang="ta">vaṅkā</term>, so that "overcome" as a meaning can be excluded, if one does not want to surmise that an unspecified kind of bird is subject to attacks from two enemies.</note></def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>leg</def>
+    </entry>
+    <entry>
+    <form>pēṭai</form>
+    <def>female bird</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eḻāl</form>
+    <def>Eḻāl( bird)</def>
+    </entry>
+    <entry>
+    <form>uṟa</form>
+    <def>have</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vīḻnteṉa<pc>+</pc></form>
+    <def>fallen say</def>
+    </entry>
+    <entry>
+    <form>kaṇavaṉ</form>
+    <def>husband</def>
+    </entry>
+    <entry>
+    <form>kāṇātu</form>
+    <def>see not</def>
+    </entry>
+    <entry>
+    <form>kuḻal</form>
+    <def>flute</def>
+    </entry>
+    <entry>
+    <form>icai<pc>+</pc></form>
+    <def>sound</def>
+    </entry>
+    <entry>
+    <form>kurala</form>
+    <def>voice</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kuṟum</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>pala</form>
+    <def>many</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akavum</form>
+    <def>calling-</def>
+    </entry>
+    <entry>
+    <form>kuṉṟu</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>neṟi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ariya</form>
+    <def>difficult they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉṉātu</form>
+    <def>say not</def>
+    </entry>
+    <entry>
+    <form>maṟapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>forgetting</def>
+    </entry>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>kātali</form>
+    <def>lover</def>
+    <gram type="role">feminine</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḻiya</form>
+    <def>stay behind</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟappal</form>
+    <def>I traverse</def>
+    </entry>
+    <entry>
+    <form>eṉpat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>saying it</def>
+    </entry>
+    <entry>
+    <form>īṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>iṉmaikku</form>
+    <def>destitution</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>muṭiv*-ē</form>
+    <def>end</def>
+    <form type="simple">muṭivu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

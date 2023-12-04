@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 183. <persName xml:lang="ta">avvaiyār (auvaiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT183-kilavi">
+          <p type="edition">paruva varaviṉkaṇ āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
+          </div>
+
+
+        <div xml:id="KT183">
+            <lg type="edition">
+<l>                ceṉṟa nāṭṭa koṉṟaiyam pacuvī</l>
+<l>                nampōṟ pacakkuṅ kālait tampōṟ</l>
+<l>                ciṟutalaip piṇaiyiṟ ṟīrnta neṟikōṭ</l>
+<l>                ṭiralai māṉaiyuṅ kāṇparko ṉamarē</l>
+<l>                pulleṉ kāyāp pūkkeḻu peruñciṉai</l>
+<l>                meṉmayi leruttiṟ ṟōṉṟuṅ</l>
+<l>                kāṉa vaippiṟ puṉpulat tāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">In a time when like us the fresh Laburnum flowers</l>
+           <l rend="indent">are fading in the land where he has gone,</l>
+           <l>does he, our man, also see an Iralai stag</l>
+           <l rend="indent">with curled horns that, like himself, has left [his] small-headed doe,</l>
+           <l rend="indent">in the grassy fields<note place="foot"><term xml:lang="ta">puṉpulam</term> can either be understood as "grass ground" (the first element taken literally, the second in a transferred sense) or as "meagre soil" (<term xml:lang="ta">pulam</term> literally, but <term xml:lang="ta">puṉ</term> "low" in the sense of "worthless"). Since the cows graze in the woodlands and less productive fields are cultivated there, both appear possible. The second variant changes the sequence of the characterisation: "in the forest in an area of grassy grounds/meagre fields".</note> in the forest region,</l>
+           <l rend="indent">where the big twigs full of flowers of the ironwood tree, plain<note place="foot">What is expressed by the comparison? Are the <term xml:lang="ta">kāyā</term> flowers blue like a peacock's neck? And why is the ironwood tree pul? Is it still leafless, so that the flowers are its only decoration? Or is this to be understood, with the tradition, that the comparison alludes to the time before the rainy season: compared to the Laburnum blossoms flowering now (and fading again already!) the earlier ironwood tree flowers seem measly?</note>,</l>
+           <l rend="indent">appear like tender peacock necks?</l>
+           </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT183">
+    <interp type="alignment" select="0">83MG11MG9MG3ML4MG54MG18MG2M,191M</interp>
+    <entry>
+    <form>ceṉṟa</form>
+    <def>gone</def>
+    </entry>
+    <entry>
+    <form>nāṭṭa</form>
+    <def>land</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>koṉṟaiyam</form>
+    <def>Laburnum( tree)</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>us-</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>pacakkum</form>
+    <def>fading-</def>
+    </entry>
+    <entry>
+    <form>kālai<pc>+</pc></form>
+    <def>time</def>
+    </entry>
+    <entry>
+    <form>tam</form>
+    <def>self-</def>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>talai<pc>+</pc></form>
+    <def>head</def>
+    </entry>
+    <entry>
+    <form>piṇaiyiṉ</form>
+    <def>doe</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tīrnta</form>
+    <def>ended-</def>
+    </entry>
+    <entry>
+    <form>neṟi</form>
+    <def>curl-</def>
+    </entry>
+    <entry>
+    <form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>horn-</def>
+    </entry>
+    <entry>
+    <form>iralai</form>
+    <def>Iralai</def>
+    </entry>
+    <entry>
+    <form>māṉai-<pc>~</pc>um</form>
+    <def>stag</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>kāṇpar-kol</form>
+    <def>he sees</def>
+    <form type="simple">kāṇpar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>namar-ē</form>
+    <def>our he</def>
+    <form type="simple">namar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pulleṉ</form>
+    <def>grass say-</def>
+    </entry>
+    <entry>
+    <form>kāyā<pc>+</pc></form>
+    <def>ironwood tree</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>ciṉai</form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>mayil</form>
+    <def>peacock</def>
+    </entry>
+    <entry>
+    <form>eruttiṉ</form>
+    <def>neck</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing-</def>
+    </entry>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    </entry>
+    <entry>
+    <form>vaippiṉ</form>
+    <def>region</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>puṉ</form>
+    <def>grass/low</def>
+    </entry>
+    <entry>
+    <form>pulattāṉ-ē</form>
+    <def>field</def>
+    <form type="simple">pulattāṉ</form>
+    <gram type="role">locative</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

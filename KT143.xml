@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 143. <persName xml:lang="ta">maturai kaṇakkāyaṉ makaṉ nakkīraṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT143-kilavi">
+          <p type="edition">1. iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ colliyatu.
+            2. tōḻikkut talaimakaṉ taṉ kuṟai kūṟiyatūumāma.</p>
+          <p type="translation" xml:lang="en">1. Uttered by HIM who leaves [her] after having enjoyed natural union [with her].
+            2. Spoken about [his] own request, by HIM to the confidante.</p>
+          </div>
+
+
+        <div xml:id="KT143">
+            <lg type="edition">
+<l>                aḻiya lāyiḻai yaḻipuperi tuṭaiyaṉ</l>
+<l>                paḻiyu mañcum payamalai nāṭa</l>
+<l>                ṉillā maiyē nilaiyiṟ ṟākali</l>
+<l>                ṉallicai vēṭṭa nayaṉuṭai neñciṟ</l>
+<l>                kaṭappāṭ ṭāḷa ṉuṭaipporuḷ pōlat</l>
+<l>                taṅkutaṟ kuriya taṉṟuniṉ</l>
+<l>                ṉaṅkaluḻ mēṉip pāya pacappē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Don't be desolate, [you of] of choice jewels;</l>
+           <l rend="indent4">very anxious is he,</l>
+           <l>the man from the yielding mountain land, who also fears blame,<note place="foot">Or this could be an asyndetic coordination: "very anxious [is] he and he fears blame, the man from the yielding mountain land ...".</note></l>
+           <l>
+            <choice>
+                <seg>– the pallor sprung up on your beautiful, [now] dimmed body</seg>
+                <seg>The pallor<note place="foot">Thus Cām.'s interpretation, that is, two independent sentences, lines 1+2 and lines 3-7. In this case the rationale of the first two lines would be that HE will be conscientious and come back (to make HER pallor vanish). But this does not fit in well with the image of the wealth given away, if it is not implied that the wealth of generous people is in a magical way inexhaustible.</note> sprung up on your beautiful, [now] ... body</seg>
+            </choice>
+           </l>
+           <l>
+            <choice>
+                <seg>is not bound to stay,</seg>
+                <seg>doesn't possess permanence,</seg>
+            </choice>
+           </l>
+           <l rend="indent">like wealth belonging to a man firm in duty</l>
+           <l rend="indent">with a longing heart<note place="foot">Do the lines 3+4 also belong to the comparison or are they to be connected with mēṉi? And what is the message here? The affluence of a generous man is not permanent, but at least he wishes to be praised for that quality, similarly the woman of transient beauty. And then line 3 with the aphorism that in this world nothing has permanence? And why <term xml:lang="ta">nilaiyiṟṟu</term>, p.a.?</note>, that wanted good fame<note place="foot">nallicai is literally "good sound". Presumably what is referred to is the wish for fame, that is, a name sounding well in the ears of others.</note>,</l>
+           <l rend="indent">because only transience has permanence.<note place="foot">What is explained by this obviously justifying <term xml:lang="ta">ākaliṉ</term> sentence, and what is achieved for the general message? The very strange <term xml:lang="ta">-ē</term> in the subordinate clause, <term xml:lang="ta">nillāmaiyē</term>, seems to have the exclusive function occasionally to be observed with anteposition (cf. KT 135.1).</note></l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT143">
+    <interp type="alignment" select="0">23MG11MG13ML9ML7MG11MG6ML36MG28MG6MG30M2G2M,194M</interp>
+    <entry>
+    <form>aḻiyal</form>
+    <def>don't perish</def>
+    </entry>
+    <entry>
+    <form>āy</form>
+    <def>select-</def>
+    </entry>
+    <entry>
+    <form>iḻai</form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aḻipu</form>
+    <def>anxiety</def>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big it</def>
+    </entry>
+    <entry>
+    <form>uṭaiyaṉ</form>
+    <def>possess he</def>
+    </entry>
+    <entry>
+    <form>paḻi-<pc>~</pc>um</form>
+    <def>blame</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>añcum</form>
+    <def>fearing-</def>
+    </entry>
+    <entry>
+    <form>payam</form>
+    <def>yield</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉ</form>
+    <def>land he</def>
+    </entry>
+    <entry>
+    <form>nillāmai-<pc>~</pc>ē</form>
+    <def>impermanence</def>
+    <form type="simple">nillāmai</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nilaiyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it held firm</def>
+    </entry>
+    <entry>
+    <form>ākaliṉ</form>
+    <def>because</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>icai</form>
+    <def>sound</def>
+    </entry>
+    <entry>
+    <form>vēṭṭa</form>
+    <def>wanted-</def>
+    </entry>
+    <entry>
+    <form>nayaṉ</form>
+    <def>longing</def>
+    </entry>
+    <entry>
+    <form>uṭai</form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>neñciṉ</form>
+    <def>heart</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṭam</form>
+    <def>duty</def>
+    </entry>
+    <entry>
+    <form>pāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>happening-</def>
+    </entry>
+    <entry>
+    <form>āḷaṉ</form>
+    <def>man</def>
+    </entry>
+    <entry>
+    <form>uṭai<pc>+</pc></form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>poruḷ</form>
+    <def>wealth</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>taṅkutaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>staying</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>uriyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>suitable it</def>
+    </entry>
+    <entry>
+    <form>aṉṟu</form>
+    <def>is not so</def>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>am</form>
+    <def>pretty</def>
+    </entry>
+    <entry>
+    <form>kaluḻ</form>
+    <def>dim-</def>
+    </entry>
+    <entry>
+    <form>mēṉi<pc>+</pc></form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form>pāya</form>
+    <def>sprung-</def>
+    </entry>
+    <entry>
+    <form>pacapp*-ē</form>
+    <def>pallor</def>
+    <form type="simple">pacappu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 29. <persName xml:lang="ta">avvaiyār (G2: auvaiyār)</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT29-kilavi">
+          <p type="edition">iravukkuṟi maṟukkappaṭṭa talaimakaṉ “ivar emmai maṟuttār” eṉṟu varaintu koḷḷa niṉaiyātu piṉṉuṅ kūṭutaṟku avāvuṟṟa neñciṉai nōkkik kūṟiyatu (C3: kūṟukiṉṟār).</p>
+          <p type="translation" xml:lang="en">Told by HIM who was refused night trysts, directed to [his] heart that was hoping for meetings again without thinking of marriage [with the words] “these [women] have refused us”.</p>
+          </div>
+
+
+
+        <div xml:id="KT29">
+            <lg type="edition">
+<l>                nallurai yikantu pullurait tāayp</l>
+<l>                peyaṉīrk kēṟṟa pacuṅkalam pōla</l>
+<l>                vuḷḷan tāṅkā veḷḷa nīnti</l>
+<l>                yaritavā vuṟṟaṉai neñcē naṉṟum</l>
+<l>                peritā lammaniṉ pūca luyarkōṭṭu</l>
+<l>                makavuṭai manti pōla</l>
+<l>                vakaṉuṟat taḻīik kēṭkunarp peṟiṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l rend="indent4">Good words set aside, vain words spread,</l>
+               <l rend="indent">like the fresh<note place="foot"><term xml:lang="ta">pacum kalam</term> is, according to Cām., a pot unburned and thus water-sensitive.</note> clay-pot exposed to<note place="foot"><term xml:lang="ta">nīrkku ēṟṟa</term>: here I suggest to analyse <term xml:lang="ta">ēṟṟa</term> as the perfective peyareccam of <term xml:lang="ta">ēl</term> "to be convenient". It might be just about possible to see an intransitive semantic variation "to be exposed to", which would fit in well with the dative also attested elsewhere (cf. KT 291.8, 382.1).</note> the rain water</l>
+               <l rend="indent">swum by a flood the inside can't take</l>
+               <l rend="indent3">you longed for something difficult [to obtain], heart.</l>
+               <l>Good and<note place="foot">Or <term xml:lang="ta">naṉṟum</term> is to be understood as an adverb ("very big"); cf. KT 226.3, 237.3, 327.3. The problem in this case is the <term xml:lang="ta">-um</term>. Peculiar is also the position which is invariably the last foot of the line preceding the reference word.</note> big, verily, your struggle:<note place="foot">The subject and presumable sentence final <term xml:lang="ta">pūcal</term> is not marked with <term xml:lang="ta">-ē</term>, but the antepositioned predicate noun is marked with the particle <term xml:lang="ta">-āl</term>. As this particle commonly calls for an <term xml:lang="ta">-ē</term> to complement it, the rest of the poem ought to be read as belonging to the same sentence, in other words the <term xml:lang="ta">pūcal</term> sentence is the back part of a conditional the front part of which is put in the prominent final position to emphasize its urgency: "if only there were some one to hear..., [then], verily, your struggle [be] big."</note></l>
+               <l>if only someone heard<note place="foot">For <term xml:lang="ta">peṟiṉē</term> expressing an irreal wish see KT 98.2, 310.7, 136.5.</note> [and] embraced [you] to get to the inside,</l>
+               <l rend="indent">like the mother monkey with its young in the high branches.</l>
+               
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT29">
+    <interp type="alignment" select="0">34ML4MG34MR10MG15M2G5M2G7M2G2MG68MG2M,193M</interp>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>urai</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ikantu</form>
+    <def>set aside</def>
+    </entry>
+    <entry>
+    <form>pul</form>
+    <def>low</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>urai<pc>+</pc></form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>tāay<pc>+</pc></form>
+    <def>spread</def>
+    </entry>
+    <entry>
+    <form>peyal</form>
+    <def>raining</def>
+    </entry>
+    <entry>
+    <form>nīrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>water</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>ēṟṟa</form>
+    <def>exposed-</def>
+    </entry>
+    <entry>
+    <form>pacum</form>
+    <def>fresh</def>
+    </entry>
+    <entry>
+    <form>kalam</form>
+    <def>pot</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷam</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>tāṅkā</form>
+    <def>endure not</def>
+    </entry>
+    <entry>
+    <form>veḷḷam</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>nīnti</form>
+    <def>swum</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>difficult it</def>
+    </entry>
+    <entry>
+    <form>avā</form>
+    <def>longing</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṟṟaṉai</form>
+    <def>you had</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>good it</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl-amma</form>
+    <def>big itāl</def>
+    <form type="simple">perit*āl</form>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>you-</def>
+    </entry>
+    <entry>
+    <form>pūcal</form>
+    <def>struggle</def>
+    </entry>
+    <entry>
+    <form>uyar</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>kōṭṭu</form>
+    <def>branch-</def>
+    </entry>
+    <entry>
+    <form>makavuṭai</form>
+    <def>young one</def>
+    </entry>
+    <entry>
+    <form>manti</form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>she monkey</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akaṉ</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>uṟa<pc>+</pc></form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>taḻīi<pc>+</pc></form>
+    <def>have(inf.) embraced</def>
+    </entry>
+    <entry>
+    <form>kēṭkunar<pc>+</pc></form>
+    <def>hearing they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>peṟiṉ-ē</form>
+    <def>obtain if</def>
+    <form type="simple">peṟiṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

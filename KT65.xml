@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 65. <persName xml:lang="ta">kōvūrkiḻār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT65-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta (C1: oḻinta) talaimakaḷ tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to the confidante by HER who was desolate when seeing the season.</p>
+          </div>
+
+
+
+        <div xml:id="KT65">
+            <lg type="edition">
+<l>                vaṉparaṟ ṟeḷḷaṟal parukiya viralaitaṉ</l>
+<l>                ṉiṉpuṟu tuṇaiyoṭu maṟuvan tukaḷat</l>
+<l>                tāṉvan taṉṟē taḷitaru taṇkār</l>
+<l>                vārā tuṟaiyunar varaṉacaii</l>
+<l>                varuntinon tuṟaiya viruntaṉirō veṉavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">So that the Iralai deer, that drank the water clear on hard pebbles,</l>
+             <l rend="indent">bounces about full of joy with his mate,</l>
+             <l>the rainy season itself has come, cool [and] dripping,</l>
+             <l rend="indent">to say: were to stay<note place="foot"><term xml:lang="ta">varunti nontu iruntaṉirō: uṟai</term> is best taken as an auxiliary here (see next note), but what is the function of <term xml:lang="ta">iru</term> here? If we take it as a semantically meaningful verb, the perfective aspect might express an aorist: "have you been (until now and further on)..."</note>full of sorrow [and] affliction,</l>
+             <l rend="indent">having longed for the coming of him who is staying away?<note place="foot"><term xml:lang="ta">vārātu uṟaiyunar</term>: the most natural interpretation is that of <term xml:lang="ta">uṟai</term>- as an auxiliary verb giving an aspect of continuity: he is one who does not come permanently – who stays away. Cf. also KT 116.1 <term xml:lang="ta">nayantu uṟaivōḷ</term>, KT 145.4 <term xml:lang="ta">tuñcātu uṟainar</term>.</note></l>
+             <lg type="alternate" resp="#TVG" sameAs="5b">
+              <l>to say: are you to stay [in this world], full of sorrow [and]</l>
+              <l>	affliction ...</l>
+             </lg>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT65">
+    <interp type="alignment" select="0">38MG20MG16M2G20MG14ML16MG16MG5MG3M,157M</interp>
+    <entry>
+    <form>val</form>
+    <def>hard</def>
+    </entry>
+    <entry>
+    <form>paral</form>
+    <def>pebble</def>
+    </entry>
+    <entry>
+    <form>teḷ</form>
+    <def>clear-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aṟal</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>parukiya</form>
+    <def>drunk-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iralai</form>
+    <def>Iralai[ deer]</def>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>joy</def>
+    </entry>
+    <entry>
+    <form>uṟu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>tuṇaiyoṭu</form>
+    <def>companion with</def>
+    </entry>
+    <entry>
+    <form>maṟuvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>mixed up</def>
+    </entry>
+    <entry>
+    <form>ukaḷa<pc>+</pc></form>
+    <def>bounce</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>vantaṉṟ*-ē</form>
+    <def>it came</def>
+    <form type="simple">vantaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>taḷi</form>
+    <def>drip-</def>
+    </entry>
+    <entry>
+    <form>taru</form>
+    <def>give-<note place="foot"><term xml:lang="ta">tā</term> as an auxiliary verb does not seem to change the semantics of the preceding verb, but it adds a nuance of a process that is out of the speaker's control. Further instances are: 66.3, 134.4,6 (<term xml:lang="ta">neri tara</term>), 78.3, 95.1, 134.6, 200.3 (<term xml:lang="ta">iḻi taru</term>), 79.4 (<term xml:lang="ta">pulampu taru</term>), 94.7 (<term xml:lang="ta">cilai tarum</term>), 110.7 (<term xml:lang="ta">eṟi tarum</term>), 162.2 (<term xml:lang="ta">puku tarūum</term>), 195.3,5 (<term xml:lang="ta">eḻu tarum</term>, <term xml:lang="ta">pāyntu uṟu tara</term>).</note></def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>kār</form>
+    <def>rainy season</def>
+    </entry>
+    <entry>
+    <form>vārāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>come not</def>
+    </entry>
+    <entry>
+    <form>uṟaiyunar</form>
+    <def>staying he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>varal</form>
+    <def>coming</def>
+    </entry>
+    <entry>
+    <form>nacaii</form>
+    <def>longed for</def>
+    </entry>
+    <entry>
+    <form>varunti</form>
+    <def>troubled</def>
+    </entry>
+    <entry>
+    <form>nont<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>pained</def>
+    </entry>
+    <entry>
+    <form>uṟaiya</form>
+    <def>stay</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iruntaṉir-ō</form>
+    <def>you were</def>
+    <form type="simple">iruntaṉir</form>
+    <gram type="role">plural</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
+    <def>say</def>
+    <form type="simple">eṉa</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

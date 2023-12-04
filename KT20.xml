@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 20. <persName xml:lang="ta">Kōpperuṇcōḻaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT20-kilavi">
+          <p type="edition">celavuṇarttiya tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared by HER to the confidante who announced [his] going away.</p>
+          </div>
+
+        <div xml:id="KT20">
+            <lg type="edition">
+<l>                aruḷu maṉpu nīkkit tuṇaituṟantu</l>
+<l>                poruḷvayiṟ pirivō ruravō rāyi</l>
+<l>                ṉuravō ruravō rāka</l>
+<l>                maṭava māka maṭantai nāmē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l rend="indent">If he is strong [enough] to separate for wealth,</l>
+                <l rend="indent">rejecting consideration and love, abandoning [his] mate,</l>
+                <l>may the strong one be strong<note place="foot">The point here is, as A.D. puts it, a sarcastic play on the connotations of <term xml:lang="ta">uravōr</term>. Strength is, of course, a social virtue, especially in men. But in this context it also implies cruelty which is not a virtue. Her promise of acquiring maṭam then is a sarcastic consent not to perceive the double connotation.</note>,</l>
+                <l>foolish, girl, will we be.</l>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT20">
+    <interp type="alignment" select="0">4MG5M2GMR23MG58MG2M,99M</interp>
+    <entry>
+    <form>aruḷ-um</form>
+    <def>consideration</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>love</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nīkki<pc>+</pc></form>
+    <def>rejected</def>
+    </entry>
+    <entry>
+    <form>tuṇai</form>
+    <def>companion</def>
+    </entry>
+    <entry>
+    <form>tuṟantu</form>
+    <def>abandoned</def>
+    </entry>
+    <entry>
+    <form>poruḷ-vayiṉ</form>
+    <def>wealth for</def>
+    </entry>
+    <entry>
+    <form>pirivōr</form>
+    <def>separate he</def>
+    <gram type="role">honorific<note place="foot">How to understand the syntax of <term xml:lang="ta">pirivōr uravōr</term>? Cf. KT 22.2 <term xml:lang="ta">piri kiṟpavaṟ</term>.</note></gram>
+    </entry>
+    <entry>
+    <form>uravōr</form>
+    <def>strength he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>āyiṉ</form>
+    <def>if</def>
+    </entry>
+    <entry>
+    <form>uravōr</form>
+    <def>strength he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>uravōr</form>
+    <def>strength he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">optative<note place="foot"><term xml:lang="ta">āka</term>: the "normal" optative of <term xml:lang="ta">ā</term> would be <term xml:lang="ta">ākuka</term> (cf. KT 91.4,8, 137.4). Here, however, it seems necessary to read <term xml:lang="ta">ā-ka</term>, optative of the short stem. Moreover – is <term xml:lang="ta">āku</term> here semantically strong in the sense of a change in condition (= "become) or is it simply used as a predicative ("may ... be")?</note></gram>
+    </entry>
+    <entry>
+    <form>maṭavam</form>
+    <def>ignorance we</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form>maṭantai</form>
+    <def>girl</def>
+    </entry>
+    <entry>
+    <form>nām-ē</form>
+    <def>we</def>
+    <form type="simple">nām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

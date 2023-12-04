@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 23. <persName xml:lang="ta">Avvaiyār (G2: auvaiyār)</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT23-kilavi">
+          <p type="edition">kaṭṭuk kāṇiya niṉṟaviṭattut tōḻi aṟattoṭu niṉṟatu.</p>
+          <p type="translation" xml:lang="en">The confidante standing firm in duty as she stood and watched the divination.</p>
+          </div>
+
+
+
+        <div xml:id="KT23">
+            <lg type="edition">
+<l>                akavaṉ makaḷē yakavaṉ makaḷē</l>
+<l>                maṉavukkōp paṉṉa naṉṉeṭuṅ kūnta</l>
+<l>                lakavaṉ makaḷē pāṭuka pāṭṭē</l>
+<l>                yiṉṉum pāṭuka pāṭṭē</l>
+<l rend="indent4">                yavar</l>
+<l>                naṉṉeṭuṅ kuṉṟam pāṭiya pāṭṭē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Soothsayer woman,<note place="foot">For the function of an <term xml:lang="ta">akavaṉ makaḷ</term> see Kailasapathy 1968: 66, Zvelebil 1986: 37.</note> soothsayer woman,</l>
+                
+                <l rend="indent">like a string of chank beads good, long tresses,<note place="foot">Whatever exactly is <term xml:lang="ta">maṇavu</term> – TVG takes it to be a kind of white crystals –, the point of the comparison is the white colour, that is, it is directed to the age of the woman. TVG takes the designation <term xml:lang="ta">kūntal</term> in this connection to be an ironical reminiscence. <term xml:lang="ta">kūntal</term>, in contradistinction to <term xml:lang="ta">ōti</term>, is read as a term for hair properly dressed, while old people (people above 45) do not dress their hair anymore, but wear it open and only tie it at the ends (thus Nacc. on Maturaik. 407-9).</note></l>
+                <l>soothsayer woman, please, sing the song.</l>
+                <l>Again, please, sing the song.</l>
+                <l>The song [you've] sung of his good long hill!</l>
+
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT23">
+    <interp type="alignment" select="0">11MG13MG12MG29MG12MG16M2G30M2G2M,134M</interp>
+    <entry>
+    <form>akaval</form>
+    <def>Akaval</def>
+    </entry>
+    <entry>
+    <form>makaḷ-ē</form>
+    <def>woman</def>
+    <form type="simple">makaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akaval</form>
+    <def>Akaval</def>
+    </entry>
+    <entry>
+    <form>makaḷ-ē</form>
+    <def>woman</def>
+    <form type="simple">makaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>maṉavu<pc>+</pc></form>
+    <def>chank bead</def>
+    </entry>
+    <entry>
+    <form>kōpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>string</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>neṭum</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>kūntal</form>
+    <def>tresses</def>
+    </entry>
+    <entry>
+    <form>akaval</form>
+    <def>Akaval</def>
+    </entry>
+    <entry>
+    <form>makaḷ-ē</form>
+    <def>woman</def>
+    <form type="simple">makaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pāṭuka</form>
+    <def>may sing</def>
+    </entry>
+    <entry>
+    <form>pāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>song</def>
+    <form type="simple">pāṭṭ*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>iṉṉum</form>
+    <def>now</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pāṭuka</form>
+    <def>may sing</def>
+    </entry>
+    <entry>
+    <form>pāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>song</def>
+    <form type="simple">pāṭṭ*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>avar</form>
+    <def>he-</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>neṭum</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>kuṉṟam</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>pāṭiya</form>
+    <def>sung-</def>
+    </entry>
+    <entry>
+    <form>pāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>song</def>
+    <form type="simple">pāṭṭ*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

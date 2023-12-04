@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 195. <persName xml:lang="ta">tērataraṉ (tōtāṉ, tāmōtaraṉ)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT195-kilavi">
+          <p type="edition">piriviṭaip paruva varaviṉkaṇ kiḻatti melintu kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken by HER, becoming weak at the coming of the season in the time of separation.</p>
+          </div>
+          
+
+        <div xml:id="KT195">
+            <lg type="edition">
+<l>                cuṭarciṉan taṇintu kuṉṟañ cērap</l>
+<l>                paṭarcuman teḻutaru paiyuṇ mālai</l>
+<l>                yāṇṭuḷar kollō vēṇṭuviṉai muṭina</l>
+<l>                riṉṉā tiraṅku meṉṉā raṉṉō</l>
+<l>                taivara lacaivaḷi meypāyn tuṟutarac</l>
+<l>                ceyvuṟu pāvai yaṉṉaveṉ</l>
+<l>                meypiṟi tākuta laṟiyā tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+              <l>Where is he,</l>
+              <l rend="indent">in sorrowful evening that comes upon<note place="foot"><term xml:lang="ta">eḻu taru</term>: here <term xml:lang="ta">taru-tal</term> as an auxiliary, namely the evening which comes up irresistibly.</note> [me] laden with affliction,</l>
+              <l rend="indent">as the [sun's] glowing anger subsides [and] joins the hills,</l>
+              <l>he who didn't know my body would become different<note place="foot">For parallels to <term xml:lang="ta">ākutal</term> as "that" see KT 4.4, 360.2, 386.6.</note>,</l>
+              <l rend="indent">– as if a doll that acts<note place="foot"><term xml:lang="ta">ceyvu uṟu pāvai</term>: <term xml:lang="ta">uṟu</term> is best understood here as a mere verbaliser; the nuance distinguishing this from a plain verbal root might be something like "a doll having the faculty of action".</note>,</l>
+              <l rend="indent">when the abrasive, moving wind<note place="foot"><term xml:lang="ta">acai vaḷi</term>: "wind which moves [permanently]"?</note> assails<note place="foot"><term xml:lang="ta">mey pāyntu uṟu tara</term>?! Without <term xml:lang="ta">uṟu</term> this would be: "to start abruptly" (= Srin.'s "assail").</note> [her] body, -</l>
+              <l>he who, alas, didn't say that it sounds unsweet</l>
+              <l rend="indent3">that he had to complete work?</l>
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT195">
+        <interp type="alignment" select="0">39MG3MG19MG4MG27MG40MG3MG9MG24MG14MG2M,194M</interp>
+        <entry>
+        <form>cuṭar</form>
+        <def>glow</def>
+        </entry>
+        <entry>
+        <form>ciṉam</form>
+        <def>anger</def>
+        </entry>
+        <entry>
+        <form>taṇintu</form>
+        <def>decreased</def>
+        </entry>
+        <entry>
+        <form>kuṉṟam</form>
+        <def>hill</def>
+        </entry>
+        <entry>
+        <form>cēra<pc>+</pc></form>
+        <def>join</def>
+        <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+        <form>paṭar</form>
+        <def>affliction</def>
+        </entry>
+        <entry>
+        <form>cumant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>laden</def>
+        </entry>
+        <entry>
+        <form>eḻu-</form>
+        <def>rise-</def>
+        </entry>
+        <entry>
+        <form>taru</form>
+        <def>give-</def>
+        </entry>
+        <entry>
+        <form>paiyuḷ</form>
+        <def>sorrow</def>
+        </entry>
+        <entry>
+        <form>mālai</form>
+        <def>evening</def>
+        </entry>
+        <entry>
+        <form>yāṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>where</def>
+        </entry>
+        <entry>
+        <form>uḷar-kollō</form>
+        <def>he is</def>
+        <form type="simple">uḷar</form>
+        <gram type="role">honorific</gram>
+        <gramGrp type="particle"><form>kollō</form></gramGrp>
+        </entry>
+        <entry>
+        <form>vēṇṭu</form>
+        <def>necessary-</def>
+        </entry>
+        <entry>
+        <form>viṉai</form>
+        <def>work</def>
+        </entry>
+        <entry>
+        <form>muṭinar</form>
+        <def>complete he</def>
+        <gram type="role">honorific</gram>
+        </entry>
+        <entry>
+        <form>iṉṉāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>pleasant not it</def>
+        </entry>
+        <entry>
+        <form>iraṅkum</form>
+        <def>sounding-</def>
+        </entry>
+        <entry>
+        <form>eṉṉār</form>
+        <def>say not he</def>
+        <gram type="role">honorific</gram>
+        </entry>
+        <entry>
+        <form>aṉṉō</form>
+        <def>alas!</def>
+        </entry>
+        <entry>
+        <form>taivaral</form>
+        <def>rubbing</def>
+        </entry>
+        <entry>
+        <form>acai</form>
+        <def>move-</def>
+        </entry>
+        <entry>
+        <form>vaḷi</form>
+        <def>wind</def>
+        </entry>
+        <entry>
+        <form>mey</form>
+        <def>body</def>
+        </entry>
+        <entry>
+        <form>pāynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>sprung</def>
+        </entry>
+        <entry>
+        <form>uṟu-</form>
+        <def>have-</def>
+        </entry>
+        <entry>
+        <form>tara<pc>+</pc></form>
+        <def>give</def>
+        <gram type="role">infinitive</gram>
+        </entry>
+        <entry>
+        <form>ceyv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>action</def>
+        </entry>
+        <entry>
+        <form>uṟu</form>
+        <def>have-</def>
+        </entry>
+        <entry>
+        <form>pāvai</form>
+        <def>image</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṉṉa</form>
+        <def>like</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form>mey</form>
+        <def>body</def>
+        </entry>
+        <entry>
+        <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>other it</def>
+        </entry>
+        <entry>
+        <form>ākutal</form>
+        <def>becoming</def>
+        </entry>
+        <entry>
+        <form>aṟiyātōr-ē</form>
+        <def>know not he</def>
+        <form type="simple">aṟiyātōr</form>
+        <gram type="role">honorific</gram>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

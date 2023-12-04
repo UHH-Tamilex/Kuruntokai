@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 107. <persName xml:lang="ta">maturaik kaṇṇaṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT107-kilavi">
+          <p type="edition">poruṇ muṭintu (C3+5: mutittu C2: poruḷ muṟṟi) vanta talaimakaṉaiyuṭaiya kiḻatti kāma mikka kaḻipaṭar kiḷaviyāṟ kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken with words of distress out of excessive desire for HIM, who was coming after he had accumulated wealth.</p>
+          </div>
+          
+
+
+        <div xml:id="KT107">
+            <lg type="edition">
+<l>                kuviyiṇart tōṉṟi yoṇpū vaṉṉa</l>
+<l>                tokucen neṟṟik kaṇaṅkoḷ cēva</l>
+<l>                ṉaḷḷiruḷ yāmat tilleli pārkkum</l>
+<l>                piḷḷai verukiṟ kalkirai yākik</l>
+<l>                kaṭunavaip paṭīiyarō nīyē neṭunīr</l>
+<l>                yāṇa rūraṉ ṟaṉṉoṭu vatinta</l>
+<l>                vēma viṉṟuyi leṭuppi yōyē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Cock with your troupe [and your] forehead gathering red</l>
+           <l rend="indent">like the bright flower of the Malabar lily in overlapping clusters,</l>
+           <l>may you suffer severe punishment,</l>
+           <l rend="indent">becoming lasting<note place="foot"><term xml:lang="ta">alku irai</term>: TVG explains the sense to be that there is prey enough for several days for the young cat to eat.</note> prey for the young wild cat that</l>
+           <l rend="indent">looks for rats in the house at midnight in the deep of darkness</l>
+           <l>– you who aroused me from the delightful, pleasurable sleep</l>
+           <l rend="indent">I dwelt in with him, the man from the fertile village</l>
+           <l rend="indent4">at the long water.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT107">
+    <interp type="alignment" select="0">51ML13MG27MG3MG27MG3MG53MG2M,186M</interp>
+    <entry>
+    <form>kuvi</form>
+    <def>heap-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṇar<pc>+</pc></form>
+    <def>cluster</def>
+    </entry>
+    <entry>
+    <form>tōṉṟi</form>
+    <def>Malabar lily<note place="foot"><term xml:lang="ta">tōṉṟi</term>: this ought to be taken as the earliest (and only Caṅkam?) instance of this word as a synonym of <term xml:lang="ta">kāntaḷ</term> "Malabar glory lily" – the TL adduces a passage from Cīvak. The alternative would be to take <term xml:lang="ta">tōṉṟi</term> as the absolutive of <term xml:lang="ta">tōṉṟu-tal</term> "to appear", which is quite difficult to make any sense of ("like the light flower after heaping clusters have appeared"), because it does not explain the association with red colour.</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>toku</form>
+    <def>gather-</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>neṟṟi<pc>+</pc></form>
+    <def>front</def>
+    </entry>
+    <entry>
+    <form>kaṇam</form>
+    <def>flock</def>
+    </entry>
+    <entry>
+    <form>koḷ</form>
+    <def>take-</def>
+    </entry>
+    <entry>
+    <form>cēval</form>
+    <def>cock</def>
+    </entry>
+    <entry>
+    <form>naḷ</form>
+    <def>middle<note place="foot"><term xml:lang="ta">naḷliruḷ yāmattu</term> might have to be understood as <term xml:lang="ta">naḷ[ḷ-eṉa]</term>, as it is actually to be found in all the other formulaic parallels in the KT (cf. 6.1, 118.2, 160.4, 163.5, 244.1, 261.4, 312.4).</note></def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>iruḷ</form>
+    <def>darkness</def>
+    </entry>
+    <entry>
+    <form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>midnight-</def>
+    </entry>
+    <entry>
+    <form>il</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>eli</form>
+    <def>rat</def>
+    </entry>
+    <entry>
+    <form>pārkkum</form>
+    <def>looking for-</def>
+    </entry>
+    <entry>
+    <form>piḷḷai</form>
+    <def>young one</def>
+    </entry>
+    <entry>
+    <form>verukiṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wild cat</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>alk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>last-</def>
+    </entry>
+    <entry>
+    <form>irai</form>
+    <def>prey</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āki<pc>+</pc></form>
+    <def>become</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>kaṭu</form>
+    <def>quick</def>
+    </entry>
+    <entry>
+    <form>navai<pc>+</pc></form>
+    <def>punishment</def>
+    </entry>
+    <entry>
+    <form>paṭīiyar-ō</form>
+    <def>may happen</def>
+    <form type="simple">paṭīiyar</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nī-<pc>~</pc>ē</form>
+    <def>you</def>
+    <form type="simple">nī</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>yāṇar</form>
+    <def>fertility</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village he</def>
+    </entry>
+    <entry>
+    <form>taṉṉoṭu</form>
+    <def>self with</def>
+    </entry>
+    <entry>
+    <form>vatinta</form>
+    <def>stayed-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ēmam</form>
+    <def>delight</def>
+    </entry>
+    <entry>
+    <form>iṉ</form>
+    <def>pleasant</def>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    </entry>
+    <entry>
+    <form>eṭuppiyōy-ē</form>
+    <def>aroused you</def>
+    <form type="simple">eṭuppiyōy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 62. <persName xml:lang="ta">ciṟaikkuṭiyāntaiyār</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT62-kilavi">
+          <p type="edition">talaimakaḷ iṭantalaippāṭṭiṉkaṇ kūṭaluṟu neñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the heart that was full of the coitus during the meeting at the [same?] place by HIM.</p>
+          </div>
+
+
+
+        <div xml:id="KT62">
+            <lg type="edition">
+<l>                kōṭa letirmukaip pacuvī mullai</l>
+<l>                nāṟitaḻk kuvaḷaiyō ṭiṭaippaṭa viraii</l>
+<l>                yaitutoṭai māṇṭa kōtai pōla</l>
+<l>                naṟiya ṇallōṇ mēṉi</l>
+<l>                muṟiyiṉum vāyvatu muyaṅkaṟku miṉitē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>The body of [my] good lady who is fragrant</l>
+             <l rend="indent">like a garland glorious in a beautiful winding [of flowers]</l>
+             <l rend="indent">– jasmine in fresh bloom [and] opening buds</l>
+             <l rend="indent4">of the white Malabar lily</l>
+             <l rend="indent">fragrantly interwoven with waterlilies of scented petals<note place="foot">The subtle syntax of the lines 1-4 is nearly unmarked and accordingly left to an effort of interpretation (see Wilden 1999: 219f.).</note>,</l>
+             <l>it is excellent, even if it
+                <choice>
+                    <seg>will pass, and sweet to embrace.<note place="foot">The analysis (deviating from Cām.) of <term xml:lang="ta">muṟiyiṉum</term> as a concessive to <term xml:lang="ta">muṟi</term> goes back to Tieken 1997: 314f. (see also Wilden 1999: 217).</note></seg>
+                    <seg>surpasses a shoot [in tenderness] and [is] sweet/sweeter to embrace.<note place="foot">Thus the usual interpretation, which follows Cām. In favour of it could be said that the comparison woman – sprout is one of the Caṅkam standard comparisons.</note></seg>
+                </choice>
+             </l>
+
+
+             
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT62">
+    <interp type="alignment" select="0">30MG15MG46ML34M2G6M2G2M,140M</interp>
+    <entry>
+    <form>kōṭal</form>
+    <def>white malabar lily</def>
+    </entry>
+    <entry>
+    <form>etir</form>
+    <def>blossom-</def>
+    </entry>
+    <entry>
+    <form>mukai<pc>+</pc></form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>vī</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>nāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>smell-</def>
+    </entry>
+    <entry>
+    <form>itaḻ<pc>+</pc></form>
+    <def>petal</def>
+    </entry>
+    <entry>
+    <form>kuvaḷaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>waterlily with</def>
+    </entry>
+    <entry>
+    <form>iṭaip<pc>+</pc>aṭa</form>
+    <def>between appear</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>viraii</form>
+    <def>smelt<note place="foot"><term xml:lang="ta">viraii</term> poses a semantic problem. Of several roots <term xml:lang="ta">virai</term> (<term xml:lang="ta">viraivu</term> does not exist) not one comes close to the traditional interpretation of "combining" (Cām. glosses with kalantu "mixed"). Still, a root <term xml:lang="ta">virai</term>, 11th class, with the meaning "to emit fragrance" is not attested otherwise.</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aitu</form>
+    <def>beautiful it</def>
+    </entry>
+    <entry>
+    <form>toṭai</form>
+    <def>wreath</def>
+    </entry>
+    <entry>
+    <form>māṇṭa</form>
+    <def>become glorious-</def>
+    </entry>
+    <entry>
+    <form>kōtai</form>
+    <def>garland</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>naṟiyaḷ</form>
+    <def>fragrant she</def>
+    </entry>
+    <entry>
+    <form>nallōḷ</form>
+    <def>good she</def>
+    </entry>
+    <entry>
+    <form>mēṉi</form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form>muṟiyiṉum</form>
+    <def>shootiṉum/perish if even</def>
+    </entry>
+    <entry>
+    <form>vāyvatu</form>
+    <def>it surpasses/excellent it</def>
+    </entry>
+    <entry>
+    <form>muyaṅkaṟk*-um</form>
+    <def>embracing</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>iṉit*-ē</form>
+    <def>pleasant it</def>
+    <form type="simple">iṉitu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

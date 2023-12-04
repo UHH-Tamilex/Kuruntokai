@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 11. <persName xml:lang="ta">Māmūlaṉār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT11-kilavi">
+          <p type="edition">talaimakaḷ taṉṉeñciṟkuc colluvāḷāyt tōḻi kēṭpac colliyatu.</p>
+          <p type="translation" xml:lang="en">SHE speaking for the confidante to hear as if talking to [her] own heart.</p>
+          </div>
+
+        <div xml:id="KT11">
+            <lg type="edition">
+<l>                kōṭī rilaṅkuvaḷai nekiḻa nāḷum</l>
+<l>                pāṭila kaliḻuṅ kaṇṇoṭu pulampi</l>
+<l>                yīṅkiva ṇuṟaitalu muykuva māṅkē</l>
+<l>                yeḻuviṉi vāḻiyeṉ ṉeñcē muṉāatu</l>
+<l>                kullaik kaṇṇi vaṭukar muṉaiyatu</l>
+<l>                palvēṟ kaṭṭi naṉṉāṭ ṭumpar</l>
+<l>                moḻipeyar tēetta rāyiṉum</l>
+<l>                vaḻipaṭal cūḻntici ṉavaruṭai nāṭṭē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l rend="indent">As shining bangles cut from conchs loosen, day by day,</l>
+<l rend="indent">with eyes crying without sleeping, lonely</l>
+<l rend="indent">from staying here like this we will escape. There</l>
+<l>rise now, live, my heart!</l>
+<l>[Just] think [about it]: departing for his land</l>
+<l rend="indent">even if he were in a country with differing language,</l>
+<l rend="indent">beyond the good land of Kaṭṭi with many spears,</l>
+<l rend="indent">in front of [that of] the Vaṭukars with basil/hemp chaplets,</l>
+<l rend="indent4">over there<note place="foot"><term xml:lang="ta">muṉātu</term>: here to be understood as an adverb? And to be connected with what? (Cf. KT 34.4) TVG understands a deictic pronoun from the perspective of the speaker.</note>.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT11">
+    <interp type="alignment" select="0">3MG22MG5MG28MG11MG12M2G20M2G54MG59M,224M</interp>
+    <entry>
+    <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>conch</def>
+    </entry>
+    <entry>
+    <form>īr</form>
+    <def>cut-<note place="foot"><term xml:lang="ta">koṭu īr...vaḷai</term> are, according to TVG and Cām., bangles that have been cut as pieces from big conchs (a practice clearly attested in AN 24.1f.). But as <term xml:lang="ta">īr</term> may also mean "smoothness" or "moistness", an image might be intended here as well, i.e., bangles shining smooth or moist like conchs.</note></def>
+    </entry>
+    <entry>
+    <form>ilaṅku</form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>vaḷai</form>
+    <def>bangle</def>
+    </entry>
+    <entry>
+    <form>ñekiḻa</form>
+    <def>loosen</def>
+    </entry>
+    <entry>
+    <form>nāḷ<pc>(</pc>um<pc>)</pc></form>
+    <def>day ever</def>
+    </entry>
+    <entry>
+    <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sleeping</def>
+    </entry>
+    <entry>
+    <form>ila</form>
+    <def>not they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>kaliḻum</form>
+    <def>crying-</def>
+    </entry>
+    <entry>
+    <form>kaṇṇoṭu</form>
+    <def>eye with</def>
+    </entry>
+    <entry>
+    <form>pulampi</form>
+    <def>been lonely</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>thus</def>
+    </entry>
+    <entry>
+    <form>ivaṇ</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>uṟaital-um</form>
+    <def>staying</def>
+    <gramGrp type="affix"><form>um<note place="foot"><term xml:lang="ta">uraitalum</term>: here the -um should have a diminutive function.</note></form></gramGrp>
+    </entry>
+    <entry>
+    <form>uykuvam</form>
+    <def>we escape<note place="foot"><term xml:lang="ta">uykuvam</term>: for the euphonic infix -ku- with the non-past see Lehmann 1994: 97f. (cf. KT 26.5 <term xml:lang="ta">poykkuvatu</term>, KT 189.7 <term xml:lang="ta">uvakkuvam</term>, KT 191.7 <term xml:lang="ta">eṉkuvem</term>.)</note></def>
+    
+    
+    </entry>
+    <entry>
+    <form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>there</def>
+    <form type="simple">āṅk*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eḻu</form>
+    <def>rise</def>
+    <gram type="role">imperative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉi</form>
+    <def>now</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñc*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>muṉāatu</form>
+    <def>before it</def>
+    </entry>
+    <entry>
+    <form>kullai<pc>+</pc></form>
+    <def>hemp/basil</def>
+    </entry>
+    <entry>
+    <form>kaṇṇi</form>
+    <def>chaplet</def>
+    </entry>
+    <entry>
+    <form>vaṭukar</form>
+    <def>Vaṭukar</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>muṉaiyatu</form>
+    <def>front it</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>vēl</form>
+    <def>spear</def>
+    </entry>
+    <entry>
+    <form>kaṭṭi</form>
+    <def>Kaṭṭi/supported</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>land-</def>
+    </entry>
+    <entry>
+    <form>umpar</form>
+    <def>beyond</def>
+    </entry>
+    <entry>
+    <form>moḻi</form>
+    <def>word/language</def>
+    </entry>
+    <entry>
+    <form>peyar</form>
+    <def>stir-</def>
+    </entry>
+    <entry>
+    <form>tēettar</form>
+    <def>land he(h.,)<note place="foot"><term xml:lang="ta">tēettar</term>: the pronominal noun to <term xml:lang="ta">tēm</term> (> <term xml:lang="ta">deśa</term>- country) of the obl. <term xml:lang="ta">tēttu</term>, seems to function, in contradistinction to <term xml:lang="ta">nāṭaṉ</term> which is completely nominalised, as a predicate noun, that is, as a denominative: "he abides in a country".</note></def>
+    </entry>
+    <entry>
+    <form>āyiṉum</form>
+    <def>if even</def>
+    </entry>
+    <entry>
+    <form>vaḻipaṭal</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form>cūḻnticiṉ</form>
+    <def>happening</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>consider<note place="foot">TVG takes the ambiguous form <term xml:lang="ta">cūḻnticiṉ</term> to be a 1st sg. Since unlike in other cases an explicative <term xml:lang="ta">yāṉ</term> "I" is missing and the context gives reason to expect another imperative directed to the heart, the supposition lies close at hand that there are reasons of content for such a decision: poetics do not allow for HER actually setting out for HIS place – she only may think of it.</note></def>
+    </entry>
+    <entry>
+    <form>uṭai</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>nāṭṭē</form>
+    <def>possess-</def>
+    </entry>
+    </standOff>
+</TEI>

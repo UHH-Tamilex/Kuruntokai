@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 155. <persName xml:lang="ta">urōṭakattuk kantarattaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT155-kilavi">
+          <p type="edition">talaimakaḷ paruvaṅ kaṇṭu aḻintu colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER, being desolate at the sight of the season.</p>
+          </div>
+
+
+        <div xml:id="KT155">
+            <lg type="edition">
+<l>                mutaippuṉaṅ koṉṟa vārkali yuḻavar</l>
+<l>                vitaikkuṟu vaṭṭi pōtoṭu potuḷap</l>
+<l>                poḻutō tāṉvan taṉṟē meḻukāṉ</l>
+<l>                ṟūtulaip peyta pakuvāyt teṇmaṇi</l>
+<l>                marampayi liṟumpi ṉārppac curaṉiḻipu</l>
+<l>                mālai naṉivirun tayarmār</l>
+<l>                tērvaru meṉṉu muraivā rātē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>[Is it] the time<note place="foot"><term xml:lang="ta">poḻutō</term> can either be understood as a preceding (rhetorical) question or as a particle of demarcation of topic.</note>, when the small seed-baskets are full with buds</l>
+           <l rend="indent">of the busy(?)<note place="foot"><term xml:lang="ta">ār kali</term>: Cām. glosses with <term xml:lang="ta">āravāram</term> "loud noise" to <term xml:lang="ta">kali-ttal</term>, 11th, "roar", but here as well as in KT 223.1 the above alternative seems more fitting. More difficult are KT 186.1, 257.4 and 353.1.</note> ploughmen<note place="foot">Cām. explains the content as follows: the ploughmen return to the village in the evening to have a feast, carrying baskets, which had been full of seed, now full of flowers.</note> who have cleared<note place="foot"><term xml:lang="ta">koṉṟa</term> is <term xml:lang="ta">peyareccam</term> to <term xml:lang="ta">kol-tal</term> "to kill, to cut down", and there is a parallel in KT 198.1 where it obviously refers to a clearing by fire. Or is it to be taken, with Cām., as "ploughing" = the preparation for sowing (which is what the ploughman do at day time), and how to explain that semantically? Is it an act of violence to cultivate the earth?</note> the old fields?</l>
+           <l rend="indent3">It has come;</l>  
+           <l>word has not come that the chariot is coming,</l>   
+           <l rend="indent">for us to engage in [preparing] an abundant feast for the evening,</l>
+           <l rend="indent">coming down from the desert so that in the thicket of rustling</l>
+           <l rend="indent">trees the clear wide-mouthed bells<note place="foot">I have connected the bells with the chariot the approach of which SHE is waiting to hear. Syntactically it is equally possible to take these two-and-a-half lines together with viruntu, that is, as part of the festival noise.</note> are ringing,</l>
+           <l rend="indent2">[that were] poured(?) [from/in] the furnace,</l>
+           <l rend="indent">[while the bellows were] blowing [into a mould]</l>
+           <l rend="indent2">causing the wax to disappear(?).<note place="foot">The phrase meḻuku <term xml:lang="ta">āṉṟu|ūtu ulaip peyta</term> has to be connected with <term xml:lang="ta">maṇi</term>, whatever may be the exact meaning, in any case a technique of bell making. <term xml:lang="ta">peyta</term> might go back to the second root <term xml:lang="ta">pey</term> (DEDR 4408 "to wear, put on, tie, fasten").</note></l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT155">
+    <interp type="alignment" select="0">63M2G11M2G6MG3MG2MG73MG29M2G2M,199M</interp>
+    <entry>
+    <form>mutai<pc>+</pc></form>
+    <def>old</def>
+    </entry>
+    <entry>
+    <form>puṉam</form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form>koṉṟa</form>
+    <def>cleared-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ār</form>
+    <def>become full-</def>
+    </entry>
+    <entry>
+    <form>kali</form>
+    <def>bustle</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḻavar</form>
+    <def>ploughman</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vitai<pc>+</pc></form>
+    <def>seed</def>
+    </entry>
+    <entry>
+    <form>kuṟu</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form>vaṭṭi</form>
+    <def>basket</def>
+    </entry>
+    <entry>
+    <form>pōtoṭu</form>
+    <def>bud with</def>
+    </entry>
+    <entry>
+    <form>potuḷa<pc>+</pc></form>
+    <def>be full</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>poḻut*-ō</form>
+    <def>period</def>
+    <form type="simple">poḻutu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>vantaṉṟ*-ē</form>
+    <def>it came</def>
+    <form type="simple">vantaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>meḻuk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wax</def>
+    </entry>
+    <entry>
+    <form>āṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>ended</def>
+    </entry>
+    <entry>
+    <form>ūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>blow-</def>
+    </entry>
+    <entry>
+    <form>ulai<pc>+</pc></form>
+    <def>smith's furnace</def>
+    </entry>
+    <entry>
+    <form>peyta</form>
+    <def>put on-</def>
+    </entry>
+    <entry>
+    <form>paku</form>
+    <def>split-</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>teḷ</form>
+    <def>clear</def>
+    </entry>
+    <entry>
+    <form>maṇi</form>
+    <def>bell</def>
+    </entry>
+    <entry>
+    <form>maram</form>
+    <def>tree</def>
+    </entry>
+    <entry>
+    <form>payil</form>
+    <def>rustle-/be dense-</def>
+    </entry>
+    <entry>
+    <form>iṟumpiṉ</form>
+    <def>thicket</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ārppa<pc>+</pc></form>
+    <def>roar</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>curaṉ</form>
+    <def>desert</def>
+    </entry>
+    <entry>
+    <form>iḻipu</form>
+    <def>fallen</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>naṉi</form>
+    <def>abundant</def>
+    </entry>
+    <entry>
+    <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>feast</def>
+    </entry>
+    <entry>
+    <form>ayarmār</form>
+    <def>engage</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tēr</form>
+    <def>chariot</def>
+    </entry>
+    <entry>
+    <form>varum</form>
+    <def>coming-</def>
+    </entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>saying-</def>
+    </entry>
+    <entry>
+    <form>urai</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>vārāt*-ē</form>
+    <def>come not</def>
+    <form type="simple">vārātu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

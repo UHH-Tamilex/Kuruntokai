@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 67. <persName xml:lang="ta">aḷḷūr naṉmullai</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT67-kilavi">
+          <p type="edition">piriviṭai āṟṟātu talaimakaḷ tōḻikku uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared to the confidante by HER when she didn't have the strength [anymore] in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT67">
+            <lg type="edition">
+<l>                uḷḷār kollō tōḻi kiḷḷai</l>
+<l>                vaḷaivāyk koṇṭa vēppa voṇpaḻam</l>
+<l>                putunā ṇuḻaippā ṉutimāṇ vaḷḷukirp</l>
+<l>                polaṅkala vorukā cēykku</l>
+<l>                nilaṅkari kaḷḷiyaṅ kāṭiṟan tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Won't he remember, friend,</l>
+             <l>he who has traversed the wilderness of Kaḷḷi trees on scorched ground</l>
+             <l rend="indent">where the bright Neem fruit in the curved beak of a parakeet</l>
+             <l rend="indent">looks like a bead in a golden ornament,</l>
+             <l rend="indent">which the sharp nail with a famous tip<note place="foot">Namely the nails of the <term xml:lang="ta">kaḷvaṉ</term> (see KT 16.1-3): a metonymy, morphologically marked by the masculine ending of the preceding verbal noun! Tradition does not see a relation between the two poems and inserts a gold smith (Cām.: poṟkollaṉ) who is working on a new ornament (for an analysis of the intertextual relation between KT 16 and 67 cf. Wilden 2006: 366f.).</note> inserts on a new thread?</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT67">
+    <interp type="alignment" select="0">5MG57ML24M3G7MG5MR20MG7MG2M,136M</interp>
+    <entry>
+    <form>uḷḷār-kollō</form>
+    <def>remember not he</def>
+    <form type="simple">uḷḷār</form>
+    <gram type="role">honorific<note place="foot">Cf. note on KT 16.1.</note></gram>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>kiḷḷai</form>
+    <def>parakeet</def>
+    </entry>
+    <entry>
+    <form>vaḷai</form>
+    <def>bangle</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>koṇṭa</form>
+    <def>taken-</def>
+    </entry>
+    <entry>
+    <form>vēppam</form>
+    <def>Neem tree</def>
+    </entry>
+    <entry>
+    <form>oḷ</form>
+    <def>bright</def>
+    </entry>
+    <entry>
+    <form>paḻam</form>
+    <def>fruit</def>
+    </entry>
+    <entry>
+    <form>putu</form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>nāṇ</form>
+    <def>thread</def>
+    </entry>
+    <entry>
+    <form>uḻaippāṉ</form>
+    <def>insert he</def>
+    </entry>
+    <entry>
+    <form>nuti</form>
+    <def>tip</def>
+    </entry>
+    <entry>
+    <form>māṇ</form>
+    <def>fame</def>
+    </entry>
+    <entry>
+    <form>vaḷ</form>
+    <def>sharpness</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ukir<pc>+</pc></form>
+    <def>nail</def>
+    </entry>
+    <entry>
+    <form>polam</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>kala<pc>(</pc>m<pc>)</pc></form>
+    <def>ornament</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>kāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bead<note place="foot">For a discussion of <term xml:lang="ta">kācu</term>, meaning rather "bead" than "coin", in early classical texts, see Rajan 2006: 32f. The decisive passage is just here, where a Neem fruit in the beak of a parakeet is compared to a <term xml:lang="ta">kācu</term>.</note></def>
+    </entry>
+    <entry>
+    <form>ēykkum</form>
+    <def>looking like-</def>
+    </entry>
+    <entry>
+    <form>nilam</form>
+    <def>ground</def>
+    </entry>
+    <entry>
+    <form>kari</form>
+    <def>be scorched-</def>
+    </entry>
+    <entry>
+    <form>kaḷḷiyam</form>
+    <def>Kaḷḷi( tree)</def>
+    <gramGrp type="affix"><form>am</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wilderness</def>
+    </entry>
+    <entry>
+    <form>iṟantōr-ē</form>
+    <def>traversed he</def>
+    <form type="simple">iṟantōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

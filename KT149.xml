@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 149. <persName xml:lang="ta">veḷḷi vītiyār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT149-kilavi">
+          <p type="edition">uṭaṉpōkku uṇarttiya tōḻikkut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante who had suggested [their] going away together.</p>
+          </div>
+
+
+        <div xml:id="KT149">
+            <lg type="edition">
+<l>                aḷitō tāṉē nāṇē nammoṭu</l>
+<l>                naṉinī ṭuḻantaṉṟu maṉṉē yiṉiyē</l>
+<l>                vāṉpūṅ karumpi ṉōṅkumaṇaṟ ciṟuciṟait</l>
+<l>                tīmpuṉa ṉeritara vīyntuk kāaṅkut</l>
+<l>                tāṅku maḷavait tāṅkik</l>
+<l>                kāma neritarak kainnil lātē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>
+            <choice>
+                <seg>Pitiable<note place="foot"><term xml:lang="ta">aḷitō</term>: this formula is one of the instances of <term xml:lang="ta">-ō</term> in a lamentative formula. Moreover <term xml:lang="ta">-ō</term> functions as a metrical filler here – since with other persons the formula contains a complete <term xml:lang="ta">cīr</term> (i.e. KT 7.3: <term xml:lang="ta">aḷiyar tāmē</term>)?  This fact seems to be an argument against the b-solution, that is, to take it as a question mark.</note> it [is], shame. With us</seg>
+                <seg>Is it not pitiable, [our] shame?</seg>
+            </choice>
+           </l>
+           <l>it has indeed borne [it] a fairly long time.</l>
+           <l rend="indent4">[But] now</l>
+           <l>it doesn't stand ground to the hand<note place="foot"><term xml:lang="ta">kai nillātu</term>: this could be understood as a metaphor: <term xml:lang="ta">kāma</term> as a forceful hand. TVG takes it with Cām. as "side": "now ... it doesn't stand at [my] side [any longer].</note>, as desire crushes [it],</l>
+           <l rend="indent">having endured as long as it could,</l>
+           <l rend="indent">like the little wings of high sand near the sky-flowered sugarcane,</l>
+           <l rend="indent">which give way, destroyed as the sweet flood crushes them.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT149">
+    <interp type="alignment" select="0">4M2G4MG4MG15MG9MG3MG6MG43ML3MG9MG32MR4MG15M2G2M,168M</interp>
+    <entry>
+    <form>aḷit*-ō</form>
+    <def>pity it</def>
+    <form type="simple">aḷitu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tāṉ-ē</form>
+    <def>self</def>
+    <form type="simple">tāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nāṇ-ē</form>
+    <def>shame</def>
+    <form type="simple">nāṇ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nammoṭu</form>
+    <def>us with</def>
+    </entry>
+    <entry>
+    <form>naṉi</form>
+    <def>abundant</def>
+    </entry>
+    <entry>
+    <form>nīṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>prolong-/long time</def>
+    </entry>
+    <entry>
+    <form>uḻantaṉṟu-maṉ-<pc>+</pc>ē</form>
+    <def>it boremaṉṉ</def>
+    <form type="simple">uḻantaṉṟumaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉi-<pc>~</pc>ē</form>
+    <def>now</def>
+    <form type="simple">iṉi</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>pūm</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>karumpiṉ</form>
+    <def>sugarcane</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>maṇal</form>
+    <def>sand</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>ciṟai<pc>+</pc></form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>tīm</form>
+    <def>sweet</def>
+    </entry>
+    <entry>
+    <form>puṉal</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>neri-</form>
+    <def>crush-</def>
+    </entry>
+    <entry>
+    <form>tara</form>
+    <def>give</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vīynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>destroyed</def>
+    </entry>
+    <entry>
+    <form>ukkāaṅku<pc>+</pc></form>
+    <def>shed like</def>
+    </entry>
+    <entry>
+    <form>tāṅkum</form>
+    <def>enduring-</def>
+    </entry>
+    <entry>
+    <form>aḷavai<pc>+</pc></form>
+    <def>measure</def>
+    </entry>
+    <entry>
+    <form>tāṅki<pc>+</pc></form>
+    <def>endured</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>neri-</form>
+    <def>crush-</def>
+    </entry>
+    <entry>
+    <form>tara<pc>+</pc></form>
+    <def>give</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>kai<pc>+</pc></form>
+    <def>hand</def>
+    </entry>
+    <entry>
+    <form>nillāt*-ē</form>
+    <def>stand not it</def>
+    <form type="simple">nillātu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

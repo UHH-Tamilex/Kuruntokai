@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 25. <persName xml:lang="ta">Kapilar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT25-kilavi">
+          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante by HER when [he] delayed marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT25">
+            <lg type="edition">
+<l>                yāru millait tāṉē kaḷvaṉ</l>
+<l>                ṟāṉatu poyppiṉ yāṉevaṉ ceykō</l>
+<l>                tiṉaittā ḷaṉṉa ciṟupacuṅ kāla</l>
+<l>                voḻukunī rāral pārkkuṅ</l>
+<l>                kuruku muṇṭutāṉ maṇanta ñāṉṟē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l rend="indent2">No one [was] there, only him, the robber.</l>
+                <l rend="indent2">If he deny it<note place="foot"><term xml:lang="ta">atu</term> must be taken as a direct object to <term xml:lang="ta">poyppiṉ</term>. "If he lies about that (i.e. the promised marriage?) ...".</note>, what shall I do?</l>
+                <l rend="indent3">With legs greenish<note place="foot"><term xml:lang="ta">ciṟu pacum kāla</term>: as Srinivasan 1977: 205f. rightly points out, in the given context it would not make much sense to understand <term xml:lang="ta">ciṟu</term> as an additional attribute to the legs, since heron legs are not small but rather long and stalky (like millet stalks), though one might be justified in calling them "thin". His proposal is to take it as a qualification of pacum, "green", instead. Now it seems more rational to take that as literally as possible, that is not "fresh green" (for which meaning at least one would want parallels, and those are not to be found in the KT), but "a little green", i.e. "greenish" which by the way would aptly describe the brown-greenish colour of the legs of the grey heron (Ardea cinerea) common in India today.</note> like millet stalks,</l>
+                <l rend="indent">looking for Āral in the flowing water,</l>
+                <l rend="indent2">just<note place="foot"><term xml:lang="ta">-um</term> indeed sometimes can be understood by implication as "only", that is, literally, "also", meaning "besides the man, just the heron". Moreover it can be construed in the circular way: the robber ... and the heron.</note> the heron was there<note place="foot"><term xml:lang="ta">uḷ</term> is a word for "be" meaning more than mere coincidence (<term xml:lang="ta">iru</term>) and properly only used for entities not changing place. Here it evokes the second root <term xml:lang="ta">uṇ</term>, "eat": the heron having devoured its prey.</note> when he claimed<note place="foot"><term xml:lang="ta">tāṉ maṇanta ñāṉṟē</term>: there has been a discussion as to the impact of <term xml:lang="ta">maṇa-ttal</term> in the context by Srinivasan 1977: 206ff., resulting in the provisional translation "[on] the day he touched [my shoulder (or: shoulders)]", an idiom conveying also an implication of a promise to marry. I think, this promise is indeed implied, which is supported here also by the presence of <term xml:lang="ta">atu poyppiṉ</term>. But in my view the use of <term xml:lang="ta">maṇa-ttal</term> points rather directly to sexual intercourse, which is, however, not had just for fun, but implies an intention to establish a lasting relationship (<term xml:lang="ta">kēṇmai, naṭpu</term>) which will result in marriage (occasionally <term xml:lang="ta">maṇam</term> has already that sense). The frequent combination of <term xml:lang="ta">maṇa-ttal</term> with <term xml:lang="ta">tōḷ</term>, "shoulder" (or shoulders), pointed out by Srin. can be explained in a different way. <term xml:lang="ta">tōḷ</term> is often used as a pars pro toto for the female body as such, or as a metonymy for HER, and thus "uniting with the shoulders" (also to be found with several other verbs of a similar meaning) can indeed be interpreted as a decent expression for the coitus. Accordingly the direct object required by the verb and thus to be complemented here can be either <term xml:lang="ta">tōḷ</term>, an expression for the body or simply for the woman, and the latter seems indeed preferable to me. The problem with the literal translation "the day he united with [me]" is that it does not convey the implication of marrying. The proposal of D.G. is "to claim" which has, in English, both the implication of physical intimacy and mental/emotional commitment, though it probably still lacks the additional social connotation of the Tamil word.</note> me.</l>
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT25">
+    <interp type="alignment" select="0">14MG31M2G52M2G20M2G2M,126M</interp>
+    <entry>
+    <form>yārum</form>
+    <def>someone</def>
+    </entry>
+    <entry>
+    <form>illai<pc>+</pc></form>
+    <def>not</def>
+    </entry>
+    <entry>
+    <form>tāṉ-ē</form>
+    <def>self</def>
+    <form type="simple">tāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>robber</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>atu</form>
+    <def>that</def>
+    </entry>
+    <entry>
+    <form>poyppiṉ</form>
+    <def>lie if</def>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>evaṉ</form>
+    <def>what</def>
+    </entry>
+    <entry>
+    <form>ceyk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+    <def>I do</def>
+    <form type="simple">ceyk*</form>
+    <gram type="role">subjuntive</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tiṉai<pc>+</pc></form>
+    <def>millet</def>
+    </entry>
+    <entry>
+    <form>tāḷ</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>small</def>
+    </entry>
+    <entry>
+    <form>pacum</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>kāla</form>
+    <def>legged</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oḻuku</form>
+    <def>flow-</def>
+    </entry>
+    <entry>
+    <form>nīr</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>āral</form>
+    <def>Āral( fish)</def>
+    </entry>
+    <entry>
+    <form>pārkkum</form>
+    <def>looking-</def>
+    </entry>
+    <entry>
+    <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>wader</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>uṇṭu</form>
+    <def>there is</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>maṇanta</form>
+    <def>united-</def>
+    </entry>
+    <entry>
+    <form>ñāṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>when</def>
+    <form type="simple">ñāṉṟ*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

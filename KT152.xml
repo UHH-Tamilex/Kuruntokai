@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 152. <persName xml:lang="ta">kiḷimaṅkalaṅ kiḻār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT152-kilavi">
+          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷ “nī āṟṟukiṉṟilai” eṉṟu neruṅkiya tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante who approached HER [with the words] “you don't have the strength”, when she didn't have strength [anymore] as [he] delayed marriage.</p>
+          </div>
+
+
+        <div xml:id="KT152">
+            <lg type="edition">
+<l>                yāvatu maṟikilar kaḻaṟu vōrē</l>
+<l>                tāyiṉ muṭṭai pōla vuṭkiṭantu</l>
+<l>                cāyi ṉallatu piṟiteva ṉuṭaittō</l>
+<l>                yāmaip pārppi ṉaṉṉa</l>
+<l>                kāmaṅ kātalar kaiyaṟa viṭiṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>Nothing do they know, those who murmur.</l>
+                <l rend="indent">
+                    <choice>
+                        <seg>If the lover lets go of desire so that action ends</seg>
+                        <seg>When the lover lets action desist by desire</seg>
+                    </choice>
+                </l>
+                <l rend="indent">
+                    <choice>
+                        <seg>like the young of the tortoise<note place="foot">This comparison is to be understood "asyndetically": SHE without HIS desire is like the abandoned young of the tortoise.</note>,</seg>
+                        <seg>like [that] of the young one for the tortoise,</seg>
+                    </choice>
+                </l>
+                <l>what else has it got than to<note place="foot"><term xml:lang="ta">cāyiṉ allatu</term>: this is a very strange construction. Literally this can only be: "apart from when ... ". For the rendering given above which follows the traditional interpretation one would like to have parallels at least. (A parallel is KT 305.7 <term xml:lang="ta">viḷiyiṉ allatu</term>, but unfortunately that is just as uncertain.)</note> grow thin<note place="foot"><term xml:lang="ta">cāyiṉ</term>: <term xml:lang="ta">cāy-tal</term> is mostly "to emaciate", but also stronger "perish". Perhaps here the openness is intended: it is unclear whether SHE/the young one still have a chance of recovery.</note>,</l>
+                <l rend="indent">having come to rest inside<note place="foot"><term xml:lang="ta">uḷ kiṭantu</term>: a coordination is also possible: "... than to rest inside [and] emaciate/perish ...".</note> like an egg without mother?</l>
+
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT152">
+    <interp type="alignment" select="0">5M2G19MG4MG38MG10M2G33MG9MG2M,129M</interp>
+    <entry>
+    <form>yāvat*-um</form>
+    <def>anything</def>
+    </entry>
+    <entry>
+    <form>aṟikilar</form>
+    <def>knowing not they</def>
+    <gram type="role">honorific<note place="foot"><term xml:lang="ta">aṟikilar</term>: there are two ways of  analysing this form. The first is <term xml:lang="ta">aṟi-k’-il-ar</term> = verbal stem + infix -<term xml:lang="ta">ku</term>- (shortened in <term xml:lang="ta">sandhi</term>) in order to mark the i.a. + negative infix -<term xml:lang="ta">il</term>- + personal suffix -<term xml:lang="ta">ar</term>. Such a formation is not to be found in Agesthialingom, presumably because the Tamil grammatical tradition does not accept the negative root <term xml:lang="ta">il</term> as an infix (unless later and with the perfective stem). The second way is <term xml:lang="ta">aṟi-kilar</term>, verbal root + negative 3rd honorific of <term xml:lang="ta">kil-tal</term>, "to be able".</note></gram>
+    </entry>
+    <entry>
+    <form>kaḻaṟuvōr-ē</form>
+    <def>murmuring they</def>
+    <form type="simple">kaḻaṟuvōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tāy-il</form>
+    <def>mother not</def>
+    </entry>
+    <entry>
+    <form>muṭṭai</form>
+    <def>egg</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷ</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>kiṭantu</form>
+    <def>rested</def>
+    </entry>
+    <entry>
+    <form>cāyiṉ</form>
+    <def>be emaciated if</def>
+    </entry>
+    <entry>
+    <form>allatu</form>
+    <def>besides</def>
+    </entry>
+    <entry>
+    <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>other it</def>
+    </entry>
+    <entry>
+    <form>evaṉ</form>
+    <def>what</def>
+    </entry>
+    <entry>
+    <form>uṭaitt*-ō</form>
+    <def>possess it</def>
+    <form type="simple">uṭaittu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāmai<pc>+</pc></form>
+    <def>tortoise</def>
+    </entry>
+    <entry>
+    <form>pārppiṉ</form>
+    <def>young one</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>kāmam</form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>kātalar</form>
+    <def>lover</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>kai-</form>
+    <def>act</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟa</form>
+    <def>cease</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>viṭiṉ-ē</form>
+    <def>let if</def>
+    <form type="simple">viṭiṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+  </TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 55. <persName xml:lang="ta">neytal kārkkiyār</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT55-kilavi">
+          <p type="edition">nī varaivoṭu pukutāyēl ivaḷ iṟantu paṭum eṉat tōḻi talaimakaṉ ciṟaippuṟamākac (C3: ciṟaippuṟattāṉākac) colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered when HE was behind the hedge by the confidante, to say that she would die if he didn't come up with the marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT55">
+            <lg type="edition">
+<l>                mākkaḻi maṇippūk kūmpat tūttiraip</l>
+<l>                poṅkupitirt tuvalaiyoṭu maṅku ṟaiik</l>
+<l>                kaiyaṟa vanta taivara lūtaiyō</l>
+<l>                ṭiṉṉā vuṟaiyuṭ ṭākuñ</l>
+<l>                ciṉṉāṭ ṭammavic ciṟunal lūrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Alas, [just] a few days has this little good village,</l>
+             <l rend="indent">[before] becoming an unpleasant abode</l>
+             <l rend="indent">
+                <choice>
+                <seg>with abrasive cold wind, come for hands to part,</seg>
+                <seg>with rubbing cold wind, come for [all] action to subside,</seg>
+             </choice>
+            </l>
+            <l rend="indent">the clouds enmeshed with sprays of foam<note place="foot">The syntax of the lines 1-3, or rather the connection between the three joint elements <term xml:lang="ta">tirai</term>, "wave" – <term xml:lang="ta">maṅkul</term>, "cloud" and <term xml:lang="ta">ūtai</term>, "cold wind", is rather unclear. TVG understands <term xml:lang="ta">taii</term> (even more favourable to such an interpretation is the variant <term xml:lang="ta">taiiya</term>) as a link between <term xml:lang="ta">maṅkul</term> and <term xml:lang="ta">ūtai</term>, that is "wind tied to clouds with [rain]drops". The problem, then, is the connection to the preceding elements. He can only read "and foaming spray of clear waves".</note></l>
+            <l rend="indent">from the pure waves, so that sapphire flowers close</l>
+            <l rend="indent4">in the dark backwaters.</l>
+             
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT55">
+    <interp type="alignment" select="0">58ML7MG24MG13MG11MG17MG2M,138M</interp>
+    <entry>
+    <form>mā<pc>+</pc></form>
+    <def>black</def>
+    </entry>
+    <entry>
+    <form>kaḻi</form>
+    <def>backwaters</def>
+    </entry>
+    <entry>
+    <form>maṇi<pc>+</pc></form>
+    <def>sapphire</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kūmpa<pc>+</pc></form>
+    <def>close</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>tū<pc>+</pc></form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>tirai<pc>+</pc></form>
+    <def>wave</def>
+    </entry>
+    <entry>
+    <form>poṅku</form>
+    <def>foam-</def>
+    </entry>
+    <entry>
+    <form>pitir<pc>+</pc></form>
+    <def>spray</def>
+    </entry>
+    <entry>
+    <form>tuvalaiyoṭu</form>
+    <def>drop with</def>
+    </entry>
+    <entry>
+    <form>maṅkul</form>
+    <def>cloud</def>
+    </entry>
+    <entry>
+    <form>taii<pc>+</pc></form>
+    <def>knitted</def>
+    </entry>
+    <entry>
+    <form>Kai-</form>
+    <def>deedsubside/hand</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟa</form>
+    <def>part</def>
+    </entry>
+    <entry>
+    <form>vanta</form>
+    <def>come-</def>
+    </entry>
+    <entry>
+    <form>taivaral</form>
+    <def>rubbing<note place="foot"><term xml:lang="ta">taivaral</term>: what is the function of the verbal noun? Cf. KT 28 <term xml:lang="ta">alamaral acai vaḷi</term>.</note></def>
+    </entry>
+    <entry>
+    <form>ūtaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>cold wind with</def>
+    </entry>
+    <entry>
+    <form>iṉṉā</form>
+    <def>pleasant not</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṟaiyuṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>abode it<note place="foot"><term xml:lang="ta">uṟaiyuṭṭu</term> is to be analysed as an pronominal noun n.sg. to <term xml:lang="ta">uṟaiyuḷ</term> "place to stay", just as <term xml:lang="ta">ciṉṉāṭṭu</term> to <term xml:lang="ta">nāḷ</term>, both of them predicate nouns to the <term xml:lang="ta">ūr</term> at the end.</note></def>
+    </entry>
+    <entry>
+    <form>ākum</form>
+    <def>becoming-</def>
+    </entry>
+    <entry>
+    <form>cil</form>
+    <def>few</def>
+    </entry>
+    <entry>
+    <form>nāṭ<pc>+</pc>-amma</form>
+    <def>day it</def>
+    <form type="simple">nāṭ</form>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

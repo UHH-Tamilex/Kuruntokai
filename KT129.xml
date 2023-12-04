@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 129. <persName xml:lang="ta">kōpperuñcōḻaṉ</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT129-kilavi">
+          <p type="edition">talaimakaṉ pāṅkaṟku uraittatu.</p>
+          <p type="translation" xml:lang="en">Told to the companion by HIM.</p>
+          </div>
+
+
+        <div xml:id="KT129">
+            <lg type="edition">
+<l>                eluva ciṟāa rēmuṟu naṇpa</l>
+<l>                pulavar tōḻa kēḷā yattai</l>
+<l>                mākkaṭa ṉaṭuva ṇeṇṇāṭ pakkattup</l>
+<l>                pacuveṇ ṭiṅka ṭōṉṟi yāṅkuk</l>
+<l>                katuppayal viḷaṅkuñ ciṟunutal</l>
+<l>                putukkōḷ yāṉaiyiṟ piṇittaṟṟā lemmē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>You [strong like a] bear, companion [prone] to be confused</l>
+           <l rend="indent3">by small [foreheads/women]<note place="foot">The tradition reads <term xml:lang="ta">ēm uṟu</term> as "to have joy in" and connects it with <term xml:lang="ta">ciṟāar</term> as a subject: little children have joy in HIS friend, an at least rather non-typical message in these texts. The TL, however, adds another meaning "to be perplexed". And if one takes also into consideration the second ciṟu of this poem, namely <term xml:lang="ta">ciṟu nutal</term>, "small forehead", there appears to be a better solution: the friend is too liable to confusion on account of insignificant things like female foreheads, with the <term xml:lang="ta">-r</term> of persons, because it has to be taken as a metonymy. Thus the point might be that he addresses himself, as so often his heart, in an ironical way.</note>,</l>
+           <l>friend of scholars, listen:</l>
+           <l>The small forehead shining next to [her] hair,</l>
+           <l rend="indent">appearing like the fresh white moon</l>
+           <l rend="indent">on the eighth day over the black sea,</l>
+           <l>has really fettered us like a newly caught elephant.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT129">
+    <interp type="alignment" select="0">36MG14ML33ML16MG46M2G4MG3M,159M</interp>
+    <entry>
+    <form>eluva</form>
+    <def>bear he(voc.)(?)<note place="foot"><term xml:lang="ta">eluva(ṉ)</term> DEDR 831 "friend"; <term xml:lang="ta">naṇpaṉ</term> DEDR 3563 "friend, companion, associate"; <term xml:lang="ta">tōḻaṉ</term>, m. to <term xml:lang="ta">tōḻi</term> (attested only here, twice in PN and once in Kali). According to the tradition <term xml:lang="ta">eluvaṉ</term> is a word for friend only occurring in the vocative (the TL gives Tolkāppiyam as the source). Etymologically it might, however, be connected with <term xml:lang="ta">elu</term> "bear", which would be fitting in the context, an ironical allusion to "strength".</note></def>
+    </entry>
+    <entry>
+    <form>ciṟāar</form>
+    <def>little they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ēm</form>
+    <def>confusion</def>
+    </entry>
+    <entry>
+    <form>uṟu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>naṇpa</form>
+    <def>companion</def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form>pulavar</form>
+    <def>wise/erudite they(?)</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tōḻa</form>
+    <def>friend</def>
+    <gram type="role">vocative</gram>
+    </entry>
+    <entry>
+    <form>kēḷā-<pc>~</pc>attai<note place="foot"><term xml:lang="ta">attai</term> obviously has to be taken as a particle, one of those that are too rare, at least in the KT, to say anything constructive. The only further reference is KT 389.2, in identical position, that is, at the end of the 2nd line, though there with a directly following vocative <term xml:lang="ta">tōḻi</term>.</note></form>
+    <def>listen(ipt.)attai</def>
+    </entry>
+    <entry>
+    <form>mā<pc>+</pc></form>
+    <def>big/black</def>
+    </entry>
+    <entry>
+    <form>kaṭal</form>
+    <def>sea</def>
+    </entry>
+    <entry>
+    <form>naṭuvaṇ</form>
+    <def>centre/</def>
+    <gram type="role">locative</gram>
+    </entry>
+    <entry>
+    <form>eṇ</form>
+    <def>eight</def>
+    </entry>
+    <entry>
+    <form>nāḷ</form>
+    <def>day</def>
+    </entry>
+    <entry>
+    <form>pakkattu<pc>+</pc></form>
+    <def>wing-<note place="foot"><term xml:lang="ta">pakkam</term> (presumably Skt. pakṣa- "wing") can also denote the lunar phase, but if what is meant were the 8th day of the lunar phase it should precede <term xml:lang="ta">eṇṇāḷ</term>. As it is, it might also simply be a locative suffix. This, however, would be an isolated instance in the KT.</note></def>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>tiṅkaḷ</form>
+    <def>moon</def>
+    </entry>
+    <entry>
+    <form>tōṉṟiyāṅku<pc>+</pc></form>
+    <def>appeared like</def>
+    </entry>
+    <entry>
+    <form>katupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hair</def>
+    </entry>
+    <entry>
+    <form>ayal</form>
+    <def>neighbourhood</def>
+    </entry>
+    <entry>
+    <form>viḷaṅkum</form>
+    <def>shining-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>nutal</form>
+    <def>forehead</def>
+    </entry>
+    <entry>
+    <form>putu<pc>+</pc></form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>kōḷ</form>
+    <def>taking</def>
+    </entry>
+    <entry>
+    <form>yāṉaiyiṉ</form>
+    <def>elephant</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>piṇittaṟṟ*-āl</form>
+    <def>it has fettered</def>
+    <form type="simple">piṇittaṟṟu</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>em-<pc>+</pc>ē</form>
+    <def>us-</def>
+    <form type="simple">em</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

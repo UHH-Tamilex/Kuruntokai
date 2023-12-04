@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 43. <persName xml:lang="ta">avvaiyār (C4: auvaiyār)</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT43-kilavi">
+          <p type="edition">piriviṭai melinta kiḻatti colliyatu (C4: uraittatu).</p>
+          <p type="translation" xml:lang="en">Spoken by HER who had become weak in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT43">
+            <lg type="edition">
+<l>                celvā rallareṉ ṟiyāṉikaḻn taṉaṉē</l>
+<l>                yīvā ḷallaḷeṉ ṟavarikaḻn taṉarē</l>
+<l rend="indent4">                yāyiṭai</l>
+<l>                yirupē rāṇmai ceyta pūca</l>
+<l>                ṉallarāk katuvi yāṅke</l>
+<l>                ṉalla ṉeñca malamalak kuṟumē.</l>
+
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l>He won't go, said I, carelessly.</l>
+             <l>She won't grant [it], said he, carelessly.</l>
+             <l rend="indent">From that fight, the result of two great wills,</l>
+             <l rend="indent">as if seized by a cobra(?)<note place="foot"><term xml:lang="ta">nal arā</term>: is nal "good", also "auspicious", here a designation for the cobra as <term xml:lang="ta">nallapāmpu</term> is in modern Tamil? Srin. and TVG both think so.</note>,</l>
+             <l>my unhappy heart is full of painful confusion.<note place="foot">Is the message here that HE has, against all appearances, really gone?</note></l>
+
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT43">
+    <interp type="alignment" select="0">14MGMG13MG14MG14MG15MG32MG7ML14MG4MG2M,140M</interp>
+    <entry>
+    <form>celvār</form>
+    <def>going he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>allar</form>
+    <def>not so he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>eṉṟ<pc>(</pc>u<pc>)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>ikaḻntaṉaṉ-ē</form>
+    <def>I was negligent</def>
+    <form type="simple">ikaḻntaṉaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īvāḷ</form>
+    <def>give she</def>
+    </entry>
+    <entry>
+    <form>allaḷ</form>
+    <def>not so she</def>
+    </entry>
+    <entry>
+    <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>avar</form>
+    <def>he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ikaḻntaṉar-ē</form>
+    <def>he was negligent</def>
+    <form type="simple">ikaḻntaṉar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āyiṭai</form>
+    <def>at that time<note place="foot">TVG, like Cām., explains ā-y-iṭai as a special sandhi of poetic texts between the enclitic pronoun a- and iṭai.</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iru</form>
+    <def>two</def>
+    </entry>
+    <entry>
+    <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>āṇmai</form>
+    <def>courage(?)<note place="foot">Is the meaning of <term xml:lang="ta">āṇmai</term> special here, or how is it possible to connect lines 1 + 2 with line 3? TVG's understanding of the line is: "the encounter of two great individual prestiges".</note></def>
+    </entry>
+    <entry>
+    <form>ceyta</form>
+    <def>made-</def>
+    </entry>
+    <entry>
+    <form>pūcal</form>
+    <def>fight</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>arā<pc>+</pc></form>
+    <def>serpent</def>
+    </entry>
+    <entry>
+    <form>katuvi</form>
+    <def>seized</def>
+    </entry>
+    <entry>
+    <form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>allal</form>
+    <def>unhappiness</def>
+    </entry>
+    <entry>
+    <form>neñcam</form>
+    <def>heart</def>
+    </entry>
+    <entry>
+    <form>alamalakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>pain</def>
+    </entry>
+    <entry>
+    <form>uṟum-ē</form>
+    <def>confusion<note place="foot"><term xml:lang="ta">alamalakku</term> can also be read as one lexeme denoting more or less the same, but with a certain onomatopoeic quality.</note> having-</def>
+    <form type="simple">uṟum</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

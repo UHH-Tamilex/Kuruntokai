@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 116. <persName xml:lang="ta">iḷaṅkīraṉ</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT116-kilavi">
+          <p type="edition">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">HE who leaves [her] after having consummated the natural union, speaking to [his] own heart.</p>
+          </div>
+
+
+        <div xml:id="KT116">
+            <lg type="edition">
+<l>                yāṉayan tuṟaivō ṭēmpāy kūntal</l>
+<l>                vaḷaṅkeḻu cōḻa ruṟantaip peruntuṟai</l>
+<l>                nuṇmaṇa laṟalvārn taṉṉa</l>
+<l>                naṉṉeṟi yavvē naṟuntaṇ ṇiyavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>
+            <choice>
+          <seg>The honey-scented<note place="foot"><term xml:lang="ta">tēmpāy</term> can also mean "frequented by bees": <term xml:lang="ta">pāy</term>, the verb of movement, might be explained as a means to activate the (metonymic?) association of tēm with bee.</note> tresses of her who is still<note place="foot">nayantu uṟaivōḷ: the most natural interpretation might here be one of uṟai-tal as an auxiliary verb with the aspect of continuity: she is one who is continuously longed for by him. See also KT 145.4 tuñcātu uṟainar, KT 65.4 vārātu uṟaiyunar.</note> the one I longed for,</seg>
+          <seg>
+            <lg>
+              <l>The tresses swarmed by honey[-bees]<note place="foot">So TVG with Cām.; of course there is the topos of bees coming to women's hair.</note> of her whom I have</l>  
+              <l>longed for [and with whom] I stay.</l>
+            </lg>
+        </seg>
+           </choice>
+        </l>
+        <l rend="indent">like water<note place="foot"><term xml:lang="ta">aṟal</term> can also be, with Cām., "black sand", that is, "like black sand flown over fine [white] sand"; thus unequivocally in KT 286.3, but equally certain is "water" in KT 65.1 – and in the KT there are just these 3 occurrences.</note> trickling over fine sand<note place="foot">Again the elliptical crossing of expressive levels: the white sand through which the water flows in curl-like, winding tracks evokes her face, otherwise not mentioned, and/or her white body which is contrasted by her black hair.</note></l>
+        <l rend="indent">at the big ghat of Uṟantai, the [town of the] wealthy Cōḻar,</l>
+        <l>[is] good [and]<note place="foot">Instead of taking nal "good" as a further predicate noun difficult to explain, the possibility of an adverb might be considered, i.e. "very curly".</note> curly. It [is] fragrant [and] cool.</l>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT116">
+    <interp type="alignment" select="0">3ML5MG7ML74MG14MG3M,111M</interp>
+    <entry>
+    <form>yāṉ</form>
+    <def>I</def>
+    </entry>
+    <entry>
+    <form>nayant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>longed for</def>
+    </entry>
+    <entry>
+    <form>uṟaivōḷ</form>
+    <def>remaining she</def>
+    </entry>
+    <entry>
+    <form>tēm</form>
+    <def>honey</def>
+    </entry>
+    <entry>
+    <form>pāy</form>
+    <def>spread-</def>
+    </entry>
+    <entry>
+    <form>kūntal</form>
+    <def>tresses</def>
+    </entry>
+    <entry>
+    <form>vaḷam</form>
+    <def>wealth</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>cōḻar</form>
+    <def>Cōḻa</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>uṟantai<pc>+</pc></form>
+    <def>Uṟantai</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>nuṇ</form>
+    <def>fine</def>
+    </entry>
+    <entry>
+    <form>maṇal</form>
+    <def>sand</def>
+    </entry>
+    <entry>
+    <form>aṟal</form>
+    <def>water</def>
+    </entry>
+    <entry>
+    <form>vārntaṉṉa</form>
+    <def>overflown like</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>neṟiya<pc>+</pc>-<pc>~</pc>ē</form>
+    <def>curly they</def>
+    <form type="simple">neṟiya</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>naṟum</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>taṇṇiya-<pc>~</pc>ē</form>
+    <def>cool she</def>
+    <form type="simple">taṇṇiya</form>
+    <gram type="role">neuter plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 83. <persName xml:lang="ta">veṇpūtaṉ</persName>: <i>the confidante / SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT83-kilavi">
+          <p type="edition">talaimakaṉ varaintu eytal (C2: eytutal) uṇarttiya ceviliyait tōḻi vāḻttiyatu.</p>
+          <p type="translation" xml:lang="en">The confidante blessing the foster-mother, when she announced HIS approach for marriage.</p>
+          </div>
+
+
+
+        <div xml:id="KT83">
+            <lg type="edition">
+<l>                arumpeṟa lamiḻta mārpata mākap</l>
+<l>                perumpeya rulakam peṟīiyarō vaṉṉai</l>
+<l>                tammiṟ ṟamatuṇ ṭaṉṉa ciṉaitoṟun</l>
+<l>                tīmpaḻan tūṅkum palavi</l>
+<l>                ṉōṅkumalai nāṭaṉai varumeṉ ṟōḷē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>May mother obtain the world of great name</l>
+                <l rend="indent">[for her] to have to [her] fill of ambrosia, hard to obtain,</l>
+                <l>she who said:</l>
+                <l rend="indent3">he will come<note place="foot">Literally, with accusative: "who has said the man from the mountain as coming".</note>, the man from the high mountain</l>
+                <l rend="indent">with jackfruit trees hung with sweet fruit</l>
+                <l rend="indent">on every twig, eaten like one's own in one's own house.</l>
+                <lg type="alternate" resp="#Srin" sameAs="1+2b">
+               <l>May [the mother] be given ambrosia that is hard to obtain</l>
+               <l>(that is, for humans, not for gods), [as] precious food (āka)!</l>
+               <l>	(At least) may mother obtain the world of the famous...</l>
+                </lg>
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT83">
+    <interp type="alignment" select="0">51MG18MG12MG52MG2M,139M</interp>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>peṟal</form>
+    <def>obtaining</def>
+    </entry>
+    <entry>
+    <form>amiḻtam</form>
+    <def>ambrosia</def>
+    </entry>
+    <entry>
+    <form>ār</form>
+    <def>be full-</def>
+    </entry>
+    <entry>
+    <form>patam</form>
+    <def>food</def>
+    </entry>
+    <entry>
+    <form>āka<pc>+</pc></form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>peyar</form>
+    <def>name</def>
+    </entry>
+    <entry>
+    <form>ulakam</form>
+    <def>world</def>
+    </entry>
+    <entry>
+    <form>peṟīiyar-ō</form>
+    <def>may obtain</def>
+    <form type="simple">peṟīiyar</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉai</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>tam</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>il</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>tamat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>self it</def>
+    </entry>
+    <entry>
+    <form>uṇṭaṉṉa</form>
+    <def>eaten like</def>
+    </entry>
+    <entry>
+    <form>ciṉai-toṟum</form>
+    <def>twig ever</def>
+    </entry>
+    <entry>
+    <form>tīm</form>
+    <def>sweet</def>
+    </entry>
+    <entry>
+    <form>paḻam</form>
+    <def>fruit</def>
+    </entry>
+    <entry>
+    <form>tūṅkum</form>
+    <def>hanging-</def>
+    </entry>
+    <entry>
+    <form>palaviṉ</form>
+    <def>jackfruit tree</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ōṅku</form>
+    <def>high</def>
+    </entry>
+    <entry>
+    <form>malai</form>
+    <def>mountain</def>
+    </entry>
+    <entry>
+    <form>nāṭaṉai</form>
+    <def>land he</def>
+    <gram type="role">accusative</gram>
+    </entry>
+    <entry>
+    <form>varum</form>
+    <def>coming-</def>
+    </entry>
+    <entry>
+    <form>eṉṟōḷ-ē</form>
+    <def>said she</def>
+    <form type="simple">eṉṟōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

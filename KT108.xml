@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 108. <persName xml:lang="ta">vāyilāṉ tēvaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="Srin">
+            <persName>
+              <abbr>Srin.</abbr>
+              <expan>S.A. Srinivasan</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT108-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuk kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">Spoken to the confidante by HER was desolate at the sight of the season.</p>
+          </div>
+          
+
+
+        <div xml:id="KT108">
+            <lg type="edition">
+<l>                maḻaiviḷai yāṭuṅ kuṉṟucēr ciṟukuṭik</l>
+<l>                kaṟavai kaṉṟuvayiṟ paṭarap puṟaviṟ</l>
+<l>                pācilai mullai yācil vāṉpūc</l>
+<l>                cevvāṉ cevvi koṇṭaṉ</l>
+<l>                ṟuyyēṉ pōlva ṟōḻi yāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">For the cows to set out<note place="foot"><term xml:lang="ta">paṭara: paṭar-tal</term> is several times to be taken as "thinking of", though the semantic nucleus rather seems to be the direction of movement towards a desired aim. Here it has to be surmised that the description is situative: at sunset, in the rainy season, the cows return to the village, to their calves (cf. KT 64 with the cows returning in the evening).</note> for [their] calves,</l>
+           <l rend="indent">to the little homes<note place="foot">TVG explains <term xml:lang="ta">ciṟukuṭi</term> as the type of little village to be found in the woodlands.</note> joining hills on which rain is playing,</l>
+            
+           
+           <l rend="indent">in the woodland the flawless sky[-bright] flower of jasmine</l>
+           <l>has taken the redness of the red sky.<note place="foot">A poetologically interesting alternative interpretation of the jasmine image is given by TVG He takes it as "the flawless white jasmine flower has taken the beauty of the red sky", that is, the white jasmine blossoms would look against the fertile red soil like stars in the night sky – which would imply a sort of poetic license, because in fact what is to be seen in the sky is either sunset red or stars at night. I prefer to think that the very bright, white blossoms are supposed to reflect the red of sunset – which might be another kind of poetic license implying colour symbolism: positive white infested by painful red.</note></l>
+           <l>I don't seem to live, friend.</l>
+           <lg type="alternate" resp="#Srin" sameAs="1+2b">
+            <l>While the cows of the small village situated on the hill [slope]</l>
+            <l>on which rain [clouds] are playing run with the calves,</l>
+           </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT108">
+    <interp type="alignment" select="0">44MG22MG13M2G26MG11ML6MG2M,131M</interp>
+    <entry>
+    <form>maḻai</form>
+    <def>rain</def>
+    </entry>
+    <entry>
+    <form>viḷaiyāṭum</form>
+    <def>playing-</def>
+    </entry>
+    <entry>
+    <form>kuṉṟu</form>
+    <def>hill</def>
+    </entry>
+    <entry>
+    <form>cēr</form>
+    <def>join-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>kuṭi<pc>+</pc></form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>kaṟavai</form>
+    <def>milk cow</def>
+    </entry>
+    <entry>
+    <form>kaṉṟu-vayiṉ</form>
+    <def>calf at</def>
+    </entry>
+    <entry>
+    <form>paṭara<pc>+</pc></form>
+    <def>set out-</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>puṟaviṉ</form>
+    <def>woodland</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>ilai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form>mullai</form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āc*-il</form>
+    <def>flaw not</def>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>ce<pc>+</pc></form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>vāṉ</form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>cevvi</form>
+    <def>redness</def>
+    </entry>
+    <entry>
+    <form>koṇṭaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it took</def>
+    </entry>
+    <entry>
+    <form>uyyēṉ</form>
+    <def>I don't live</def>
+    </entry>
+    <entry>
+    <form>pōlval</form>
+    <def>similar I</def>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>yāṉ-ē</form>
+    <def>I</def>
+    <form type="simple">yāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

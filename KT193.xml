@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 193. <persName xml:lang="ta">aricil kiḻār</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT193-kilavi">
+          <p type="edition">tōḻi kaṭinakar pukku “nalan tolaiyāmē (C1: tolaiyām eṉ) naṉku āṟṟiṉāy” eṉṟāṭkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Told by HER to her who said “we have not lost [our] beauty. you have well had the strength”, after the confidante had entered the marriage house.</p>
+          </div>
+          
+
+        <div xml:id="KT193">
+            <lg type="edition">
+<l>                maṭṭam peyta maṇikkalat taṉṉa</l>
+<l>                viṭṭuvāyc cuṉaiya pakuvāyt tērai</l>
+<l>                taṭṭaip paṟaiyiṟ kaṟaṅku nāṭaṉ</l>
+<l>                ṟollait tiṅka ṇeṭuveṇ ṇilaviṉ</l>
+<l>                maṇantaṉaṉ maṉṉeṭun tōḷē</l>
+<l>                yiṉṟu mullai mukainā ṟummē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+     <l rend="indent">In the long white light of the old moon</l>
+     <l>the man from a land, where the wide-mouthed frog sounds</l>
+     <l rend="indent">like the bird-chasing drum, in the narrow-mouthed mountain pool</l>
+     <l rend="indent">like a sapphire pot filled with toddy<note place="foot">For <term xml:lang="ta">maṭṭam peyta maṇi kalattu</term> TVG considers the alternative interpretation of <term xml:lang="ta">maṭṭam</term> as Greek wine, brought in <term xml:lang="ta">nal kalam</term>, in "good vessels", as mentioned in PN 56.16-21, though there is no hint as to the colour of these <term xml:lang="ta">kalam</term>-s.</note>,</l>
+     <l>indeed united<note place="foot"><term xml:lang="ta">maṇantaṉaṉ</term>: here it is uncertain whether the perfective aspect is used to denote past tense. It might also mean that the union is already on the way.</note> with [her of] long shoulders.</l>
+     <l>Today the jasmine buds are fragrant.</l>
+     <lg type="alternate" resp="#TVG" sameAs="4-6b">
+      <l>In the previous month, in the long white moonlight</l>
+      <l>he united [with me] of long shoulders.</l>
+      <l>Even today<note place="foot">The <term xml:lang="ta">sandhi</term> also allows for the reading <term xml:lang="ta">iṉṟum</term> "even today, still today".</note> they (my shoulders) are fragrant with jasmine buds.<note place="foot">Thus the scholastic interpretation in accordance with the <term xml:lang="ta">kiḷavi</term>: SHE reassures her confidante that she will patiently await his coming for the marriage, because sweet memories keep her upright.</note></l>
+     </lg>
+
+            </lg>
+        </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#KT193">
+        <interp type="alignment" select="0">22MG55MR18ML23MG11MG6MGM2G15MG3M,163M</interp>
+        <entry>
+        <form>maṭṭam</form>
+        <def>toddy</def>
+        </entry>
+        <entry>
+        <form>peyta</form>
+        <def>rained-</def>
+        </entry>
+        <entry>
+        <form>maṇi<pc>+</pc></form>
+        <def>sapphire</def>
+        </entry>
+        <entry>
+        <form>kalatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>pot-</def>
+        </entry>
+        <entry>
+        <form>aṉṉa</form>
+        <def>like</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṭṭu</form>
+        <def>narrow</def>
+        </entry>
+        <entry>
+        <form>vāy<pc>+</pc></form>
+        <def>mouth</def>
+        </entry>
+        <entry>
+        <form>cuṉaiya</form>
+        <def>mountain pool-</def>
+        </entry>
+        <entry>
+        <form>paku</form>
+        <def>split-</def>
+        </entry>
+        <entry>
+        <form>vāy<pc>+</pc></form>
+        <def>mouth</def>
+        </entry>
+        <entry>
+        <form>tērai</form>
+        <def>frog</def>
+        </entry>
+        <entry>
+        <form>taṭṭai<pc>+</pc></form>
+        <def>Taṭṭai<note place="foot"><term xml:lang="ta">taṭṭai</term>, just like <term xml:lang="ta">kuḷir</term> and <term xml:lang="ta">taḻal</term>, designates clattering or loud tools made to chase the birds away from the fields of ripening corn. At least <term xml:lang="ta">taṭṭai</term> and <term xml:lang="ta">taḻal</term> seem likely to be different things, since in KT 223.4 they are both mentioned side by side.</note></def>
+        </entry>
+        <entry>
+        <form>paṟaiyiṉ</form>
+        <def>drum</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>kaṟaṅkum</form>
+        <def>sounding-</def>
+        </entry>
+        <entry>
+        <form>nāṭaṉ</form>
+        <def>land he</def>
+        </entry>
+        <entry>
+        <form>tollai<pc>+</pc></form>
+        <def>oldness</def>
+        </entry>
+        <entry>
+        <form>tiṅkaḷ</form>
+        <def>moon</def>
+        </entry>
+        <entry>
+        <form>neṭu</form>
+        <def>long</def>
+        </entry>
+        <entry>
+        <form>veḷ</form>
+        <def>white</def>
+        </entry>
+        <entry>
+        <form>nilaviṉ</form>
+        <def>moonlight</def>
+        <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+        </entry>
+        <entry>
+        <form>maṇantaṉaṉ-maṉ</form>
+        <def>he united </def>
+        <form type="simple">maṇantaṉaṉ</form>
+        <gramGrp type="particle"><form>maṉ</form></gramGrp>
+        </entry>
+        <entry>
+        <form>neṭum</form>
+        <def>long</def>
+        </entry>
+        <entry>
+        <form>tōḷ-ē</form>
+        <def>shoulder</def>
+        <form type="simple">tōḷ</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṉṟu<pc>(</pc>m<pc>)</pc></form>
+        <def>today(um)</def>
+        </entry>
+        <entry>
+        <form>mullai</form>
+        <def>jasmine</def>
+        </entry>
+        <entry>
+        <form>mukai</form>
+        <def>bud</def>
+        </entry>
+        <entry>
+        <form>nāṟum-<pc>+</pc>ē</form>
+        <def>being fragrant-</def>
+        <form type="simple">nāṟum</form>
+        <gramGrp type="particle"><form>ē</form></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

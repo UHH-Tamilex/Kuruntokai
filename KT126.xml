@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 126. <persName xml:lang="ta">okkūr mācātti</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT126-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered to the confidante by HER who is desolate at the sight of the season.</p>
+          </div>
+
+
+        <div xml:id="KT126">
+            <lg type="edition">
+<l>                iḷamai pārār vaḷanacaiic ceṉṟō</l>
+<l>                rivaṇum vārā revaṇa rōveṉap</l>
+<l>                peyalpuṟan tanta pūṅkoṭi mullait</l>
+<l>                tokumukai yilaṅkeyi ṟāka</l>
+<l>                nakumē tōḻi naṟuntaṇ kārē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l rend="indent">“The one who doesn't see [your] youth,</l>
+           <l rend="indent3">who has gone yearning for wealth,</l>
+           <l rend="indent">who also hasn't come here – where [is] he?”</l>
+           <l>[Thus] laughs,<note place="foot">Another possible interpretation of the syntax would be a sentence division after <term xml:lang="ta">nakumē tōḻi</term>: "... thus laughs the ... jasmine, so that [its] dense buds become shining teeth, friend. [It is] fragrant [and] cool rainy season." In both cases the <term xml:lang="ta">-ē</term> can be read additionally as a particle of regret/lament.</note> friend, the fragrant cool rainy season,</l>
+           <l rend="indent">so that on the jasmine, in flower clusters defying<note place="foot"><term xml:lang="ta">puṟam tā</term> is, according to the TL, "protect", but here the message rather seems to be that in spite of heavy rain the jasmine is still full of flowers. Since it is visible from afar it does not seem plausible that it is sheltered from the rain, for example by growing underneath a tree, but that it protects itself, that it defies the rain, a solution even closer to the etymology of <term xml:lang="ta">puṟam tā</term>: "to give the back – defy".</note> the rain,</l>
+           <l rend="indent">gathering buds become shining teeth.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT126">
+    <interp type="alignment" select="0">15MR17MG13MG16MG34MG4MG8MG16MG2M,133M</interp>
+    <entry>
+    <form>iḷamai</form>
+    <def>youth</def>
+    </entry>
+    <entry>
+    <form>pārār</form>
+    <def>see not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vaḷam</form>
+    <def>wealth</def>
+    </entry>
+    <entry>
+    <form>nacaii<pc>+</pc></form>
+    <def>yearned</def>
+    </entry>
+    <entry>
+    <form>ceṉṟōr</form>
+    <def>gone he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>ivaṇ-um</form>
+    <def>here</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come not he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>evaṇar-ō</form>
+    <def>where he</def>
+    <form type="simple">evaṇar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa<pc>+</pc></form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>peyal</form>
+    <def>raining</def>
+    </entry>
+    <entry>
+    <form>puṟam-</form>
+    <def>back</def>
+    </entry>
+    <entry>
+    <form>tanta</form>
+    <def>given-</def>
+    </entry>
+    <entry>
+    <form>pūm</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form>mullai<pc>+</pc></form>
+    <def>jasmine</def>
+    </entry>
+    <entry>
+    <form>toku</form>
+    <def>gather-</def>
+    </entry>
+    <entry>
+    <form>mukai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ilaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>shine-</def>
+    </entry>
+    <entry>
+    <form>eyiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tooth</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>nakum-ē</form>
+    <def>laughing-</def>
+    <form type="simple">nakum</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>naṟum</form>
+    <def>fragrant</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>kār-ē</form>
+    <def>rainy season</def>
+    <form type="simple">kār</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

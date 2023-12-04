@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 133. <persName xml:lang="ta">uṟaiyūr mutukaṇṇaṉ cāttaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT133-kilavi">
+          <p type="edition">(C1: remnants of a longer kiḷavi.) varaivu nīṭṭittaviṭattut talaimakaḷ colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by HER when [he] delayed marriage.</p>
+          </div>
+
+
+        <div xml:id="KT133">
+            <lg type="edition">
+<l>                puṉavaṉ ṟuṭavaip poṉpōṟ ciṟutiṉai</l>
+<l>                kiḷikuṟait tuṇṭa kūḻai yiruvi</l>
+<l>                perumpeya luṇmaiyi ṉilaiyolit tāṅkeṉ</l>
+<l>                ṉurañcettu muḷeṉē tōḻiyeṉ</l>
+<l>                ṉalamputi tuṇṭa pulampi ṉāṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>Even when my strength is exhausted,</l>
+           <l rend="indent">like a leaf, sprouting because of<note place="foot"><term xml:lang="ta">uṇmaiyiṉ</term> is literally "because of the existence", in other words, the millet sprouts again since there happened to be rain, which is not self-evident in the semi-arid tract.</note> heavy rain</l>
+           <l rend="indent2">on the short stubbles, shortened [and] eaten<note place="foot">What can be expressed by the play on uṇ: uṇṭa – uṇmaiyiṉ – uḷeṉ – uṇṭa? Is it just the contrast between being and not being?</note> by the parakeets,</l>
+           <l rend="indent">of the gold-like small millet by the groves of the man</l>
+           <l rend="indent4">from the high ground<note place="foot">What is the function of <term xml:lang="ta">puṉavaṉ</term> here? Firstly it might be possible to get closer to the etymological meaning: <term xml:lang="ta">puṉam</term> is a field in the higher, drier regions, and <term xml:lang="ta">puṉavaṉ</term> accordingly should be the man who cultivates these fields. Now the singular is significant enough to raise the question whether this cultivator of the millet field is not the very man who caused the trouble. Combined with a circular construction of the poem, the <term xml:lang="ta">pulampiṉāṉ</term> would make an excellent nomen agentis to <term xml:lang="ta">puṉavaṉ</term>. In this case, of course, one would rather expect <term xml:lang="ta">uṇṭu</term>, absolutive.</note>,</l>
+           <l rend="indent3">I am [still] there, friend,</l>
+           <l>
+            <choice>
+                <seg>in loneliness that has newly eaten<note place="foot">What can be expressed by the play on <term xml:lang="ta">uṇ</term>: <term xml:lang="ta">uṇṭa – uṇmaiyiṉ – uḷeṉ – uṇṭa</term>? Is it just the contrast between being and not being?</note> my beauty.</seg>
+                <seg>the lonely one who has newly eaten my beauty.</seg>
+            </choice>
+
+           </l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT133">
+    <interp type="alignment" select="0">41MG46MG11M2G6MG18MG14MG2M,145M</interp>
+    <entry>
+    <form>puṉavaṉ</form>
+    <def>highland he</def>
+    </entry>
+    <entry>
+    <form>tuṭavai<pc>+</pc></form>
+    <def>grove</def>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>tiṉai</form>
+    <def>millet</def>
+    </entry>
+    <entry>
+    <form>kiḷi</form>
+    <def>parakeet</def>
+    </entry>
+    <entry>
+    <form>kuṟaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>shortened</def>
+    </entry>
+    <entry>
+    <form>uṇṭa</form>
+    <def>eaten-</def>
+    </entry>
+    <entry>
+    <form>kūḻai</form>
+    <def>short</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iruvi</form>
+    <def>stubble</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>peyal</form>
+    <def>raining</def>
+    </entry>
+    <entry>
+    <form>uṇmaiyiṉ</form>
+    <def>existence</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ilai</form>
+    <def>leaf</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>olittāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sprouted like</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uram</form>
+    <def>strength</def>
+    </entry>
+    <entry>
+    <form>cett*-um</form>
+    <def>exhausted</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>uḷeṉ-ē</form>
+    <def>I am</def>
+    <form type="simple">uḷeṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>nalam</form>
+    <def>goodness</def>
+    </entry>
+    <entry>
+    <form>putit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>new this</def>
+    </entry>
+    <entry>
+    <form>uṇṭa</form>
+    <def>eaten-</def>
+    </entry>
+    <entry>
+    <form>pulampiṉāṉ-ē</form>
+    <def>loneliness(loc.)ē/loneliness he</def>
+    <form type="simple">pulampiṉāṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 64. <persName xml:lang="ta">karuvūrk katappiḷḷai</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT64-kilavi">
+          <p type="edition">piriviṭai āṟṟāmai kaṇṭu “varuvar” eṉac colliya tōḻikkuk kiḻatti uraittatu.</p>
+          <p type="translation" xml:lang="en">Declared by HER to the confidante who said “he will come” when seeing her lack of strength in the time of separation.</p>
+          </div>
+
+
+
+        <div xml:id="KT64">
+            <lg type="edition">
+<l>                pallā neṭuneṟik kakaṉṟu vanteṉap</l>
+<l>                puṉṟalai maṉṟa nōkki mālai</l>
+<l>                maṭakkaṭ kuḻavi yaṇavan taṉṉa</l>
+<l>                nōyē mākuta laṟintuñ</l>
+<l>                cēyar tōḻi cēynāṭ ṭōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+             <l rend="indent">Although he knew we would be pained,</l>
+             <l rend="indent">like the calf with innocent eyes with head raised</l>
+             <l rend="indent">in the evening observing the village common of the low place<note place="foot">The traditional interpretation takes <term xml:lang="ta">maṉṟam</term> here to mean "cow shed", and indeed there are parallels at least for <term xml:lang="ta">maṉṟu</term> in that sense (cf. NA 364.10, AN 14.11). Accordingly the phrase might also be: "like the calf, observing ... the cow shed, a desolate place, ...", that is, the place is desolate without the cows which belong there.</note></l>
+             <l rend="indent">because many cows<note place="foot">And thus also its mother.</note> come from the long path<note place="foot">Literally: "because many cows, after they had left [the village in the morning] for the long way, [now] come [back] ...".</note>,</l>
+             <l>
+                <choice>
+                    <seg>he, the distant one, friend, is</seg>
+                    <seg>he [is] distant, friend,</seg>
+                </choice>
+                in a distant land.<note place="foot"><term xml:lang="ta">cēyar – cēynāṭṭōr</term>: this play on words might mean the inner and outer distance: if HE were still to think of HER he would come now.</note>
+             </l>
+             <lg type="alternate" resp="#TVG" sameAs="5c">
+              <l>he who is in a distant land, friend, [is still] distant.</l>
+             </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT64">
+    <interp type="alignment" select="0">15MG27MR52M2G20MG2M,121M</interp>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ā</form>
+    <def>cow</def>
+    </entry>
+    <entry>
+    <form>neṭu</form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>neṟikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>way</def>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>akaṉṟu</form>
+    <def>left</def>
+    </entry>
+    <entry>
+    <form>vanteṉa<pc>+</pc></form>
+    <def>come(abs.) say</def>
+    </entry>
+    <entry>
+    <form>puṉ</form>
+    <def>low</def>
+    </entry>
+    <entry>
+    <form>talai</form>
+    <def>place</def>
+    </entry>
+    <entry>
+    <form>maṉṟam</form>
+    <def>village common</def>
+    </entry>
+    <entry>
+    <form>nōkki</form>
+    <def>looked out</def>
+    </entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    </entry>
+    <entry>
+    <form>maṭa<pc>+</pc></form>
+    <def>inexperience</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>kuḻavi</form>
+    <def>calf</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṇavantaṉṉa</form>
+    <def>head raise come(abs.)<note place="foot"><term xml:lang="ta">aṇavā</term> is given in the TL as a lexicalised compound of aṇa + <term xml:lang="ta">vā</term> with the same meaning as the simplex <term xml:lang="ta">aṇa</term> "to raise the head".</note> like</def>
+    </entry>
+    <entry>
+    <form>nōyēm</form>
+    <def>pain we</def>
+    </entry>
+    <entry>
+    <form>ākutal</form>
+    <def>becoming</def>
+    </entry>
+    <entry>
+    <form>aṟint*-um</form>
+    <def>known</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>cēyar</form>
+    <def>distance he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>cēy</form>
+    <def>distance</def>
+    </entry>
+    <entry>
+    <form>nāṭṭōr-ē</form>
+    <def>land he</def>
+    <form type="simple">nāṭṭōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

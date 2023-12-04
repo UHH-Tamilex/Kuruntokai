@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 142. <persName xml:lang="ta">kapilar</persName>: <i>HE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT142-kilavi">
+          <p type="edition">1. iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ colliyatu.
+            2. tōḻikkut talaimakaṉ taṉ kuṟai kūṟiyatūumāma.</p>
+          <p type="translation" xml:lang="en">1. Uttered by HIM who leaves [her] after having enjoyed natural union [with her].
+            2. Spoken about [his] own request, by HIM to the confidante.</p>
+          </div>
+
+
+        <div xml:id="KT142">
+            <lg type="edition">
+<l>                cuṉaippūk kuṟṟut toṭalai taiip</l>
+<l>                puṉakkiḷi kaṭiyum pūṅkaṭ pētai</l>
+<l>                tāṉaṟin taṉṟō vilaḷō pāṉāṭ</l>
+<l>                paḷḷi yāṉaiyi ṉuyirtteṉ</l>
+<l>                ṉuḷḷam piṉṉun taṉṉuḻai yatuvē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>As for knowing [it] herself, doesn't she,</l>
+           <l rend="indent">the flower-eyed innocence who chases parakeets from the field,</l>
+           <l rend="indent">plucking flowers from mountain pools, knitting garlands?</l>
+           <l rend="indent">Sighing like an elephant [lying down to] rest, at midnight,</l>
+           <l>my mind [is] close to her even afterwards.<note place="foot">Here both the <term xml:lang="ta">kiḷavi</term>-s seem to be inadequate. The situation rather looks like one before union, when HE has seen HER and is unsettled by her but does not yet know whether she will reciprocate his feelings.</note></l>
+        
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT142">
+    <interp type="alignment" select="0">66MG5MG4M2G32MG15MG3M,131M</interp>
+    <entry>
+    <form>cuṉai<pc>+</pc></form>
+    <def>mountain pool</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kuṟṟu<pc>+</pc></form>
+    <def>plucked</def>
+    </entry>
+    <entry>
+    <form>toṭalai</form>
+    <def>garland</def>
+    </entry>
+    <entry>
+    <form>taii<pc>+</pc></form>
+    <def>knitted</def>
+    </entry>
+    <entry>
+    <form>puṉam</form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form>kiḷi</form>
+    <def>parakeet</def>
+    </entry>
+    <entry>
+    <form>kaṭiyum</form>
+    <def>chasing-</def>
+    </entry>
+    <entry>
+    <form>pūm</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>pētai</form>
+    <def>innocence</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>self</def>
+    </entry>
+    <entry>
+    <form>aṟintaṉṟ*-ō</form>
+    <def>known it</def>
+    <form type="simple">aṟintaṉṟu</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>ilaḷ-ō</form>
+    <def>not she</def>
+    <form type="simple">ilaḷ</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pāl-nāḷ</form>
+    <def>part day</def>
+    </entry>
+    <entry>
+    <form>paḷḷi</form>
+    <def>resting place</def>
+    </entry>
+    <entry>
+    <form>yāṉaiyiṉ</form>
+    <def>elephant</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>uyirtt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>breathed</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>uḷḷam</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>piṉ-<pc>+</pc>um</form>
+    <def>after</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>self-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uḻaiyatu-<pc>~</pc>ē</form>
+    <def>proximity it</def>
+    <form type="simple">uḻaiyatu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

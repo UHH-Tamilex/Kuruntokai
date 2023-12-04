@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 169. <persName xml:lang="ta">veḷḷi vītiyar</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT169-kilavi">
+          <p type="edition">1. kaṟpukkālattut teḷiviṭai vilaṅkiyatu.
+            2. iṉit tōḻi varaivu nīṭṭittavaḻi varaivu kaṭāyatūumām.</p>
+          <p type="translation" xml:lang="en">1. What is an obstacle in the confidence in the time of marriage.
+            2. Now, inquired about marriage, when [he] delayed marriage, by the confidante.</p>
+          </div>
+
+
+        <div xml:id="KT169">
+            <lg type="edition">
+<l>                curañcel yāṉaik kalluṟu kōṭṭiṟ</l>
+<l>                ṟeṟṟeṉa viṟīiyarō vaiya maṟṟiyā</l>
+<l>                nummoṭu nakka vālveḷ ḷeyiṟē</l>
+<l>                pāṇar pacumīṉ corinta maṇṭai pōla</l>
+<l>                vemakkum perumpula vāki</l>
+<l>                nummum peṟēe miṟīiyarem muyirē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>To say it clearly – may they burst, sir,<note place="foot"><term xml:lang="ta">aiya maṟṟu</term>: the use of the particle here is hard to account for.</note></l>
+           <l rend="indent">the pure white teeth with which we laughed with you,</l>
+           <l rend="indent">like the tooth of the desert-wandering elephant on a stone!</l>
+           <l rend="indent">Like the alms bowl of a bard into which fresh<note place="foot"><term xml:lang="ta">pacumīṉ</term>: or "fish having become greenish = rotten fish" or "raw fish"?</note> fish</l>
+           <l rend="indent3">has been poured</l>
+           <l>it has become a great disgust to us, and<note place="foot"><term xml:lang="ta">emakkum – nummum</term>: how to understand the syntax of the last two lines? The two -<term xml:lang="ta">um</term> cannot possibly be used to coordinate the absolutive and the optative (with an apposition inserted)? And is there any other way to understand than taking the negative verb <term xml:lang="ta">peṟēem</term> as a participial noun apposition to <term xml:lang="ta">em</term>, which would be literally: "... may the life of us, who have not obtained you, burst"? Or should we read, with Srin., a sentence division: "... have we (on the one hand) become a great disgust to [ourselves], have we (on the other hand) not obtained you – may our life burst."</note>,</l>
+           <l rend="indent">since we don't obtain you,</l>
+           <l rend="indent2">may our life burst.</l>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT169">
+    <interp type="alignment" select="0">42MG10MGMG2MR23M2G36M2G12MG6MG23MG2M,77MG90M</interp>
+    <entry>
+    <form>curam</form>
+    <def>desert</def>
+    </entry>
+    <entry>
+    <form>cel</form>
+    <def>go-</def>
+    </entry>
+    <entry>
+    <form>yāṉai<pc>+</pc></form>
+    <def>elephant</def>
+    </entry>
+    <entry>
+    <form>kal</form>
+    <def>stone</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uṟu</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>kōṭṭiṉ</form>
+    <def>tusk</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>teṟṟeṉa</form>
+    <def>clear it</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟīiyar-ō</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aiya</form>
+    <def>may burstō</def>
+    </entry>
+    <entry>
+    <form>maṟṟ<pc>(</pc>u<pc>)</pc></form>
+    <def>lord(voc.)maṟṟu</def>
+    </entry>
+    <entry>
+    <form>yām</form>
+    <def>we</def>
+    </entry>
+    <entry>
+    <form>nummoṭu</form>
+    <def>you(pl.) with</def>
+    </entry>
+    <entry>
+    <form>nakka</form>
+    <def>laughed-</def>
+    </entry>
+    <entry>
+    <form>vāl</form>
+    <def>purity</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>eyiṟ*-ē</form>
+    <def>tooth</def>
+    <form type="simple">eyiṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pāṇar</form>
+    <def>bard</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>mīṉ</form>
+    <def>fish</def>
+    </entry>
+    <entry>
+    <form>corinta</form>
+    <def>poured forth-</def>
+    </entry>
+    <entry>
+    <form>maṇṭai</form>
+    <def>alms bowl</def>
+    </entry>
+    <entry>
+    <form>pōla</form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>emakk*-um</form>
+    <def>us</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">dative</gram>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>pulav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>smell of fish</def>
+    </entry>
+    <entry>
+    <form>āki</form>
+    <def>become</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>num-<pc>+</pc>um</form>
+    <def>you</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">plural</gram>
+    </entry>
+    <entry>
+    <form>peṟēem</form>
+    <def>obtain not we</def>
+    </entry>
+    <entry>
+    <form>iṟīiyar</form>
+    <def>may burst</def>
+    </entry>
+    <entry>
+    <form>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>uyir-ē</form>
+    <def>life</def>
+    <form type="simple">uyir</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

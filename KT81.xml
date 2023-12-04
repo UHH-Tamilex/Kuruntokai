@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 81. <persName xml:lang="ta">vaṭamavaṇṇakkaṉ</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T.V. Gopal Iyer</expan>
+            </persName>
+          </person>
+        </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT81-kilavi">
+          <p type="edition">tōḻiyiṟ kūṭṭaṅ kūṭip piriyun talaimakaṟkut tōḻi colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the confidante to HIM who separated after having begged for the help of the confidante.</p>
+          </div>
+
+
+
+        <div xml:id="KT81">
+            <lg type="edition">
+<l>                ivaḷē</l>
+<l>                niṉcoṟ koṇṭa veṉcoṟ ṟēṟip</l>
+<l>                pacunaṉai ñāḻaṟ palciṉai yoruciṟaip</l>
+<l>                putunala ṉiḻanta pulampumā ruṭaiya</l>
+<l>                ḷutukkāṇ ṭeyya vuḷḷal vēṇṭu</l>
+<l>                nilavu miruḷum pōlap pulavuttiraik</l>
+<l>                kaṭaluṅ kāṉalun tōṉṟu</l>
+<l>                maṭaṟāḻ peṇṇaiyeñ ciṟunal lūrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>This one, after</l>
+          <l rend="indent">my words that had taken up your words became clear [to her],<note place="foot"><term xml:lang="ta">koṇṭa</term>: "my words that had taken [up] your words [and transmitted them to her]".</note></l>
+            
+          <l rend="indent">as<note place="foot">Actually, since the temporal sequence is clear, the <term xml:lang="ta">peyareccam iḻanta</term> is hard to defend, that is, clearly preferable is the variant <term xml:lang="ta">iḻantu</term>, absolutive. Cām. gives a variant of that type, but this is not confirmed anywhere else and might represent a normalisation.</note> [her] innocence is lost</l>
+          <l rend="indent">on one side of the many-branched Ñāḻal<note place="foot">Here word order <term xml:lang="ta">ñāḻal palciṉai</term> might be explained as an inversion for the sake of euphony.</note> with green buds,</l>
+          <l rend="indent3">is possessed by loneliness</l>
+          <l>– just<note place="foot"><term xml:lang="ta">teyya</term> is satisfactorily explained as a particle of admonition.</note> look there!</l>
+          <l>Our good little village<note place="foot">Or, perhaps equally convincing, a circular connection: "This one ... in our small good village ...", inserting the line of the main sentence consisting in imperative + comment: "just look there: Remembering is necessary."</note>, [among] Palmyra trees with hanging stems,</l>
+          <l rend="indent2">must be thought of,</l>
+          <l rend="indent">where seashore grove and sea with waves reeking of fish</l>
+          <l rend="indent">appear like darkness and moonlight.</l>
+          <lg type="alternate" resp="#TVG" sameAs="1b">
+            <l>This one, believing my words [she] had taken for your words ...</l>
+          </lg>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT81">
+    <interp type="alignment" select="0">4MG76M2G18MG16MR5M2G6MG25MG7MG8ML4ML21MG2M,205M</interp>
+    <entry>
+    <form>ivaḷ-ē</form>
+    <def>she</def>
+    <form type="simple">ivaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your-</def>
+    </entry>
+    <entry>
+    <form>col</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>koṇṭa</form>
+    <def>taken-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>col</form>
+    <def>word</def>
+    </entry>
+    <entry>
+    <form>tēṟi<pc>+</pc></form>
+    <def>become clear</def>
+    <gram type="role">absolutive</gram>
+    </entry>
+    <entry>
+    <form>pacu</form>
+    <def>green</def>
+    </entry>
+    <entry>
+    <form>naṉai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form>ñāḻal</form>
+    <def>Ñāḻal( tree)</def>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form>ciṉai</form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>oru</form>
+    <def>one</def>
+    </entry>
+    <entry>
+    <form>ciṟai<pc>+</pc></form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>putu</form>
+    <def>new</def>
+    </entry>
+    <entry>
+    <form>nalaṉ</form>
+    <def>innocence</def>
+    </entry>
+    <entry>
+    <form>iḻanta</form>
+    <def>lost-</def>
+    </entry>
+    <entry>
+    <form>pulamp<pc>(</pc>um<pc>)</pc><pc>(</pc>ār<pc>)</pc></form>
+    <def>loneliness<note place="foot">The function of <term xml:lang="ta">-ār</term>, a rare particle (here and KT 247.3), always following an <term xml:lang="ta">-um</term>, continues to be obscure. Unfortunately the same is true of the <term xml:lang="ta">-um</term> in this place.</note></def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gramGrp type="particle"><form>ār</form></gramGrp>
+    </entry>
+    <entry>
+    <form>uṭaiyaḷ</form>
+    <def>possess she</def>
+    </entry>
+    <entry>
+    <form>utu<pc>+</pc></form>
+    <def>there</def>
+    </entry>
+    <entry>
+    <form>kāṇ-teyya</form>
+    <def>see</def>
+    <form type="simple">kāṇ</form>
+    <gram type="role">imperative</gram>
+    <gramGrp type="particle"><form>teyya</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷal</form>
+    <def>remembering</def>
+    </entry>
+    <entry>
+    <form>vēṇṭum</form>
+    <def>is necessary</def>
+    </entry>
+    <entry>
+      <form>nilav<pc>(</pc>um<pc>)</pc></form>
+    <def>moonlight</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>iruḷ<pc>(</pc>um<pc>)</pc></form>
+    <def>darkness</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be similar</def>
+    </entry>
+    <entry>
+    <form>pulavu<pc>+</pc></form>
+    <def>smell of fish</def>
+    </entry>
+    <entry>
+    <form>tirai<pc>+</pc></form>
+    <def>wave</def>
+    </entry>
+    <entry>
+    <form>kaṭal<pc>(</pc>um<pc>)</pc></form>
+    <def>sea</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>kāṉal<pc>(</pc>um<pc>)</pc></form>
+    <def>seashore grove</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing-</def>
+    </entry>
+    <entry>
+    <form>maṭal</form>
+    <def>Palmyra stem</def>
+    </entry>
+    <entry>
+    <form>tāḻ</form>
+    <def>descend-</def>
+    </entry>
+    <entry>
+    <form>peṇṇai</form>
+    <def>Palmyra</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr-ē</form>
+    <def>village</def>
+    <form type="simple">ūr</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+
+  </TEI>

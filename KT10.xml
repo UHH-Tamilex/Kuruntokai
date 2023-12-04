@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 10. <persName xml:lang="ta">ōrampōkiyār (ōrampōtiyār)</persName>: <i>the confidante</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT10-kilavi">
+          <p type="edition">talaimakaṟkut tōḻi vāyil nērntatu.</p>
+          <p type="translation" xml:lang="en">The confidante granting the door/mediation to HIM.</p>
+          </div>
+
+        <div xml:id="KT10">
+            <lg type="edition">
+<l>                yāyā kiyaḷē viḻavumuta lāṭṭi</l>
+<l>                payaṟupō liṇara paintātu paṭīiya</l>
+<l>                ruḻavar vāṅkiya kamaḻpū meṉciṉaik</l>
+<l>                kāñci yūraṉ koṭumai</l>
+<l>                karantaṉa ḷākali ṉāṇiya varumē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>
+    <choice>
+    <seg>She is [now] mother, a woman [who is] cause for feasting:</seg>
+    <seg>Become mother, the woman [who was] cause for festival.<note place="foot">Thus Cām., i.e. a sentence without final particle, the postpositioned part of which is also subject to the next sentence. The exact meaning, by the way, of <term xml:lang="ta">viḻavu mutal āṭṭi</term> is unclear. It might either be understood as: now that SHE has born HIM a child there would be reason for feasting (instead of which he is unfaithful), or as: in earlier times when she was in the bloom of youth she has been the cause of festivals, now she is mother.</note></seg>
+        </choice>
+</l>
+<l rend="indent">because she has hidden</l>
+<l rend="indent">the faithlessness of the man from the village of Kāñci trees</l>
+<l rend="indent">whose tender twigs with fragrant flowers the ploughmen bend</l>
+<l rend="indent">so that the fresh pollen from [flower] clusters</l>
+<l rend="indent4">like [ears of] grain settle [on them]<note place="foot">TVG's interpretation of the image is that, as the pollen settling on the bodies of the ploughmen gives notice of what they have been doing, on HIM unmistakable indications of his nightly roaming can be found.</note></l>
+<l rend="indent">
+    <choice>
+        <seg>she usually<note place="foot"><term xml:lang="ta">varum</term>: here again the choice of the form in -um to mark the habitual character.</note> comes [along] ashamed.</seg>
+        <seg>she comes [to the door for him] to be ashamed.<note place="foot">Thus the traditional interpretation on the lines of the <term xml:lang="ta">kiḷavi</term>.</note></seg>
+    </choice>
+</l>
+             </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT10">
+    <interp type="alignment" select="0">9MG108ML10MG2M,132M</interp>
+    <entry>
+    <form>yāy</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>ākiyaḷ-ē</form>
+    <def>become she</def>
+    <form type="simple">ākiyaḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>viḻavu</form>
+    <def>festival</def>
+    </entry>
+    <entry>
+    <form>mutal</form>
+    <def>cause</def>
+    </entry>
+    <entry>
+    <form>āṭṭi</form>
+    <def>woman</def>
+    </entry>
+    <entry>
+    <form>payaṟu</form>
+    <def>grain</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>similar</def>
+    </entry>
+    <entry>
+    <form>iṇara</form>
+    <def>cluster</def>
+    <gramGrp type="affix"><form>a</form></gramGrp>
+    </entry>
+    <entry>
+    <form>paim</form>
+    <def>fresh</def>
+    </entry>
+    <entry>
+    <form>tātu</form>
+    <def>pollen</def>
+    </entry>
+    <entry>
+    <form>paṭīiyar</form>
+    <def>happen</def>
+    </entry>
+    <entry>
+    <form>uḻavar</form>
+    <def>ploughmen</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>vāṅkiya</form>
+    <def>bent-</def>
+    </entry>
+    <entry>
+    <form>kamaḻ</form>
+    <def>smell-</def>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>meṉ</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form>ciṉai<pc>+</pc></form>
+    <def>twig</def>
+    </entry>
+    <entry>
+    <form>kāñci</form>
+    <def>Kāñci( tree)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village he</def>
+    </entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    </entry>
+    <entry>
+    <form>karantaṉaḷ</form>
+    <def>she hid</def>
+    </entry>
+    <entry>
+    <form>ākaliṉ</form>
+    <def>because</def>
+    </entry>
+    <entry>
+    <form>nāṇiya</form>
+    <def>ashamed-/</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>varum-ē</form>
+    <def>coming-</def>
+    <form type="simple">varum</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

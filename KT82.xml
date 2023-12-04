@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 82. <persName xml:lang="ta">kaṭuvaṉ maḷḷaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT82-kilavi">
+          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ “varuvar” eṉṟu vaṟpuṟuttun tōḻikkuc colliyatu.</p>
+          <p type="translation" xml:lang="en">SHE, who is desolate when seeing the season, speaking to the confidante who encourages [her with the words] “he will come”.</p>
+          </div>
+
+
+
+        <div xml:id="KT82">
+            <lg type="edition">
+<l>                vāruṟu vaṇarkatup puḷarip puṟañcēr</l>
+<l>                paḻāa leṉṟunam maḻutakaṇ ṭuṭaippār</l>
+<l>                yārā kuvarko ṟōḻi cāraṟ</l>
+<l>                perumpuṉak kuṟavaṉ ciṟutiṉai maṟukāṟ</l>
+<l>                koḻuṅkoṭi yavarai pūkku</l>
+<l>                marumpaṉi yaṟciram vārā tōrē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+          <l>The one who used<note place="foot"><term xml:lang="ta">tuṭaippār</term> is taken by Cām. as a finite form and thus the end of the sentence. The form itself is ambiguous, either finite or participial noun and, as it is not marked by a sentence-final particle, the continuous construction seems preferable. The employment of the i.a. to denote a kind of habitual past is already taught in the Tol. Col. 248. Another possible interpretation, however, could take an independent sentence in present or future tense which includes a change of perspective: HER inner picture of what will happen when HE comes back.</note> to smooth [our] long curly hair, touch [our] back<note place="foot"><term xml:lang="ta">puṟam cēr</term>: literally “joining the back”, that is, probably, with TVG, HE just touches/strokes HER back. Another possible understanding is that HE joins her hair with the back, in other words he undoes her coiffure so that her hair hangs down touching her back.</note></l>
+          <l rend="indent">[and] wipe our tear-stained eyes, saying “don't cry”,</l>
+          <l>what will become of him, friend,</l>
+          <l>who hasn't come for the cold season with harsh dew,</l>
+          <l rend="indent">when the field-bean blossoms in rich creepers</l>
+          <l rend="indent">amongst the second harvest<note place="foot">The exact relation of beans and millet is not to be established on the basis of this text, where the syntax is totally unmarked. TVG affirms that, after the millet has been harvested for the first time, it sprouts out again, and then the beans will be sown in between. A comparative praxis might be alluded to with cotton and millet in KT 72.</note> of small millet of the hill-dweller</l>
+          <l rend="indent4">with big fields on the slope.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT82">
+    <interp type="alignment" select="0">17MG15MG39MG3ML88M,166M</interp>
+    <entry>
+    <form>vār</form>
+    <def>length</def>
+    </entry>
+    <entry>
+    <form>uṟu</form>
+    <def>comb-<note place="foot">One further meaning of vār is the transitive "to comb". Thus also possible TVG's interpretation of vār uṟu vaṇar katuppu as "nicely combed curly hair". What speaks against this is the fact that uṟu normally is used as a verbaliser after nouns and not in combination with other verbal roots.</note></def>
+    </entry>
+    <entry>
+    <form>vaṇar</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>katupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>curve hair</def>
+    </entry>
+    <entry>
+    <form>uḷari<pc>+</pc></form>
+    <def>smoothed</def>
+    </entry>
+    <entry>
+    <form>puṟam</form>
+    <def>back</def>
+    </entry>
+    <entry>
+    <form>cērp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>joined</def>
+    </entry>
+    <entry>
+    <form>aḻāal</form>
+    <def>don't cry</def>
+    </entry>
+    <entry>
+    <form>eṉṟu</form>
+    <def>said</def>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aḻuta</form>
+    <def>cried-</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>tuṭaippār</form>
+    <def>wipe he</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>yār</form>
+    <def>who</def>
+    </entry>
+    <entry>
+    <form>ākuvar-kol</form>
+    <def>he becomes</def>
+    <form type="simple">ākuvar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    </entry>
+    <entry>
+    <form>cāral</form>
+    <def>slope</def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>puṉam</form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form>kuṟavaṉ</form>
+    <def>hill inhabitant</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>tiṉai</form>
+    <def>millet</def>
+    </entry>
+    <entry>
+    <form>maṟukāl</form>
+    <def>second harvest</def>
+    </entry>
+    <entry>
+    <form>koḻum</form>
+    <def>rich</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>avarai</form>
+    <def>field bean</def>
+    </entry>
+    <entry>
+    <form>pūkkum</form>
+    <def>blossoming-</def>
+    </entry>
+    <entry>
+    <form>arum</form>
+    <def>difficult</def>
+    </entry>
+    <entry>
+    <form>paṉi</form>
+    <def>dew</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟciram</form>
+    <def>cold season</def>
+    </entry>
+    <entry>
+    <form>vārātōrē</form>
+    <def>come not he</def>
+    <form type="simple">vārātōr</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

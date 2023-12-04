@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 92. <persName xml:lang="ta">tāmōtaraṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT92-kilavi">
+          <p type="edition">kāmamikka kaḻipaṭar kiḷaviyāṟ poḻutu kaṇṭu colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered when seeing the time of day with a word of great distress from desire being excessive.</p>
+          </div>
+
+
+
+        <div xml:id="KT92">
+            <lg type="edition">
+<l>                ñāyiṟu paṭṭa vakalvāy vāṉat</l>
+<l>                taḷiya tāmē koṭuñciṟaip paṟavai</l>
+<l>                yiṟaiyuṟa vōṅkiya neṟiyayaṉ marāatta</l>
+<l>                piḷḷai yuḷvāyc cerīiya</l>
+<l>                viraikoṇ ṭamaiyiṉ viraiyumāṟ celavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+                <l>
+                    <choice>
+                        <seg>Pitiable</seg>
+                        <seg>Full of love</seg>
+                    </choice>
+                    [are] they, those birds<note place="foot"><term xml:lang="ta">paṟavai</term> is one of the exemplary problematic words. Etymologically speaking it is just an abstract noun of <term xml:lang="ta">paṟa</term>, "to fly" (DEDR 4020). In KT 201.3 and 352.2 epithets and context speak in favour of the traditional rendering with "bat". But here, though the epithets are not markedly different, the context does not demand such an identification. One possible answer to this might be, of course, that a description in accord with nature has not been intended.</note> with curved wings,
+                </l>
+                <l rend="indent">in the broad-mouthed sky where the sun has [just] risen/set,<note place="foot"><term xml:lang="ta">paṭu</term> in connection with the sun can refer to sunrise as well as to sunset (for the former the TL quotes a passage from PN, for the latter one from Kali). And as for bird parents, they are up feeding their young ones from early morning until late evening. It is on the basis of the evening-affliction topos that we have to argue for sunset here.</note></l>
+                <l>[their] going so hurried when [their] children become quiet</l>
+                <l rend="indent">with food
+                    <choice>
+                        <seg>inserted</seg>
+                        <seg>to be inserted</seg>
+                    </choice>
+                    into the mouths,
+                </l>
+                <l rend="indent">in the tree near the path grown high [enough for them]</l>
+                <l rend="indent3">to have [their] seat [there]<note place="foot"><term xml:lang="ta">uṟa</term>: the infinitive together with the perfective <term xml:lang="ta">peyareccam</term> <term xml:lang="ta">ōṅkiya</term> gives rise to the suspicion that the phrase might mean something more specific than just a nest in a high tree.</note>.</l>
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT92">
+    <interp type="alignment" select="0">25MG8MG81MG15MG7M2G2M,144M</interp>
+    <entry>
+    <form>ñāyiṟu</form>
+    <def>sun</def>
+    </entry>
+    <entry>
+    <form>paṭṭa</form>
+    <def>happened-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>akal</form>
+    <def>widen-</def>
+    </entry>
+    <entry>
+    <form>vāy</form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>vāṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>aḷiya</form>
+    <def>love/pity they</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>tām-ē</form>
+    <def>self</def>
+    <form type="simple">tām</form>
+    <gram type="role">plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>koṭum</form>
+    <def>curved</def>
+    </entry>
+    <entry>
+    <form>ciṟai<pc>+</pc></form>
+    <def>wing</def>
+    </entry>
+    <entry>
+    <form>paṟavai</form>
+    <def>bird(?)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṟai</form>
+    <def>seat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṟa</form>
+    <def>have</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ōṅkiya</form>
+    <def>been high-</def>
+    </entry>
+    <entry>
+    <form>neṟi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ayal</form>
+    <def>neighbourhood</def>
+    </entry>
+    <entry>
+    <form>marāatta</form>
+    <def>tree-/Marām( tree)-</def>
+    </entry>
+    <entry>
+    <form>piḷḷai</form>
+    <def>child</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷ</form>
+    <def>inside</def>
+    </entry>
+    <entry>
+    <form>vāy<pc>+</pc></form>
+    <def>mouth</def>
+    </entry>
+    <entry>
+    <form>cerīiya</form>
+    <def>insert(inf./pey.p.a.)</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irai</form>
+    <def>food</def>
+    </entry>
+    <entry>
+    <form>koṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>taken</def>
+    </entry>
+    <entry>
+    <form>amaiyiṉ</form>
+    <def>become still if<note place="foot"><term xml:lang="ta">koṇṭamaiyiṉ</term>: Cām. reads an abstract noun in -<term xml:lang="ta">mai</term> from the perfective peyareccam + -<term xml:lang="ta">iṉ</term> oblique. Would it not be better to read <term xml:lang="ta">koṇṭu amaiyiṉ</term>, the usual abs. to <term xml:lang="ta">koḷ</term> + cond. to <term xml:lang="ta">amai</term>, 4th class, "to become quite"? It is true that there are parallels for such a mode of expression, like in KT 173.7 <term xml:lang="ta">uṇarntamaiyiṉ</term>. On the other hand there are passages like KT 132.3 with <term xml:lang="ta">maṟantu amaiku</term> (see also KT 137.2, 225.5; cf. also KT 117.5 abs.neg. + <term xml:lang="ta">amaiyiṉ</term>), i.e. unequivocally absolutive + amai, so that the question is justified whether <term xml:lang="ta">amai</term> can be understood as an auxiliary verb.</note></def>
+    </entry>
+    <entry>
+    <form>viraiyum-āl</form>
+    <def>hurrying-</def>
+    <form type="simple">viraiyum</form>
+    <gramGrp type="particle"><form>āl</form></gramGrp>
+    </entry>
+    <entry>
+    <form>celav*-ē</form>
+    <def>going</def>
+    <form type="simple">celavu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    

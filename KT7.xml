@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 7. <persName xml:lang="ta">Perumpatumaṉār</persName>: <i>Onlookers</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listPerson>
+          <person xml:id="TVG">
+              <persName>
+                  <abbr>T.V.G.</abbr>
+                  <expan>T. V. Gopal Iyer</expan>
+              </persName>
+          </person>
+      </listPerson>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT7-kilavi">
+          <p type="edition">celaviṉkaṇ iṭaiccurattuk kaṇṭōr/kaṇṭār colliyatu (C2: kūṟiyatu).</p>
+          <p type="translation" xml:lang="en">Spoken by those who saw [them] in the middle of the wilderness as [they were] going.
+
+          </p>
+          </div>
+
+        <div xml:id="KT7">
+            <lg type="edition">
+<l>                villōṉ kālaṉa kaḻalē toṭiyōṇ</l>
+<l>                mellaṭi mēlavuñ cilampē nallōr</l>
+<l>                yārko laḷiyar tāmē yāriyar</l>
+<l>                kayiṟāṭu paṟaiyiṟ kālporak kalaṅki</l>
+<l>                vākai veṇṇeṟ ṟolikkum</l>
+<l>                vēypayi laḻuva muṉṉi yōrē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>He with the bow, anklets on [his] legs. And she with bracelets,</l>
+<l>tinkling rings<note place="foot"><term xml:lang="ta">cilampu</term> is explained by poetics as a kind of anklets with little bells an unmarried woman wears and which are removed by her elders on the day she marries (see Zvelebil 1986: 54f.). This is viewed as a hint that the poem describes a case of elopement.</note> over [her] tender feet. Good ones,</l>
+<l>
+    <choice>
+        <seg>who [are they]? Pitiable they,</seg>
+        <seg>who [are] they? Lovers<note place="foot"><term xml:lang="ta">aḷi</term>, the noun base of a frequent appellative noun taking different pronominal suffixes, is one of the difficult words in need of a word analysis. According to the dictionaries, it covers elements as different as "pity" and "love". While the meaning specific for the Akam context is certainly something like "pitiable", the case is to be found quite often where a meaning "loving" produces at least interesting undertones or, as here, even a second possible reading of the whole poem.</note> they,</seg>
+        </choice>
+        </l>
+        <l rend="indent">
+            <choice>
+                <seg>approaching the rustling bamboo thicket,</seg>
+                <seg>who have come to meet in the rustling bamboo thicket,<note place="foot">For muṉṉu a homonym root of the 5th class with the meaning "to consider" is found, but aḻuvam, "road" is not attested in the dictionaries.</note></seg>
+            </choice>
+</l>
+<l rend="indent">where, like the rope-dance drums of the Āriyar,</l>
+<l rend="indent">stirred up by the wind white Sirissa nuts are sounding.</l>
+<lg type="alternate" resp="#TVG" sameAs="6c">
+  <l>who think of [taking] the way where the bamboo is thick,</l>
+</lg>
+
+
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT7">
+    <interp type="alignment" select="0">17MG19MG9M2G10MG12MG13MG38MG21MG7MG2M,158M</interp>
+    <entry>
+    <form>villōṉ</form>
+    <def>bow he</def>
+    </entry>
+    <entry>
+    <form>kālaṉa</form>
+    <def>leg they</def>
+    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">kālaṉa</term>: here one pointed example for a denominative usage of the pronominal noun, just as <term xml:lang="ta">mēlavum</term> in line 2 (i.e. literally: "anklets [are] on the legs of the man with the bow").</note></gram>
+    </entry>
+    <entry>
+    <form>kaḻal-ē</form>
+    <def>anklet</def>
+    <form type="simple">kaḻal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>toṭiyōḷ</form>
+    <def>bracelet she</def>
+    </entry>
+    <entry>
+    <form>mel</form>
+    <def>tender</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aṭi</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>mēla-<pc>~</pc>um</form>
+    <def>above they</def>
+    <gramGrp type="affix"><form>um</form></gramGrp>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>cilamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>tinkling anklet</def>
+    <form type="simple">cilamp*</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>nallōr</form>
+    <def>good they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>yār-kol</form>
+    <def>who</def>
+    <form type="simple">yār</form>
+    <gramGrp type="particle"><form>kol</form></gramGrp>
+    </entry>
+    <entry>
+    <form>aḷiyar</form>
+    <def>love/pity they</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>tām-ē</form>
+    <def>self</def>
+    <form type="simple">tām</form>
+    <gram type="role">plural</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āriyar</form>
+    <def>Āriyar</def>
+    </entry>
+    <entry>
+    <form>kayiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>rope</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>dance-</def>
+    </entry>
+    <entry>
+    <form>paṟaiyiṉ</form>
+    <def>drum</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>wind</def>
+    </entry>
+    <entry>
+    <form>pora<pc>+</pc></form>
+    <def>beat</def>
+    </entry>
+    <entry>
+    <form>kalaṅki</form>
+    <def>stirred up</def>
+    </entry>
+    <entry>
+    <form>vākai</form>
+    <def>Sirissa</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>nut</def>
+    </entry>
+    <entry>
+    <form>olikkum</form>
+    <def>sounding-</def>
+    </entry>
+    <entry>
+    <form>vēy</form>
+    <def>bamboo</def>
+    </entry>
+    <entry>
+    <form>payil</form>
+    <def>rustle-/become dense-</def>
+    </entry>
+    <entry>
+    <form>aḻuvam</form>
+    <def>depth</def>
+    </entry>
+    <entry>
+    <form>muṉṉiyōr-ē</form>
+    <def>approached they(h.)ē∞</def>
+    </entry>
+    </standOff>
+</TEI>

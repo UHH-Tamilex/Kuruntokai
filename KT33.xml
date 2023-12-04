@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 33. <persName xml:lang="ta">Paṭumarattu Mōcikīraṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT33-kilavi">
+          <p type="edition">vāyilākap pukka pāṇaṉ kēṭpat tōḻiyai nōkkit talaimakaḷ vāyil nērvāḷ (EA: /) kūṟiyatu.</p>
+          <p type="translation" xml:lang="en">SHE talking as one who grants mediation/the door, looking at the confidante, [but] for the bard to hear who has entered as a mediator.</p>
+          </div>
+
+
+
+        <div xml:id="KT33">
+            <lg type="edition">
+<l>                aṉṉā yivaṉō riḷamā ṇākkaṉ</l>
+<l>                ṟaṉṉūr maṉṟat teṉṉaṉ kollō</l>
+<l>                virantū ṇirampā mēṉiyoṭu</l>
+<l>                virunti ṉūrum peruñcem malaṉē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+               <l>Mother, 
+                <choice>
+                    <seg>this one,</seg>
+                    <seg>regard this one</seg>
+                </choice>
+                but a young student<note place="foot">Tradition here takes <term xml:lang="ta">ōr</term> as a verbal root in the function of an imperative for ōr "regard". TVG mentions as parallels Nacc. on Cīvak. 204 and Nacc. on Kali 81.</note>,</l>
+               <l>on the meeting place of his village, what [is] he?</l>
+               <l rend="indent">With a body not replete from food by begging,</l>
+               <l>going for a feast he [is] great, a superior one.<note place="foot">Considerable exegetical capers (exercised silently by the <term xml:lang="ta">kiḷavi</term> and Cām.) are necessary to relate this strange poem to a bard received favourably. The wording points to an erotic and moreover socially taxing fancy for someone begging food (who, as she says, need not be a beggar, but can be in the position of a student – which, however, sounds rather North-Indian). This is also one of the few poems free from formulae, though <term xml:lang="ta">aṉṉāy</term> as a beginning is also recorded in AN and AiN.</note></l>
+
+                
+                </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT33">
+    <interp type="alignment" select="0">35MG5MG11MG2ML39MG2M,99M</interp>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother(voc.)(?)<note place="foot"><term xml:lang="ta">aṉṉāy</term>, understood by Cām. as an address to the confidante, could also be read as <term xml:lang="ta">aṉṉā</term> (+ <term xml:lang="ta">-y</term>- in sandhi) = vocative to <term xml:lang="ta">aṉṉai</term> "mother" (the same in KT 150.5; aṉṉā see KT 161.4, 397.5). This would be one unexplained word less.</note></def>
+    </entry>
+    <entry>
+    <form>ivaṉ</form>
+    <def>this one</def>
+    </entry>
+    <entry>
+    <form>ōr</form>
+    <def>one/examine</def>
+    </entry>
+    <entry>
+    <form>iḷa</form>
+    <def>young</def>
+    </entry>
+    <entry>
+    <form>māṇākkaṉ</form>
+    <def>student(?)<note place="foot"><term xml:lang="ta">māṇakkaṉ</term>: is this really to be derived from Skt. <term xml:lang="sa">māṇavaka</term>-?</note></def>
+    </entry>
+    <entry>
+    <form>taṉ</form>
+    <def>own-</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>maṉṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>village common-</def>
+    </entry>
+    <entry>
+    <form>eṉṉaṉ-kollō</form>
+    <def>what he</def>
+    <form type="simple">eṉṉaṉ</form>
+    <gramGrp type="particle"><form>kollō</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>irant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>begged</def>
+    </entry>
+    <entry>
+    <form>ūṇ</form>
+    <def>food</def>
+    </entry>
+    <entry>
+    <form>nirampā</form>
+    <def>replete not</def>
+    </entry>
+    <entry>
+    <form>mēṉiyoṭu</form>
+    <def>body with</def>
+    </entry>
+    <entry>
+    <form>viruntiṉ</form>
+    <def>feast</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūrum</form>
+    <def>creeping-<note place="foot"><term xml:lang="ta">ūrum</term> "creeping": what is said here? Is it a slow movement or also pejorative in sense? Srin.'s proposition: He creeps and creeps (habitual future) to banquets, because he is malnourished and can for once eat his fill there.</note></def>
+    </entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    </entry>
+    <entry>
+    <form>cemmalaṉ-ē</form>
+    <def>superiority he</def>
+    <form type="simple">cemmalaṉ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 145. <persName xml:lang="ta">kollaṉ aḻici</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT145-kilavi">
+          <p type="edition">makaṭpōkkiya cevilittāy colliyatu.</p>
+          <p type="translation" xml:lang="en">Uttered by the foster-mother who had let [her] daughter go.</p>
+          </div>
+
+
+        <div xml:id="KT145">
+            <lg type="edition">
+<l>                uṟaipati yaṉṟit tuṟaikeḻu ciṟukuṭi</l>
+<l>                kāṉalañ cērppaṉ koṭumai yeṟṟi</l>
+<l>                yāṉāt tuyaramoṭu varuntip pāṉāṭ</l>
+<l>                ṭuñcā tuṟainarō ṭucāvāt</l>
+<l>                tuyiṟkaṇ mākkaḷoṭu neṭṭirā vuṭaittē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>This<note place="foot">In this line one would expect an <term xml:lang="ta">aṉṟē</term>, a particle marking of the predicate in anteposition. This place, however, is occupied by the enclitic demonstrative pronoun <term xml:lang="ta">i</term>-, which is frequently to be found in "epenthetic" position, i.e. at the end of the metrical foot preceding its actual antecedent (cf. ... iv <term xml:lang="ta">vaḻuṅkal ūrē</term>).</note> little hamlet with [its] ghat is no place to stay,</l>
+           <l rend="indent">with its long nights, with sleepy-eyed people</l>
+           <l rend="indent">who do not inquire after those<note place="foot">Is it possible to construe <term xml:lang="ta">ucāvā</term> in this way with <term xml:lang="ta">-oṭu</term>? Srin.'s alternative: two attributes to the night, that is, "long nights with sleepy-eyed people who do not ask [and] with those who remain sleepless". This is less satisfactory from the point of view of contents.</note> that remain sleepless<note place="foot">For <term xml:lang="ta">uṟai</term> in such a function cf. KT 116.1 <term xml:lang="ta">nayantu uṟaiyōḷ</term>.</note></l>
+           <l rend="indent">at midnight, troubled by unending grief,</l>
+           <l rend="indent">struck with the cruelty of the man from the coast of shore groves.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT145">
+    <interp type="alignment" select="0">12MG6MG64MG9MG9MG27MG10M2G2M,147M</interp>
+    <entry>
+    <form>uṟai</form>
+    <def>remain-</def>
+    </entry>
+    <entry>
+    <form>pati</form>
+    <def>abode</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>is not so</def>
+    </entry>
+    <entry>
+    <form>i<pc>+</pc></form>
+    <def>this-</def>
+    </entry>
+    <entry>
+    <form>tuṟai-</form>
+    <def>ghat-</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>possess</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>kuṭi</form>
+    <def>home</def>
+    </entry>
+    <entry>
+    <form>kāṉalam</form>
+    <def>seashore grove</def>
+    <gramGrp type="affix"><form>am<note place="foot"><term xml:lang="ta">-am</term> is used as an adjective suffix. Here it seems possible to perceive the semantic transition. It would be still conceivable to read: "he from a coast beautiful by seashore groves". But there are too many cases where this notion has evaporated.</note></form></gramGrp>
+    </entry>
+    <entry>
+    <form>cērppaṉ</form>
+    <def>coast he</def>
+    </entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṟṟi</form>
+    <def>struck<note place="foot">TVG, with reference to Nacc. on Tol. Col 337 (discussing this passage as an example), reads <term xml:lang="ta">ēṟṟi</term> in this place and follows Nacc.'s gloss with <term xml:lang="ta">niṉai</term> "to think of".</note></def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>āṉā<pc>+</pc></form>
+    <def>end not-</def>
+    </entry>
+    <entry>
+    <form>tuyaramoṭu</form>
+    <def>grief with</def>
+    </entry>
+    <entry>
+    <form>varunti</form>
+    <def>troubled</def>
+    </entry>
+    <entry>
+    <form>pāl-nāḷ</form>
+    <def>part day</def>
+    </entry>
+    <entry>
+    <form>tuñcāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sleep not</def>
+    </entry>
+    <entry>
+    <form>uṟainarōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>remain he(h.) with</def>
+    </entry>
+    <entry>
+    <form>ucāvā<pc>+</pc></form>
+    <def>inquire not</def>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>mākkaḷoṭu</form>
+    <def>people with</def>
+    </entry>
+    <entry>
+    <form>neṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>long</def>
+    </entry>
+    <entry>
+    <form>irā</form>
+    <def>night</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṭaitt*-ē</form>
+    <def>possess it</def>
+    <form type="simple">uṭaittu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
+    
