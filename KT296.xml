@@ -61,15 +61,12 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT296">
-    <interp type="alignment" select="0">182ML10MG5MG10M2G2M,213MG</interp>
+    <interp type="alignment" select="0">4MG178ML10MG5MG10M2G2M,214MG</interp>
     <entry>
-      <form>amma</form>
-      <def></def>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
+      <form>amma-vāḻi</form>
       <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle"><m>amma</m></gramGrp>
     </entry>
     <entry>
       <form>tōḻi</form>
@@ -126,7 +123,7 @@
     <entry>
       <form>ceṟuviṉ</form>
       <def>field</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>kaḷ</form>
@@ -143,7 +140,7 @@
     <entry>
       <form>katiroṭu</form>
       <def>ear</def>
-      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+      <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative/instrumental</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>nayakkum</form>
@@ -172,7 +169,7 @@
     <entry>
       <form>kaṭiya</form>
       <def>quick-they</def>
-      <gram type="role">neuter plural</gram>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
       <form>kaḻaṟal</form>
@@ -181,7 +178,7 @@
     <entry>
       <form>ōmpumati</form>
       <def>beware</def>
-      <gram type="role">imperative</gram>
+      <gramGrp><gram type="role">imperative</gram></gramGrp>
     </entry>
     <entry>
       <form>toṭiyōḷ</form>
@@ -194,7 +191,7 @@
     <entry>
       <form>āka<pc>+</pc></form>
       <def>become</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>tuṟattal</form>
@@ -203,14 +200,14 @@
     <entry>
       <form>nummiṉ</form>
       <def>you</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
-      <gram type="role">plural</gram>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+      <gramGrp><gram type="role">plural</gram></gramGrp>
     </entry>
     <entry>
       <form>takum-ō</form>
       <def>fitting-</def>
       <form type="simple">takum</form>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -219,13 +216,13 @@
     <entry>
       <form>aṉai</form>
       <def>such</def>
-      <gram type="role">neuter plural</gram>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
       <form>tuṇint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
       <def>resolved</def>
       <form type="simple">tuṇintu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>
