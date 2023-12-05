@@ -6,8 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title><title xml:lang="ta">Kuṟuntokai</title> 384. <persName xml:lang="ta">
-                    ōrampōkiyār
-                    </persName>: <hi rend="italic">the confidante</hi></title>
+                    ōrampōkiyār </persName>: <hi rend="italic">the confidante</hi></title>
             </titleStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
@@ -18,7 +17,14 @@
                         </summary>
                     </msContents>
                 </msDesc>
-
+                <listPerson>
+                    <person xml:id="TVG">
+                        <persName>
+                            <abbr>T.V.G.</abbr>
+                        <expan>T. V. Gopal Iyer's oral commentary</expan>
+                        </persName>
+                    </person>
+                </listPerson>
             </sourceDesc>
         </fileDesc>
         <revisionDesc />
@@ -53,13 +59,111 @@
                     <l rend="indent8"> the black gram [field,</l>
                     <l> very good, alas, delightful man, [is] your oath.</l>
 
-<lg type="alternate" sameAs="2+3b" resp="#TVG">
-    <l>If you give up, having eaten [their] innocence,</l>
-    <l>the women with tight bracelets ...</l>
-</lg>
+                    <lg type="alternate" sameAs="2+3b" resp="#TVG">
+                        <l>If you give up, having eaten [their] innocence,</l>
+                        <l>the women with tight bracelets ...</l>
+                    </lg>
                 </lg>
             </div>
         </body>
     </text>
-
+    <standOff type="wordsplit" corresp="#KT384">
+        <interp type="alignment" select="0">5MG18MG14ML58M2G17MG2M,119MG</interp>
+        <entry>
+            <form>uḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>black-gram</def>
+        </entry>
+        <entry>
+            <form>uṭai<pc>+</pc></form>
+            <def>possess-</def>
+        </entry>
+        <entry>
+            <form>kaḻutiṉ</form>
+            <def>platform</def>
+            <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+            <form>karump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>sugarcane</def>
+        </entry>
+        <entry>
+            <form>uṭai<pc>+</pc></form>
+            <def>possess-</def>
+        </entry>
+        <entry>
+            <form>paṇai<pc>+</pc></form>
+            <def>bamboo</def>
+        </entry>
+        <entry>
+            <form>tōḷ</form>
+            <def>shoulder</def>
+        </entry>
+        <entry>
+            <form>neṭum</form>
+            <def>long</def>
+        </entry>
+        <entry>
+            <form>pal</form>
+            <def>many</def>
+        </entry>
+        <entry>
+            <form>kūntal</form>
+            <def>tresses</def>
+        </entry>
+        <entry>
+            <form>kuṟum</form>
+            <def>short</def>
+        </entry>
+        <entry>
+            <form>toṭi</form>
+            <def>bracelet</def>
+        </entry>
+        <entry>
+            <form>makaḷir</form>
+            <def>women</def>
+        </entry>
+        <entry>
+            <form>nalaṉ</form>
+            <def>innocence</def>
+        </entry>
+        <entry>
+            <form>uṇṭu</form>
+            <def>eaten</def>
+        </entry>
+        <entry>
+            <form>tuṟatti</form>
+            <def>you-give-up</def>
+            <gramGrp><gram type="role">subjuntive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form><pc>~</pc>āyiṉ</form>
+            <def>if</def>
+        </entry>
+        <entry>
+            <form>mika</form>
+            <def>be-much</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
+            <def>good-it</def>
+            <form type="simple">naṉṟu</form>
+            <gramGrp type="particle"><m>amma</m></gramGrp>
+        </entry>
+        <entry>
+            <form>makiḻna</form>
+            <def>delight-he</def>
+            <gramGrp><gram type="role">vocative</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>niṉ</form>
+            <def>your-</def>
+        </entry>
+        <entry>
+            <form>cūḷ-ē</form>
+            <def>oath</def>
+            <form type="simple">cūḷ</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>

@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 387. <persName xml:lang="ta">kaṅkul
-                    veḷḷattār</persName>: <hi rend="italic">SHE</hi></title>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 387. <persName xml:lang="ta">Kaṅkul
+                    Veḷḷattār</persName>: <hi rend="italic">SHE</hi></title>
             </titleStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
@@ -25,8 +25,7 @@
     <text xml:lang="ta" type="edition">
         <body>
             <div xml:id="KT387-kilavi">
-                <p type="edition">piriviṭai vaṟpuṟuttun tōḻikkuk kiḻatti vaṉpoṟaiyetir aḻintatu.
-                    (C1+2, G2: ituvum atu.) </p>
+                <p type="edition">piriviṭai vaṟpuṟuttun tōḻikkuk kiḻatti vaṉpoṟaiyetir aḻintatu. </p>
 
 
                 <p type="translation" xml:lang="en">Spoken when being desolate in the face of
@@ -57,5 +56,106 @@
             </div>
         </body>
     </text>
-
+    <standOff type="wordsplit" corresp="#KT387">
+        <interp type="alignment" select="0">53MG12MG19MG37M2G2M,127MG</interp>
+        <entry>
+            <form>ellai</form>
+            <def>daylight</def>
+        </entry>
+        <entry>
+            <form>kaḻiya</form>
+            <def>pass-by</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>mullai</form>
+            <def>jasmine</def>
+        </entry>
+        <entry>
+            <form>malara<pc>+</pc></form>
+            <def>blossom</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>katir</form>
+            <def>beam</def>
+        </entry>
+        <entry>
+            <form>ciṉam</form>
+            <def>anger</def>
+        </entry>
+        <entry>
+            <form>taṇinta</form>
+            <def>decreased-</def>
+        </entry>
+        <entry>
+            <form>kai</form>
+            <def>action</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aṟu</form>
+            <def>subside-</def>
+        </entry>
+        <entry>
+            <form>mālai-<pc>~</pc>um</form>
+            <def>evening</def>
+            <form type="simple">mālai</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>ira</form>
+            <def>night</def>
+        </entry>
+        <entry>
+            <form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>border</def>
+        </entry>
+        <entry>
+            <form>āka</form>
+            <def>become</def>
+            <gramGrp><gram type="role">infinitive</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>nīntiṉam</form>
+            <def>we-swum</def>
+        </entry>
+        <entry>
+            <form>āyiṉ</form>
+            <def>if</def>
+        </entry>
+        <entry>
+            <form>evaṉ-kol</form>
+            <def>what</def>
+            <form type="simple">evaṉ</form>
+            <gramGrp type="particle"><m>kol</m></gramGrp>
+        </entry>
+        <entry>
+            <form>vāḻi</form>
+            <def>live</def>
+        </entry>
+        <entry>
+            <form>tōḻi</form>
+            <def>friend</def>
+        </entry>
+        <entry>
+            <form>kaṅkul</form>
+            <def>night</def>
+        </entry>
+        <entry>
+            <form>veḷḷam</form>
+            <def>flood</def>
+        </entry>
+        <entry>
+            <form>kaṭaliṉum</form>
+            <def>seaiṉ</def>
+            <form type="simple">kaṭaliṉ</form>
+            <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+            <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+            <def>big-it</def>
+            <form type="simple">peritu</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>

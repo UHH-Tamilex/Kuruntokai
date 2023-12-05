@@ -59,15 +59,12 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT361">
-    <interp type="alignment" select="0">20MG16MG7M2G88MG17MG11MG2M,167MG</interp>
+    <interp type="alignment" select="0">4MG16MG16MG7M2G88MG17MG11MG2M,168MG</interp>
     <entry>
-      <form>amma</form>
-      <def></def>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
+      <form>amma-vāḻi</form>
       <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp type="particle"><m>amma</m></gramGrp>
     </entry>
     <entry>
       <form>tōḻi</form>
@@ -76,7 +73,7 @@
     <entry>
       <form><pc>~</pc>aṉṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
       <def>mother</def>
-      <gram type="role">dative</gram>
+      <gramGrp><gram type="role">dative</gram></gramGrp>
     </entry>
     <entry>
       <form>uyar</form>
@@ -90,18 +87,18 @@
       <form><pc>~</pc>ulakam-um</form>
       <def>world</def>
       <form type="simple">ulakam</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>ciṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
       <def>little-it</def>
       <form type="simple">ciṟitu</form>
-      <gramGrp type="particle"><form>āl</form></gramGrp>
+      <gramGrp type="particle"><m>āl</m></gramGrp>
     </entry>
     <entry>
       <form>avar</form>
       <def>he</def>
-      <gram type="role">honorific</gram>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
     </entry>
     <entry>
       <form>malai</form>
@@ -126,7 +123,7 @@
     <entry>
       <form>untiyoṭu</form>
       <def>river</def>
-      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+      <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative/instrumental</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>kālai</form>
@@ -159,13 +156,13 @@
     <entry>
       <form>kuḻaiya</form>
       <def>become-soft</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>muyaṅkal-um</form>
       <def>embracing</def>
       <form type="simple">muyaṅkal</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>il</form>
@@ -179,13 +176,13 @@
       <form>naṭutal-um</form>
       <def>setting-up</def>
       <form type="simple">naṭutal</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>kaṭiyātōḷ-ē</form>
-      <def>chase-away-not-she</def>
+      <def>chase-away-not-sheē∞</def>
       <form type="simple">kaṭiyātōḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>

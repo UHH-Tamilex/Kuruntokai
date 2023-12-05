@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 399. <persName xml:lang="ta">paraṇar</persName>
+                <title><title xml:lang="ta">Kuṟuntokai</title> 399. <persName xml:lang="ta">Paraṇar</persName>
                     : <hi rend="italic">SHE</hi></title>
             </titleStmt>
             <sourceDesc>
@@ -46,18 +46,90 @@
                     <l> Pallor [is] like lichen, gathered</l>
                     <l rend="indent"> by the dark ghat, the village drinking well:</l>
                     <l> leaves,<choice>
-                        <seg>whenever</seg>
-                        <seg>wherever</seg>
-                    </choice> the lover touches,</l>
+                            <seg>whenever</seg>
+                            <seg>wherever</seg>
+                        </choice> the lover touches,</l>
                     <l> spreads , <choice>
-                        <seg>whenever</seg>
-                        <seg>wherever</seg>
-                    </choice> he lets go.</l>
+                            <seg>whenever</seg>
+                            <seg>wherever</seg>
+                        </choice> he lets go.</l>
 
 
                 </lg>
             </div>
         </body>
     </text>
-
+    <standOff type="wordsplit" corresp="#KT399">
+        <interp type="alignment" select="0">30M2G19MG9MG13MG8MG15MG2M,102MG</interp>
+        <entry>
+            <form>ūr</form>
+            <def>village</def>
+        </entry>
+        <entry>
+            <form>uṇ</form>
+            <def>collyrium/eat-</def>
+        </entry>
+        <entry>
+            <form>kēṇi</form>
+            <def>well</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>uṇ</form>
+            <def>collyrium/eat-</def>
+        </entry>
+        <entry>
+            <form>tuṟai<pc>+</pc></form>
+            <def>ghat</def>
+        </entry>
+        <entry>
+            <form>tokka</form>
+            <def>gathered-</def>
+        </entry>
+        <entry>
+            <form>pāci</form>
+            <def>lichen</def>
+        </entry>
+        <entry>
+            <form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+            <def>thus-it</def>
+            <form type="simple">aṟṟu</form>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+            <form>pacalai</form>
+            <def>pallor</def>
+        </entry>
+        <entry>
+            <form>kātalar</form>
+            <def>lover</def>
+            <gramGrp><gram type="role">honorific</gram></gramGrp>
+        </entry>
+        <entry>
+            <form>toṭu-<pc>~</pc>uḻi<pc>+</pc></form>
+            <def>touch-while</def>
+        </entry>
+        <entry>
+            <form>toṭu-<pc>~</pc>uḻi</form>
+            <def>touch-while</def>
+        </entry>
+        <entry>
+            <form>nīṅki</form>
+            <def>left</def>
+        </entry>
+        <entry>
+            <form>viṭu-<pc>~</pc>uḻi</form>
+            <def>let-while</def>
+        </entry>
+        <entry>
+            <form>viṭu-<pc>~</pc>uḻi<pc>+</pc></form>
+            <def>let-while</def>
+        </entry>
+        <entry>
+            <form>parattalāṉ-ē</form>
+            <def>spreading</def>
+            <form type="simple">parattalāṉ</form>
+            <gramGrp><gram type="role">instrumental</gram></gramGrp>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>
