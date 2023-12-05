@@ -67,7 +67,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT364">
-    <interp type="alignment" select="0">27MR3MG83MG39MG29MG10M4G9MG15MG2M,227MG</interp>
+    <interp type="alignment" select="0">27MR3MG83MG39MG25MG4M2G10M4G9MG15MG2M,229MG</interp>
     <entry>
       <form>aril</form>
       <def>thicket</def>
@@ -79,7 +79,7 @@
     <entry>
       <form>pirampiṉ</form>
       <def>reed</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>vari<pc>+</pc></form>
@@ -132,7 +132,7 @@
     <entry>
       <form>taṉ</form>
       <def>self-</def>
-      <gram type="role">oblique</gram>
+      <gramGrp><gram type="role">oblique</gram></gramGrp>
     </entry>
     <entry>
       <form>keḻu</form>
@@ -141,28 +141,28 @@
     <entry>
       <form>takuvi</form>
       <def>fitting-she</def>
-      <gram type="role">feminine</gram>
+      <gramGrp><gram type="role">feminine</gram></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>eṉ</form>
-      <def>my-</def>
+      <def>my-back</def>
     </entry>
     <entry>
       <form>puṟam</form>
-      <def>back</def>
-    </entry>
-    <entry>
-      <form>kūṟum</form>
       <def>talking-</def>
     </entry>
     <entry>
-      <form>eṉpa</form>
+      <form>kūṟum</form>
       <def>they-say</def>
     </entry>
     <entry>
+      <form>eṉpa</form>
+      <def>clear-it</def>
+    </entry>
+    <entry>
       <form>teṟṟeṉa</form>
-      <def>clear-it-say</def>
-      <gram type="role">infinitive</gram>
+      <def>say</def>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>vaṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -200,12 +200,12 @@
       <form>nāḷ-um</form>
       <def>day</def>
       <form type="simple">nāḷ</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>vantaṉa</form>
       <def>they-came</def>
-      <gram type="role">neuter plural</gram>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>a<pc>+</pc></form>
@@ -218,30 +218,26 @@
     <entry>
       <form>kaṇ</form>
       <def>eye</def>
+      <gramGrp type="affix"><m>kaṇ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
     </entry>
     <entry>
       <form>pora</form>
       <def>strike</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def></def>
-      <gramGrp type="particle"><form>maṟṟu</form></gramGrp>
-    </entry>
-    <entry>
-      <form>ataṉ</form>
-      <def>that</def>
-      <gram type="role">oblique</gram>
+      <form>-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ataṉ</form>
+      <def>-maṟṟu-that</def>
+      <gramGrp><gram type="role">oblique</gram></gramGrp>
     </entry>
     <entry>
       <form>kaḷvar</form>
       <def>robber</def>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
     </entry>
     <entry>
       <form>avar</form>
-      <def></def>
-      <gram type="role">honorific</gram>
+      <def>he</def>
     </entry>
     <entry>
       <form>maṇ</form>
@@ -250,7 +246,7 @@
     <entry>
       <form>koḷaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
       <def>taking</def>
-      <gram type="role">dative</gram>
+      <gramGrp><gram type="role">dative</gram></gramGrp>
     </entry>
     <entry>
       <form>ivarum</form>
@@ -259,13 +255,13 @@
     <entry>
       <form>maṉṉar</form>
       <def>king</def>
-      <gram type="role">honorific</gram>
+      <gramGrp><gram type="role">honorific</gram></gramGrp>
     </entry>
     <entry>
       <form>pōr-ē</form>
       <def>battle</def>
       <form type="simple">pōr</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
 </TEI>
