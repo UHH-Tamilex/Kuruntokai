@@ -1,134 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 3. <persName xml:lang="ta">Tēvakulattār</persName>: <i>SHE</i></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 3. <persName xml:lang="ta">Tēvakulattār</persName>
+          : <i>SHE</i></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
-           <msContents>
+          <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT3-kilavi">
-          <p type="edition">talaimakaṉ ciṟaippuṟamāka avaṉ varaintu (C1+3: vaṇṭiraintu) koḷvatu vēṇṭit tōḻi iyaṟpaḻittavaḻit talaimakaḷ iyaṟpaṭa moḻintatu.</p>
-          <p type="translation" xml:lang="en">Put into words by HER to make [his] qualities clear, when the confidante belittled [his] qualities, wishing that he married [her], when HE was behind the hedge.</p>
-          </div>
+      <div xml:id="KT3-kilavi">
+        <p type="edition">talaimakaṉ ciṟaippuṟamāka avaṉ varaintu (C1+3: vaṇṭiraintu) koḷvatu vēṇṭit
+          tōḻi iyaṟpaḻittavaḻit talaimakaḷ iyaṟpaṭa moḻintatu.</p>
+        <p type="translation" xml:lang="en">Put into words by HER to make [his] qualities clear,
+          when the confidante belittled [his] qualities, wishing that he married [her], when HE was
+          behind the hedge.</p>
+      </div>
 
-        <div xml:id="KT3">
-            <lg type="edition">
-<l>                nilattiṉum peritē vāṉiṉu muyarntaṉṟu</l>
-<l>                nīriṉu māraḷa viṉṟē cāraṟ</l>
-<l>                karuṅkōṟ kuṟiñcip pūkkoṇṭu</l>
-<l>                peruntē ṉiḻaikku nāṭaṉoṭu naṭpē.</l>
-            </lg>
-            <lg type="translation" xml:lang="en">
-<l>           Bigger than the earth, higher than the sky,</l>
-<l>           more unmeasurable than the waters</l>
-<l rend="indent4">[is] the intimacy</l>
-<l>           Are the flowers you know also as fragrant</l>
-<l rend="indent2">with the man from a land where [bees] make great honey</l>
-<l rend="indent2">from the black-stalked Kuṟiñci flowers on the slope.</l>
-            </lg>
-        </div>
+      <div xml:id="KT3">
+        <lg type="edition">
+          <l> nilattiṉum peritē vāṉiṉu muyarntaṉṟu</l>
+          <l> nīriṉu māraḷa viṉṟē cāraṟ</l>
+          <l> karuṅkōṟ kuṟiñcip pūkkoṇṭu</l>
+          <l> peruntē ṉiḻaikku nāṭaṉoṭu naṭpē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Bigger than the earth, higher than the sky,</l>
+          <l> more unmeasurable than the waters</l>
+          <l rend="indent4">[is] the intimacy</l>
+          <l> Are the flowers you know also as fragrant</l>
+          <l rend="indent2">with the man from a land where [bees] make great honey</l>
+          <l rend="indent2">from the black-stalked Kuṟiñci flowers on the slope.</l>
+        </lg>
+      </div>
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT3">
     <interp type="alignment" select="0">15M2G34M2G45MR12M2G2M,115M</interp>
     <entry>
-    <form>nilattiṉum</form>
-    <def>ground</def>
-    <gramGrp type="affix"><form>iṉum</form></gramGrp>
+      <form>nilattiṉum</form>
+      <def>ground</def>
+      <gramGrp type="affix"><form>iṉum</form></gramGrp>
     </entry>
     <entry>
-    <form>perit<pc>*</pc>ē</form>
-    <def>big it</def>
-    <form type="simple">peritu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>perit<pc>*</pc>ē</form>
+      <def>big it</def>
+      <form type="simple">peritu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>vāṉiṉum</form>
-    <def>sky</def>
-    <gramGrp type="affix"><form>iṉum</form></gramGrp>
+      <form>vāṉiṉum</form>
+      <def>sky</def>
+      <gramGrp type="affix"><form>iṉum</form></gramGrp>
     </entry>
     <entry>
-    <form>uyarntaṉṟu</form>
-    <def>is high<note place="foot"><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has risen" = "is high"? Of the three predicates in anteposition this is the only one not marked with -ē as is to be expected. TVG explains this by metrical reasons: <term xml:lang="ta">uyarntaṉṟē</term> would exceed the boundaries of one metrical foot.</note></def>
+      <form>uyarntaṉṟu</form>
+      <def>is high<note place="foot"><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has
+        risen" = "is high"? Of the three predicates in anteposition this is the only one not marked
+        with -ē as is to be expected. TVG explains this by metrical reasons: <term xml:lang="ta">
+        uyarntaṉṟē</term> would exceed the boundaries of one metrical foot.</note></def>
     </entry>
     <entry>
-    <form>nīriṉum</form>
-    <def>water</def>
-    <gramGrp type="affix"><form>iṉum</form></gramGrp>
+      <form>nīriṉum</form>
+      <def>water</def>
+      <gramGrp type="affix"><form>iṉum</form></gramGrp>
     </entry>
     <entry>
-    <form>ār</form>
-    <def>difficult</def>
+      <form>ār</form>
+      <def>difficult</def>
     </entry>
     <entry>
-    <form>aḷaviṉṟ<pc>*</pc>ē</form>
-    <def>measure is not</def>
-    <form type="simple">aḷaviṉṟu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>aḷaviṉṟ<pc>*</pc>ē</form>
+      <def>measure is not</def>
+      <form type="simple">aḷaviṉṟu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>cāral</form>
-    <def>slope</def>
+      <form>cāral</form>
+      <def>slope</def>
     </entry>
     <entry>
-    <form>karum</form>
-    <def>black</def>
+      <form>karum</form>
+      <def>black</def>
     </entry>
     <entry>
-    <form>kōl</form>
-    <def>stalk</def>
+      <form>kōl</form>
+      <def>stalk</def>
     </entry>
     <entry>
-    <form>kuṟiñci<pc>+</pc></form>
-    <def>Kuṟiñci</def>
+      <form>kuṟiñci<pc>+</pc></form>
+      <def>Kuṟiñci</def>
     </entry>
     <entry>
-    <form>pū<pc>+</pc></form>
-    <def>flower</def>
+      <form>pū<pc>+</pc></form>
+      <def>flower</def>
     </entry>
     <entry>
-    <form>koṇṭu</form>
-    <def>taken</def>
+      <form>koṇṭu</form>
+      <def>taken</def>
     </entry>
     <entry>
-    <form>perum</form>
-    <def>big</def>
+      <form>perum</form>
+      <def>big</def>
     </entry>
     <entry>
-    <form>tēṉ</form>
-    <def>honey</def>
+      <form>tēṉ</form>
+      <def>honey</def>
     </entry>
     <entry>
-    <form>iḻaikkum</form>
-    <def>making-</def>
+      <form>iḻaikkum</form>
+      <def>making-</def>
     </entry>
     <entry>
-    <form>nāṭaṉoṭu</form>
-    <def>land he with</def>
+      <form>nāṭaṉoṭu</form>
+      <def>land he with</def>
     </entry>
     <entry>
-    <form>naṭp<pc>*</pc>ē</form></form>
-    <def>intimacy</def>
-    <form type="simple">naṭpu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>naṭp<pc>*</pc>ē</form>
+      </form>
+      <def>intimacy</def>
+      <form type="simple">naṭpu</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
-    </standOff>
-  </TEI>
+  </standOff>
+</TEI>
