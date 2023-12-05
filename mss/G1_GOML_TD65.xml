@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="ta">Kuṟuntokai</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Government Oriental Manuscripts Library, Chennai</orgName>
+                  </repository>
+                  <idno type="shelfmark">TD 65</idno>
+                  <idno type="alternate"><idno>D 224</idno></idno>
+               <idno type="URI">https://archive.org/details/goml-td65</idno><idno type="URI">https://www.tamildigitallibrary.in/goml/download?filename=paper_manuscript/Tamil/TD/TD+0065++D+0224.pdf</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This manuscript contains the complete text of the <title xml:lang="ta">Kuṟuntokai</title>; many poems come with an English glossary on the facing page.</summary>
+                  
+               <msItem xml:id="G1" defective="false"><title xml:lang="ta">Kuṟuntokai 400</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="135"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="200"/>
+                              <height quantity="330"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Worm-eaten.</condition></supportDesc>
+                     <layoutDesc>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/goml-d224-td65/manifest.json" facs="128"/></facsimile>
+<text corresp="#G1"><body>
+  <milestone n="61" unit="page" facs="128"/>
+  <lg xml:id="KT400">
+    <l><lb n="21"/>399. ceyāṟu cellā māyi ṉiṭariṉ/</l>
+    <l>ṟu<lb n="22"/>kaḷaik kāmam peruntōṭ keṉṟu</l>
+    <l><lb n="23"/>naṉṟupurin teṇṇiya maṉattai <lb n="24"/>yāki/</l>
+    <l>murampukaṇ ṇuṭaiya <lb n="25"/>vēkik kaḷḷarik/</l>
+    <l>karampaip putuvaḻip <lb n="26"/>paṭutta matiyuṭai valavo/</l>
+    <l>yiṉṟu <lb n="27"/>tantaṉai tērō/</l>
+    <l>nō<lb n="28"/>yuḻan tuṟaiviyai nalkāṉē</l>
+  </lg>
+  <p xml:id="KT400-kilavi">
+    <lb n="29"/>etu. viṉaimuṟṟi vanta talaimakaṉ ṟērppākaṉait talai<lb n="30"/>ya<subst><del>ḻi</del><add place="above">ḷi</add></subst>ttatu. pēyaṉār.
+  </p>
+</body></text></TEI>

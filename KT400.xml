@@ -22,7 +22,7 @@
         </fileDesc>
         <revisionDesc />
     </teiHeader>
-    <text xml:lang="ta" type="edition">
+    <text xml:lang="ta" corresp="#Ed" type="edition">
         <body>
             <div xml:id="KT400-kilavi">
                 <p type="edition">viṉaimuṟṟi vanta talaimakaṉ tērppākaṉait talaiyaḷittatu. </p>
@@ -207,4 +207,77 @@
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 </standOff>
+<standOff type="apparatus" corresp="#KT400"><listApp>
+<app corresp="6,11">
+  <lem wit="#C1 #C3 #G1 #C2 #Cam #G2 #EA">cellā</lem>
+  <rdg wit="#C2-p">celva</rdg>
+  <rdg wit="#Cam-p #SS">celvā</rdg>
+</app>
+<app corresp="15,24">
+  <lem wit="#C1 #C3 #G1 #C2 #Cam #G2 #EA">ṉiṭariṉṟu</lem>
+  <rdg wit="#SS">ṉ· iṭariṉṟu</rdg>
+</app>
+<app corresp="24,39">
+  <lem wit="#C2pc #Cam #C2-p #SS">kaḷaikalaṅ kāmam</lem>
+  <rdgGrp wit="#C1 #C3 #G1 #C2ac"><rdg type="main">kaḷaikkāmam</rdg><rdg type="sandhi" wit="#G1 #C2ac">kaḷaik kāmam</rdg></rdgGrp>
+  <rdg wit="#Cam-p">kalaik kāmam</rdg>
+  <rdg wit="#G2 #EA">kaḷaiik kāmam</rdg>
+</app>
+<app corresp="77,81">
+  <lem wit="#C3 #G1 #C2 #Cam #SS #G2 #EA">yāki</lem>
+  <rdg wit="#C1">kiya</rdg>
+</app>
+<app corresp="81,91">
+  <lem wit="#C1 #C3 #G1 #C2 #Cam #G2 #EA">murampukaṇ</lem>
+  <rdg wit="#SS">murampuka</rdg>
+</app>
+<app corresp="103,112">
+  <lem wit="#Cam #SS">karampaip</lem>
+  <rdgGrp wit="#C1 #C3 #G1"><rdg type="main">kaḷḷarik karampaip</rdg><rdg type="sandhi" wit="#C3">kaḷḷari)k karampaip,</rdg><rdg type="sandhi" wit="#G1">kaḷḷarik/ karampaip</rdg></rdgGrp>
+  <rdgGrp wit="#C2 #G2 #EA #Cam-p"><rdg type="main">kaḷarik karampaip</rdg><rdg type="sandhi" wit="#Cam-p">kaḷarikkarampaip</rdg></rdgGrp>
+</app>
+<app corresp="137,143">
+  <lem wit="#C1 #G1 #C3pc #C2 #Cam #SS #G2 #EA">valavō</lem>
+  <rdg wit="#C3ac">valavē,</rdg>
+</app>
+<app corresp="148,156">
+  <lem wit="#C3 #G1 #C2 #Cam #SS #EA">tantaṉai</lem>
+  <rdg wit="#C1">ntaṉai</rdg>
+  <rdg wit="#G2">tantaṉait</rdg>
+</app>
+<app corresp="156,160">
+  <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS #G2">tērō</lem>
+  <rdg wit="#C2ac">tērē</rdg>
+  <rdg wit="#EA">tērēr</rdg>
+</app>
+<app corresp="160,167">
+  <lem wit="#G1 #C3pc #C2 #Cam #SS #G2 #EA">nōyuḻan</lem>
+  <rdgGrp wit="#C1 #C3ac"><rdg type="main">noyuḻain</rdg><rdg type="sandhi" wit="#C3ac">nōyuḻain</rdg></rdgGrp>
+</app>
+<app corresp="167,177">
+  <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS #G2pc #EA">tuṟaiviyai</lem>
+  <rdg wit="#G2ac">tuṟaviyai</rdg>
+  <rdg wit="#C2ac">tiṟaiviyai</rdg>
+</app>
+<app corresp="177,187">
+  <lem wit="#C3pc #C2 #Cam #SS #G2 #EA">nalka lāṉē.</lem>
+  <rdgGrp wit="#C1 #G1 #C3ac"><rdg type="main">nalkāṉē</rdg><rdg type="sandhi" wit="#C3ac">nalakāṉē.</rdg></rdgGrp>
+</app>
+<listWit xmlns="http://www.tei-c.org/ns/1.0"><witness xml:id="Ed" source="KT400.xml"><abbr type="siglum">Ed</abbr><expan>Wilden edition</expan></witness><witness xml:id="C1" source="mss/C1_UVSL_1076.xml"><abbr type="siglum">C1</abbr><expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan></witness><witness xml:id="C2" source="mss/C2_UVSL_183.xml"><abbr type="siglum">C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan><witness xml:id="C2ac" type="ac"><abbr type="siglum">C2ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, ante correctionem]</expan></witness><witness xml:id="C2pc" type="pc"><abbr type="siglum">C2pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, post correctionem]</expan></witness><witness xml:id="C2-p"><abbr type="siglum">C2-p</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, interlineal annotation]</expan></witness></witness><witness xml:id="C3" source="mss/C3_UVSL_184.xml"><abbr type="siglum">C3</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan><witness xml:id="C3ac" type="ac"><abbr type="siglum">C3ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, ante correctionem]</expan></witness><witness xml:id="C3pc" type="pc"><abbr type="siglum">C3pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, post correctionem]</expan></witness></witness><witness xml:id="Cam" source="mss/Cam.xml"><abbr type="siglum">Cām</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937</expan><witness xml:id="Cam-p"><abbr type="siglum">Cam-p</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937 [variant reading]</expan></witness></witness><witness xml:id="EA" source="mss/EA.xml"><abbr type="siglum">EA</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. Caurip Perumāḷ Araṅkaṉ 1915</expan></witness><witness xml:id="G1" source="mss/G1_GOML_TD65.xml"><abbr type="siglum">G1</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan><witness xml:id="G1ac" type="ac"><abbr type="siglum">G1ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, ante correctionem]</expan></witness><witness xml:id="G1pc" type="pc"><abbr type="siglum">G1pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, post correctionem]</expan></witness></witness><witness xml:id="G2" source="mss/G2_GOML_TR1072.xml"><abbr type="siglum">G2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan><witness xml:id="G2ac" type="ac"><abbr type="siglum">G2ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, ante correctionem]</expan></witness><witness xml:id="G2pc" type="pc"><abbr type="siglum">G2pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, post correctionem]</expan></witness></witness><witness xml:id="SS" source="mss/SS.xml"><abbr type="siglum">SS</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> Śaiva Siddhānta edition, 1955</expan></witness></listWit>
+</listApp></standOff> 
+<standOff type="apparatus" corresp="#KT400-kilavi"><listApp>
+<app corresp="15,25">
+  <lem wit="#C2 #Cam #G2 #EA #C3 #G1 #C1">talaimakaṉ</lem>
+  <rdg wit="#SS">talaivaṉ</rdg>
+</app>
+<app corresp="25,37">
+  <lem wit="#C2 #Cam #G2 #EA #SS">tērppākaṉait</lem>
+  <rdg wit="#C3 #G1">ṟērppākaṉait</rdg>
+  <rdg wit="#C1">ṟerppākaḷait</rdg>
+</app>
+<app corresp="37,52">
+  <lem wit="#C2 #Cam #G2 #EA #SS #C3pc #G1pc">talaiyaḷittatu.</lem>
+  <rdgGrp wit="#C3ac #G1ac #C1"><rdg type="main">talaiyaḻittatu.</rdg><rdg type="sandhi" wit="#C1">talaiyaḻittatu ·</rdg></rdgGrp>
+</app>
+</listApp></standOff>
 </TEI>

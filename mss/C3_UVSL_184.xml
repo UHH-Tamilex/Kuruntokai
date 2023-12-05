@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="ta">Kuṟuntokai</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U. V. Swaminatha Iyer Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 184</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/uvsl-184</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This paper manuscript contains the complete text of the <title xml:lang="ta">Kuṟuntokai</title>.</summary>
+                  
+               <msItem xml:id="C3" defective="false"><title xml:lang="ta">Kuṟuntokai 400</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="199"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="170"/>
+                              <height quantity="210"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/uvsl-184/manifest.json" facs="214"/></facsimile>
+<text corresp="#C3" xml:lang="ta"><body>
+  <milestone n="198" unit="page" facs="214"/>
+  <lg xml:id="KT400">
+    <l><lb n="3"/>ceyāṟu cellā māyi ṉiṭariṉṟu,</l>
+    <l>kaḷaikkā<lb n="4"/>mam peruntōṭa keṉṟu,</l>
+    <l>naṉṟupurin teṇṇiya ma<lb n="5"/>ṉattai yāki,</l>
+    <l>murampukaṇ ṇuṭaiya veki(k kaḷḷari)<lb n="6"/>k karampaip,</l>
+    <l>putuvaḻip paṭutta matiyuṭai vala<subst>v<del rend="implied">ē</del><add place="above">ō</add></subst>,</l>
+    <l>yiṉ<lb n="7"/>ṟu tantaṉai tērō,</l>
+    <l>nōyu<subst>ḻ<del>ai</del><add rend="implied">a</add></subst>n tuṟaiviyai na<subst>l<del>a</del></subst><subst><del>kā</del><add>kalā</add></subst>ṉē.</l>
+  </lg>
+  <p xml:id="KT400-kilavi">
+    <lb n="8"/>etu. viṉaimuṟṟi vanta talaimakaṉ ṟērppā<lb n="9"/>kaṉait talaiya<subst><del>ḻi</del><add place="above">ḷi</add></subst>ttatu. peyaṉār  <space/> 400.
+  </p>
+</body></text></TEI>
