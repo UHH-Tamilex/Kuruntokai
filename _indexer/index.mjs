@@ -125,7 +125,7 @@ const alignVariants = (doc,alignment) => {
         let textslice = textarr.slice(newstart,newend);
         let splitslice = wordsplitarr.slice(newstart,newend);
         let readings = [];
-        for(const rdg of variant.querySelectorAll('rdg')) {
+        for(const rdg of variant.querySelectorAll(':scope > rdg')) {
             
             const rdgtext = cleanText(rdg);
             const witnesses = rdg.getAttribute('wit').split(' ').map(s => {
@@ -304,6 +304,7 @@ const concatAlignment = (arr) => {
 };
 
 const makeWordlist = (textarr,wordsplitarr,variants,wordsplits) => {
+    console.log(wordsplits);
     const wordlist = wordsplits.map(w => w.def ? w : w.options[0]);
     let start = 0;
     const words = [];
