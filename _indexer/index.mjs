@@ -125,7 +125,7 @@ const alignVariants = (doc,alignment) => {
         let textslice = textarr.slice(newstart,newend);
         let splitslice = wordsplitarr.slice(newstart,newend);
         let readings = [];
-        for(const rdg of variant.querySelectorAll('rdg')) {
+        for(const rdg of variant.querySelectorAll(':scope > rdg')) {
             
             const rdgtext = cleanText(rdg);
             const witnesses = rdg.getAttribute('wit').split(' ').map(s => {
