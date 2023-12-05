@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="ta">Kuṟuntokai</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Archive.org</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t84j2k90k</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/Kuruntokai</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>The Śaiva Siddhanta edition, published in 1955.</summary>
+                  
+               <msItem xml:id="SS" defective="false"><title xml:lang="ta">Kuṟuntokai 400</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="958"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/Kuruntokai/manifest.json" facs="632"/></facsimile>
+<text corresp="#SS"><body>
+  <milestone n="503" unit="page" facs="631"/>
+  <head><lb n="26"/>pāṭṭu – 400 : talaivaṉ cuṟṟu</head>
+    <p xml:id="KT400-kilavi">
+    <lb n="27"/>tuṟai :― viṉaimuṟṟi vanta talaivaṉ tērppākaṉait talai<lb n="28"/>yaḷittatu.
+  </p>
+   
+  <milestone n="504" unit="page" facs="632"/>
+  <lg xml:id="KT400">
+    <l><lb n="3"/>400. cēyāṟu celvā māyiṉ· iṭariṉṟu</l>
+    <l><lb n="4"/>kaḷaikalam kāmam peruntōṭ keṉṟu</l>
+    <l><lb n="5"/>naṉṟupurin teṇṇiya maṉattai yāki</l>
+    <l><lb n="6"/>murampukaṇ uṭaiya vēkik karampaip</l>
+    <l><lb n="7"/>putuvaḻip paṭutta matiyuṭai valavōy</l>
+    <l><lb n="8"/>iṉṟu tantaṉai tērō</l>
+    <l><lb n="9"/>nōyuḻan tuṟaiviyai nalka lāṉē.</l>
+  </lg>
+  <p>
+    ―pēyaṉār.
+  </p>
+</body></text></TEI>
