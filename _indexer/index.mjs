@@ -304,7 +304,6 @@ const concatAlignment = (arr) => {
 };
 
 const makeWordlist = (textarr,wordsplitarr,variants,wordsplits) => {
-    console.log(wordsplits);
     const wordlist = wordsplits.map(w => w.def ? w : w.options[0]);
     let start = 0;
     const words = [];
