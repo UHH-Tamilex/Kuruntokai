@@ -53,23 +53,22 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT77">
-    <interp type="alignment" select="0">17M2G7MG9M2G5MG11MG43MG30MG21MG2M,155M</interp>
+    <interp type="alignment" select="0">4MG13M2G7MG9M2G5MG11MG43MG30MG21MG2M,155M</interp>
     <entry>
-    <form>amma</form>
-    <def></def>
-    <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-    <form>vāḻi</form>
+    <form>amma-vāḻi</form>
     <def>live</def>
+    <form type="simple">vāḻi</form>
+    <gramGrp type="particle"><form>amma</form></gramGrp>
     </entry>
     <entry>
     <form>tōḻi</form>
     <def>friend</def>
     </entry>
     <entry>
-    <form>yāvat*-um</form>
+    <form>yāvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
     <def>anything</def>
+    <form type="simple">yāvatu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
     </entry>
     <entry>
     <form>tavaṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -80,7 +79,7 @@
     <def>say if</def>
     </entry>
     <entry>
-    <form>tavaṟ*-ō</form>
+    <form>tavaṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
     <def>mistake</def>
     <form type="simple">tavaṟu</form>
     <gramGrp type="particle"><form>ō</form></gramGrp>
@@ -89,8 +88,9 @@
     <form><pc>~</pc>ila-<pc>~</pc>ē</form>
     <def>are not</def>
     <form type="simple">ila</form>
-    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">ila</term>: n.pl., can be connected either with <term xml:lang="ta">tavaṟu</term> or with <term xml:lang="ta">tōḷ</term>.</note></gram>
+    <gram type="role">neuter plural</gram>
     <gramGrp type="particle"><form>ē</form></gramGrp>
+    <note><term xml:lang="ta">ila</term>: n.pl., can be connected either with <term xml:lang="ta">tavaṟu</term> or with <term xml:lang="ta">tōḷ</term>.</note>
     </entry>
     <entry>
     <form>vem</form>
@@ -106,7 +106,8 @@
     </entry>
     <entry>
     <form>vampalar</form>
-    <def>traveller(h.)(?)<note place="foot">Is <term xml:lang="ta">vampalaṉ</term> really ambiguous and does it designate the traveller as well as the highwayman who attacks him? Literally it should just mean "new-comer".</note></def>
+    <def>traveller(h.)(?)</def>
+    <note>Is <term xml:lang="ta">vampalaṉ</term> really ambiguous and does it designate the traveller as well as the highwayman who attacks him? Literally it should just mean "new-comer".</note>
     </entry>
     <entry>
     <form>uval</form>
@@ -118,7 +119,8 @@
     </entry>
     <entry>
     <form>patukkai</form>
-    <def>(stone-)heap<note place="foot"><term xml:lang="ta">patukkai</term>: for an explanation why this is, contrary to the traditional explanation, rather a "stone-heap" than a "leaf-heap" see note on KT 297.4.</note></def>
+    <def>(stone-)heap</def>
+    <note><term xml:lang="ta">patukkai</term>: for an explanation why this is, contrary to the traditional explanation, rather a "stone-heap" than a "leaf-heap" see note on KT 297.4.</note>
     </entry>
     <entry>
     <form>neṭu</form>
@@ -148,7 +150,8 @@
     <entry>
     <form>ariya</form>
     <def>difficult they</def>
-    <gram type="role">neuter plural<note place="foot"><term xml:lang="ta">aṟiya</term>: just as with <term xml:lang="ta">tamiya</term> (KT 9.2), it might be preferable to read an adjective derivation in the sg., though it is tempting to see the parallel construction <term xml:lang="ta">aṟiya kāṉam – eḷiya</term> ... <term xml:lang="ta">tōḷ</term>.</note></gram>
+    <gram type="role">neuter plural</gram>
+    <note><term xml:lang="ta">aṟiya</term>: just as with <term xml:lang="ta">tamiya</term> (KT 9.2), it might be preferable to read an adjective derivation in the sg., though it is tempting to see the parallel construction <term xml:lang="ta">aṟiya kāṉam – eḷiya</term> ... <term xml:lang="ta">tōḷ</term>.</note>
     </entry>
     <entry>
     <form>kāṉam</form>
@@ -166,7 +169,8 @@
     </entry>
     <entry>
     <form><pc>~</pc>ākiya</form>
-    <def>become-<note place="foot"><term xml:lang="ta">eḷiya ākiya</term>: of a kind that have become thin? Or a predication, like Sanskrit <i>bhavati</i>?</note></def>
+    <def>become-</def>
+    <note><term xml:lang="ta">eḷiya ākiya</term>: of a kind that have become thin? Or a predication, like Sanskrit <i>bhavati</i>?</note>
     </entry>
     <entry>
     <form>taṭa</form>
