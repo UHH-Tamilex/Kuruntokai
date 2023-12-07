@@ -3,6 +3,7 @@ import { GitHubFunctions } from './lib/js/githubfunctions.mjs';
 import { ApparatusViewer } from './lib/js/apparatus.mjs';
 import Splitter from './debugging/splits.mjs';
 import { addVariants } from './debugging/variants.mjs';
+import { Sanscript } from './lib/js/sanscript.mjs';
 import './lib/js/tooltip.mjs';
 //import { tamilize, iastToTamil } from './transliterate.mjs';
 
@@ -21,7 +22,7 @@ const lookup = (e) => {
             const clone = word.cloneNode(true);
             for(const pc of clone.querySelectorAll('.invisible, .ignored'))
                 pc.remove();
-            clean = clone.textContent.replaceAll('\u00AD','');
+            clean = Sanscript.t(clone.textContent.replaceAll('\u00AD',''),'tamil','iast');
         }
         //window.open(`https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=${clean}&amp;searchhws=yes&amp;matchtype=exact`,'lexicon',/*'height=500,width=500'`*/);
         window.open(`wordindex.xml#${clean}`);
