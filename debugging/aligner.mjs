@@ -128,6 +128,7 @@ const gramAbbreviations = [
     ['(f.sg.)','feminine singular'],
     ['(pl.obl.)','plural oblique'],
     ['(sg.dat.)','singular dative'],
+    ['(sub.pl.)','plural subjunctive'],
     ['(pl.sub.)','plural subjunctive'],
     ['(pron.n.)','pronominalised noun'],
     ['(pron.n.n.sg.)','pronominalised noun neuter singular'],
