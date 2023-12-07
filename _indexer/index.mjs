@@ -126,9 +126,11 @@ const alignVariants = (doc,alignment) => {
         let splitslice = wordsplitarr.slice(newstart,newend);
         let readings = [];
         for(const rdg of variant.querySelectorAll(':scope > rdg, :scope > rdgGrp')) {
+        //for(const rdg of variant.querySelectorAll(':scope > rdg')) {
             const rdgtext = rdg.tagName === 'rdgGrp' ?
                 cleanText(rdg.querySelector('rdg[type="main"]')) :
                 cleanText(rdg);
+            //const rgdtext = cleanText(rdg);
             const witnesses = rdg.getAttribute('wit').split(' ').map(s => {
                 if(correctedWits.includes(s))
                     return s.slice(0,-1) + 'v';
