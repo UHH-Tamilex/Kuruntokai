@@ -244,7 +244,7 @@ const makeEntries = (arr) => {
     const formatWord = (w) => {
         return w.replace(/([~+()])/g,'<pc>$1</pc>')
                 //.replace(/['’*]$/,'<pc type="ignored">(</pc>u<pc type="ignored">)</pc>')
-                .replace(/['’*]/,'<pc type="ignored">(</pc>u<pc type="ignored">)</pc>')
+                .replaceAll(/['’*]/g,'<pc type="ignored">(</pc>u<pc type="ignored">)</pc>')
                 .replaceAll(/\[(.+?)\]/g,'<supplied>$1</supplied>');
                 //.replaceAll(/\[(.+?)\]/g,'$1');
     };
@@ -275,7 +275,7 @@ const makeEntries = (arr) => {
 
 const cleanBare = (str) => {
     //str = str.replaceAll(/[~+-.]/g,'').replace(/['’*]$/,'u');
-    str = str.replaceAll(/[\[\]~+.]/g,'').replace(/-$|^-/,'').replace(/['’*]/,'u');
+    str = str.replaceAll(/[\[\]~+.]/g,'').replace(/-$|^-/,'').replaceAll(/['’*]/g,'u');
     /*
     if(str.match(/[iīeē]y$/))
         return str.slice(0,-1); // inserted glide
