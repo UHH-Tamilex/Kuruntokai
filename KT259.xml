@@ -17,7 +17,14 @@
             </summary>
           </msContents>
         </msDesc>
-
+        <listPerson>
+          <person xml:id="TVG">
+            <persName>
+              <abbr>T.V.G.</abbr>
+              <expan>T. V. Gopal Iyer's oral commentary</expan>
+            </persName>
+          </person>
+        </listPerson>
       </sourceDesc>
     </fileDesc>
     <revisionDesc />
@@ -55,7 +62,9 @@
           <l>Speaking words that lie as if [they were] truth – what [is] this?</l>
           <l>The heart is good, on your side. </l>
 
-
+          <lg type="alternate" sameAs="8b" resp="#TVG">
+            <l>[His] heart (i.e. his intentions) is good, with respect to you.</l>
+          </lg>
         </lg>
       </div>
     </body>
