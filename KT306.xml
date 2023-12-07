@@ -41,14 +41,23 @@
         </lg>
 
         <lg type="translation" xml:lang="en">
-          <l rend="indent2">Even if [I/you] say: “we don't say [to ourselves] these</l>
+          <l rend="indent2">Even if <choice>
+              <seg>[I/you] </seg>
+              <seg>[I] </seg>
+            </choice>say: “we don't say <choice>
+              <seg>[to ourselves] </seg>
+              <seg>[to him] </seg>
+            </choice>these</l>
           <l rend="indent2">soft, sweet words fit to call up wishes ” –</l>
           <l>would you forget those [words], live, my heart</l>
-          <l rend="indent">– after having seen the man from the coast of the cool sea</l>
+          <l rend="indent"><choice>
+              <seg>– after having </seg>
+              <seg>– once you have </seg>
+            </choice>seen the man from the coast of the
+            cool sea</l>
           <l rend="indent2">with seashore groves, where bees descend [and] immerse themselves</l>
           <l rend="indent3">in pollen-bearing flowers of desirable mango trees,</l>
           <l rend="indent8">many together?</l>
-
 
         </lg>
       </div>
