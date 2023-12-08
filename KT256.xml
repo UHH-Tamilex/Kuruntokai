@@ -59,7 +59,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT256">
-    <interp type="alignment" select="0">62MG59MG9MG36MG21MG13MG3M,208MG</interp>
+    <interp type="alignment" select="0">50M2G12MG59MG9MG36MG21MG13MG3M,210MG</interp>
     <entry>
       <form>maṇi</form>
       <def>sapphire</def>
@@ -97,10 +97,10 @@
       <def>twig</def>
     </entry>
     <entry>
-      <form>piṇaiyoṭum</form>
+      <form>piṇaiyoṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
       <def>doe-with</def>
-      <form type="simple">piṇaiyoṭ</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+      <form type="simple">piṇaiyoṭu</form>
+      <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
       <form>ārnta</form>
@@ -125,7 +125,7 @@
     <entry>
       <form>piṉpaṭa</form>
       <def>be-after</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>viṉai</form>
@@ -142,7 +142,7 @@
     <entry>
       <form>varutum</form>
       <def>we-come</def>
-      <gram type="role">subjuntive</gram>
+      <gramGrp><gram type="role">subjuntive</gram></gramGrp>
     </entry>
     <entry>
       <form>a<pc>+</pc></form>
@@ -160,7 +160,7 @@
       <form>ollum-ō</form>
       <def>being-possible-</def>
       <form type="simple">ollum</form>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
       <form>pūm</form>
@@ -170,12 +170,12 @@
       <form>kuḻai-<pc>~</pc>ō</form>
       <def>earring-you</def>
       <form type="simple">kuḻai</form>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>eṉa<pc>+</pc></form>
       <def>say</def>
-      <gram type="role">infinitive</gram>
+      <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
       <form>collā</form>
@@ -188,12 +188,12 @@
     <entry>
       <form>nillā</form>
       <def>stand-not-they</def>
-      <gram type="role">neuter plural</gram>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
       <form><pc>~</pc>āki</form>
       <def>become</def>
-      <gram type="role">absolutive</gram>
+      <gramGrp><gram type="role">absolutive</gram></gramGrp>
     </entry>
     <entry>
       <form>nīr</form>
@@ -219,8 +219,8 @@
       <form>vilaṅkiṉa-<pc>~</pc>āl</form>
       <def>they-hindered</def>
       <form type="simple">vilaṅkiṉa</form>
-      <gram type="role">neuter plural</gram>
-      <gramGrp type="particle"><form>āl</form></gramGrp>
+      <gramGrp><gram type="role">neuter plural</gram></gramGrp>
+      <gramGrp type="particle"><m>āl</m></gramGrp>
     </entry>
     <entry>
       <form>terivai</form>
@@ -230,7 +230,8 @@
       <form>kaṇ-<pc>+</pc>ē</form>
       <def>eye</def>
       <form type="simple">kaṇ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
   </standOff>
+
 </TEI>
