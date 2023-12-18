@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><title xml:lang="ta">Eṭṭuttokai</title></title>
-            
-         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+            <title>
+               <title xml:lang="ta">Eṭṭuttokai</title>
+            </title>
+
+            <editor>
+               <persName>Charles Li</persName>
+               <orgName>Universität Hamburg</orgName>
+            </editor>
+            <editor>
+            <persName>Leo Nelson-Jones</persName>
+            <orgName>Universität Hamburg</orgName>
+            </editor>
+         </titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
             <date>2023</date>
@@ -18,87 +28,131 @@
                      <orgName>U. V. Swaminatha Iyer Library</orgName>
                   </repository>
                   <idno type="shelfmark">UVSL 1076</idno>
-                  <idno type="alternate"/>
-               <idno type="URI">https://archive.org/details/uvsl-1076</idno><idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZl2kZhy</idno></msIdentifier>
+                  <idno type="alternate" />
+                  <idno type="URI">https://archive.org/details/uvsl-1076</idno>
+                  <idno type="URI">
+                     https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZl2kZhy</idno>
+               </msIdentifier>
                <msContents class="#MTM">
-                  <summary>Part of a series of manuscripts containing the <title xml:lang="ta">Eṭṭuttokai</title>. This manuscript contains the <title xml:lang="ta">Kuṟuntokai</title>, among others.</summary>
-                  
-               <msItem xml:id="C1" defective="false"><title xml:lang="ta">Kuṟuntokai 400</title><textLang mainLang="tam"/></msItem></msContents>
+                  <summary>Part of a series of manuscripts containing the <title xml:lang="ta">
+                     Eṭṭuttokai</title>. This manuscript contains the <title xml:lang="ta">
+                     Kuṟuntokai</title>, among others.</summary>
+
+                  <msItem xml:id="C1" defective="false">
+                     <title xml:lang="ta">Kuṟuntokai 400</title>
+                     <textLang mainLang="tam" />
+                  </msItem>
+               </msContents>
                <physDesc>
-                  
-                  
-                  
-                  
-                  
-               <objectDesc form="pothi" rend="manuscript">
+
+
+                  <objectDesc form="pothi" rend="manuscript">
                      <supportDesc material="palm-leaf palmyra">
-                        
-                        
-                        
-                        
-                        
-                     <support>
-                           
-                        </support><extent>
-                           <measure unit="folio" quantity="46"/>
+
+
+                        <support>
+
+                        </support>
+                        <extent>
+                           <measure unit="folio" quantity="46" />
                            <dimensions type="object" unit="mm">
-                              
-                              
+
+
                            </dimensions>
                            <dimensions type="leaf" unit="mm">
-                              <width quantity="360"/>
-                              <height quantity="50"/>
+                              <width quantity="360" />
+                              <height quantity="50" />
                            </dimensions>
                            <dimensions type="written" unit="mm">
-                              
-                              
+
+
                            </dimensions>
-                        </extent><condition>Worm-eaten.</condition></supportDesc>
+                        </extent>
+                        <condition>Worm-eaten.</condition>
+                     </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="10"/>
+                        <layout writtenLines="10" />
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone #tamilPreReform" medium="black incised soot"/></handDesc><additions>
-                  </additions><bindingDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="tamil"
+                        scriptRef="#tamilPulliNone #tamilPreReform" medium="black incised soot" />
+                  </handDesc>
+                  <additions>
+                  </additions>
+                  <bindingDesc>
                      <binding>
-                        
+
                         <decoNote type="stringhole">
-                           <measure unit="stringhole"/>
+                           <measure unit="stringhole" />
                         </decoNote>
-                    </binding>
-                  </bindingDesc></physDesc>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
                <history>
-                  
-                  
-                  
-               <origin>
-                     <origDate calendar="gregorian"/>
-                     
-                  </origin></history>
+
+
+                  <origin>
+                     <origDate calendar="gregorian" />
+
+                  </origin>
+               </history>
                <additional>
                   <listBibl>
-                     
+
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
-      
-   <revisionDesc/></teiHeader>
+      <encodingDesc>
+         <p>Madras lexicon transliteration.</p>
+      </encodingDesc>
+
+      <revisionDesc />
+   </teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/uvsl-1076/manifest.json"/></facsimile>
-<text corresp="#C1" xml:lang="ta"><body>
-  <milestone n="43r" unit="folio" facs="90"/>
-  <lg xml:id="KT400">
-    <l><lb n="10"/><gap reason="ellipsis"/>ceyāṟu cellā māyi ṉiṭariṉṟu</l>
-    <l>kaḷaika kāmam peruntoṭ keṉṟu</l>
-    <l>naṉṟupurin teṇṇiya maṉattai <pb n="43v" facs="91"/><gap reason="lost" unit="character" quantity="2"/>kiya</l>
-    <l>murampukaṇ ṇuṭaiya vekik kaḷḷarik</l>
-    <l>karampaip putuvaḻip paṭutta matiyuṭai</l>
-    <l>valavo yiṉṟu <gap reason="lost" unit="character" quantity="1"/>ntaṉai</l>
-    <l>tero noyuḻain tuṟaiviyai nalkāṉe</l>
-  </lg>
-  <p xml:id="KT400-kilavi">
-    etu <lb n="2"/>viṉaimuṟṟi vanta talaimakaṉ ṟerppākaṉait talaiyaḻittatu · peyaṉār · <num rend="traditional">400</num>
-  </p>
-</body></text></TEI>
+      <graphic url="https://iiif.archive.org/iiif/uvsl-1076/manifest.json" />
+   </facsimile>
+   <text corresp="#C1" xml:lang="ta">
+      <body>
+
+         <milestone n="36v" unit="folio" facs="72" />
+         <lg xml:id="KT320">
+            <l><lb n="6" /><gap reason="ellipsis" /><unclear>pe</unclear><gap reason="illegible"
+                  unit="character" quantity="2" />ṅkaṭaṟ <unclear>pa</unclear> koṇmī ṟuṇaṅka<gap
+                  reason="lost" unit="character" quantity="1" />i</l>
+            <l>ṉaruṅkaḻi koṇṭa vi<gap reason="illegible" unit="character" quantity="1" /><gap
+                  reason="lost" unit="character" quantity="1" />ṉ vāṭaloṭu</l>
+            <l>nilavuniṟa veṇ<unclear>ma</unclear>ṇal pula<add place="above">va</add>p palavuṭa</l>
+            <l>ṉekkartoṟu <lb n="7" />parikkun tuṟaivaṉō ṭorunā</l>
+            <l>ṇakkakōr paḻiyu milamē pōtaviḻ</l>
+            <l>poṉṉiṇar <unclear>purīiya</unclear> puḷḷumiḻp
+               poṅkarp</l>
+            <l>puṉṉaiyañ cēri yivvūrk</l>
+            <l>koṉṉa<lb n="8" />lar tūṟṟattaṉ koṭumai yāṉē.</l>
+         </lg>
+         <p xml:id="KT320-kiḷavi">etu. alar añci yāṟṟuḷ ākiya talaimakaṭalai
+         <del rend="scribble">
+            <gap reason="illegible" unit="character" quantity="1" />
+         </del>vaṉ kōṭpāṉākat
+         tōlikku kūṟiyatu · tumpicēr kīraṉ ·
+         <num rend="traditional">320</num>
+      </p>
+         <milestone n="43r" unit="folio" facs="90" />
+         <lg xml:id="KT400">
+            <l><lb n="10" /><gap reason="ellipsis" />ceyāṟu cellā māyi ṉiṭariṉṟu</l>
+            <l>kaḷaika kāmam peruntoṭ keṉṟu</l>
+            <l>naṉṟupurin teṇṇiya maṉattai <pb n="43v" facs="91" /><gap reason="lost"
+                  unit="character" quantity="2" />kiya</l>
+            <l>murampukaṇ ṇuṭaiya vekik kaḷḷarik</l>
+            <l>karampaip putuvaḻip paṭutta matiyuṭai</l>
+            <l>valavo yiṉṟu <gap reason="lost" unit="character" quantity="1" />ntaṉai</l>
+            <l>tero noyuḻain tuṟaiviyai nalkāṉe</l>
+         </lg>
+         <p xml:id="KT400-kilavi"> etu <lb n="2" />viṉaimuṟṟi vanta talaimakaṉ ṟerppākaṉait
+            talaiyaḻittatu · peyaṉār · <num rend="traditional">400</num>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,6 +1,6 @@
 import Fs from 'fs';
 import Jsdom from 'jsdom';
-import {tamilSplit} from '../debugging/aligner.mjs';
+import {tamilSplit} from '../lib/debugging/aligner.mjs';
 
 const template = Fs.readFileSync('wordlist-template.xml',{encoding: 'UTF-8'});
 
@@ -32,10 +32,8 @@ const readfiles = (arr) => {
     const words = new Map();
     const wits = [];
 
-    for(const fname of arr) {
-        console.log(`Adding ${fname}`);
+    for(const fname of arr)
         addWords(words,wits,fname);
-    }
     
     const wordgroups = new Map(
         [...order].reverse().map(s => [s,[]])
