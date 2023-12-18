@@ -34,7 +34,6 @@ const readfiles = (arr) => {
 
     for(const fname of arr)
         addWords(words,wits,fname);
-    }
     
     const wordgroups = new Map(
         [...order].reverse().map(s => [s,[]])
