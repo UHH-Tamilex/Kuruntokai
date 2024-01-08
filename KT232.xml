@@ -1,181 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 232. <persName xml:lang="ta">ūṇpittai</persName>: <hi rend="italic">the confidante / SHE</hi></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 232. <persName xml:lang="ta">ūṇpittai</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
-           <msContents>
+          <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
-    
+
       </sourceDesc>
     </fileDesc>
-<revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT232-kilavi">
-          <p type="edition">piriviṭait tōḻi vaṟpuṟuttiyatu.
-            
-          </p>
-          <p type="translation" xml:lang="en">The confidante encouraging in the time of separation.
+      <div xml:id="KT232-kilavi">
+        <p type="edition">piriviṭait tōḻi vaṟpuṟuttiyatu. </p>
+        <p type="translation" xml:lang="en">The confidante encouraging in the time of separation. </p>
+      </div>
 
-          </p>
-          </div>
+      <div xml:id="KT232">
+        <lg type="edition">
+          <l>uḷḷār kollō tōḻi vuḷḷiyum</l>
+          <l>vāyppuṇar viṉmaiyiṉ vārār kollō</l>
+          <l>maraṟpukā varuntiya māverut tiralai</l>
+          <l>yuraṟkāl yāṉai yoṭittuṇ ṭeñciya</l>
+          <l>yāa variniḻaṟ ṟuñcu</l>
+          <l>māyiruñ cōlai malaiyiṟan tōrē.</l>
+        </lg>
 
-        <div xml:id="KT232">
-            <lg type="edition">
-<l>uḷḷār kollō tōḻi vuḷḷiyum</l>
-<l>vāyppuṇar viṉmaiyiṉ vārār kollō</l>
-<l>maraṟpukā varuntiya māverut tiralai</l>
-<l>yuraṟkāl yāṉai yoṭittuṇ ṭeñciya</l>
-<l>yāa variniḻaṟ ṟuñcu</l>
-<l>māyiruñ cōlai malaiyiṟan tōrē.</l>
-            </lg>
-        
-            <lg type="translation" xml:lang="en">
-                
-                <l>Won't he remember, friend? And if he remembers,</l>
-                <l>will he not come, because he doesn't take the opportunity ,</l>
-                <l>he who traversed the mountains with big dark  woods,</l>
-                <l rend="indent2">where the large-necked Iralai,</l>
-                <l rend="indent6">which has eaten  bowstring hemp for [its] food,</l>
-                <l rend="indent2">sleeps in the dappled shade of the Yām tree</l> 
-                <l rend="indent3">broken off, eaten [and] left aside by the mortar-leg elephant?</l>
-                            
-                                                                
-            </lg>
-        </div>
+        <lg type="translation" xml:lang="en">
+
+          <l>Won't he remember, friend? And if he remembers,</l>
+          <l>will he not come, because he doesn't take the opportunity <note place="foot">Or:
+            "because he does not observe an opportunity", that is, in one case the blame is HIS, in
+            the other bad luck. Moreover it is possible to split the text differently: <term
+                xml:lang="ta">vāy-puṇarvu</term> ("... he won't come, with the result that the union
+            of mouths does not come to pass").</note> ,</l>
+          <l>he who traversed the mountains with big dark <note place="foot"><term xml:lang="ta">mā </term>
+            and <term xml:lang="ta">irum </term> both are adjectives meaning "big" as well as
+            "black/dark". So the combination of them might be an intensifying(?) synonym compound
+            ("huge"/"pitch-dark") or a combination or both together, which latter is actually what
+            is conveyed by the "big dark woods" of the translation. T.V.G. explains this as a
+            special combination (with a special sandhi: <term xml:lang="ta">māyirum</term> instead
+            of the regular <term xml:lang="ta"></term> māvirum) meaning "big [and] dark".</note>
+            woods,</l>
+          <l rend="indent2">where the large-necked Iralai,</l>
+          <l rend="indent6">which has eaten <note place="foot"><term xml:lang="ta">maral pukā
+            v-aruntiya</term> : this mode of expression seems unusually heavy. Possibly here the
+            sandhi has to be dissolved differently, namely not aruntiya "eaten", but varuntiya
+            "suffered", meaning that the deer have to be content with bowstring hemp, just as the
+            elephant could find nothing to eat but Yām.</note> bowstring hemp for [its] food,</l>
+          <l rend="indent2">sleeps in the dappled shade of the Yām tree <note place="foot">Or: "in
+            the shade of a row of Yām trees".</note>
+          </l>
+          <l rend="indent3">broken off, eaten [and] left aside by the mortar-leg elephant?</l>
+
+
+        </lg>
+      </div>
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT232">
     <interp type="alignment" select="0">5MG14MG8MG5MG13MG31MG25MG3MG24ML24MG2M,164M</interp>
     <entry>
-    <form>uḷḷār-kollō</form>
-    <def>remember-not-he</def>
-    <form type="simple">uḷḷār</form>
-    <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <form>uḷḷār-kollō</form>
+      <def>remember-not-he</def>
+      <form type="simple">uḷḷār</form>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
     </entry>
     <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
+      <form>tōḻi</form>
+      <def>friend</def>
     </entry>
     <entry>
-    <form><pc>~</pc>uḷḷi-<pc>~</pc>um</form>
-    <def>remembered</def>
-    <gramGrp type="affix"><form>um</form></gramGrp>
+      <form><pc>~</pc>uḷḷi-<pc>~</pc>um</form>
+      <def>remembered</def>
+      <gramGrp type="affix"><form>um</form></gramGrp>
     </entry>
     <entry>
-    <form>vāypp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>opportunity</def>
+      <form>vāypp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>opportunity</def>
     </entry>
     <entry>
-    <form>uṇarv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>realisation</def>
+      <form>uṇarv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>realisation</def>
     </entry>
     <entry>
-    <form>iṉmaiyiṉ</form>
-    <def>non-existence</def>
-    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <form>iṉmaiyiṉ</form>
+      <def>non-existence</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
     </entry>
     <entry>
-    <form>vārār-kollō</form>
-    <def>come-not-he</def>
-    <form type="simple">vārār</form>
-    <gramGrp type="particle"><form>kollō</form></gramGrp>
+      <form>vārār-kollō</form>
+      <def>come-not-he</def>
+      <form type="simple">vārār</form>
+      <gramGrp type="particle"><form>kollō</form></gramGrp>
     </entry>
     <entry>
-    <form>maral</form>
-    <def>bowstring-hemp</def>
+      <form>maral</form>
+      <def>bowstring-hemp</def>
     </entry>
     <entry>
-    <form>pukā</form>
-    <def>food</def>
+      <form>pukā</form>
+      <def>food</def>
     </entry>
     <entry>
-    <form><pc>~</pc>aruntiya</form>
-    <def>eaten-</def>
+      <form><pc>~</pc>aruntiya</form>
+      <def>eaten-</def>
     </entry>
     <entry>
-    <form>mā</form>
-    <def>big</def>
+      <form>mā</form>
+      <def>big</def>
     </entry>
     <entry>
-    <form><pc>~</pc>erutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>neck</def>
+      <form><pc>~</pc>erutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>neck</def>
     </entry>
     <entry>
-    <form>iralai</form>
-    <def>Iralai(-deer)</def>
+      <form>iralai</form>
+      <def>Iralai(-deer)</def>
     </entry>
     <entry>
-    <form><pc>~</pc>ural</form>
-    <def>mortar</def>
+      <form><pc>~</pc>ural</form>
+      <def>mortar</def>
     </entry>
     <entry>
-    <form>kāl</form>
-    <def>leg</def>
+      <form>kāl</form>
+      <def>leg</def>
     </entry>
     <entry>
-    <form>yāṉai</form>
-    <def>elephant</def>
+      <form>yāṉai</form>
+      <def>elephant</def>
     </entry>
     <entry>
-    <form><pc>~</pc>oṭitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>broken-off</def>
+      <form><pc>~</pc>oṭitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>broken-off</def>
     </entry>
     <entry>
-    <form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>eaten</def>
+      <form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>eaten</def>
     </entry>
     <entry>
-    <form>eñciya</form>
-    <def>left-aside-</def>
+      <form>eñciya</form>
+      <def>left-aside-</def>
     </entry>
     <entry>
-    <form>yāa</form>
-    <def>Yām(-tree)</def>
+      <form>yāa</form>
+      <def>Yām(-tree)</def>
     </entry>
     <entry>
-    <form>vari</form>
-    <def>line</def>
+      <form>vari</form>
+      <def>line</def>
     </entry>
     <entry>
-    <form>niḻal</form>
-    <def>shade</def>
+      <form>niḻal</form>
+      <def>shade</def>
     </entry>
     <entry>
-    <form>tuñcum</form>
-    <def>sleeping-</def>
+      <form>tuñcum</form>
+      <def>sleeping-</def>
     </entry>
     <entry>
-    <form>mā</form>
-    <def>big</def>
+      <form>mā</form>
+      <def>big</def>
     </entry>
     <entry>
-    <form><pc>~</pc>irum</form>
-    <def>dark</def>
+      <form><pc>~</pc>irum</form>
+      <def>dark</def>
     </entry>
     <entry>
-    <form>cōlai</form>
-    <def>wood</def>
+      <form>cōlai</form>
+      <def>wood</def>
     </entry>
     <entry>
-    <form>malai</form>
-    <def>mountain</def>
+      <form>malai</form>
+      <def>mountain</def>
     </entry>
     <entry>
-    <form><pc>~</pc>iṟantōr-ē</form>
-    <def>traversed-he(h.)ē∞</def>
+      <form><pc>~</pc>iṟantōr-ē</form>
+      <def>traversed-he(h.)ē∞</def>
     </entry>
-    </standOff> 
+  </standOff>
 </TEI>
