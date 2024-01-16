@@ -1,130 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title><title xml:lang="ta">Kuṟuntokai</title></title>
-            
-         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor>
-         <editor><persName>Leo Nelson-Jones</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
-         <publicationStmt>
-            <publisher>TST Project</publisher>
-            <date>2023</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>
-                     <orgName>Archive.org</orgName>
-                  </repository>
-                  <idno type="shelfmark">ark:/13960/s2w5kxstkx3</idno>
-                  <idno type="alternate"/>
-               <idno type="URI">https://archive.org/details/02kuruntokai-tsr-iyengar-1915-firstprinting</idno></msIdentifier>
-               <msContents class="#STM">
-                  <summary>The 1915 editio princeps of <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName>.</summary>
-                  
-               <msItem xml:id="EA" defective="false"><title xml:lang="ta">Kuṟuntokai 400</title><textLang mainLang="tam"/></msItem></msContents>
-               <physDesc>
-                  
-                  
-                  
-                  
-                  
-               <objectDesc form="codex" rend="manuscript">
-                     <supportDesc material="paper">
-                        
-                        
-                        
-                        
-                        
-                     <support>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Kuṟuntokai</title>
+        </title>
+        <editor>
+          <persName>Charles Li</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+        <editor>
+          <persName>Leo Nelson-Jones</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TST Project</publisher>
+        <date>2023</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>Archive.org</orgName>
+            </repository>
+            <idno type="shelfmark">ark:/13960/s2w5kxstkx3</idno>
+            <idno type="alternate"/>
+            <idno type="URI">https://archive.org/details/02kuruntokai-tsr-iyengar-1915-firstprinting</idno>
+          </msIdentifier>
+          <msContents class="#STM">
+            <summary>The 1915 editio princeps of <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName>.</summary>
+            <msItem xml:id="EA" defective="false">
+              <title xml:lang="ta">Kuṟuntokai 400</title>
+              <textLang mainLang="tam"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex" rend="manuscript">
+              <supportDesc material="paper">
+                <support>
                            
-                        </support><extent>
-                           <measure unit="page" quantity="316"/>
-                           <dimensions type="object" unit="mm">
+                        </support>
+                <extent>
+                  <measure unit="page" quantity="316"/>
+                  <dimensions type="object" unit="mm">
                               
                               
                            </dimensions>
-                           <dimensions type="leaf" unit="mm">
+                  <dimensions type="leaf" unit="mm">
                               
                               
                            </dimensions>
-                           <dimensions type="written" unit="mm">
+                  <dimensions type="written" unit="mm">
                               
                               
                            </dimensions>
-                        </extent></supportDesc>
-                     <layoutDesc>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
                         
                      </layoutDesc>
-                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/></typeDesc><additions>
-                  </additions><bindingDesc>
-                     <binding>
-                        
-                        <decoNote type="stringhole">
-                           <measure unit="stringhole"/>
-                        </decoNote>
-                    </binding>
-                  </bindingDesc></physDesc>
-               <history>
-                  
-                  
-                  
-               <origin>
-                     <origDate calendar="gregorian"/>
-                     
-                  </origin></history>
-               <additional>
-                  <listBibl>
+            </objectDesc>
+            <handDesc/>
+            <typeDesc>
+              <typeNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/>
+            </typeDesc>
+            <additions>
+                  </additions>
+            <bindingDesc>
+              <binding>
+                <decoNote type="stringhole">
+                  <measure unit="stringhole"/>
+                </decoNote>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="gregorian"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
                      
                   </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
-      
-   <revisionDesc/></teiHeader>
-   <facsimile>
-   <graphic url="https://iiif.archivelab.org/iiif/02kuruntokai-tsr-iyengar-1915-firstprinting/manifest.json" facs="358"/></facsimile>
-<text corresp="#EA" xml:lang="ta"><body>
-   <milestone n="258" unit="page" facs="312"/>
-   <p xml:id="KT320-kiḷavi"> <lb n="7"/>[itu, alar añci āṟṟāḷ ākiya talaimakaḷ talaivaṉ kēṭpāṉ ākat<lb n="8"/> tōḻikkuk kūṟiyatu.]
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Madras lexicon transliteration.</p>
+    </encodingDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <facsimile>
+    <graphic url="https://iiif.archive.org/iiif/02kuruntokai-tsr-iyengar-1915-firstprinting/manifest.json" facs="358"/>
+  </facsimile>
+  <text corresp="#EA" xml:lang="ta">
+    <body>
+      <milestone n="225" facs="279" unit="page"/>
+      <p id="KT269-kilavi"><lb n="10"/>[itu, talaimakaṉ ciṟaippuṟattāṉākat talaimakaḷ tōḻikkuc <lb n="11"/>colluvāḷāyc colliyatu.] <lb n="12"/>[kallāṭaṉār pāṭiyatu.]</p>
+      <lg xml:id="KT269">
+        <l><lb n="13"/>269. cēyāṟu ceṉṟu tuṉaiyari yacāvā</l>
+        <l><lb n="14"/>tucāvunarp peṟiṉē naṉṟumaṟ ṟilla</l>
+        <l><lb n="15"/>vayaccuṟā veṟinta puṇṭaṇin tentaiyu</l>
+        <l><lb n="16"/>nīṉiṟap peruṅkaṭal pukkaṉaṉ yāyu</l>
+        <l><lb n="17"/>muppai māṟi veṇṇeṟ ṟarīiya</l>
+        <l><lb n="18"/>vuppuviḷai kaḻaṉic ceṉṟaṉa ḷataṉāṟ</l>
+        <l><lb n="19"/>paṉiyirum parappiṟ cērppaṟ</l>
+        <l><lb n="20"/>kiṉivari ṉeḷiya ḷeṉṉun tūtē.</l>
+      </lg>
+      <milestone n="258" unit="page" facs="312"/>
+      <p xml:id="KT320-kiḷavi"><lb n="7"/>[itu, alar añci āṟṟāḷ ākiya talaimakaḷ talaivaṉ kēṭpāṉ ākat<lb n="8"/> tōḻikkuk kūṟiyatu.]
    <lb n="9"/>[tumpīmōci kīraṉ pāṭiyatu]</p>
-   <lg xml:id="KT320">
-   <l><lb n="10"/>320. peruṅkaṭaṟ paratavar koṇmī ṉuṇaṅkali</l>
-   <l><lb n="11"/>ṉaruṅkaḻi koṇṭa viṟaviṉ vāṭaloṭu</l>
-   <l><lb n="12"/>nilavuniṟa veṇmaṇal pullap palavuṭa</l>
-   <l><lb n="13"/>ṉekkartoṟum parikkun tuṟaivaṉō ṭorunā</l>
-   <l><lb n="14"/>ṇakkatōr paḻiyu milamē pōtaviḻ</l>
-   <l><lb n="15"/>poṉṉiṇar marīiya puḷḷimiḻ poṅkarp</l>
-   <l><lb n="16"/>puṉṉaiyañ cēri yivvūr</l>
-   <l><lb n="17"/>koṉṉalar tūṟṟuṅ koṭumai yāṉē.</l></lg>
-
-  <milestone n="306" unit="page" facs="358"/>
-  <head><lb n="13"/>mullai.</head>
-   <p xml:id="KT400-kilavi">
-    <lb n="14"/>[itu, viṉaimuṟṟivanta talaimakaṉ tērppākaṉait talaiyaḷittatu.]
+      <lg xml:id="KT320">
+        <l><lb n="10"/>320. peruṅkaṭaṟ paratavar koṇmī ṉuṇaṅkali</l>
+        <l><lb n="11"/>ṉaruṅkaḻi koṇṭa viṟaviṉ vāṭaloṭu</l>
+        <l><lb n="12"/>nilavuniṟa veṇmaṇal pullap palavuṭa</l>
+        <l><lb n="13"/>ṉekkartoṟum parikkun tuṟaivaṉō ṭorunā</l>
+        <l><lb n="14"/>ṇakkatōr paḻiyu milamē pōtaviḻ</l>
+        <l><lb n="15"/>poṉṉiṇar marīiya puḷḷimiḻ poṅkarp</l>
+        <l><lb n="16"/>puṉṉaiyañ cēri yivvūr</l>
+        <l><lb n="17"/>koṉṉalar tūṟṟuṅ koṭumai yāṉē.</l>
+      </lg>
+      <milestone n="306" unit="page" facs="358"/>
+      <head><lb n="13"/>mullai.</head>
+      <p xml:id="KT400-kilavi"><lb n="14"/>[itu, viṉaimuṟṟivanta talaimakaṉ tērppākaṉait talaiyaḷittatu.]
     <lb n="15"/>[pēyaṉār pāṭiyatu.]
   </p>
-  <lg xml:id="KT400">
-    <l><lb n="16"/>400. cēyāṟu cellā māyi ṉiṭariṉṟu</l>
-    <l><lb n="17"/>kaṉaiik kāmam peruntōṭ keṉṟu</l>
-    <l><lb n="18"/>naṉṟupurin teṇṇiya maṉattai yāki</l>
-    <l><lb n="19"/>murampukaṇ ṇuṭaiya vēkik kaḷarik</l>
-    <l><lb n="20"/>karampaip putuvaḻip paṭutta matiyuṭai</l>
-    <l><lb n="21"/>valavō, yiṉṟu tantaṉai tērēr</l>
-    <l><lb n="22"/>nōyuḻan tuṟaiviyai nalka lāṉē.</l>
-  </lg>
-  <p>
-    <lb n="23"/>(i-ḷ.):― cēymaiyuḷḷa vaḻiyaik kaṭantu cellōmāṉāl, <lb n="24"/>periya tōḷkaḷaiyuṭaiyāḷukkuk kāmam mikuntu (ataṉāl,) tuṉ<lb n="25"/>pam (uṇṭākum) eṉṟu, peritum virumpi niṉaitta maṉattiṉai <lb n="26"/>yāy, murampiṭam· uṭaiyumpaṭi ceṉṟu kaḷarayuṭaiya pāḻnilaṅ<lb n="27"/>kaḷiṟ putuvaḻiyai uṇṭākkiya aṟivuḷḷa pāka ! iṉṟu tēraik <lb n="28"/>koṇarntaṉai ; (ataṉāl,) aḻakiya nōvāl varuntittaṅkumavaḷai <lb n="29"/>yāṉ talaiyaḷittalāṉ, (avaṭku iṭar) ilatāyiṟṟu. — (e - ṟu.)
+      <lg xml:id="KT400">
+        <l><lb n="16"/>400. cēyāṟu cellā māyi ṉiṭariṉṟu</l>
+        <l><lb n="17"/>kaṉaiik kāmam peruntōṭ keṉṟu</l>
+        <l><lb n="18"/>naṉṟupurin teṇṇiya maṉattai yāki</l>
+        <l><lb n="19"/>murampukaṇ ṇuṭaiya vēkik kaḷarik</l>
+        <l><lb n="20"/>karampaip putuvaḻip paṭutta matiyuṭai</l>
+        <l><lb n="21"/>valavō, yiṉṟu tantaṉai tērēr</l>
+        <l><lb n="22"/>nōyuḻan tuṟaiviyai nalka lāṉē.</l>
+      </lg>
+      <p><lb n="23"/>(i-ḷ.):― cēymaiyuḷḷa vaḻiyaik kaṭantu cellōmāṉāl, <lb n="24"/>periya tōḷkaḷaiyuṭaiyāḷukkuk kāmam mikuntu (ataṉāl,) tuṉ<lb n="25"/>pam (uṇṭākum) eṉṟu, peritum virumpi niṉaitta maṉattiṉai <lb n="26"/>yāy, murampiṭam· uṭaiyumpaṭi ceṉṟu kaḷarayuṭaiya pāḻnilaṅ<lb n="27"/>kaḷiṟ putuvaḻiyai uṇṭākkiya aṟivuḷḷa pāka ! iṉṟu tēraik <lb n="28"/>koṇarntaṉai ; (ataṉāl,) aḻakiya nōvāl varuntittaṅkumavaḷai <lb n="29"/>yāṉ talaiyaḷittalāṉ, (avaṭku iṭar) ilatāyiṟṟu. — (e - ṟu.)
   </p>
-  <p>
-    <pb n="307" facs="359"/>
-    <lb n="1"/>murampu - kallirali uyarntirukkum nilam. karampai – pāḻ<lb n="2"/>nilam. viṉaiyāḷaṉai vēlaiyiṟutiyiṟ pukaḻtaṉ marapātaliṉ, ‘mati<lb n="3"/>yuṭai......tēr’ eṉṟuṉ. iṭar - mīṇṭuṅkoḷḷappaṭṭatu.
+      <p><pb n="307" facs="359"/><lb n="1"/>murampu - kallirali uyarntirukkum nilam. karampai – pāḻ<lb n="2"/>nilam. viṉaiyāḷaṉai vēlaiyiṟutiyiṟ pukaḻtaṉ marapātaliṉ, ‘mati<lb n="3"/>yuṭai......tēr’ eṉṟuṉ. iṭar - mīṇṭuṅkoḷḷappaṭṭatu.
   </p>
-  <p>
-    <lb n="4"/>meyppāṭu ― perumitam. payaṉ ― pākaṉait talaiyaḷittal.
+      <p><lb n="4"/>meyppāṭu ― perumitam. payaṉ ― pākaṉait talaiyaḷittal.
   </p>
-</body></text></TEI>
+    </body>
+  </text>
+</TEI>

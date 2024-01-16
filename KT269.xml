@@ -22,7 +22,7 @@
     </fileDesc>
     <revisionDesc />
   </teiHeader>
-  <text xml:lang="ta" type="edition">
+  <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
       <div xml:id="KT269-kilavi">
         <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat talaimakaḷ tōḻikkuc colluvāḷāyc colliyatu. </p>
@@ -242,5 +242,81 @@
 <form type="simple">tūtu</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
+</standOff>
+<standOff type="apparatus" corresp="#KT269">
+<listApp>
+<app corresp="11,20">
+  <lem wit="#C2pc #Cam #SS">tuṉaipari</lem>
+  <rdg wit="#G1 #G2 #C3ac">tuṇaiyari</rdg>
+  <rdg wit="#C2ac #C3pc">tuṇaiva ra</rdg>
+  <rdg wit="#C1 #EA">tuṉaiyari</rdg>
+  <rdg wit="#Cam-pāṭam">tuṇaipari</rdg>
+</app>
+<app corresp="20,26">
+  <lem wit="#G1 #G2 #C3ac #C1 #EA #C2pc #Cam #SS">yacāvā</lem>
+  <rdg wit="#C2ac #C3pc">cāvā</rdg>
+</app>
+<app corresp="71,79">
+  <lem wit="#G1 #G2 #C3 #C2 #EA #Cam #SS">puṇṭaṇin</lem>
+  <rdg wit="#C1">puṇṭaṇi</rdg>
+</app>
+<app corresp="79,87">
+  <lem wit="#G1 #G2 #C3 #C2 #EA">tentaiyu</lem>
+  <rdg wit="#C1">tentai</rdg>
+  <rdg wit="#Cam #SS">tentaiyum</rdg>
+</app>
+<app corresp="87,94">
+  <lem wit="#G1pc #G2 #C3 #C2 #C1 #EA #Cam #SS">nīṉiṟap</lem>
+  <rdg wit="#G1ac">nīniṟap</rdg>
+</app>
+<app corresp="126,132">
+  <lem wit="#G1 #G2 #C3 #C2 #C1 #EA #Cam">veṇṇeṟ</lem>
+  <rdg wit="#SS">veṇṇel</rdg>
+</app>
+<app corresp="132,139">
+  <lem wit="#G1 #G2 #C3 #C2 #C1 #EA #Cam">ṟarīiya</lem>
+  <rdg wit="#SS">tarīiya</rdg>
+</app>
+<app corresp="149,156">
+  <lem wit="#C1pc #EA #C2pc #Cam #SS">kaḻaṉic</lem>
+  <rdg wit="#G1 #G2 #C3 #C2ac #Cam-pāṭam">kaḻaṉi</rdg>
+  <rdg wit="#C1ac">kaṉiḻaṉic</rdg>
+</app>
+<app corresp="163,170">
+  <lem wit="#G1 #G2 #C2 #C3pc #C1 #EA #Cam">ḷataṉāṟ</lem>
+  <rdg wit="#C3ac">ḷatāṉāṟ</rdg>
+  <rdg wit="#SS">ḷ ataṉāl</rdg>
+</app>
+<listWit xmlns="http://www.tei-c.org/ns/1.0"><witness xml:id="Ed" source="KT269.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> 269. <persName xml:lang="ta">Kallāṭaṉār</persName>
+          : <hi rend="italic">SHE</hi></expan></witness><witness xml:id="C1" source="C1_UVSL_1076.xml"><abbr type="siglum">C1</abbr><expan>
+               <title xml:lang="ta">Eṭṭuttokai</title>
+            </expan><witness xml:id="C1ac" type="ac"><abbr type="siglum">C1ac</abbr><expan>
+               <title xml:lang="ta">Eṭṭuttokai</title>
+             [ante correctionem]</expan></witness><witness xml:id="C1pc" type="pc"><abbr type="siglum">C1pc</abbr><expan>
+               <title xml:lang="ta">Eṭṭuttokai</title>
+             [post correctionem]</expan></witness></witness><witness xml:id="C2" source="C2_UVSL_183.xml"><abbr type="siglum">C2</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+            </expan><witness xml:id="C2ac" type="ac"><abbr type="siglum">C2ac</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [ante correctionem]</expan></witness><witness xml:id="C2pc" type="pc"><abbr type="siglum">C2pc</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [post correctionem]</expan></witness><witness xml:id="C2-green"><abbr type="siglum">C2-green</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [witness green]</expan></witness><witness xml:id="C2-pencil"><abbr type="siglum">C2-pencil</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [witness pencil]</expan></witness><witness xml:id="C2-black"><abbr type="siglum">C2-black</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [witness black]</expan></witness><witness xml:id="C2-p"><abbr type="siglum">C2-p</abbr><expan>
+               <title xml:lang="ta">Kuṟuntokai</title>
+             [witness p]</expan></witness></witness><witness xml:id="C3" source="C3_UVSL_184.xml"><abbr type="siglum">C3</abbr><expan><title xml:lang="ta">Kuṟuntokai</title></expan><witness xml:id="C3ac" type="ac"><abbr type="siglum">C3ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [ante correctionem]</expan></witness><witness xml:id="C3pc" type="pc"><abbr type="siglum">C3pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [post correctionem]</expan></witness></witness><witness xml:id="Cam" source="Cam.xml"><abbr type="siglum">Cam</abbr><expan>
+          <title xml:lang="ta">Kuṟuntokai</title>
+        </expan><witness xml:id="Cam-pāṭam"><abbr type="siglum">Cam-pāṭam</abbr><expan>
+          <title xml:lang="ta">Kuṟuntokai</title>
+         [witness pāṭam]</expan></witness><witness xml:id="Cam-p"><abbr type="siglum">Cam-p</abbr><expan>
+          <title xml:lang="ta">Kuṟuntokai</title>
+         [witness p]</expan></witness></witness><witness xml:id="EA" source="EA.xml"><abbr type="siglum">EA</abbr><expan>
+          <title xml:lang="ta">Kuṟuntokai</title>
+        </expan></witness><witness xml:id="G1" source="G1_GOML_TD65.xml"><abbr type="siglum">G1</abbr><expan><title xml:lang="ta">Kuṟuntokai</title></expan><witness xml:id="G1ac" type="ac"><abbr type="siglum">G1ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [ante correctionem]</expan></witness><witness xml:id="G1pc" type="pc"><abbr type="siglum">G1pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [post correctionem]</expan></witness></witness><witness xml:id="G2" source="G2_GOML_TR1072.xml"><abbr type="siglum">G2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title></expan><witness xml:id="G2ac" type="ac"><abbr type="siglum">G2ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [ante correctionem]</expan></witness><witness xml:id="G2pc" type="pc"><abbr type="siglum">G2pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [post correctionem]</expan></witness></witness><witness xml:id="SS" source="SS.xml"><abbr type="siglum">SS</abbr><expan><title xml:lang="ta">Kuṟuntokai</title></expan></witness></listWit>
+</listApp>
 </standOff>
 </TEI>
