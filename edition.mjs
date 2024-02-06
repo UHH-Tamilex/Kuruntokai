@@ -256,6 +256,7 @@ const makeWord = (entry) => {
         noteel.dataset.anno = '';
         noteel.append('†');
         const annoel = document.createElement('span');
+        annoel.lang = note.lang;
         annoel.className = 'anno-inline';
         annoel.innerHTML = note.innerHTML;
         noteel.appendChild(annoel);

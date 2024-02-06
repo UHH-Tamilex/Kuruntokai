@@ -335,6 +335,21 @@
     </xsl:element>
 </xsl:template>
 
+<xsl:template match="x:entry/x:note">
+    <xsl:element name="span">
+        <xsl:attribute name="class">note</xsl:attribute>
+        <xsl:attribute name="lang">
+            <xsl:choose>
+                <xsl:when test="@xml:lang">
+                    <xsl:value-of select="@xml:lang"/>
+                </xsl:when>
+                <xsl:otherwise><xsl:text>en</xsl:text></xsl:otherwise>
+            </xsl:choose>
+        </xsl:attribute>
+        <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
+
 <xsl:template match="x:superEntry">
     <xsl:element name="div">
         <xsl:attribute name="class">
