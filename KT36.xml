@@ -57,8 +57,8 @@
         </div>
     </body>
   </text>
-    <standOff type="wordsplit" corresp="#KT36">
-<interp type="alignment" select="0">36MG11MR5ML48M2G28MG8MG7MG2M,152MG</interp>
+<standOff type="wordsplit" corresp="#KT36">
+<interp type="alignment" select="0">36MG11MR5ML48M2G28MG15MG2M,151MG</interp>
 <entry>
 <form>tuṟu</form>
 <def>thick</def>
@@ -114,8 +114,8 @@
 <entry>
 <form>āka</form>
 <def>become</def>
-<gramGrp><gram type="role">infinitive</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>nīyaleṉ</form>
 <def>I-don't-leave</def>
@@ -173,11 +173,24 @@
 <def>friend</def>
 </entry>
 <entry>
-<form>niṉ-vayiṉāṉ-ē</form>
-<def>your-side/I</def>
-<form type="simple">niṉ-vayiṉāṉ</form>
+<form>niṉ</form>
+<def>your</def>
+</entry>
+<superEntry type="ambiguous">
+<entry>
+<form>vayiṉāṉ-ē</form>
+<def>side</def>
+<form type="simple">vayiṉāṉ</form>
+<gramGrp><gram type="role">locative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vayiṉāṉ-ē</form>
+<def>side-I</def>
+<form type="simple">vayiṉāṉ</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 <note><term xml:lang="ta">niṉvayiṉāṉ</term>: it seems possible that <term xml:lang="ta">vayiṉ</term> here is to be understood as semantically stronger than a mere locative suffix. Then for the locative there would still be the suffix <term xml:lang="ta">-āṉ</term>, generally understood as an expletive, especially frequent at the end of a poem.</note>
 </entry>
+</superEntry>
 </standOff>
 </TEI>

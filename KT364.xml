@@ -67,7 +67,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT364">
-<interp type="alignment" select="0">27MR3MG83MG39MG29M2G19MG15MG2M,224MG</interp>
+<interp type="alignment" select="0">27MR3MG74MG9MG39MG29M2G19MG15MG2M,225MG</interp>
 <entry>
 <form>aril</form>
 <def>thicket</def>
@@ -79,7 +79,7 @@
 <entry>
 <form>pirampiṉ</form>
 <def>reed</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
 </entry>
 <entry>
 <form>vari<pc>+</pc></form>
@@ -96,7 +96,7 @@
 <entry>
 <form>vāḷai</form>
 <def>Vāḷai(-fish)</def>
-</entry>
+<gramGrp></gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -132,8 +132,8 @@
 <entry>
 <form>taṉ</form>
 <def>self-</def>
-<gramGrp><gram type="role">oblique</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>keḻu</form>
 <def>have-</def>
@@ -141,29 +141,33 @@
 <entry>
 <form>takuvi</form>
 <def>fitting-she</def>
-<gramGrp><gram type="role">feminine</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">feminine</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉ</form>
-<def>my-back</def>
+<def>my-</def>
 </entry>
 <entry>
 <form>puṟam</form>
-<def>talking-</def>
+<def>back</def>
 </entry>
 <entry>
 <form>kūṟum</form>
-<def>they-say</def>
+<def>talking-</def>
 </entry>
 <entry>
 <form>eṉpa</form>
-<def>clear-it</def>
+<def>they-say</def>
 </entry>
 <entry>
-<form>teṟṟeṉa</form>
-<def>say</def>
-<gramGrp><gram type="role">infinitive</gram></gramGrp>
+<form>teṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>clear</def>
 </entry>
+<entry>
+<form>eṉa</form>
+<def>they-say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bow-</def>
@@ -195,7 +199,7 @@
 <entry>
 <form>tuṇaṅkai</form>
 <def>Tuṇaṅkai(-dance)</def>
-</entry>
+<gramGrp></gramGrp></entry>
 <entry>
 <form>nāḷ-um</form>
 <def>day</def>
@@ -205,8 +209,8 @@
 <entry>
 <form>vantaṉa</form>
 <def>they-came</def>
-<gramGrp><gram type="role">neuter plural</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>a<pc>+</pc></form>
 <def>that-</def>
@@ -218,25 +222,24 @@
 <entry>
 <form>kaṇ</form>
 <def>eye</def>
-<gramGrp type="affix"><m>kaṇ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
 </entry>
 <entry>
 <form>pora</form>
 <def>strike</def>
-<gramGrp><gram type="role">infinitive</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ataṉ</form>
-<def>that</def>
+<def>maṟṟuthat</def>
 <form type="simple">ataṉ</form>
-<gramGrp><gram type="role">oblique</gram></gramGrp>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>kaḷvar</form>
 <def>robber</def>
-<gramGrp><gram type="role">honorific</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇ</form>
 <def>earth</def>
@@ -244,8 +247,8 @@
 <entry>
 <form>koḷaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>taking</def>
-<gramGrp><gram type="role">dative</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
 <entry>
 <form>ivarum</form>
 <def>climbing-</def>
@@ -253,8 +256,8 @@
 <entry>
 <form>maṉṉar</form>
 <def>king</def>
-<gramGrp><gram type="role">honorific</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
 <entry>
 <form>pōr-ē</form>
 <def>battle</def>

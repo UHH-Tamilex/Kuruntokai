@@ -68,7 +68,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT218">
-<interp type="alignment" select="0">42MG22MG14MG2MR11MG10M2G12MG22MG22MG11MG3MG19M2G2M,205MG</interp>
+<interp type="alignment" select="0">42MG22MG14MG2MR11MG10M2G12MG22MG33MG3MG19M2G2M,204MG</interp>
 <entry>
 <form>viṭar</form>
 <def>cleft</def>
@@ -199,9 +199,14 @@
 <def>become-still-not</def>
 </entry>
 <entry>
-<form>nam-vayiṉ</form>
-<def>us-at</def>
+<form>nam</form>
+<def>us</def>
 </entry>
+<entry>
+<form>vayiṉ</form>
+<def>at</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>forgotten</def>
@@ -221,8 +226,10 @@
 </gramGrp></entry>
 <entry>
 <form>māṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>on</def>
+<def>at</def>
 <form type="simple">māṭṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
-</standOff></TEI>
+</standOff>
+</TEI>

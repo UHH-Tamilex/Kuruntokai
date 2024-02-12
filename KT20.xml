@@ -45,81 +45,91 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT20">
-    <interp type="alignment" select="0">4MG5M2GMR23MG58MG2M,99M</interp>
-    <entry>
-    <form>aruḷ-um</form>
-    <def>consideration</def>
-    <gramGrp type="affix"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <def>love</def>
-    <gramGrp type="affix"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nīkki<pc>+</pc></form>
-    <def>rejected</def>
-    </entry>
-    <entry>
-    <form>tuṇai</form>
-    <def>companion</def>
-    </entry>
-    <entry>
-    <form>tuṟantu</form>
-    <def>abandoned</def>
-    </entry>
-    <entry>
-    <form>poruḷ-vayiṉ</form>
-    <def>wealth for</def>
-    </entry>
-    <entry>
-    <form>pirivōr</form>
-    <def>separate he</def>
-    <gram type="role">honorific<note place="foot">How to understand the syntax of <term xml:lang="ta">pirivōr uravōr</term>? Cf. KT 22.2 <term xml:lang="ta">piri kiṟpavaṟ</term>.</note></gram>
-    </entry>
-    <entry>
-    <form>uravōr</form>
-    <def>strength he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>āyiṉ</form>
-    <def>if</def>
-    </entry>
-    <entry>
-    <form>uravōr</form>
-    <def>strength he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>uravōr</form>
-    <def>strength he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>āka</form>
-    <def>become</def>
-    <gram type="role">optative<note place="foot"><term xml:lang="ta">āka</term>: the "normal" optative of <term xml:lang="ta">ā</term> would be <term xml:lang="ta">ākuka</term> (cf. KT 91.4,8, 137.4). Here, however, it seems necessary to read <term xml:lang="ta">ā-ka</term>, optative of the short stem. Moreover – is <term xml:lang="ta">āku</term> here semantically strong in the sense of a change in condition (= "become) or is it simply used as a predicative ("may ... be")?</note></gram>
-    </entry>
-    <entry>
-    <form>maṭavam</form>
-    <def>ignorance we</def>
-    </entry>
-    <entry>
-    <form>āka</form>
-    <def>become</def>
-    <gram type="role">optative</gram>
-    </entry>
-    <entry>
-    <form>maṭantai</form>
-    <def>girl</def>
-    </entry>
-    <entry>
-    <form>nām-ē</form>
-    <def>we</def>
-    <form type="simple">nām</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+<standOff type="wordsplit" corresp="#KT20">
+<interp type="alignment" select="0">4MG5M2GMR81MG2M,97MG</interp>
+<entry>
+<form>aruḷ-um</form>
+<def>consideration</def>
+<form type="simple">aruḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>love</def>
+<form type="simple">aṉpu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nīkki<pc>+</pc></form>
+<def>rejected</def>
+</entry>
+<entry>
+<form>tuṇai</form>
+<def>companion</def>
+</entry>
+<entry>
+<form>tuṟantu</form>
+<def>abandoned</def>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>for</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>pirivōr</form>
+<def>separate-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>uravōr</form>
+<def>strength-he</def>
+<gramGrp><gram type="role">honorific</gram>
+<note>How to understand the syntax of <term xml:lang="ta">pirivōr uravōr</term>? Cf. KT 22.2 <term xml:lang="ta">piri kiṟpavaṟ</term>.</note>
+</gramGrp></entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>uravōr</form>
+<def>strength-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>uravōr</form>
+<def>strength-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp>
+<note><term xml:lang="ta">āka</term>: the "normal" optative of <term xml:lang="ta">ā</term> would be <term xml:lang="ta">ākuka</term> (cf. KT 91.4,8, 137.4). Here, however, it seems necessary to read <term xml:lang="ta">ā-ka</term>, optative of the short stem. Moreover – is <term xml:lang="ta">āku</term> here semantically strong in the sense of a change in condition (= "become) or is it simply used as a predicative ("may ... be")?</note>
+</entry>
+<entry>
+<form>maṭavam</form>
+<def>ignorance-we</def>
+</entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>maṭantai</form>
+<def>girl</def>
+</entry>
+<entry>
+<form>nām-ē</form>
+<def>we</def>
+<form type="simple">nām</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>
