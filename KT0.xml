@@ -59,8 +59,8 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT0">
-<interp type="alignment" select="0">35MG30ML14ML53MG18M2G2M,157MG</interp>
+
+<standOff type="wordsplit" corresp="#KT0"><interp type="alignment" select="0">35MG30ML14ML53MG12M2G6M2G2M,159MG</interp>
 <entry>
 <form>tāmarai</form>
 <def>lotus</def>
@@ -72,7 +72,7 @@
 <entry>
 <form>kāmar</form>
 <def>beauty(?)</def>
-</entry>
+<gramGrp></gramGrp></entry>
 <entry>
 <form>cē</form>
 <def>red</def>
@@ -104,7 +104,7 @@
 <entry>
 <form>kuṉṟi</form>
 <def>Kuṉṟi(-seed)</def>
-</entry>
+<gramGrp></gramGrp></entry>
 <entry>
 <form><pc>~</pc>ēykkum</form>
 <def>resembling-</def>
@@ -116,7 +116,7 @@
 <entry>
 <form>kuṉṟiṉ</form>
 <def>hill</def>
-<gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
 </entry>
 <entry>
 <form>neñcu</form>
@@ -152,24 +152,20 @@
 <gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <superEntry type="ambiguous">
-<entry>
-<entry>
+<entry><entry>
 <form>koṭiyōṉ</form>
 <def>banner-he</def>
-</entry>
-</entry>
-<entry>
-<entry>
-<form>koṭiyōṉ</form>
+</entry></entry>
+<entry><entry>
+<form>koṭiyōn</form>
 <def>cruel-he</def>
-</entry>
-</entry>
+</entry></entry>
 </superEntry>
 <entry>
 <form>kāppa</form>
 <def>protect</def>
-<gramGrp><gram type="role">infinitive</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ēmam</form>
 <def>joy</def>
@@ -179,9 +175,9 @@
 <def>day</def>
 </entry>
 <entry>
-<form>eytiṉṟāl</form>
+<form>eytiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
 <def>it-reached</def>
-<form type="simple">eytiṉṟ</form>
+<form type="simple">eytiṉṟu</form>
 <gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
@@ -189,6 +185,5 @@
 <def>world</def>
 <form type="simple">ulaku</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
