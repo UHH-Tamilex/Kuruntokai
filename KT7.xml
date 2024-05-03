@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
               </persName>
           </person>
       </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -74,65 +74,78 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT7">
-<interp type="alignment" select="0">17MG19MG9M2G10MG12MG13MG38MG21ML7MG2M,157MG</interp>
+<standOff type="wordsplit" corresp="#KT7"><interp type="alignment" select="0">17MG19MG9M2G10MG12MG13MG38MG21MG7MG2M,157MG</interp>
 <entry>
 <form>villōṉ</form>
 <def>bow-he</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>kālaṉa</form>
 <def>leg-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp>
-<note><term xml:lang="ta">kālaṉa</term>: here one pointed example for a denominative usage of the pronominal noun, just as <term xml:lang="ta">mēlavum</term> in line 2 (i.e. literally: "anklets [are] on the legs of the man with the bow").</note>
-</entry>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kālaṉa</term>: here one pointed example for a denominative usage of the pronominal noun, just as <term xml:lang="ta">mēlavum</term> in line 2 (i.e. literally: "anklets [are] on the legs of the man with the bow").</note></entry>
 <entry>
 <form>kaḻal-ē</form>
 <def>anklet</def>
 <form type="simple">kaḻal</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>toṭiyōḷ</form>
 <def>bracelet-she</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>mel</form>
 <def>tender</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>aṭi</form>
 <def>foot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mēla-<pc>~</pc>um</form>
 <def>above-they</def>
 <form type="simple">mēla</form>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>cilamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>tinkling-anklet</def>
 <form type="simple">cilampu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>nallōr</form>
 <def>good-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>yār-kol</form>
 <def>who</def>
 <form type="simple">yār</form>
-<gramGrp type="particle"><m>kol</m></gramGrp>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form>aḷiyar</form>
 <def>love/pity-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>tām-ē</form>
@@ -144,66 +157,86 @@
 <entry>
 <form><pc>~</pc>āriyar</form>
 <def>Āriyar</def>
-</entry>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
 <entry>
 <form>kayiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>rope</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>āṭu</form>
-<def>dance-</def>
-</entry>
+<def>dance</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>paṟaiyiṉ</form>
 <def>drum</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>kāl</form>
 <def>wind</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pora<pc>+</pc></form>
 <def>beat</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>kalaṅki</form>
 <def>stirred-up</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>vākai</form>
 <def>Sirissa</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>nut</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>olikkum</form>
 <def>sounding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>vēy</form>
 <def>bamboo</def>
-</entry>
-<entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>payil</form>
-<def>rustle-/become-dense-</def>
-</entry>
+<def>rustle</def>
+</entry></entry>
+<entry><entry>
+<form>payil</form>
+<def>become-dense</def>
+</entry></entry>
+</superEntry>
 <entry>
 <form>aḻuvam</form>
 <def>depth</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>muṉṉiyōr-ē</form>
 <def>approached-they</def>
 <form type="simple">muṉṉiyōr</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
