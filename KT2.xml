@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -47,88 +47,119 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT2">
-<interp type="alignment" select="0">96MG14ML5MG6MG13MG3M,141MG</interp>
+<standOff type="wordsplit" corresp="#KT2"><interp type="alignment" select="0">96MG14MG5MG6MG13MG3M,141MG</interp>
 <entry>
 <form>koṅku</form>
 <def>pollen</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tēr</form>
-<def>search-</def>
-</entry>
+<def>search</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḻkkai</form>
 <def>livelihood</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>am</form>
 <def>pretty</def>
-<note><term xml:lang="ta">añciṉai</term>: here Cām. understands, instead of the common adjective am "pretty", <term xml:lang="ta">akam ciṉai</term> which he glosses with <term xml:lang="ta">uḷḷiṭattē ciṉai</term> "inner wings", a fine example for the at times surprising deviations from the expected on the part of the tradition. Such a question might be impossible to decide even if there were an ancient commentary; in any case there would be ambiguity. Here, however, it seems possible to argue that with this deviating interpretation nothing is won for the content of the poem.</note>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">añciṉai</term>: here Cām. understands, instead of the common adjective am "pretty", <term xml:lang="ta">akam ciṉai</term> which he glosses with <term xml:lang="ta">uḷḷiṭattē ciṉai</term> "inner wings", a fine example for the at times surprising deviations from the expected on the part of the tradition. Such a question might be impossible to decide even if there were an ancient commentary; in any case there would be ambiguity. Here, however, it seems possible to argue that with this deviating interpretation nothing is won for the content of the poem.</note></entry>
 <entry>
 <form>ciṟai<pc>+</pc></form>
 <def>wing</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tumpi</form>
 <def>bee</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kāmam</form>
 <def>desire</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceppātu</form>
 <def>say-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭatu</form>
 <def>seen-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>moḻimō</form>
 <def>speak</def>
-</entry>
-<entry>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>payiliyatu</form>
-<def>practised-it/hummed-it</def>
-<note>The form <term xml:lang="ta">payiliyatu</term> is singular in Caṅkam literature, but it can be explained as a participial noun n.sg. of a root payil that follows not (as is usually the case) the conjugation of the 3rd class, but that of the 5th. It is not uncommon for Tamil verbs to shift between classes, and a better-attested parallel case is iyal, "to move forward", where we find the absolutive <term xml:lang="ta">iyali</term>, unequivocally 5th class, in three places: KT 264.2, NA 260.3 and NA 362.1.</note>
-</entry>
+<def>practised-it</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>payiliyatu</form>
+<def>hummed-it</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">The form <term xml:lang="ta">payiliyatu</term> is singular in Caṅkam literature, but it can be explained as a participial noun n.sg. of a root payil that follows not (as is usually the case) the conjugation of the 3rd class, but that of the 5th. It is not uncommon for Tamil verbs to shift between classes, and a better-attested parallel case is iyal, "to move forward", where we find the absolutive <term xml:lang="ta">iyali</term>, unequivocally 5th class, in three places: KT 264.2, NA 260.3 and NA 362.1.</note></entry></entry>
+</superEntry>
 <entry>
 <form>keḻīiya</form>
 <def>been-full-</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭpiṉ</form>
 <def>intimacy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>mayil</form>
 <def>peacock</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iyal</form>
 <def>nature</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceṟi</form>
 <def>close-set</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>tooth-</def>
-</entry>
+<def>tooth</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>arivai</form>
 <def>young-woman</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kūntaliṉ</form>
 <def>tresses</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>naṟiya-<pc>~</pc>um</form>
 <def>fragrant-they</def>
@@ -146,16 +177,19 @@
 <entry>
 <form>nī</form>
 <def>you</def>
-</entry>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṟiyum</form>
 <def>knowing-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>pū-<pc>~</pc>ē</form>
 <def>flower</def>
 <form type="simple">pū</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
   </TEI>
