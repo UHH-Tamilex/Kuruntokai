@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -49,114 +49,143 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT18">
-    <interp type="alignment" select="0">28ML25MG11MG35MG24MG7MGM,137M</interp>
-    <entry>
-    <form>vēral</form>
-    <def>bamboo</def>
-    </entry>
-    <entry>
-    <form>vēli</form>
-    <def>fence</def>
-    </entry>
-    <entry>
-    <form>vēr<pc>+</pc></form>
-    <def>root</def>
-    </entry>
-    <entry>
-    <form>kōḷ</form>
-    <def>taking</def>
-    <note><term xml:lang="ta">kōḷ</term>: Cām. glosses <term xml:lang="ta">paḻakulai</term> "bunch of fruit"; cf. KT 198.4, 257.3.</note>
-    </entry>
-    <entry>
-    <form>palaviṉ</form>
-    <def>jackfruit tree</def>
-    <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-    <form>cāral</form>
-    <def>slope</def>
-    </entry>
-    <entry>
-    <form>nāṭa</form>
-    <def>land he</def>
-    <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-    <form>cevviyai</form>
-    <def>season you</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ākumati</form>
-    <def>become</def>
-    <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-    <form>yār</form>
-    <def>who</def>
-    </entry>
-    <entry>
-    <form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>that</def>
-    </entry>
-    <entry>
-    <form>aṟinticiṉōr-ē</form>
-    <def>known he</def>
-    <form type="simple">aṟinticiṉōr</form>
-    <gram type="role">honorific<note place="foot"><term xml:lang="ta">aṟinticiṉōr</term>: this is one of the cases where it is impossible to understand a preterite. Now this is a general question: what is the function of aspects with participial nouns?</note></gram>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>cāral</form>
-    <def>slope</def>
-    </entry>
-    <entry>
-    <form>ciṟu</form>
-    <def>small</def>
-    </entry>
-    <entry>
-    <form>kōṭṭu<pc>+</pc></form>
-    <def>twig-</def>
-    </entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>paḻam</form>
-    <def>fruit</def>
-    </entry>
-    <entry>
-    <form>tūṅkiyāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>hung like</def>
-    </entry>
-    <entry>
-    <form>ivaḷ</form>
-    <def>she</def>
-    </entry>
-    <entry>
-    <form>uyir</form>
-    <def>life</def>
-    </entry>
-    <entry>
-    <form>tava<pc>+</pc></form>
-    <def>very</def>
-    </entry>
-    <entry>
-    <form>ciṟitu</form>
-    <def>small it</def>
-    </entry>
-    <entry>
-    <form>kāmam-ō</form>
-    <def>desire</def>
-    <form type="simple">kāmam</form>
-    <gramGrp type="particle"><form>ō<note place="foot">The -ō in this place is very odd and certainly not to be understood as an interrogative particle. Perhaps it is best understood as belonging to an older layer of function, mostly preserved in formulae (as for example nōkō yāṉē), where –ō seems to have a flavour of lament.</note></form></gramGrp>
-    </entry>
-    <entry>
-    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>big it</def>
-    <form type="simple">peritu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT18"><interp type="alignment" select="0">28ML25MG11MG35MG24MG6M2G2M,137MG</interp>
+<entry>
+<form>vēral</form>
+<def>bamboo</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēli</form>
+<def>fence</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēr<pc>+</pc></form>
+<def>root</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōḷ</form>
+<def>taking</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kōḷ</term>: Cām. glosses <term xml:lang="ta">paḻakulai</term> "bunch of fruit"; cf. KT 198.4, 257.3.</note></entry>
+<entry>
+<form>palaviṉ</form>
+<def>jackfruit tree</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>cevviyai</form>
+<def>season-you</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ākumati</form>
+<def>become</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>yār</form>
+<def>who</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>that</def>
+</entry>
+<entry>
+<form>aṟinticiṉōr-ē</form>
+<def>known-he</def>
+<form type="simple">aṟinticiṉōr</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">aṟinticiṉōr</term>: this is one of the cases where it is impossible to understand a preterite. Now this is a general question: what is the function of aspects with participial nouns?</note></entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kōṭṭu<pc>+</pc></form>
+<def>twig</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paḻam</form>
+<def>fruit</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tūṅkiyāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hung</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ivaḷ</form>
+<def>this-one</def>
+<gramGrp><gram type="role">feminine</gram>
+</gramGrp></entry>
+<entry>
+<form>uyir</form>
+<def>life</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tava<pc>+</pc></form>
+<def>very</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟitu</form>
+<def>small-it</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmam-ō</form>
+<def>desire</def>
+<form type="simple">kāmam</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The -ō in this place is very odd and certainly not to be understood as an interrogative particle. Perhaps it is best understood as belonging to an older layer of function, mostly preserved in formulae (as for example nōkō yāṉē), where –ō seems to have a flavour of lament.</note></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
