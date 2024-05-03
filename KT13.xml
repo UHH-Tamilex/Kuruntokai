@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -48,114 +48,141 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT13">
-    <interp type="alignment" select="0">3MG74MR5ML10MG33MG3M,133M</interp>
-    <entry>
-    <form>māc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>dust</def>
-    </entry>
-    <entry>
-    <form>aṟa<pc>+</pc></form>
-    <def>subside</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>kaḻīiya</form>
-    <def>washed-</def>
-    </entry>
-    <entry>
-    <form>yāṉai</form>
-    <def>elephant</def>
-    </entry>
-    <entry>
-    <form>pōla<pc>+</pc></form>
-    <def>be similar</def>
-    </entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>peyal</form>
-    <def>raining</def>
-    </entry>
-    <entry>
-    <form>uḻanta</form>
-    <def>borne-</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>irum</form>
-    <def>big/dark</def>
-    </entry>
-    <entry>
-    <form>piṇar<pc>+</pc></form>
-    <def>roughness</def>
-    </entry>
-    <entry>
-    <form>tuṟu</form>
-    <def>thick</def>
-    </entry>
-    <entry>
-    <form>kal</form>
-    <def>stone</def>
-    </entry>
-    <entry>
-    <form>paital</form>
-    <def>coldness</def>
-    <note><term xml:lang="ta">paital</term> is not without problems semantically; it should be a kind of nominal derivation of pai <q>become green/pale</q> (though not the verbal noun of the 11th class = <term xml:lang="ta">paittal</term>). The TL gives, among others, the meanings "affliction" and "cold". The former might be derived from the second connotation of "become green", i.e. not the fresh sprouting of plants, but bodily decline. The latter, seemingly the only one to make sense here, is harder to justify, though the DEDR includes it under the same lemma 3821.</note>
-    </entry>
-    <entry>
-    <form>oru</form>
-    <def>one</def>
-    <note>What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note>
-    </entry>
-    <entry>
-    <form>talai</form>
-    <def>place</def>
-    </entry>
-    <entry>
-    <form>cēkkum</form>
-    <def>resting-</def>
-    </entry>
-    <entry>
-    <form>nāṭaṉ</form>
-    <def>land he</def>
-    </entry>
-    <entry>
-    <form>nōy</form>
-    <def>pain</def>
-    </entry>
-    <entry>
-    <form>tantaṉaṉ-ē</form>
-    <def>he gave</def>
-    <form type="simple">tantaṉaṉ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    </entry>
-    <entry>
-    <form>pacalai</form>
-    <def>pallor</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ārntaṉa</form>
-    <def>they became full(n.pl)</def>
-    </entry>
-    <entry>
-    <form>kuvaḷai</form>
-    <def>waterlily</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>am</form>
-    <def>pretty</def>
-    </entry>
-    <entry>
-    <form>kaṇ-<pc>+</pc>ē</form>
-    <def>eye</def>
-    <form type="simple">kaṇ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT13"><interp type="alignment" select="0">3MG74MR5ML10MG33MG3M,132MG</interp>
+<entry>
+<form>māc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>dust</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟa<pc>+</pc></form>
+<def>subside</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻīiya</form>
+<def>washed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pōla<pc>+</pc></form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>peyal</form>
+<def>raining</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uḻanta</form>
+<def>borne</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>irum</form>
+<def>big/dark</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>piṇar<pc>+</pc></form>
+<def>roughness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṟu</form>
+<def>thick</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paital</form>
+<def>coldness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">paital</term> is not without problems semantically; it should be a kind of nominal derivation of pai <q>become green/pale</q> (though not the verbal noun of the 11th class = <term xml:lang="ta">paittal</term>). The TL gives, among others, the meanings "affliction" and "cold". The former might be derived from the second connotation of "become green", i.e. not the fresh sprouting of plants, but bodily decline. The latter, seemingly the only one to make sense here, is harder to justify, though the DEDR includes it under the same lemma 3821.</note></entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note></entry>
+<entry>
+<form>talai</form>
+<def>place</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēkkum</form>
+<def>resting-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tantaṉaṉ-ē</form>
+<def>he gave</def>
+<form type="simple">tantaṉaṉ</form>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pacalai</form>
+<def>pallor</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ārntaṉa</form>
+<def>they became full(p.a.n.pl)</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuvaḷai</form>
+<def>waterlily</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>am</form>
+<def>pretty</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ-<pc>+</pc>ē</form>
+<def>eye</def>
+<form type="simple">kaṇ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
