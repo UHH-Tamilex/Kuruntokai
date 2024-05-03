@@ -13,13 +13,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -49,92 +49,114 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT3">
-    <interp type="alignment" select="0">15M2G34M2G45MR12M2G2M,115M</interp>
-    <entry>
-      <form>nilattiṉum</form>
-      <def>ground</def>
-      <gramGrp type="affix"><form>iṉum</form></gramGrp>
-    </entry>
-    <entry>
-      <form>perit<pc><pc type="ignored">(</pc>u<pc type="ignored">)</pc></pc>ē</form>
-      <def>big it</def>
-      <form type="simple">peritu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>vāṉiṉum</form>
-      <def>sky</def>
-      <gramGrp type="affix"><form>iṉum</form></gramGrp>
-    </entry>
-    <entry>
-      <form>uyarntaṉṟu</form>
-      <def>is high</def>
-      <note><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has
+  <standOff type="wordsplit" corresp="#KT3"><interp type="alignment" select="0">8MG7M2G6MG17MG11M2G45MR12M2G2M,117MG</interp>
+<entry>
+<form>nilattiṉ-um</form>
+<def>ground</def>
+<form type="simple">nilattiṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vāṉiṉ-um</form>
+<def>sky</def>
+<form type="simple">vāṉiṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uyarntaṉṟu</form>
+<def>is high</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has
         risen" = "is high"? Of the three predicates in anteposition this is the only one not marked
         with -ē as is to be expected. TVG explains this by metrical reasons: <term xml:lang="ta">
-        uyarntaṉṟē</term> would exceed the boundaries of one metrical foot.</note>
-    </entry>
-    <entry>
-      <form>nīriṉum</form>
-      <def>water</def>
-      <gramGrp type="affix"><form>iṉum</form></gramGrp>
-    </entry>
-    <entry>
-      <form>ār</form>
-      <def>difficult</def>
-    </entry>
-    <entry>
-      <form>aḷaviṉṟ<pc><pc type="ignored">(</pc>u<pc type="ignored">)</pc></pc>ē</form>
-      <def>measure is not</def>
-      <form type="simple">aḷaviṉṟu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>cāral</form>
-      <def>slope</def>
-    </entry>
-    <entry>
-      <form>karum</form>
-      <def>black</def>
-    </entry>
-    <entry>
-      <form>kōl</form>
-      <def>stalk</def>
-    </entry>
-    <entry>
-      <form>kuṟiñci<pc>+</pc></form>
-      <def>Kuṟiñci</def>
-    </entry>
-    <entry>
-      <form>pū<pc>+</pc></form>
-      <def>flower</def>
-    </entry>
-    <entry>
-      <form>koṇṭu</form>
-      <def>taken</def>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>tēṉ</form>
-      <def>honey</def>
-    </entry>
-    <entry>
-      <form>iḻaikkum</form>
-      <def>making-</def>
-    </entry>
-    <entry>
-      <form>nāṭaṉoṭu</form>
-      <def>land he with</def>
-    </entry>
-    <entry>
-      <form>naṭp<pc>(</pc>u<pc>)</pc>ē</form>
-      <def>intimacy</def>
-      <form type="simple">naṭpu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        uyarntaṉṟē</term> would exceed the boundaries of one metrical foot.</note></entry>
+<entry>
+<form>nīriṉ-um</form>
+<def>water</def>
+<form type="simple">nīriṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ār</form>
+<def>difficult</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>aḷaviṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>measured-it</def>
+<form type="simple">aḷaviṉṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kōl</form>
+<def>stalk</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟiñci<pc>+</pc></form>
+<def>Kuṟiñci</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pū<pc>+</pc></form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭu</form>
+<def>taken</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tēṉ</form>
+<def>honey</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iḻaikkum</form>
+<def>making-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭaṉoṭu</form>
+<def>land-he-with</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>intimacy</def>
+<form type="simple">naṭpu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
