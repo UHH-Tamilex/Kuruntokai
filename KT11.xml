@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -55,60 +55,68 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT11">
-<interp type="alignment" select="0">3MG22MG5MG28MG11MG12M2G20M2G54MG57M2G2M,225MG</interp>
+<standOff type="wordsplit" corresp="#KT11"><interp type="alignment" select="0">3MG22MG5MG28MG11MG12M2G20M2G54MG57M2G2M,225MG</interp>
 <entry>
 <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>conch</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>īr</form>
-<def>cut-</def>
-<note><term xml:lang="ta">koṭu īr...vaḷai</term> are, according to TVG and Cām., bangles that have been cut as pieces from big conchs (a practice clearly attested in AN 24.1f.). But as <term xml:lang="ta">īr</term> may also mean "smoothness" or "moistness", an image might be intended here as well, i.e., bangles shining smooth or moist like conchs.</note>
-</entry>
+<def>cut</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṭu īr...vaḷai</term> are, according to TVG and Cām., bangles that have been cut as pieces from big conchs (a practice clearly attested in AN 24.1f.). But as <term xml:lang="ta">īr</term> may also mean "smoothness" or "moistness", an image might be intended here as well, i.e., bangles shining smooth or moist like conchs.</note></entry>
 <entry>
 <form>ilaṅku</form>
-<def>shine-</def>
-</entry>
+<def>shine</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷai</form>
 <def>bangle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ñekiḻa</form>
 <def>loosen</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>nāḷ-um</form>
-<def>day-ever</def>
+<def>day</def>
 <form type="simple">nāḷ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>sleeping</def>
-</entry>
+<def>closing</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ila</form>
 <def>not-they</def>
-<gramGrp><gram type="role">neuter plural</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
 <entry>
 <form>kaliḻum</form>
 <def>crying-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṇoṭu</form>
 <def>eye</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>pulampi</form>
 <def>been-lonely</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>thus</def>
+<def>this-way</def>
 </entry>
 <entry>
 <form>ivaṇ</form>
@@ -118,84 +126,115 @@
 <form>uṟaital-um</form>
 <def>staying</def>
 <form type="simple">uṟaital</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
-<note><term xml:lang="ta">uraitalum</term>: here the <term xml:lang="ta">-um</term> should have a diminutive function.</note>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uraitalum</term>: here the <term xml:lang="ta">-um</term> should have a diminutive function.</note></entry>
 <entry>
 <form>uykuvam</form>
 <def>we-escape</def>
-<note><term xml:lang="ta">uykuvam</term>: for the euphonic infix <term xml:lang="ta">-ku-</term> with the non-past see Lehmann 1994: 97f. (cf. KT 26.5 <term xml:lang="ta">poykkuvatu</term>, KT 189.7 <term xml:lang="ta">uvakkuvam</term>, KT 191.7 <term xml:lang="ta">eṉkuvem</term>.)</note>
-</entry>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uykuvam</term>: for the euphonic infix <term xml:lang="ta">-ku-</term> with the non-past see Lehmann 1994: 97f. (cf. KT 26.5 <term xml:lang="ta">poykkuvatu</term>, KT 189.7 <term xml:lang="ta">uvakkuvam</term>, KT 191.7 <term xml:lang="ta">eṉkuvem</term>.)</note></entry>
 <entry>
 <form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>there</def>
 <form type="simple">āṅku</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>eḻu</form>
 <def>rise</def>
-<gramGrp><gram type="role">imperative</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iṉi</form>
 <def>now</def>
 </entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
-</entry>
+<def>live-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉ</form>
-<def>my-</def>
-</entry>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>heart</def>
 <form type="simple">neñcu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>muṉāatu</form>
 <def>before-it</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>kullai<pc>+</pc></form>
 <def>hemp/basil</def>
-</entry>
+<gramGrp><gram type="role">masculine</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṇi</form>
 <def>chaplet</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṭukar</form>
 <def>Vaṭukar</def>
-<gramGrp><gram type="role">honorific</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
 <entry>
 <form>muṉaiyatu</form>
 <def>front-it</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>many</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēl</form>
 <def>spear</def>
-</entry>
-<entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>kaṭṭi</form>
-<def>Kaṭṭi/supported</def>
-</entry>
+<def>Kaṭṭi</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>kaṭṭi</form>
+<def>supported</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry></entry>
+</superEntry>
 <entry>
 <form>nal</form>
 <def>good</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>land-</def>
-</entry>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>umpar</form>
 <def>beyond</def>
@@ -203,44 +242,59 @@
 <entry>
 <form>moḻi</form>
 <def>word/language</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>peyar</form>
-<def>stir-</def>
-</entry>
+<def>stir</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tēettar</form>
 <def>land-he</def>
-<gramGrp><gram type="role">honorific</gram></gramGrp>
-<note><term xml:lang="ta">tēettar</term>: the pronominal noun to <term xml:lang="ta">tēm</term> (> <term xml:lang="ta">deśa</term>- country) of the obl. <term xml:lang="ta">tēttu</term>, seems to function, in contradistinction to <term xml:lang="ta">nāṭaṉ</term> which is completely nominalised, as a predicate noun, that is, as a denominative: "he abides in a country".</note>
-</entry>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tēettar</term>: the pronominal noun to <term xml:lang="ta">tēm</term> (&gt; <term xml:lang="ta">deśa</term>- country) of the obl. <term xml:lang="ta">tēttu</term>, seems to function, in contradistinction to <term xml:lang="ta">nāṭaṉ</term> which is completely nominalised, as a predicate noun, that is, as a denominative: "he abides in a country".</note></entry>
 <entry>
 <form>āyiṉum</form>
 <def>if-even</def>
-</entry>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḻipaṭal</form>
 <def>way-happening</def>
-</entry>
-<entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>cūḻnticiṉ</form>
 <def>consider</def>
-</entry>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>cūḻnticiṉ</form>
+<def>I-considered</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry></entry>
+</superEntry>
 <entry>
 <form>avar</form>
-<def>he</def>
-<gramGrp><gram type="role">honorific</gram></gramGrp>
-<note>TVG takes the ambiguous form <term xml:lang="ta">cūḻnticiṉ</term> to be a 1st sg. Since unlike in other cases an explicative <term xml:lang="ta">yāṉ</term> "I" is missing and the context gives reason to expect another imperative directed to the heart, the supposition lies close at hand that there are reasons of content for such a decision: poetics do not allow for HER actually setting out for HIS place – she only may think of it.</note>
-</entry>
+<def>that-one</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">TVG takes the ambiguous form <term xml:lang="ta">cūḻnticiṉ</term> to be a 1st sg. Since unlike in other cases an explicative <term xml:lang="ta">yāṉ</term> "I" is missing and the context gives reason to expect another imperative directed to the heart, the supposition lies close at hand that there are reasons of content for such a decision: poetics do not allow for HER actually setting out for HIS place – she only may think of it.</note></entry>
 <entry>
 <form>uṭai</form>
-<def>possess-</def>
-</entry>
+<def>possess</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>land-</def>
+<def>land</def>
 <form type="simple">nāṭṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
