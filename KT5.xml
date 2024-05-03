@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -59,115 +59,136 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT5">
-    <interp type="alignment" select="0">3MG3ML7MR3MG10MG49MR43MG4MG3M,133M</interp>
-    <entry>
-    <form>atu-kol</form>
-    <def>that</def>
-    <form type="simple">atu</form>
-    <gramGrp type="particle"><form>kol</form></gramGrp>
-    </entry>
-    <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    </entry>
-    <entry>
-    <form>kāmam</form>
-    <def>desire</def>
-    </entry>
-    <entry>
-    <form>nōy-ē</form>
-    <def>pain</def>
-    <form type="simple">nōy</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>vati</form>
-    <def>nest/abide-</def>
-    </entry>
-    <entry>
-    <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>wader</def>
-    </entry>
-    <entry>
-    <form>uṟaṅkum</form>
-    <def>slumbering-</def>
-    </entry>
-    <entry>
-    <form>iṉ</form>
-    <def>pleasant</def>
-    </entry>
-    <entry>
-    <form>nilai<pc>+</pc></form>
-    <def>standing</def>
-    </entry>
-    <entry>
-    <form>puṉṉai</form>
-    <def>Puṉṉai( tree)</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>uṭai</form>
-    <def>break-</def>
-    </entry>
-    <entry>
-    <form>tirai<pc>+</pc></form>
-    <def>wave</def>
-    </entry>
-    <entry>
-    <form>tuvalai</form>
-    <def>spray</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>arumpum</form>
-    <def>budding-</def>
-    </entry>
-    <entry>
-    <form>tīm</form>
-    <def>sweet</def>
-    </entry>
-    <entry>
-    <form>nīr</form>
-    <def>water</def>
-    </entry>
-    <entry>
-    <form>mellam</form>
-    <def>tender</def>
-    <note><term xml:lang="ta">am</term> <q>pretty</q> too often occurs in places where it is impossible to find a semantic relevance. It might rather be explained as a suffix used for the derivation of adjectives, and quite often a transitional moment <q>x is pretty by y</q> seems observable. Examples are numerous (cf. glossary).</note>
-    </entry>
-    <entry>
-    <form>pulampaṉ</form>
-    <def>loneliness-he(?)</def>
-    <note><term xml:lang="ta">pulampaṉ</term> is one of the usual words denoting the man in Akam poetry, but here the semantic affiliation is unclear, except for the association with the seaside. An etymological explication is conceivable: <term xml:lang="ta">pulampu</term> is "loneliness", i.e. <term xml:lang="ta">pulampaṉ</term> is the one connected with loneliness in some way, be it that he himself is lonely, that he makes lonely or even that he comes from a lonely country (TVG affirms that he is from a country where one goes to be lonely). In that case, however, it is difficult to provide an adequate translation, because the etymological translation is devoid of the Tamil terminological association. Another alternative is considered in DEDR 4303 pulam "arable land", in which case a <term xml:lang="ta">pulampaṉ</term> would be a "man from the fields", but in this case we have a morphological problem with the infix p.</note>
-    </entry>
-    <entry>
-    <form>pirinteṉa<pc>+</pc></form>
-    <def>separated say</def>
-    </entry>
-    <entry>
-    <form>pal</form>
-    <def>many</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>itaḻ</form>
-    <def>petal</def>
-    </entry>
-    <entry>
-    <form>uṇ</form>
-    <def>collyrium</def>
-    </entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    </entry>
-    <entry>
-    <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>sleeping</def>
-    </entry>
-    <entry>
-    <form>ollā-<pc>~</pc>ē</form>
-    <def>possible not</def>
-    <form type="simple">ollā</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT5"><interp type="alignment" select="0">3MG3ML7MR3MG10MG49MR43MG4MG3M,132MG</interp>
+<entry>
+<form>atu-kol</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nōy-ē</form>
+<def>pain</def>
+<form type="simple">nōy</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vati</form>
+<def>nest</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wader</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟaṅkum</form>
+<def>slumbering-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nilai<pc>+</pc></form>
+<def>standing</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉṉai</form>
+<def>Puṉṉai tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṭai</form>
+<def>break</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tirai<pc>+</pc></form>
+<def>wave</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuvalai</form>
+<def>spray</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>arumpum</form>
+<def>budding-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mellam</form>
+<def>tender</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">am</term> <q>pretty</q> too often occurs in places where it is impossible to find a semantic relevance. It might rather be explained as a suffix used for the derivation of adjectives, and quite often a transitional moment <q>x is pretty by y</q> seems observable. Examples are numerous (cf. glossary).</note></entry>
+<entry>
+<form>pulampaṉ</form>
+<def>loneliness-he(?)</def>
+<gramGrp/>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">pulampaṉ</term> is one of the usual words denoting the man in Akam poetry, but here the semantic affiliation is unclear, except for the association with the seaside. An etymological explication is conceivable: <term xml:lang="ta">pulampu</term> is "loneliness", i.e. <term xml:lang="ta">pulampaṉ</term> is the one connected with loneliness in some way, be it that he himself is lonely, that he makes lonely or even that he comes from a lonely country (TVG affirms that he is from a country where one goes to be lonely). In that case, however, it is difficult to provide an adequate translation, because the etymological translation is devoid of the Tamil terminological association. Another alternative is considered in DEDR 4303 pulam "arable land", in which case a <term xml:lang="ta">pulampaṉ</term> would be a "man from the fields", but in this case we have a morphological problem with the infix p.</note></entry>
+<entry>
+<form>pirinteṉa<pc>+</pc></form>
+<def>separated</def>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>itaḻ</form>
+<def>petal</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇ</form>
+<def>collyrium</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>closing</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ollā-<pc>~</pc>ē</form>
+<def>possible-not</def>
+<form type="simple">ollā</form>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">negative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
