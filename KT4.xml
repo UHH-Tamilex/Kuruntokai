@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
               </persName>
           </person>
       </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -60,98 +60,118 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT4">
-    <interp type="alignment" select="0">9M2G10M2G35MG22MG10ML8M2G2M,105M</interp>
-    <entry>
-    <form>nōm</form>
-    <def>aching-</def>
-    </entry>
-    <entry>
-    <form>eṉ</form>
-    <def>my-</def>
-    </entry>
-    <entry>
-    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>heart</def>
-    <form type="simple">neñcu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nōm</form>
-    <def>aching</def>
-    </entry>
-    <entry>
-    <form>eṉ</form>
-    <def>my-</def>
-    </entry>
-    <entry>
-    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>heart</def>
-    <form type="simple">neñcu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form><pc>~</pc>imai</form>
-    <def>lid</def>
-    </entry>
-    <entry>
-    <form>tīyppaṉṉa</form>
-    <def>burned like</def>
-    <note><term xml:lang="ta">tīyppu</term>: the Index reads a verbal noun meaning “the act of scorching”. Better might be an absolutive to the transitive <term xml:lang="ta">tīy-ttal</term> "burn".</note>
-    </entry>
-    <entry>
-    <form>kaṇṇīr</form>
-    <def>eye water</def>
-    </entry>
-    <entry>
-    <form>tāṅki</form>
-    <def>endured</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>amaitaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>becoming quiet</def>
-    <gram type="role">dative</gram>
-    <note><term xml:lang="ta">ākutal</term>: the function of the verbal noun here is a pointed "that" (cf. KT 195.7, 360.2, 386.6).</note>
-    </entry>
-    <entry>
-    <form>amainta</form>
-    <def>become quiet-</def>
-    </entry>
-    <entry>
-    <form>nam</form>
-    <def>our-</def>
-    </entry>
-    <entry>
-    <form>kātalar</form>
-    <def>lover</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>amaiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>quietness</def>
-    </entry>
-    <entry>
-    <form>ilar</form>
-    <def>is not</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>ākutal</form>
-    <def>becoming</def>
-    </entry>
-    <entry>
-    <form>nōm</form>
-    <def>aching-</def>
-    </entry>
-    <entry>
-    <form>eṉ</form>
-    <def>my-</def>
-    </entry>
-    <entry>
-    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>heart</def>
-    <form type="simple">neñcu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT4"><interp type="alignment" select="0">9M2G10M2G35MG22MG10ML8M2G2M,104MG</interp>
+<entry>
+<form>nōm</form>
+<def>aches</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>heart</def>
+<form type="simple">neñcu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>nōm</form>
+<def>aches</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>heart</def>
+<form type="simple">neñcu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>imai</form>
+<def>lid</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tīyppaṉṉa</form>
+<def>burned-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tīyppu</term>: the Index reads a verbal noun meaning “the act of scorching”. Better might be an absolutive to the transitive <term xml:lang="ta">tīy-ttal</term> "burn".</note></entry>
+<entry>
+<form>kaṇṇīr</form>
+<def>eye-water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṅki</form>
+<def>endured</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>amaitaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>becoming-quiet</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ākutal</term>: the function of the verbal noun here is a pointed "that" (cf. KT 195.7, 360.2, 386.6).</note></entry>
+<entry>
+<form>amainta</form>
+<def>become-quiet-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nam</form>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>amaiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>quietness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ilar</form>
+<def>is-not-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ākutal</form>
+<def>becoming</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nōm</form>
+<def>aches</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉ</form>
+<def>my-</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>heart</def>
+<form type="simple">neñcu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
