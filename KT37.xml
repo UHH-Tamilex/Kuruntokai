@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -58,96 +58,114 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT37">
-    <interp type="alignment" select="0">10MG13MGMR37ML42M2G2M,111M</interp>
-    <entry>
-    <form>nacai</form>
-    <def>yearning</def>
-    </entry>
-    <entry>
-    <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>big it</def>
-    </entry>
-    <entry>
-    <form>uṭaiyar</form>
-    <def>possess he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>nalkal-um</form>
-    <form type="simple">nalkal</form>
-    <def>granting</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nalkuvar</form>
-    <def>granting he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>piṭi</form>
-    <def>she elephant</def>
-    </entry>
-    <entry>
-    <form>paci</form>
-    <def>hunger</def>
-    <note>TVG explains <term xml:lang="ta">paci</term> as thirst which is alleviated by chewing the moist bark.</note>
-    </entry>
-    <entry>
-    <form>kaḷaiiya</form>
-    <def>remove</def>
-    </entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>kai</form>
-    <def>hand</def>
-    </entry>
-    <entry>
-    <form>vēḻam</form>
-    <def>elephant bull</def>
-    </entry>
-    <entry>
-    <form>mel</form>
-    <def>tender</def>
-    </entry>
-    <entry>
-    <form>ciṉai</form>
-    <def>twig</def>
-    </entry>
-    <entry>
-    <form>yāam</form>
-    <def>Yām( tree)</def>
-    </entry>
-    <entry>
-    <form>piḷakkum</form>
-    <def>splitting-</def>
-    </entry>
-    <entry>
-    <form>aṉpiṉa</form>
-    <def>love they</def>
-    <gram type="role">neuter plural</gram>
-    </entry>
-    <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>avar</form>
-    <def>he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>ceṉṟa</form>
-    <def>gone-</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>path</def>
-    <form type="simple">āṟu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT37"><interp type="alignment" select="0">10MG13MGMR37ML42M2G2M,110MG</interp>
+<entry>
+<form>nacai</form>
+<def>yearning</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>big-it</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaiyar</form>
+<def>possess-he</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nalkal-um</form>
+<def>granting</def>
+<form type="simple">nalkal</form>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nalkuvar</form>
+<def>grant-he</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>piṭi</form>
+<def>she-elephant</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paci</form>
+<def>hunger</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">TVG explains <term xml:lang="ta">paci</term> as thirst which is alleviated by chewing the moist bark.</note></entry>
+<entry>
+<form>kaḷaiiya</form>
+<def>remove</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēḻam</form>
+<def>elephant-bull</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mel</form>
+<def>tender</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṉai</form>
+<def>twig</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>yāam</form>
+<def>Yām tree</def>
+</entry>
+<entry>
+<form>piḷakkum</form>
+<def>splitting-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉpiṉa</form>
+<def>love-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>avar</form>
+<def>that-one</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>path</def>
+<form type="simple">āṟu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
