@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -50,113 +50,136 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT27">
-    <interp type="alignment" select="0">4M2G16MG20ML5MG7MG5M2G6MG7M2G55MG2M,139M</interp>
-    <entry>
-    <form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">kaṉṟu</form>
-    <def>calf</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>uṇṇātu</form>
-    <def>eat not</def>
-    </entry>
-    <entry>
-    <form>kalattiṉ-um</form>
-    <def>pot</def>
-    <form type="simple">kallatiṉ</form>
-    <gramGrp type="affix"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>paṭātu</form>
-    <def>happen not</def>
-    </entry>
-    <entry>
-    <form>nal</form>
-    <def>good</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>āṉ</form>
-    <def>cow</def>
-    </entry>
-    <entry>
-    <form>tīm</form>
-    <def>sweat</def>
-    </entry>
-    <entry>
-    <form>pāl</form>
-    <def>milk</def>
-    </entry>
-    <entry>
-    <form>nilatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>ground-</def>
-    </entry>
-    <entry>
-    <form>ukkāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>shed like</def>
-    </entry>
-    <entry>
-    <form>eṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">eṉakku</form>
-    <def>me</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    <gram type="role">dative</gram>
-    </entry>
-    <entry>
-    <form>ākāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>become not</def>
-    </entry>
-    <entry>
-    <form>eṉ</form>
-    <def>my-</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>aikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">aikku</form>
-    <def>lord</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    <gram type="role">dative</gram>
-    </entry>
-    <entry>
-    <form>utavātu</form>
-    <def>contribute not</def>
-    </entry>
-    <entry>
-    <form>pacalai</form>
-    <def>pallor</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>uṇīiya</form>
-    <def>eat</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>vēṇṭum</form>
-    <def>is necessary</def>
-    </entry>
-    <entry>
-    <form>titalai</form>
-    <def>beauty spot</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>alkul</form>
-    <def>hip</def>
-    <note><term xml:lang="ta">alkul</term> is, according to TVG, "buttocks" (not "mount of Venus" as it is often translated), referring to <term xml:lang="ta">Paripāṭal</term> 13.54 where a man (<term xml:lang="ta">Tirumāl</term>) is said to have this selfsame part of the body. Judged by the descriptions of the KT (the line, the adornment of foliage, etc.), however, one rather thinks of the "hip".</note>
-    </entry>
-    <entry>
-    <form>eṉ</form>
-    <def>my-</def>
-    </entry>
-    <entry>
-    <form>māmai<pc>+</pc></form>
-    <def>blackness</def>
-    </entry>
-    <entry>
-    <form>kaviṉ-ē</form>
-    <def>beauty</def>
-    <form type="simple">kaviṉ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT27"><interp type="alignment" select="0">4M2G16MG20ML5MG7MG5M2G6MG7M2G55MG2M,138MG</interp>
+<entry>
+<form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>calf</def>
+<form type="simple">kaṉṟu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uṇṇātu</form>
+<def>eat-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>kalattiṉ-um</form>
+<def>pot</def>
+<form type="simple">kalattiṉ</form>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>paṭātu</form>
+<def>happen-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>āṉ</form>
+<def>cow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pāl</form>
+<def>milk</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nilatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>ground</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ukkāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>been-shed</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>me</def>
+<form type="simple">eṉakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ākāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>become-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>aikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>lord</def>
+<form type="simple">aikku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>utavātu</form>
+<def>contribute-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>pacalai</form>
+<def>pallor</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṇīiya</form>
+<def>eat</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭum</form>
+<def>is necessary</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>titalai</form>
+<def>beauty-spot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>alkul</form>
+<def>hip</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">alkul</term> is, according to TVG, "buttocks" (not "mount of Venus" as it is often translated), referring to <term xml:lang="ta">Paripāṭal</term> 13.54 where a man (<term xml:lang="ta">Tirumāl</term>) is said to have this selfsame part of the body. Judged by the descriptions of the KT (the line, the adornment of foliage, etc.), however, one rather thinks of the "hip".</note></entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>māmai<pc>+</pc></form>
+<def>blackness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaviṉ-ē</form>
+<def>beauty</def>
+<form type="simple">kaviṉ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
