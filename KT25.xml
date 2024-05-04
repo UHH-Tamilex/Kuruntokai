@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -50,116 +50,144 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT25">
-    <interp type="alignment" select="0">14MG31M2G52M2G20M2G2M,126M</interp>
-    <entry>
-    <form>yārum</form>
-    <def>someone</def>
-    </entry>
-    <entry>
-    <form>illai<pc>+</pc></form>
-    <def>not</def>
-    </entry>
-    <entry>
-    <form>tāṉ-ē</form>
-    <def>self</def>
-    <form type="simple">tāṉ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>kaḷvaṉ</form>
-    <def>robber</def>
-    </entry>
-    <entry>
-    <form>tāṉ</form>
-    <def>self</def>
-    </entry>
-    <entry>
-    <form>atu</form>
-    <def>that</def>
-    </entry>
-    <entry>
-    <form>poyppiṉ</form>
-    <def>lie if</def>
-    </entry>
-    <entry>
-    <form>yāṉ</form>
-    <def>I</def>
-    </entry>
-    <entry>
-    <form>evaṉ</form>
-    <def>what</def>
-    </entry>
-    <entry>
-    <form>ceyk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-    <def>I do</def>
-    <form type="simple">ceyku</form>
-    <gram type="role">subjunctive</gram>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form>tiṉai<pc>+</pc></form>
-    <def>millet</def>
-    </entry>
-    <entry>
-    <form>tāḷ</form>
-    <def>foot</def>
-    </entry>
-    <entry>
-    <form>aṉṉa</form>
-    <def>like</def>
-    </entry>
-    <entry>
-    <form>ciṟu</form>
-    <def>small</def>
-    </entry>
-    <entry>
-    <form>pacum</form>
-    <def>green</def>
-    </entry>
-    <entry>
-    <form>kāla</form>
-    <def>legged</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>oḻuku</form>
-    <def>flow-</def>
-    </entry>
-    <entry>
-    <form>nīr</form>
-    <def>water</def>
-    </entry>
-    <entry>
-    <form>āral</form>
-    <def>Āral( fish)</def>
-    </entry>
-    <entry>
-    <form>pārkkum</form>
-    <def>looking-</def>
-    </entry>
-    <entry>
-    <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">kuruku</form>
-    <def>wader</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>uṇṭu</form>
-    <def>there is</def>
-    </entry>
-    <entry>
-    <form>tāṉ</form>
-    <def>self</def>
-    </entry>
-    <entry>
-    <form>maṇanta</form>
-    <def>united-</def>
-    </entry>
-    <entry>
-    <form>ñāṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <form type="simple">ñāṉṟu</form>
-    <def>when</def>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT25"><interp type="alignment" select="0">14MG31M2G52M2G20M2G2M,125MG</interp>
+<entry>
+<form>yārum</form>
+<def>anyone</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>illai<pc>+</pc></form>
+<def>not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">singular</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self(pron.sg.3.)</def>
+<form type="simple">tāṉ</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷvaṉ</form>
+<def>robber</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ</form>
+<def>self(pron.sg.3.)</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>poyppiṉ</form>
+<def>lie-if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>evaṉ</form>
+<def>what</def>
+</entry>
+<entry>
+<form>ceyk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>do-I</def>
+<form type="simple">ceyku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>tiṉai<pc>+</pc></form>
+<def>millet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāḷ</form>
+<def>foot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pacum</form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāla</form>
+<def>legged</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḻuku</form>
+<def>flow</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āral</form>
+<def>Āral-fish</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pārkkum</form>
+<def>looking-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>wader</def>
+<form type="simple">kuruku</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uṇṭu</form>
+<def>there is</def>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ</form>
+<def>self(pron.sg.3.)</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇanta</form>
+<def>united</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ñāṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>time</def>
+<form type="simple">ñāṉṟu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
