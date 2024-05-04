@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -55,101 +55,121 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT42">
-<interp type="alignment" select="0">11MG51MG6MR13M2G7MG11MG2M,107MG</interp>
+<standOff type="wordsplit" corresp="#KT42"><interp type="alignment" select="0">11MG51MG6MR13M2G7MG11MG2M,107MG</interp>
 <entry>
 <form>kāmam</form>
-<def>desire</def>
-</entry>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>oḻivat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>ceasing-it</def>
-</entry>
+<def>cease-it</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>āyiṉum</form>
 <def>if-even</def>
-</entry>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
 <entry>
 <form>yāmattu<pc>+</pc></form>
-<def>midnight-</def>
-</entry>
+<def>midnight</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>karuvi</form>
 <def>amount</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mā</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>maḻai</form>
 <def>rain</def>
-<note><term xml:lang="ta">karuvi mā maḻai</term> is explained by TVG (with reference to Nacc. and deviating from Cām.) as a big cloud endowed with the attributes of a thunderstorm such as lightning, thunder and so forth. The word order (<term xml:lang="ta">karuvi mā</term> instead of <term xml:lang="ta">mā karuvi</term> "big amount") is odd enough to suspect a special meaning.</note>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">karuvi mā maḻai</term> is explained by TVG (with reference to Nacc. and deviating from Cām.) as a big cloud endowed with the attributes of a thunderstorm such as lightning, thunder and so forth. The word order (<term xml:lang="ta">karuvi mā</term> instead of <term xml:lang="ta">mā karuvi</term> "big amount") is odd enough to suspect a special meaning.</note></entry>
 <entry>
 <form>vīḻnteṉa</form>
 <def>fallen-say</def>
-</entry>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aruvi</form>
 <def>waterfall</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>viṭar</form>
 <def>cave</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>inside-</def>
-</entry>
+<def>inside</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>iyampum</form>
 <def>sounding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭa</form>
 <def>land-he</def>
-<gramGrp><gram type="role">vocative</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>em</form>
 <def>our-</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>toṭarp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>attachment</def>
 <form type="simple">toṭarpu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tēyum-ō</form>
-<def>dwindling-</def>
+<def>dwindles</def>
 <form type="simple">tēyum</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
 <form>niṉ</form>
 <def>your</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <superEntry type="ambiguous">
-<entry>
-<entry>
+<entry><entry>
 <form>vayiṉāṉ-ē</form>
 <def>side-</def>
 <form type="simple">vayiṉāṉ</form>
 <gramGrp><gram type="role">locative</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</entry>
-<entry>
-<entry>
+</entry></entry>
+<entry><entry>
 <form>vayiṉāṉ-ē</form>
 <def>side-I</def>
 <form type="simple">vayiṉāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</entry>
-</superEntry>
-</standOff>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></entry>
+</superEntry></standOff>
     
 </TEI>
