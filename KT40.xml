@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -70,123 +70,148 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT40">
-    <interp type="alignment" select="0">3MGMG3MG11MG7MG2MR6MG19MGMR2MG29ML10MG22MG3M,132M</interp>
-    <entry>
-    <form>yāy-um</form>
-    <form type="simple">yāy</form>
-    <def>my mother</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>ñāy-um</form>
-    <form type="simple">ñāy</form>
-    <def>your mother</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>yār</form>
-    <def>who</def>
-    </entry>
-    <entry>
-    <form>ākiyar-ō</form>
-    <def>may become/become they</def>
-    <form type="simple">ākiyar</form>
-    <gram type="role">honorific</gram>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form><pc>~</pc>entai-<pc>~</pc>um</form>
-    <form type="simple">entai</form>
-    <def>my father</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nuntai-<pc>~</pc>um</form>
-    <form type="simple">nuntai</form>
-    <def>your father</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>e<pc>+</pc></form>
-    <def>what-</def>
-    </entry>
-    <entry>
-    <form>muṟai<pc>+</pc></form>
-    <def>kind/our-</def>
-    </entry>
-    <entry>
-    <form>kēḷir</form>
-    <def>relatives</def>
-    </entry>
-    <entry>
-    <form>yāṉ-um</form>
-    <form type="simple">yāṉ</form>
-    <def>I</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nī-<pc>~</pc>um</form>
-    <form type="simple">nī</form>
-    <def>you</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>e<pc>+</pc></form>
-    <def>what-</def>
-    </entry>
-    <entry>
-    <form>vaḻi</form>
-    <def>way</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>aṟitum</form>
-    <def>we know</def>
-    <gram type="role">subjunctive</gram>
-    </entry>
-    <entry>
-    <form>cem</form>
-    <def>red</def>
-    </entry>
-    <entry>
-    <form>pulam</form>
-    <def>soil</def>
-    </entry>
-    <entry>
-    <form>peyal</form>
-    <def>raining</def>
-    </entry>
-    <entry>
-    <form>nīr</form>
-    <def>water</def>
-    </entry>
-    <entry>
-    <form>pōla</form>
-    <def>be similar</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>love</def>
-    </entry>
-    <entry>
-    <form>uṭai</form>
-    <def>possess-/break-</def>
-    </entry>
-    <entry>
-    <form>neñcam</form>
-    <def>heart</def>
-    </entry>
-    <entry>
-    <form>tām</form>
-    <def>self</def>
-    <gram type="role">plural</gram>
-    </entry>
-    <entry>
-    <form>kalantaṉa-<pc>~</pc>ē</form>
-    <def>they mingled</def>
-    <form type="simple">kalantaṉa</form>
-    <gram type="role">neuter plural</gram>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT40"><interp type="alignment" select="0">3MGMG3MG11MG7MG2MR6MG19MGMR2MG29ML10MG22MG3M,131MG</interp>
+<entry>
+<form>yāy-um</form>
+<def>my mother</def>
+<form type="simple">yāy</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ñāy-um</form>
+<def>your mother</def>
+<form type="simple">ñāy</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>yār</form>
+<def>who</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ākiyar-ō</form>
+<def>may-become(opt.)/become-they(p.a.3.h.)</def>
+<form type="simple">ākiyar</form>
+<gramGrp><gram type="role">optative</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>entai-<pc>~</pc>um</form>
+<def>my father</def>
+<form type="simple">entai</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nuntai-<pc>~</pc>um</form>
+<def>your father</def>
+<form type="simple">nuntai</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>e<pc>+</pc></form>
+<def>what-</def>
+</entry>
+<entry>
+<form>muṟai<pc>+</pc></form>
+<def>kind</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kēḷir</form>
+<def>relatives</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉ-um</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nī-<pc>~</pc>um</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>e<pc>+</pc></form>
+<def>what-</def>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṟitum</form>
+<def>know-we</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pulam</form>
+<def>soil</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>peyal</form>
+<def>raining</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pōla</form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>love</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭai</form>
+<def>possess(post.)/break(v.r.)</def>
+<gramGrp><gram type="role">postposition</gram>
+<gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tām</form>
+<def>self</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kalantaṉa-<pc>~</pc>ē</form>
+<def>they mingled</def>
+<form type="simple">kalantaṉa</form>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
