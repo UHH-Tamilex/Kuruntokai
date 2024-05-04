@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,8 +31,8 @@
         </person>
       </listPerson>
       
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -72,123 +72,152 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT21">
-    <interp type="alignment" select="0">118MG23MG2M,145M</interp>
-    <entry>
-    <form>vaṇṭu</form>
-    <def>bee</def>
-    </entry>
-    <entry>
-    <form>paṭa<pc>+</pc></form>
-    <def>happen</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>tatainta</form>
-    <def>been full-</def>
-    </entry>
-    <entry>
-    <form>koṭi</form>
-    <def>creeper</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iṇar</form>
-    <def>cluster</def>
-    </entry>
-    <entry>
-    <form>iṭai</form>
-    <def>between</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iṭupu</form>
-    <def>placed</def>
-    </entry>
-    <entry>
-    <form>poṉ</form>
-    <def>gold</def>
-    </entry>
-    <entry>
-    <form>cey</form>
-    <def>make-</def>
-    </entry>
-    <entry>
-    <form>puṉai</form>
-    <def>adorn-</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iḻai</form>
-    <def>ornament</def>
-    </entry>
-    <entry>
-    <form>kaṭṭiya</form>
-    <def>tied-</def>
-    </entry>
-    <entry>
-    <form>makaḷir</form>
-    <def>women</def>
-    </entry>
-    <entry>
-    <form>katuppiṉ</form>
-    <def>hair</def>
-    <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-    <form>tōṉṟum</form>
-    <def>appearing-</def>
-    </entry>
-    <entry>
-    <form>putu<pc>+</pc></form>
-    <def>new</def>
-    </entry>
-    <entry>
-    <form>pūm</form>
-    <def>flower</def>
-    </entry>
-    <entry>
-    <form>koṉṟai<pc>+</pc></form>
-    <def>Laburnum( tree)</def>
-    </entry>
-    <entry>
-    <form>kāṉam</form>
-    <def>forest</def>
-    </entry>
-    <entry>
-    <form>kār</form>
-    <def>rainy season</def>
-    </entry>
-    <entry>
-    <form>eṉa<pc>+</pc></form>
-    <def>say</def>
-    </entry>
-    <entry>
-    <form>kūṟiṉum</form>
-    <def>talking if even</def>
-    </entry>
-    <entry>
-    <form>yāṉ-ō</form>
-    <def>I</def>
-    <form type="simple">yāṉ</form>
-    <gramGrp type="particle"><form>ō<note place="foot"><term xml:lang="ta">yāṉō</term>: this is an example of the special usage of <term xml:lang="ta">-ō</term> as a particle demarcating a topic ("as for me, I don't believe it").</note></form></gramGrp>
-    </entry>
-    <entry>
-    <form>tēṟēṉ</form>
-    <def>I don't believe</def>
-    </entry>
-    <entry>
-    <form>avar</form>
-    <def>he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>poy</form>
-    <def>lie</def>
-    </entry>
-    <entry>
-    <form>vaḻaṅkalar-ē</form>
-    <def>he uses not</def>
-    <form type="simple">vaḻaṅkalar</form>
-    <gram type="role">honorific</gram>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT21"><interp type="alignment" select="0">118MG23MG2M,144MG</interp>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭa<pc>+</pc></form>
+<def>happen</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tatainta</form>
+<def>been-full</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭi</form>
+<def>creeper</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṇar</form>
+<def>cluster</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṭupu</form>
+<def>placed</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cey</form>
+<def>make</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉai</form>
+<def>decorate</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iḻai</form>
+<def>jewel</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭṭiya</form>
+<def>tied</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>katuppiṉ</form>
+<def>hair</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>tōṉṟum</form>
+<def>appearing-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>putu<pc>+</pc></form>
+<def>new</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>koṉṟai<pc>+</pc></form>
+<def>Laburnum tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṉam</form>
+<def>forest</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṟiṉum</form>
+<def>talking-if-even</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉ-ō</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">yāṉō</term>: this is an example of the special usage of <term xml:lang="ta">-ō</term> as a particle demarcating a topic ("as for me, I don't believe it").</note></entry>
+<entry>
+<form>tēṟēṉ</form>
+<def>I don't believe</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>avar</form>
+<def>that-one</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>poy</form>
+<def>lie</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḻaṅkalar-ē</form>
+<def>he uses not</def>
+<form type="simple">vaḻaṅkalar</form>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
