@@ -13,13 +13,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -48,97 +48,120 @@
       </div>
     </body>
   </text>
- <standOff type="wordsplit" corresp="#KT66">
-<interp type="alignment" select="0">6MG32MG91M2G2M,134MG</interp>
+ <standOff type="wordsplit" corresp="#KT66"><interp type="alignment" select="0">6MG32MG91M2G2M,134MG</interp>
 <entry>
 <form>maṭava-maṉṟa</form>
 <def>ignorance-they</def>
 <form type="simple">maṭava</form>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp><gramGrp type="particle"><m>maṉṟa</m></gramGrp>
 </entry>
 <entry>
 <form>taṭavu</form>
 <def>breadth</def>
-<note><term xml:lang="ta">taṭavu</term>: according to DEDR 3020 "largeness, greatness"; <term xml:lang="ta">taṭa</term> "large, broad, full", thus my suggestion "breadth". Cām. glosses <term xml:lang="ta">vaḷainta</term> "curved" (given in the TL under <term xml:lang="ta">taṭavu</term> as "curve, bent", though not in the DED). In Caṅkam texts it is usually found in connection with <term xml:lang="ta">nilai</term> (and thus to be related to the trunk of trees): KT 66.1, 219.6, 301.1; AN 10.3, 165.10, 320.10; PN 140.1.</note>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">taṭavu</term>: according to DEDR 3020 "largeness, greatness"; <term xml:lang="ta">taṭa</term> "large, broad, full", thus my suggestion "breadth". Cām. glosses <term xml:lang="ta">vaḷainta</term> "curved" (given in the TL under <term xml:lang="ta">taṭavu</term> as "curve, bent", though not in the DED). In Caṅkam texts it is usually found in connection with <term xml:lang="ta">nilai</term> (and thus to be related to the trunk of trees): KT 66.1, 219.6, 301.1; AN 10.3, 165.10, 320.10; PN 140.1.</note></entry>
 <entry>
 <form>nilai<pc>+</pc></form>
-<def>state</def>
-</entry>
+<def>standing</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koṉṟai</form>
-<def>Laburnum(-tree)</def>
-<gramGrp></gramGrp></entry>
+<def>Laburnum tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kal</form>
 <def>stone</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>piṟaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>glisten-</def>
-<note><term xml:lang="ta">kal piṟaṅku attam</term> is explained by TVG as a desert path with protruding stones which make it even more difficult to walk.</note>
-</entry>
+<def>glisten</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kal piṟaṅku attam</term> is explained by TVG as a desert path with protruding stones which make it even more difficult to walk.</note></entry>
 <entry>
 <form>attam</form>
 <def>road</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceṉṟōr</form>
 <def>gone-he</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>kūṟiya</form>
-<def>spoken-</def>
-</entry>
+<def>spoken</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>paruvam</form>
 <def>season</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vārā</form>
 <def>come-not</def>
-</entry>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aḷavai</form>
-<def>(time-)measure</def>
-</entry>
+<def>(time-)measure(n.)</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>neri</form>
-<def>be-crushed-</def>
-</entry>
+<def>be-crushed</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>tara<pc>+</pc></form>
 <def>give</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>kompu</form>
 <def>twig</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cēr</form>
-<def>unite-</def>
-</entry>
+<def>join</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>koṭi</form>
 <def>creeper</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iṇar</form>
 <def>cluster</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ūḻtta</form>
-<def>withered-</def>
-</entry>
+<def>withered</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>vampa</form>
 <def>new-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp>
-<note>Tradition takes <term xml:lang="ta">vampa</term> just as <term xml:lang="ta">vampu</term>, which appears in the variants, as a term denoting the rains that come outside the proper season, but it is equally well possible to take it literally.</note>
-</entry>
+<note xmlns="http://www.tei-c.org/ns/1.0">Tradition takes <term xml:lang="ta">vampa</term> just as <term xml:lang="ta">vampu</term>, which appears in the variants, as a term denoting the rains that come outside the proper season, but it is equally well possible to take it literally.</note></entry>
 <entry>
 <form>māriyai<pc>+</pc></form>
 <def>shower</def>
@@ -147,17 +170,18 @@
 <entry>
 <form>kār</form>
 <def>rainy-season</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉa</form>
 <def>say</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>matitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>estimated</def>
 <form type="simple">matittu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff> 
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff> 
 </TEI>
-    
