@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -56,24 +56,27 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT55">
-<interp type="alignment" select="0">58ML31MG13MG11M2G17MG2M,137MG</interp>
+<standOff type="wordsplit" corresp="#KT55"><interp type="alignment" select="0">58ML31MG13MG11M2G17MG2M,137MG</interp>
 <entry>
 <form>mā<pc>+</pc></form>
 <def>black</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻi</form>
 <def>backwaters</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇi<pc>+</pc></form>
 <def>sapphire</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pū<pc>+</pc></form>
 <def>flower</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kūmpa<pc>+</pc></form>
 <def>close</def>
@@ -82,86 +85,100 @@
 <entry>
 <form>tū<pc>+</pc></form>
 <def>purity</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tirai<pc>+</pc></form>
 <def>wave</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>poṅku</form>
-<def>foam-</def>
-</entry>
+<def>foam</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>pitir<pc>+</pc></form>
 <def>spray</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tuvalaiyoṭu</form>
 <def>drop</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>maṅkul</form>
 <def>cloud</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taii<pc>+</pc></form>
 <def>knitted</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <superEntry type="ambiguous">
-<entry>
-<entry>
+<entry><entry>
 <form>kaiyaṟa</form>
-<def>deed-subside</def>
-</entry>
-</entry>
-<entry>
-<entry>
+<def>be-motionless</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry></entry>
+<entry><entry>
 <form>kai</form>
 <def>hand</def>
-</entry>
-<entry>
+</entry><entry>
 <form><pc>~</pc>aṟa</form>
-<def>part</def>
-</entry>
-</entry>
+<def>be-severed</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry></entry>
 </superEntry>
 <entry>
 <form>vanta</form>
-<def>come-</def>
-</entry>
+<def>come</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>taivaral</form>
 <def>rubbing</def>
-<note><term xml:lang="ta">taivaral</term>: what is the function of the verbal noun? Cf. KT 28 <term xml:lang="ta">alamaral acai vaḷi</term>.</note>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">taivaral</term>: what is the function of the verbal noun? Cf. KT 28 <term xml:lang="ta">alamaral acai vaḷi</term>.</note></entry>
 <entry>
 <form>ūtaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>cold-wind</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṉā</form>
-<def>pleasant-not</def>
-</entry>
+<def>pleasing-not</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uṟaiyuṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>abode-it</def>
-<note><term xml:lang="ta">uṟaiyuṭṭu</term> is to be analysed as an pronominal noun n.sg. to <term xml:lang="ta">uṟaiyuḷ</term> "place to stay", just as <term xml:lang="ta">ciṉṉāṭṭu</term> to <term xml:lang="ta">nāḷ</term>, both of them predicate nouns to the <term xml:lang="ta">ūr</term> at the end.</note>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uṟaiyuṭṭu</term> is to be analysed as an pronominal noun n.sg. to <term xml:lang="ta">uṟaiyuḷ</term> "place to stay", just as <term xml:lang="ta">ciṉṉāṭṭu</term> to <term xml:lang="ta">nāḷ</term>, both of them predicate nouns to the <term xml:lang="ta">ūr</term> at the end.</note></entry>
 <entry>
 <form>ākum</form>
 <def>becoming-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>cil</form>
 <def>few</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
 <def>day-it</def>
 <form type="simple">nāṭṭu</form>
-<gramGrp type="particle"><m>amma</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>i<pc>+</pc></form>
@@ -170,16 +187,18 @@
 <entry>
 <form>ciṟu</form>
 <def>little</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>ūr-ē</form>
 <def>village</def>
 <form type="simple">ūr</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
