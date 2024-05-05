@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -49,120 +49,149 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT67">
-    <interp type="alignment" select="0">5MG57ML24M3G7MG5MR20MG7MG2M,136M</interp>
-    <entry>
-    <form>uḷḷār-kollō</form>
-    <def>remember not he</def>
-    <form type="simple">uḷḷār</form>
-    <gram type="role">honorific<note place="foot">Cf. note on KT 16.1.</note></gram>
-    <gramGrp type="particle"><form>kollō</form></gramGrp>
-    </entry>
-    <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    </entry>
-    <entry>
-    <form>kiḷḷai</form>
-    <def>parakeet</def>
-    </entry>
-    <entry>
-    <form>vaḷai</form>
-    <def>bangle</def>
-    </entry>
-    <entry>
-    <form>vāy<pc>+</pc></form>
-    <def>mouth</def>
-    </entry>
-    <entry>
-    <form>koṇṭa</form>
-    <def>taken-</def>
-    </entry>
-    <entry>
-    <form>vēppam</form>
-    <def>Neem tree</def>
-    </entry>
-    <entry>
-    <form>oḷ</form>
-    <def>bright</def>
-    </entry>
-    <entry>
-    <form>paḻam</form>
-    <def>fruit</def>
-    </entry>
-    <entry>
-    <form>putu</form>
-    <def>new</def>
-    </entry>
-    <entry>
-    <form>nāṇ</form>
-    <def>thread</def>
-    </entry>
-    <entry>
-    <form>uḻaippāṉ</form>
-    <def>insert he</def>
-    </entry>
-    <entry>
-    <form>nuti</form>
-    <def>tip</def>
-    </entry>
-    <entry>
-    <form>māṇ</form>
-    <def>fame</def>
-    </entry>
-    <entry>
-    <form>vaḷ</form>
-    <def>sharpness</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>ukir<pc>+</pc></form>
-    <def>nail</def>
-    </entry>
-    <entry>
-    <form>polam</form>
-    <def>gold</def>
-    </entry>
-    <entry>
-    <form>kala<pc>(</pc>m<pc>)</pc></form>
-    <def>ornament</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>oru</form>
-    <def>one</def>
-    </entry>
-    <entry>
-    <form>kāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>bead</def>
-    <note>For a discussion of <term xml:lang="ta">kācu</term>, meaning rather "bead" than "coin", in early classical texts, see Rajan 2006: 32f. The decisive passage is just here, where a Neem fruit in the beak of a parakeet is compared to a <term xml:lang="ta">kācu</term>.</note>
-    </entry>
-    <entry>
-    <form>ēykkum</form>
-    <def>looking like-</def>
-    </entry>
-    <entry>
-    <form>nilam</form>
-    <def>ground</def>
-    </entry>
-    <entry>
-    <form>kari</form>
-    <def>be scorched-</def>
-    </entry>
-    <entry>
-    <form>kaḷḷiyam</form>
-    <def>Kaḷḷi( tree)</def>
-    <gramGrp type="affix"><form>am</form></gramGrp>
-    </entry>
-    <entry>
-    <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>wilderness</def>
-    </entry>
-    <entry>
-    <form>iṟantōr-ē</form>
-    <def>traversed he</def>
-    <form type="simple">iṟantōr</form>
-    <gram type="role">honorific</gram>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT67"><interp type="alignment" select="0">5MG57ML24M3G7MG5MR20MG7MG2M,135MG</interp>
+<entry>
+<form>uḷḷār-kollō</form>
+<def>remember-not-he</def>
+<form type="simple">uḷḷār</form>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Cf. note on KT 16.1.</note></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḷḷai</form>
+<def>parakeet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vāy<pc>+</pc></form>
+<def>mouth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vēppam</form>
+<def>Neem tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paḻam</form>
+<def>fruit</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>putu</form>
+<def>new</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṇ</form>
+<def>thread</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uḻaippāṉ</form>
+<def>insert-he</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>nuti</form>
+<def>tip</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>māṇ</form>
+<def>be-glorious</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷ</form>
+<def>sharpness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>ukir<pc>+</pc></form>
+<def>nail</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>polam</form>
+<def>gold</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kala<pc>(</pc>m<pc>)</pc></form>
+<def>ornament</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oru</form>
+<def>one</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>kāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>bead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">For a discussion of <term xml:lang="ta">kācu</term>, meaning rather "bead" than "coin", in early classical texts, see Rajan 2006: 32f. The decisive passage is just here, where a Neem fruit in the beak of a parakeet is compared to a <term xml:lang="ta">kācu</term>.</note></entry>
+<entry>
+<form>ēykkum</form>
+<def>looking-like-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kari</form>
+<def>be-scorched</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷḷiyam</form>
+<def>Kaḷḷi tree</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wilderness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṟantōr-ē</form>
+<def>traversed-he</def>
+<form type="simple">iṟantōr</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
