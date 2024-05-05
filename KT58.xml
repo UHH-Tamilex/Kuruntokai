@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
             </persName>
           </person>
         </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -65,105 +65,125 @@
         </div>
     </body>
   </text>
-    <standOff type="wordsplit" corresp="#KT58">
-<interp type="alignment" select="0">37MG6MG27MG57MG16MG4M2G2M,155MG</interp>
+    <standOff type="wordsplit" corresp="#KT58"><interp type="alignment" select="0">37MG6MG84MG16MG4M2G2M,154MG</interp>
 <entry>
 <form>iṭikkum</form>
 <def>thundering-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kēḷir</form>
 <def>friends/relatives</def>
-</entry>
+<gramGrp><gram type="role">plural</gram>
+</gramGrp></entry>
 <entry>
 <form>num</form>
-<def>your-</def>
-<gramGrp><gram type="role">plural</gram></gramGrp>
-</entry>
+<def>your</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṟai</form>
 <def>task</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>āka</form>
 <def>become</def>
-<gramGrp><gram type="role">infinitive</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>niṟukkal</form>
 <def>weighing</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>āṟṟiṉ-ō</form>
 <def>be-able-if</def>
 <form type="simple">āṟṟiṉ</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
-<note><term xml:lang="ta">āṟṟiṉō</term>: here by <term xml:lang="ta">-ō</term> is achieved a marking of the conditional as the subject of the nominal sentence, connected with a polite request/question: "it [would] certainly be good, if [you at least] considered ...". Cf. KT 98.2, 112.2 conditional + <term xml:lang="ta">-ē</term>.</note>
-</entry>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">āṟṟiṉō</term>: here by <term xml:lang="ta">-ō</term> is achieved a marking of the conditional as the subject of the nominal sentence, connected with a polite request/question: "it [would] certainly be good, if [you at least] considered ...". Cf. KT 98.2, 112.2 conditional + <term xml:lang="ta">-ē</term>.</note></entry>
 <entry>
 <form>naṉṟu-maṟṟilla</form>
 <def>good-it</def>
 <form type="simple">naṉṟu</form>
-<gramGrp type="particle"><m>maṟṟilla</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>maṟṟilla</m></gramGrp>
 </entry>
 <entry>
 <form>ñāyiṟu</form>
 <def>sun</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kāyum</form>
 <def>heating-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>ve<pc>+</pc></form>
 <def>hot</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
-<form>vaṟai1</form>
+<form><pc>~</pc>aṟai</form>
 <def>rock</def>
 </entry>
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kai</form>
 <def>hand</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>il</form>
 <def>not</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ūmaṉ</form>
 <def>dumb-he</def>
-</entry>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṇiṉ</form>
 <def>eye</def>
-<gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kākkum</form>
 <def>guarding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>veṇṇey</form>
 <def>butter</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṇaṅkal</form>
 <def>shrinking</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pōla<pc>+</pc></form>
 <def>be-similar</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>parantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>it-spread</def>
-</entry>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>i<pc>+</pc></form>
 <def>this-</def>
@@ -171,23 +191,25 @@
 <entry>
 <form>nōy</form>
 <def>pain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nōṉṟu</form>
 <def>suffered</def>
-<gramGrp><gram type="role">absolutive</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>koḷaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>taking</def>
-<gramGrp><gram type="role">dative</gram></gramGrp>
-</entry>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>difficult-it</def>
 <form type="simple">aritu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
