@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
             </persName>
           </person>
         </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -63,127 +63,156 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT65">
-    <interp type="alignment" select="0">38MG20MG16M2G20MG14ML16MG16MG5MG3M,157M</interp>
-    <entry>
-    <form>val</form>
-    <def>hard</def>
-    </entry>
-    <entry>
-    <form>paral</form>
-    <def>pebble</def>
-    </entry>
-    <entry>
-    <form>teḷ</form>
-    <def>clear-</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>aṟal</form>
-    <def>water</def>
-    </entry>
-    <entry>
-    <form>parukiya</form>
-    <def>drunk-</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iralai</form>
-    <def>Iralai[ deer]</def>
-    </entry>
-    <entry>
-    <form>taṉ</form>
-    <def>own-</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>iṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>joy</def>
-    </entry>
-    <entry>
-    <form>uṟu</form>
-    <def>have-</def>
-    </entry>
-    <entry>
-    <form>tuṇaiyoṭu</form>
-    <def>companion with</def>
-    </entry>
-    <entry>
-    <form>maṟuvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>mixed up</def>
-    </entry>
-    <entry>
-    <form>ukaḷa<pc>+</pc></form>
-    <def>bounce</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>tāṉ</form>
-    <def>self</def>
-    </entry>
-    <entry>
-    <form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>it came</def>
-    <form type="simple">vantaṉṟu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>taḷi</form>
-    <def>drip-</def>
-    </entry>
-    <entry>
-    <form>taru</form>
-    <def>give-</def>
-    <note><term xml:lang="ta">tā</term> as an auxiliary verb does not seem to change the semantics of the preceding verb, but it adds a nuance of a process that is out of the speaker's control. Further instances are: 66.3, 134.4,6 (<term xml:lang="ta">neri tara</term>), 78.3, 95.1, 134.6, 200.3 (<term xml:lang="ta">iḻi taru</term>), 79.4 (<term xml:lang="ta">pulampu taru</term>), 94.7 (<term xml:lang="ta">cilai tarum</term>), 110.7 (<term xml:lang="ta">eṟi tarum</term>), 162.2 (<term xml:lang="ta">puku tarūum</term>), 195.3,5 (<term xml:lang="ta">eḻu tarum</term>, <term xml:lang="ta">pāyntu uṟu tara</term>).</note>
-    </entry>
-    <entry>
-    <form>taṇ</form>
-    <def>cool</def>
-    </entry>
-    <entry>
-    <form>kār</form>
-    <def>rainy season</def>
-    </entry>
-    <entry>
-    <form>vārāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>come not</def>
-    </entry>
-    <entry>
-    <form>uṟaiyunar</form>
-    <def>staying he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>varal</form>
-    <def>coming</def>
-    </entry>
-    <entry>
-    <form>nacaii</form>
-    <def>longed for</def>
-    </entry>
-    <entry>
-    <form>varunti</form>
-    <def>troubled</def>
-    </entry>
-    <entry>
-    <form>nont<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>pained</def>
-    </entry>
-    <entry>
-    <form>uṟaiya</form>
-    <def>stay</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iruntaṉir-ō</form>
-    <def>you were</def>
-    <form type="simple">iruntaṉir</form>
-    <gram type="role">plural</gram>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
-    <def>say</def>
-    <form type="simple">eṉa</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT65"><interp type="alignment" select="0">38MG20MG16M2G20MG14ML16MG16MG5MG3M,156MG</interp>
+<entry>
+<form>val</form>
+<def>hard</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paral</form>
+<def>pebble</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>teḷ</form>
+<def>be-clear</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>aṟal</form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>parukiya</form>
+<def>drunk</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iralai</form>
+<def>Iralai deer</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>iṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pleasure</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟu</form>
+<def>have</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṇaiyoṭu</form>
+<def>companion</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟuvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>mixed-up</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ukaḷa<pc>+</pc></form>
+<def>frolic</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ</form>
+<def>self(pron.sg.3.)</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>it came</def>
+<form type="simple">vantaṉṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>taḷi</form>
+<def>drip</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>taru</form>
+<def>give</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tā</term> as an auxiliary verb does not seem to change the semantics of the preceding verb, but it adds a nuance of a process that is out of the speaker's control. Further instances are: 66.3, 134.4,6 (<term xml:lang="ta">neri tara</term>), 78.3, 95.1, 134.6, 200.3 (<term xml:lang="ta">iḻi taru</term>), 79.4 (<term xml:lang="ta">pulampu taru</term>), 94.7 (<term xml:lang="ta">cilai tarum</term>), 110.7 (<term xml:lang="ta">eṟi tarum</term>), 162.2 (<term xml:lang="ta">puku tarūum</term>), 195.3,5 (<term xml:lang="ta">eḻu tarum</term>, <term xml:lang="ta">pāyntu uṟu tara</term>).</note></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vārāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>come-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟaiyunar</form>
+<def>stay-he</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>varal</form>
+<def>coming</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nacaii</form>
+<def>longed-for</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>varunti</form>
+<def>suffered</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>nont<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>ached</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟaiya</form>
+<def>stay</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iruntaṉir-ō</form>
+<def>you were</def>
+<form type="simple">iruntaṉir</form>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
