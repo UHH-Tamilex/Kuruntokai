@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
             </persName>
           </person>
         </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -66,104 +66,128 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT64">
-    <interp type="alignment" select="0">15MG27MR52M2G20MG2M,121M</interp>
-    <entry>
-    <form>pal</form>
-    <def>many</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>ā</form>
-    <def>cow</def>
-    </entry>
-    <entry>
-    <form>neṭu</form>
-    <def>long</def>
-    </entry>
-    <entry>
-    <form>neṟikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>way</def>
-    <gram type="role">dative</gram>
-    </entry>
-    <entry>
-    <form>akaṉṟu</form>
-    <def>left</def>
-    </entry>
-    <entry>
-    <form>vanteṉa<pc>+</pc></form>
-    <def>come(abs.) say</def>
-    </entry>
-    <entry>
-    <form>puṉ</form>
-    <def>low</def>
-    </entry>
-    <entry>
-    <form>talai</form>
-    <def>place</def>
-    </entry>
-    <entry>
-    <form>maṉṟam</form>
-    <def>village common</def>
-    </entry>
-    <entry>
-    <form>nōkki</form>
-    <def>looked out</def>
-    </entry>
-    <entry>
-    <form>mālai</form>
-    <def>evening</def>
-    </entry>
-    <entry>
-    <form>maṭa<pc>+</pc></form>
-    <def>inexperience</def>
-    </entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    </entry>
-    <entry>
-    <form>kuḻavi</form>
-    <def>calf</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>aṇavantaṉṉa</form>
-    <def>head-raise-come-like</def>
-    <note><term xml:lang="ta">aṇavā</term> is given in the TL as a lexicalised compound of aṇa + <term xml:lang="ta">vā</term> with the same meaning as the simplex <term xml:lang="ta">aṇa</term> "to raise the head".</note>
-    </entry>
-    <entry>
-    <form>nōyēm</form>
-    <def>pain we</def>
-    </entry>
-    <entry>
-    <form>ākutal</form>
-    <def>becoming</def>
-    </entry>
-    <entry>
-    <form>aṟint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">aṟintu</form>
-    <def>known</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>cēyar</form>
-    <def>distance he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    </entry>
-    <entry>
-    <form>cēy</form>
-    <def>distance</def>
-    </entry>
-    <entry>
-    <form>nāṭṭōr-ē</form>
-    <def>land he</def>
-    <form type="simple">nāṭṭōr</form>
-    <gram type="role">honorific</gram>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT64"><interp type="alignment" select="0">15MG27MR52M2G20MG2M,120MG</interp>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>ā</form>
+<def>cow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>neṟikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>path</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>akaṉṟu</form>
+<def>departed</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>vanteṉa<pc>+</pc></form>
+<def>come-say</def>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>pul</form>
+<def>low</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>talai</form>
+<def>place</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉṟam</form>
+<def>village common</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nōkki</form>
+<def>looked-out</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṭa<pc>+</pc></form>
+<def>inexperience</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuḻavi</form>
+<def>calf</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṇavantaṉṉa</form>
+<def>head-raised-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">aṇavā</term> is given in the TL as a lexicalised compound of aṇa + <term xml:lang="ta">vā</term> with the same meaning as the simplex <term xml:lang="ta">aṇa</term> "to raise the head".</note></entry>
+<entry>
+<form>nōyēm</form>
+<def>pain-we</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>ākutal</form>
+<def>becoming</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>known</def>
+<form type="simple">aṟintu</form>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>cēyar</form>
+<def>distance-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēy</form>
+<def>distance</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭṭōr-ē</form>
+<def>land-he</def>
+<form type="simple">nāṭṭōr</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
