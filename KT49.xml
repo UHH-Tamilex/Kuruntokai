@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -59,113 +59,146 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT49">
-    <interp type="alignment" select="0">79MR45MG2M,128M</interp>
-    <entry>
-    <form>aṇil</form>
-    <def>squirrel</def>
-    </entry>
-    <entry>
-    <form>pal</form>
-    <def>tooth</def>
-    </entry>
-    <entry>
-    <form><pc>+</pc>aṉṉa</form>
-    <def>like</def>
-    </entry>
-    <entry>
-    <form>koṅku</form>
-    <def>pollen</def>
-    </entry>
-    <entry>
-    <form>mutir</form>
-    <def>ripen-</def>
-    <note><term xml:lang="ta">koṅku mutir</term>: TVG understands "satiated with fragrance" and takes as tertio of the comparison the elliptical buds of the <term xml:lang="ta">Muṇṭakam</term> – as would be more in the line of the common motif.</note>
-    </entry>
-    <entry>
-    <form>muṇṭakattu</form>
-    <def>Muṇṭakam( shrub)-</def>
-    </entry>
-    <entry>
-    <form>maṇi<pc>+</pc></form>
-    <def>sapphire</def>
-    </entry>
-    <entry>
-    <form>kēḻ</form>
-    <def>lustre</def>
-    </entry>
-    <entry>
-    <form>aṉṉa</form>
-    <def>like</def>
-    </entry>
-    <entry>
-    <form>mā</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>nīr<pc>+</pc></form>
-    <def>water</def>
-    </entry>
-    <entry>
-    <form>cērppa</form>
-    <def>coast he</def>
-    <gram type="role">vocative</gram>
-    <note><term xml:lang="ta">cērppaṉ</term> presumably has to be taken as a derivative from <term xml:lang="ta">cērppu</term> "coast".</note>
-    </entry>
-    <entry>
-    <form><pc>~</pc>immai</form>
-    <def>this birth</def>
-    </entry>
-    <entry>
-    <form>māṟi</form>
-    <def>changed</def>
-    </entry>
-    <entry>
-    <form>maṟumai</form>
-    <def>next birth</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>āyiṉum</form>
-    <def>become if even</def>
-    </entry>
-    <entry>
-    <form>nī</form>
-    <def>you</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ākiyar</form>
-    <def>may become</def>
-    </entry>
-    <entry>
-    <form>em</form>
-    <def>our-</def>
-    </entry>
-    <entry>
-    <form>kaṇavaṉai</form>
-    <def>husband lord</def>
-    </entry>
-    <entry>
-    <form>yāṉ</form>
-    <def>I</def>
-    </entry>
-    <entry>
-    <form>ākiyar</form>
-    <def>may become</def>
-    </entry>
-    <entry>
-    <form>niṉ</form>
-    <def>your-</def>
-    </entry>
-    <entry>
-    <form>neñcu</form>
-    <def>heart</def>
-    </entry>
-    <entry>
-    <form>nērpavaḷ-ē</form>
-    <def>consent she</def>
-    <form type="simple">nērpavaḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT49"><interp type="alignment" select="0">79MR45MG2M,127MG</interp>
+<entry>
+<form>aṇil</form>
+<def>squirrel</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pal</form>
+<def>tooth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>koṅku</form>
+<def>pollen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mutir</form>
+<def>ripen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṅku mutir</term>: TVG understands "satiated with fragrance" and takes as tertio of the comparison the elliptical buds of the <term xml:lang="ta">Muṇṭakam</term> – as would be more in the line of the common motif.</note></entry>
+<entry>
+<form>muṇṭakattu</form>
+<def>Muṇṭakam shrub</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇi<pc>+</pc></form>
+<def>sapphire</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kēḻ</form>
+<def>lustre</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>mā</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nīr<pc>+</pc></form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cērppa</form>
+<def>coast-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">cērppaṉ</term> presumably has to be taken as a derivative from <term xml:lang="ta">cērppu</term> "coast".</note></entry>
+<entry>
+<form><pc>~</pc>immai</form>
+<def>this birth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>māṟi</form>
+<def>changed</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟumai</form>
+<def>next birth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉum</form>
+<def>become-if-even</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ākiyar</form>
+<def>may become</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇavaṉai</form>
+<def>husband-you</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>ākiyar</form>
+<def>may become</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>neñcu</form>
+<def>heart</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nērpavaḷ-ē</form>
+<def>consent she</def>
+<form type="simple">nērpavaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
