@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -55,47 +55,51 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT52">
-<interp type="alignment" select="0">39MG22M2G8MR21ML5MG35MG14MG2M,153MG</interp>
+<standOff type="wordsplit" corresp="#KT52"><interp type="alignment" select="0">61M2G8MR21ML5MG35MG14MG2M,152MG</interp>
 <entry>
 <form>ār</form>
 <def>be-full-</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḷi</form>
 <def>intoxication</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mititta</form>
-<def>trampled-</def>
-</entry>
+<def>trampled</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tikaḻ</form>
-<def>glitter-</def>
-</entry>
+<def>glitter</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>cilampiṉ</form>
 <def>mountain-side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>cūr</form>
-<def>fear/deity</def>
-<note><term xml:lang="ta">cūr</term> is, according TVG, an evil, or at any rate ambiguous, female deity to be found in the open and connected with Murukaṉ. Another word to denote them is <term xml:lang="ta">cūrara makaḷir</term> (see note on KT 53.7), that is, they are supposed to be a group of deities. The occurrences in the KT do not allow for any conclusions. In two other passages (KT 105.5, 376.2) all that can be gathered is that they/she/he resides in the mountain side. Another connection might be possibly drawn to the <term xml:lang="ta">kaṭavuḷ</term> of KT 87.1 and 105.2, also an ambiguous god once said to inspire fear and to reside in a tree, the other time obviously receiving sacrificial gifts. Just as the <term xml:lang="ta">makaḷir</term> of KT 53, the deity seems to be connected with the avenging of unlawful behaviour.</note>
-</entry>
+<def>Cūr-spirit</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">cūr</term> is, according TVG, an evil, or at any rate ambiguous, female deity to be found in the open and connected with Murukaṉ. Another word to denote them is <term xml:lang="ta">cūrara makaḷir</term> (see note on KT 53.7), that is, they are supposed to be a group of deities. The occurrences in the KT do not allow for any conclusions. In two other passages (KT 105.5, 376.2) all that can be gathered is that they/she/he resides in the mountain side. Another connection might be possibly drawn to the <term xml:lang="ta">kaṭavuḷ</term> of KT 87.1 and 105.2, also an ambiguous god once said to inspire fear and to reside in a tree, the other time obviously receiving sacrificial gifts. Just as the <term xml:lang="ta">makaḷir</term> of KT 53, the deity seems to be connected with the avenging of unlawful behaviour.</note></entry>
 <entry>
-<form>nacaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>yearned-</def>
-<note>For the possibility of analysing <term xml:lang="ta">nacaintaṉaiyai</term> as <term xml:lang="ta">nacainta aṉaiyai</term> see note on <term xml:lang="ta">maṇantaṉaiyam</term> in KT 106.6 (another parallel is <term xml:lang="ta">picaintaṉaiyēm</term> in KT 289.3).</note>
-</entry>
-<entry>
-<form>aṉaiyai</form>
-<def>such-you</def>
-</entry>
+<form>nacaintaṉaiyai</form>
+<def>yearned-such-you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">For the possibility of analysing <term xml:lang="ta">nacaintaṉaiyai</term> as <term xml:lang="ta">nacainta aṉaiyai</term> see note on <term xml:lang="ta">maṇantaṉaiyam</term> in KT 106.6 (another parallel is <term xml:lang="ta">picaintaṉaiyēm</term> in KT 289.3).</note></entry>
 <entry>
 <form><pc>~</pc>āy</form>
 <def>become</def>
@@ -104,86 +108,106 @@
 <entry>
 <form>naṭuṅkal</form>
 <def>trembling</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>seen</def>
 <form type="simple">kaṇṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-<note><term xml:lang="ta">kaṇṭē</term>: the unexpected <term xml:lang="ta">-ē</term> in the middle of a subordinate clause is one of the most difficult of the whole anthology. TVG simply explains it as a metrical necessity: kaṇṭu alone would not be a metrical foot, but in fact absolutives often are.</note>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kaṇṭē</term>: the unexpected <term xml:lang="ta">-ē</term> in the middle of a subordinate clause is one of the most difficult of the whole anthology. TVG simply explains it as a metrical necessity: kaṇṭu alone would not be a metrical foot, but in fact absolutives often are.</note></entry>
 <entry>
 <form>narantam</form>
-<def>bitter-orange</def>
-</entry>
+<def>bitter orange</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṟum</form>
-<def>smelling-</def>
-</entry>
+<def>being-fragrant-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kuvai</form>
 <def>heap</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>irum</form>
 <def>dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kūntal</form>
 <def>tresses</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nirant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>placed-in-row</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>ilaṅku</form>
-<def>shine-</def>
-</entry>
+<def>shine</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>tooth</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṭantai</form>
 <def>girl</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>parantaṉeṉ</form>
 <def>I-was-perplexed</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <superEntry type="ambiguous">
 <entry><entry>
 <form>allaṉ-ō</form>
-<def>not-I</def>
+<def>not-so-I</def>
 <form type="simple">allaṉ</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry></entry>
 <entry><entry>
 <form>allaṉ-ō</form>
-<def>not-he</def>
+<def>not-so-he</def>
 <form type="simple">allaṉ</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry></entry>
 </superEntry>
 <entry>
 <form><pc>~</pc>iṟai</form>
 <def>minuteness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iṟai</form>
 <def>minuteness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
 <form type="simple">yāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
