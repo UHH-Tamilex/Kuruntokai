@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -47,106 +47,129 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT68">
-    <interp type="alignment" select="0">77ML11MG21M2G2M,115M</interp>
-    <entry>
-    <form>pūḻ<pc>+</pc></form>
-    <def>quail</def>
-    </entry>
-    <entry>
-    <form>kāl</form>
-    <def>leg</def>
-    </entry>
-    <entry>
-    <form>aṉṉa</form>
-    <def>like</def>
-    </entry>
-    <entry>
-    <form>cem</form>
-    <def>red</def>
-    </entry>
-    <entry>
-    <form>kāl</form>
-    <def>leg</def>
-    </entry>
-    <entry>
-    <form>uḻuntiṉ</form>
-    <def>Uḻuntu( shrub)</def>
-    <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-    <form>ūḻ</form>
-    <def>age-</def>
-    <note>How to analyse <term xml:lang="ta">ūḻppaṭum? ūḻ</term> sometimes seems to be used nominally (in the sense of "turn"; KT 270.2, 285.4, 293.6), but apart from <term xml:lang="ta">paṭu</term>, it is also combined with <term xml:lang="ta">uṟu</term> (KT 228.1, 278.5), and so it could also be read as a verbal compound, either with <term xml:lang="ta">ūḻ</term>, 4th class, "to age" or 11th class, "to rot".</note>
-    </entry>
-    <entry>
-    <form>p<pc>+</pc>aṭu</form>
-    <def>happening-</def>
-    </entry>
-    <entry>
-    <form>mutu</form>
-    <def>old</def>
-    </entry>
-    <entry>
-    <form>kāy</form>
-    <def>unripe fruit</def>
-    </entry>
-    <entry>
-    <form>uḻai</form>
-    <def>deer</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>iṉam</form>
-    <def>group</def>
-    </entry>
-    <entry>
-    <form>kavarum</form>
-    <def>seizing-</def>
-    </entry>
-    <entry>
-    <form>arum</form>
-    <def>difficult</def>
-    </entry>
-    <entry>
-    <form>paṉi</form>
-    <def>dew</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>aṟciram</form>
-    <def>cold season</def>
-    <note>When is <term xml:lang="ta">aṟciram</term>? Autumn and frost in Tamilnadu? The inner season or an Indo-Aryan loan (> Skt. śiśira- autumn)? TVG suggests analysing: <term xml:lang="ta">al</term> "night" + Skt. śiśira-.</note>
-    </entry>
-    <entry>
-    <form>tīrkkum</form>
-    <def>ending-</def>
-    </entry>
-    <entry>
-    <form>maruntu</form>
-    <def>remedy</def>
-    </entry>
-    <entry>
-    <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>other it</def>
-    </entry>
-    <entry>
-    <form>illai</form>
-    <def>is not</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>avar</form>
-    <def>he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>maṇanta</form>
-    <def>united-</def>
-    </entry>
-    <entry>
-    <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>chest</def>
-    <form type="simple">mārpu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT68"><interp type="alignment" select="0">77ML11MG21M2G2M,114MG</interp>
+<entry>
+<form>pūḻ<pc>+</pc></form>
+<def>quail</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uḻuntiṉ</form>
+<def>Uḻuntu shrub</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ūḻ</form>
+<def>ripeness</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">How to analyse <term xml:lang="ta">ūḻppaṭum? ūḻ</term> sometimes seems to be used nominally (in the sense of "turn"; KT 270.2, 285.4, 293.6), but apart from <term xml:lang="ta">paṭu</term>, it is also combined with <term xml:lang="ta">uṟu</term> (KT 228.1, 278.5), and so it could also be read as a verbal compound, either with <term xml:lang="ta">ūḻ</term>, 4th class, "to age" or 11th class, "to rot".</note></entry>
+<entry>
+<form>p<pc>+</pc>aṭu</form>
+<def>happen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>mutu</form>
+<def>old</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāy</form>
+<def>unripe fruit</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uḻai</form>
+<def>deer</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉam</form>
+<def>group</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kavarum</form>
+<def>seizing-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṟciram</form>
+<def>cold season</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">When is <term xml:lang="ta">aṟciram</term>? Autumn and frost in Tamilnadu? The inner season or an Indo-Aryan loan (&gt; Skt. śiśira- autumn)? TVG suggests analysing: <term xml:lang="ta">al</term> "night" + Skt. śiśira-.</note></entry>
+<entry>
+<form>tīrkkum</form>
+<def>ending-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maruntu</form>
+<def>remedy</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>other-it</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>illai</form>
+<def>is not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">singular</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>avar</form>
+<def>that-one</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇanta</form>
+<def>united</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>chest</def>
+<form type="simple">mārpu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
