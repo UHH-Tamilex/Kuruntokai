@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -56,106 +56,134 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT75">
-    <interp type="alignment" select="0">10MG17MG23ML12MGMG65M2G2M,137M</interp>
-    <entry>
-    <form>nī</form>
-    <def>you</def>
-    </entry>
-    <entry>
-    <form>kaṇṭaṉai-<pc>~</pc>ō</form>
-    <def>you saw</def>
-    <form type="simple">kaṇṭaṉai</form>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form>kaṇṭār<pc>+</pc></form>
-    <def>seen they</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>kēṭṭaṉai-<pc>~</pc>ō</form>
-    <def>you heard</def>
-    <form type="simple">kēṭṭaṉai</form>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form><pc>~</pc>oṉṟu</form>
-    <def>one it</def>
-    </entry>
-    <entry>
-    <form>teḷiya</form>
-    <def>become clear</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>nacaiyiṉam</form>
-    <def>yearning we</def>
-    </entry>
-    <entry>
-    <form>moḻimō</form>
-    <def>speak</def>
-    <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-    <form>veḷ</form>
-    <def>white</def>
-    </entry>
-    <entry>
-    <form>kōṭṭ<pc>(</pc>u<pc>)</pc></form>
-    <def>tusk-</def>
-    </entry>
-    <entry>
-    <form>yāṉai</form>
-    <def>elephant</def>
-    </entry>
-    <entry>
-    <form>cōṇai</form>
-    <def>Cōṇai( river)</def>
-    </entry>
-    <entry>
-    <form>paṭiyum</form>
-    <def>settling-</def>
-    </entry>
-    <entry>
-    <form>poṉ</form>
-    <def>gold</def>
-    </entry>
-    <entry>
-    <form>mali</form>
-    <def>much</def>
-    </entry>
-    <entry>
-    <form>pāṭali</form>
-    <def>Pāṭali</def>
-    </entry>
-    <entry>
-    <form>peṟīiyar</form>
-    <def>may obtain</def>
-    </entry>
-    <entry>
-    <form>yār</form>
-    <def>who</def>
-    </entry>
-    <entry>
-    <form>vāy<pc>+</pc></form>
-    <def>mouth</def>
-    </entry>
-    <entry>
-    <form>kēṭṭaṉai</form>
-    <def>you heard</def>
-    </entry>
-    <entry>
-    <form>kātalar</form>
-    <def>lover</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>varav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>coming</def>
-    <form type="simple">varavu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT75"><interp type="alignment" select="0">10MG17MG23ML12MGMG65M2G2M,136MG</interp>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇṭaṉai-<pc>~</pc>ō</form>
+<def>you saw</def>
+<form type="simple">kaṇṭaṉai</form>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṭār<pc>+</pc></form>
+<def>seen-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>kēṭṭaṉai-<pc>~</pc>ō</form>
+<def>you heard</def>
+<form type="simple">kēṭṭaṉai</form>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>oṉṟu</form>
+<def>one-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>teḷiya</form>
+<def>become-clear</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nacaiyiṉam</form>
+<def>yearning-we</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>moḻimō</form>
+<def>speak</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kōṭṭ<pc>(</pc>i<pc>)</pc></form>
+<def>tusk</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cōṇai</form>
+<def>Cōṇai river</def>
+</entry>
+<entry>
+<form>paṭiyum</form>
+<def>settling-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mali</form>
+<def>be-much</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṭali</form>
+<def>Pāṭali</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>peṟīiyar</form>
+<def>may obtain</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>yār</form>
+<def>who</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vāy<pc>+</pc></form>
+<def>mouth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kēṭṭaṉai</form>
+<def>you heard</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>varav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>coming</def>
+<form type="simple">varavu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
