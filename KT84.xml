@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
             </persName>
           </person>
         </listPerson>   
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -68,110 +68,137 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT84">
-    <interp type="alignment" select="0">64MG6ML30MG9MGMR30MG2M,148M</interp>
-    <entry>
-    <form>peyarttaṉeṉ</form>
-    <def>I removed</def>
-    </entry>
-    <entry>
-    <form>muyaṅka</form>
-    <def>embrace</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>yāṉ</form>
-    <def>I</def>
-    </entry>
-    <entry>
-    <form>viyarttaṉeṉ</form>
-    <def>I was upset/perspired</def>
-    </entry>
-    <entry>
-    <form>eṉṟaṉaḷ</form>
-    <def>said she</def>
-    </entry>
-    <entry>
-    <form>iṉi</form>
-    <def>now</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>aṟintēṉ</form>
-    <def>I knew</def>
-    </entry>
-    <entry>
-    <form>atu</form>
-    <def>that</def>
-    </entry>
-    <entry>
-    <form>tuṉi</form>
-    <def>disgust</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ākutal-ē</form>
-    <def>becoming</def>
-    <form type="simple">ākutal</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>kaḻal</form>
-    <def>anklet/loosen-</def>
-    </entry>
-    <entry>
-    <form>toṭi</form>
-    <def>bracelet</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>āay</form>
-    <def>Āy</def>
-    </entry>
-    <entry>
-    <form>maḻai</form>
-    <def>rain</def>
-    </entry>
-    <entry>
-    <form>tavaḻ</form>
-    <def>cover-</def>
-    </entry>
-    <entry>
-    <form>potiyil</form>
-    <def>Potiyil( mountain)</def>
-    </entry>
-    <entry>
-    <form>vēṅkai-<pc>~</pc>um</form>
-    <form type="simple">vēṅkai</form>
-    <def>Vēṅkai (tree)</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>kāntaḷ-um</form>
-    <form type="simple">kāntaḷ</form>
-    <def>Malabar lily</def>
-    <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-    <form>nāṟi</form>
-    <def>smelled</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>āmpal</form>
-    <def>waterlily</def>
-    </entry>
-    <entry>
-    <form>malariṉum</form>
-    <def>blossom</def>
-    <gramGrp type="affix"><form>iṉum</form></gramGrp>
-    </entry>
-    <entry>
-    <form>tāṉ</form>
-    <def>self</def>
-    </entry>
-    <entry>
-    <form>taṇṇiyaḷ-ē</form>
-    <def>cool she</def>
-    <form type="simple">taṇṇiyaḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT84"><interp type="alignment" select="0">64MG6ML30MG9MGMR30MG2M,147MG</interp>
+<entry>
+<form>peyarttaṉeṉ</form>
+<def>I removed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>muyaṅka</form>
+<def>embrace</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>viyarttaṉeṉ</form>
+<def>I was upset/I-perspired</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟaṉaḷ</form>
+<def>she said</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉi</form>
+<def>now</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṟintēṉ</form>
+<def>I knew</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>tuṉi</form>
+<def>disgust</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ākutal-ē</form>
+<def>becoming</def>
+<form type="simple">ākutal</form>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kaḻal</form>
+<def>anklet(n.)/become-loose(v.r.)</def>
+<gramGrp><gram type="role">verbal root</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āay</form>
+<def>Āy</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tavaḻ</form>
+<def>cover</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>potiyil</form>
+<def>Potiyil mountain</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṅkai-<pc>~</pc>um</form>
+<def>kino tree</def>
+<form type="simple">vēṅkai</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kāntaḷ-um</form>
+<def>Malabar glowry lily</def>
+<form type="simple">kāntaḷ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nāṟi</form>
+<def>been-fragrant</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āmpal</form>
+<def>waterlily</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>malariṉum</form>
+<def>blossom</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ</form>
+<def>self(pron.sg.3.)</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇṇiyaḷ-ē</form>
+<def>cool she</def>
+<form type="simple">taṇṇiyaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
