@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -53,111 +53,138 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT87">
-    <interp type="alignment" select="0">6ML11ML34M2G52MG28MG2M,139M</interp>
-    <entry>
-    <form>maṉṟam</form>
-    <def>village common</def>
-    </entry>
-    <entry>
-    <form>marāatta</form>
-    <def>tree-/Marām( tree)-</def>
-    </entry>
-    <entry>
-    <form>pēem</form>
-    <def>fear</def>
-    </entry>
-    <entry>
-    <form>mutir</form>
-    <def>ripen-</def>
-    </entry>
-    <entry>
-    <form>kaṭavuḷ</form>
-    <def>god</def>
-    </entry>
-    <entry>
-    <form>koṭiyōr<pc>+</pc></form>
-    <def>cruel they</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>teṟūum</form>
-    <def>tormenting-</def>
-    </entry>
-    <entry>
-    <form>eṉpa</form>
-    <def>they say</def>
-    </entry>
-    <entry>
-    <form>yāvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">yāvatu</form>
-    <def>anything</def>
-    <gramGrp type="particle"><m>um</m></gramGrp>
-    </entry>
-    <entry>
-    <form>koṭiyar</form>
-    <def>cruel he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>allar</form>
-    <def>not he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>em</form>
-    <def>our-</def>
-    </entry>
-    <entry>
-    <form>kuṉṟu</form>
-    <def>hill</def>
-    </entry>
-    <entry>
-    <form>keḻu</form>
-    <def>have-</def>
-    </entry>
-    <entry>
-    <form>nāṭar</form>
-    <def>land he</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>pacaii<pc>+</pc></form>
-    <def>been kind</def>
-    </entry>
-    <entry>
-    <form>pacantaṉṟu</form>
-    <def>it became pale</def>
-    </entry>
-    <entry>
-    <form>nutal-ē</form>
-    <def>forehead</def>
-    <form type="simple">nutal</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-    <form>ñekiḻa</form>
-    <def>become loose</def>
-    <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-    <form>ñekiḻntaṉṟu</form>
-    <def>it became loose</def>
-    </entry>
-    <entry>
-    <form>taṭa</form>
-    <def>broad</def>
-    </entry>
-    <entry>
-    <form>meṉ</form>
-    <def>tender</def>
-    </entry>
-    <entry>
-    <form>tōḷ-ē</form>
-    <def>shoulder</def>
-    <form type="simple">tōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT87"><interp type="alignment" select="0">6ML11ML34M2G52MG28MG2M,138MG</interp>
+<entry>
+<form>maṉṟam</form>
+<def>village common</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>marāatta</form>
+<def>tree(adj)/Marām tree(adj.)</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pēem</form>
+<def>fear</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mutir</form>
+<def>mature</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭavuḷ</form>
+<def>god</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭiyōr<pc>+</pc></form>
+<def>cruel-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>teṟūum</form>
+<def>torments</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>yāvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>anything</def>
+<form type="simple">yāvatu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭiyar</form>
+<def>cruel-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>allar</form>
+<def>not-so-he</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṉṟu</form>
+<def>hill</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>keḻu</form>
+<def>have</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭar</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>pacaii<pc>+</pc></form>
+<def>been-kind</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>pacantaṉṟu</form>
+<def>it became pale</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal-ē</form>
+<def>forehead</def>
+<form type="simple">nutal</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>ñekiḻa</form>
+<def>become loose</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>ñekiḻntaṉṟu</form>
+<def>it became loose</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>taṭa</form>
+<def>broad</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+</entry>
+<entry>
+<form>tōḷ-ē</form>
+<def>shoulder</def>
+<form type="simple">tōḷ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
