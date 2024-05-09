@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -50,25 +50,26 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT118">
-<interp type="alignment" select="0">3MG3MLMG81MG5MG22MG2M,122MG</interp>
+<standOff type="wordsplit" corresp="#KT118"><interp type="alignment" select="0">3MG3MLMG81MG5MG22MG2M,122MG</interp>
 <entry>
 <form>puḷ-<pc>+</pc>um</form>
 <def>bird</def>
 <form type="simple">puḷ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>mā-<pc>~</pc>um</form>
 <def>animal</def>
 <form type="simple">mā</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pulampoṭu</form>
 <def>loneliness</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>vatiya</form>
 <def>stay</def>
@@ -76,38 +77,47 @@
 </gramGrp></entry>
 <entry>
 <form>naḷḷeṉa</form>
-<def>middle-say</def>
-<gramGrp><gram type="role">infinitive</gram>
+<def>middle-say(inf.~adv.)</def>
+<gramGrp><gram type="role">adverb</gram>
+<gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
 <form>vanta</form>
-<def>come-</def>
-</entry>
+<def>come</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nār</form>
-<def>bond-</def>
-</entry>
+<def>bond</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
 <def>not</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>mālai</form>
 <def>evening</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>palar</form>
 <def>many</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>puku</form>
-<def>enter-</def>
-</entry>
+<def>enter</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vāyil</form>
 <def>door</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṭaiya<pc>+</pc></form>
 <def>be-secured</def>
@@ -116,18 +126,23 @@
 <entry>
 <form>kaṭavunar</form>
 <def>urge-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>varuvir</form>
-<def>you-come</def>
-<gramGrp><gram type="role">plural</gram>
+<def>you come</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>uḷir-ō</form>
 <def>you-are</def>
 <form type="simple">uḷir</form>
 <gramGrp><gram type="role">plural</gram>
+<gram type="role">second person</gram>
 </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
@@ -140,23 +155,29 @@
 <entry>
 <form>vārār</form>
 <def>come-not-he</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nam</form>
-<def>our-</def>
-</entry>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>kātalōr-ē</form>
 <def>lover</def>
 <form type="simple">kātalōr</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
-    
