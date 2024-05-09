@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -53,70 +53,90 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT97">
-<interp type="alignment" select="0">3MG10MG9MG19M2G17MG24M2G2M,91MG</interp>
+<standOff type="wordsplit" corresp="#KT97"><interp type="alignment" select="0">3MG10MG9MG19M2G17MG24M2G2M,91MG</interp>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
 <form type="simple">yāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>īṇṭaiyēṉ-ē</form>
 <def>here-I</def>
 <form type="simple">īṇṭaiyēṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>eṉ</form>
-<def>my-</def>
-</entry>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>nalaṉ-ē</form>
 <def>innocence</def>
 <form type="simple">nalaṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>āṉā</form>
-<def>end-not-</def>
-<note>Traditionally <term xml:lang="ta">āṉā</term> is analysed as an obsolete adjective meaning "unending" (the TL contains just the two forms <term xml:lang="ta">āṉā</term> and <term xml:lang="ta">āṉāmai</term>). In fact, if one takes all the examples from the old anthologies together, we get large parts of a verbal paradigm, on the positive side complemented by another set of unexplained forms represented, in the KT, by <term xml:lang="ta">āṉṟu</term>, explained by TVG as irregular forms of <term xml:lang="ta">akal</term>, "to widen". My suggestion here is, after long discussions and in accordance with Jean-Luc Chevillard, to propose a verbal root <term xml:lang="ta">°āṉ</term>, "to end", (probably 3rd class), as the common basis for all these forms. Cf. also Rajam 1992, pp. 886-895 for her description of the verb āṉ, "to be content".</note>
-</entry>
+<def>end-not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">Traditionally <term xml:lang="ta">āṉā</term> is analysed as an obsolete adjective meaning "unending" (the TL contains just the two forms <term xml:lang="ta">āṉā</term> and <term xml:lang="ta">āṉāmai</term>). In fact, if one takes all the examples from the old anthologies together, we get large parts of a verbal paradigm, on the positive side complemented by another set of unexplained forms represented, in the KT, by <term xml:lang="ta">āṉṟu</term>, explained by TVG as irregular forms of <term xml:lang="ta">akal</term>, "to widen". My suggestion here is, after long discussions and in accordance with Jean-Luc Chevillard, to propose a verbal root <term xml:lang="ta">°āṉ</term>, "to end", (probably 3rd class), as the common basis for all these forms. Cf. also Rajam 1992, pp. 886-895 for her description of the verb āṉ, "to be content".</note></entry>
 <entry>
 <form>nōyoṭu</form>
 <def>pain</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṉalaḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>seashore-grove-it</def>
 <form type="simple">kāṉalaḵtu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>tuṟaivaṉ</form>
 <def>ghat-he</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>tam</form>
-<def>own-</def>
-<gramGrp><gram type="role">plural</gram>
+<def>self</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ūrāṉ-ē</form>
-<def>village-he/village-not-he</def>
+<def>village-he</def>
 <form type="simple">ūrāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-<note><term xml:lang="ta">ūrāṉ</term>: in the whole Caṅkam literature only here and in PN 144.14 there is the long <term xml:lang="ta">ā</term> in the second syllable. The main reason certainly is to distinguish the usual pronominal noun from a real denominative as it is here (cf. <term xml:lang="ta">nāṭṭar/nāṭaṉ</term>). TVG attributes the long syllable to metrical requirements. Yet another possibility to be considered is <term xml:lang="ta">-āṉ</term> as a locative suffix, as is read by the old commentary on the PN passage ("the man from the ghat [is] in his village").</note>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">masculine</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ūrāṉ</term>: in the whole Caṅkam literature only here and in PN 144.14 there is the long <term xml:lang="ta">ā</term> in the second syllable. The main reason certainly is to distinguish the usual pronominal noun from a real denominative as it is here (cf. <term xml:lang="ta">nāṭṭar/nāṭaṉ</term>). TVG attributes the long syllable to metrical requirements. Yet another possibility to be considered is <term xml:lang="ta">-āṉ</term> as a locative suffix, as is read by the old commentary on the PN passage ("the man from the ghat [is] in his village").</note></entry>
 <entry>
 <form>maṟai</form>
 <def>secret</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>alar</form>
 <def>gossip</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>āki</form>
 <def>become</def>
@@ -126,9 +146,9 @@
 <form>maṉṟattaḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>village-common-it</def>
 <form type="simple">maṉṟattaḵtu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-<note><term xml:lang="ta">maṉṟattaḵt’-ē</term>: the form has to be explained as an oblique to <term xml:lang="ta">maṉṟam + atu</term>, n.sg. (i.e. predicate noun to <term xml:lang="ta">maṟai</term>), changed to <term xml:lang="ta">aḵtu</term> in front of the vowel <term xml:lang="ta">-ē</term> as sandhi demands it.</note>
-</entry>
-</standOff>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">maṉṟattaḵt’-ē</term>: the form has to be explained as an oblique to <term xml:lang="ta">maṉṟam + atu</term>, n.sg. (i.e. predicate noun to <term xml:lang="ta">maṟai</term>), changed to <term xml:lang="ta">aḵtu</term> in front of the vowel <term xml:lang="ta">-ē</term> as sandhi demands it.</note></entry></standOff>
 </TEI>
-    
