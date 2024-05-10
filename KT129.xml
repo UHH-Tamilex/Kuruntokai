@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -51,42 +51,52 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT129">
-<interp type="alignment" select="0">37MG13ML33ML16MG46M2G4MG3M,158MG</interp>
+<standOff type="wordsplit" corresp="#KT129"><interp type="alignment" select="0">37MG13ML33ML16MG46M2G4MG3M,158MG</interp>
 <entry>
 <form>eluva</form>
-<def>bear-he(?)</def>
-<gramGrp><gram type="role">vocative</gram>
+<def>bear-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
 </gramGrp>
-<note><term xml:lang="ta">eluva(ṉ)</term> DEDR 831 "friend"; <term xml:lang="ta">naṇpaṉ</term> DEDR 3563 "friend, companion, associate"; <term xml:lang="ta">tōḻaṉ</term>, m. to <term xml:lang="ta">tōḻi</term> (attested only here, twice in PN and once in Kali). According to the tradition <term xml:lang="ta">eluvaṉ</term> is a word for friend only occurring in the vocative (the TL gives Tolkāppiyam as the source). Etymologically it might, however, be connected with <term xml:lang="ta">elu</term> "bear", which would be fitting in the context, an ironical allusion to "strength".</note>
-</entry>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">eluva(ṉ)</term> DEDR 831 "friend"; <term xml:lang="ta">naṇpaṉ</term> DEDR 3563 "friend, companion, associate"; <term xml:lang="ta">tōḻaṉ</term>, m. to <term xml:lang="ta">tōḻi</term> (attested only here, twice in PN and once in Kali). According to the tradition <term xml:lang="ta">eluvaṉ</term> is a word for friend only occurring in the vocative (the TL gives Tolkāppiyam as the source). Etymologically it might, however, be connected with <term xml:lang="ta">elu</term> "bear", which would be fitting in the context, an ironical allusion to "strength".</note></entry>
 <entry>
 <form>ciṟāar</form>
 <def>little-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>ēm</form>
 <def>confusion</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṟu</form>
-<def>have-</def>
-</entry>
+<def>have</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>naṇpa</form>
 <def>companion</def>
-<gramGrp><gram type="role">vocative</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
 <form>pulavar</form>
-<def>wise/erudite-they(?)</def>
-<gramGrp><gram type="role">honorific</gram>
+<def>erudite-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>tōḻa</form>
 <def>friend</def>
-<gramGrp><gram type="role">vocative</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
 <form>kēḷāy-attai</form>
@@ -94,96 +104,115 @@
 <form type="simple">kēḷāy</form>
 <gramGrp><gram type="role">imperative</gram>
 </gramGrp><gramGrp type="particle"><m>attai</m></gramGrp>
-<note><term xml:lang="ta">attai</term> obviously has to be taken as a particle, one of those that are too rare, at least in the KT, to say anything constructive. The only further reference is KT 389.2, in identical position, that is, at the end of the 2nd line, though there with a directly following vocative <term xml:lang="ta">tōḻi</term>.</note>
-</entry>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">attai</term> obviously has to be taken as a particle, one of those that are too rare, at least in the KT, to say anything constructive. The only further reference is KT 389.2, in identical position, that is, at the end of the 2nd line, though there with a directly following vocative <term xml:lang="ta">tōḻi</term>.</note></entry>
 <entry>
 <form>mā<pc>+</pc></form>
 <def>big/black</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭuvaṇ</form>
-<def>centre/</def>
-<gramGrp><gram type="role">locative</gram>
+<def>centre</def>
+<gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-</entry>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pakkattu<pc>+</pc></form>
-<def>wing-</def>
-<note><term xml:lang="ta">pakkam</term> (presumably Skt. pakṣa- "wing") can also denote the lunar phase, but if what is meant were the 8th day of the lunar phase it should precede <term xml:lang="ta">eṇṇāḷ</term>. As it is, it might also simply be a locative suffix. This, however, would be an isolated instance in the KT.</note>
-</entry>
+<def>wing</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">pakkam</term> (presumably Skt. pakṣa- "wing") can also denote the lunar phase, but if what is meant were the 8th day of the lunar phase it should precede <term xml:lang="ta">eṇṇāḷ</term>. As it is, it might also simply be a locative suffix. This, however, would be an isolated instance in the KT.</note></entry>
 <entry>
 <form>pacu</form>
 <def>green</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tiṅkaḷ</form>
 <def>moon</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟiyāṅku<pc>+</pc></form>
-<def>appeared</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<def>appeared-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>katupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>hair</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ayal</form>
 <def>neighbourhood</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>viḷaṅkum</form>
 <def>shining-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>little</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nutal</form>
 <def>forehead</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>putu<pc>+</pc></form>
 <def>new</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kōḷ</form>
 <def>taking</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṉaiyiṉ</form>
 <def>elephant</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>piṇittaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
-<def>it-has-fettered</def>
+<def>it-fettered</def>
 <form type="simple">piṇittaṟṟu</form>
-<gramGrp type="particle"><m>āl</m></gramGrp>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
 <form>em-<pc>+</pc>ē</form>
-<def>us-</def>
+<def>us</def>
 <form type="simple">em</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
