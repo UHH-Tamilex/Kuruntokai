@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -47,90 +47,111 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT124">
-    <interp type="alignment" select="0">64MG19MG23MG3M,112M</interp>
-    <entry>
-    <form>umaṇar</form>
-    <def>salt merchant</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>cērntu</form>
-    <def>connected</def>
-    </entry>
-    <entry>
-    <form>kaḻinta</form>
-    <def>passed-</def>
-    </entry>
-    <entry>
-    <form>maruṅkiṉ</form>
-    <def>side</def>
-    <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-    <form>akal</form>
-    <def>widen-</def>
-    </entry>
-    <entry>
-    <form>talai</form>
-    <def>place</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ūr</form>
-    <def>village</def>
-    </entry>
-    <entry>
-    <form>pāḻttaṉṉa</form>
-    <def>ruined like</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ōmaiyam</form>
-    <def>Ōmai</def>
-    <gramGrp type="affix"><form>am</form></gramGrp>
-    </entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>wilderness</def>
-    </entry>
-    <entry>
-    <form>iṉṉā</form>
-    <def>pleasant not it</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>eṉṟir</form>
-    <def>you say(sub.pl.)</def>
-    </entry>
-    <entry>
-    <form>āyiṉ</form>
-    <def>if</def>
-    </entry>
-    <entry>
-    <form>iṉiya-<pc>~</pc>ō</form>
-    <def>pleasant they</def>
-    <form type="simple">iṉiya</form>
-    <gram type="role">neuter plural</gram>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-    <form>peruma</form>
-    <def>big one</def>
-    <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-    <form>tamiyōrkku</form>
-    <def>alone they</def>
-    <gram type="role">honorific dative</gram>
-    </entry>
-    <entry>
-    <form>maṉai-<pc>~</pc>ē</form>
-    <def>house</def>
-    <form type="simple">maṉai</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#KT124"><interp type="alignment" select="0">64MG19MG23MG3M,111MG</interp>
+<entry>
+<form>umaṇar</form>
+<def>salt-merchant</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>cērntu</form>
+<def>connected</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻinta</form>
+<def>passed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>akal</form>
+<def>widen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>talai</form>
+<def>area</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ūr</form>
+<def>village</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāḻttaṉṉa</form>
+<def>ruined-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ōmaiyam</form>
+<def>Ōmai tree</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wilderness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉṉā</form>
+<def>pleasing-not-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṟir</form>
+<def>say-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">plural</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉiya-<pc>~</pc>ō</form>
+<def>pleasing-they</def>
+<form type="simple">iṉiya</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>peruma</form>
+<def>great-one</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>tamiyōrkku</form>
+<def>alone-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉai-<pc>~</pc>ē</form>
+<def>house</def>
+<form type="simple">maṉai</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
