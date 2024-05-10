@@ -13,15 +13,15 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -48,16 +48,14 @@
           <l rend="indent2">– good indeed [would be]</l>
           <l>the intimacy, which has mixed [us] with the man</l>
           <l rend="indent2">from the transverse mountains,</l>
-          <l rend="indent">where there falls down like a snake taking over<note place="foot">Is <term
-                xml:lang="ta">koḷ</term> used here to describe the advance of the snake? It might be
+          <l rend="indent">where there falls down like a snake taking over<note place="foot">Is <term xml:lang="ta">koḷ</term> used here to describe the advance of the snake? It might be
             "to take the ground" in the sense of "occupy" (to leave no room for others) or simply
             "to cover a route", then, because of the connection with the snake, a winding movement,
             an apt image for a waterfall which does not run in a straight line.</note> the earth</l>
           <l rend="indent">the angrily descending waterfall, which resounds,</l>
           <l rend="indent3">dashing against the stones,</l>
           <l rend="indent">attacking, so that the swaying twigs full of flowers</l>
-          <l rend="indent">of the long-trunked Vēṅkai, thick on the low height<note place="foot"><term
-                xml:lang="ta">poṟai</term> seems to be just another of the numerous words in the
+          <l rend="indent">of the long-trunked Vēṅkai, thick on the low height<note place="foot"><term xml:lang="ta">poṟai</term> seems to be just another of the numerous words in the
             direction of "mountain, hill" and the like. TVG takes it to mean "round stone",
             rendering the whole phrase <term xml:lang="ta">kuṟum poṟai taṭaiiya neṭum tāḷ vēṅkai</term>
             as "the <term xml:lang="ta">Vēṅkai</term> trees with high bases which had become broad
@@ -67,71 +65,84 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT134">
-<interp type="alignment" select="0">4MG20MG3MG4ML4MG83MG73M2G2M,200MG</interp>
+<standOff type="wordsplit" corresp="#KT134"><interp type="alignment" select="0">4MG20MG3MG4ML4MG83MG73M2G2M,200MG</interp>
 <entry>
 <form>amma-vāḻi</form>
-<def>ive</def>
+<def>live-you</def>
 <form type="simple">vāḻi</form>
-<gramGrp type="particle"><m>amma</m></gramGrp>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nammoṭu</form>
 <def>us</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>piriv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>separation</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>is-not</def>
-</entry>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>āyiṉ</form>
 <def>if</def>
-</entry>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
 <entry>
 <form>naṉṟu-maṟṟilla</form>
-<def>good-itmaṉtill</def>
+<def>good-it</def>
 <form type="simple">naṉṟu</form>
-<gramGrp type="affix"><m>a</m></gramGrp>
-<gramGrp type="particle"><m>maṟṟilla</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>maṟṟilla</m></gramGrp>
 </entry>
 <entry>
 <form>kuṟum</form>
 <def>short</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>poṟai<pc>+</pc></form>
 <def>height</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taṭaiiya</form>
 <def>plump(?)</def>
-<note><term xml:lang="ta">taṭaiiya</term> is a morphological problem. TVG takes it as the perfective <term xml:lang="ta">peyareccam</term> of a verb <term xml:lang="ta">taṭai-ttal</term> "to be round, plump", which is, of course, what it looks like, but unfortunately this seems to be the only derivation available (apart from taṭaii, not attested in the KT).</note>
-</entry>
+<gramGrp/>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">taṭaiiya</term> is a morphological problem. TVG takes it as the perfective <term xml:lang="ta">peyareccam</term> of a verb <term xml:lang="ta">taṭai-ttal</term> "to be round, plump", which is, of course, what it looks like, but unfortunately this seems to be the only derivation available (apart from taṭaii, not attested in the KT).</note></entry>
 <entry>
 <form>neṭum</form>
 <def>long</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tāḷ</form>
 <def>leg</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēṅkai<pc>+</pc></form>
-<def>Vēṅkai</def>
-</entry>
+<def>kino tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pū</form>
 <def>flower</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uṭai</form>
 <def>possess</def>
@@ -139,88 +150,107 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>alaṅku</form>
-<def>sway-</def>
-</entry>
+<def>sway</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṉai</form>
-<def>twig</def>
-</entry>
+<def>branch</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pulampa<pc>+</pc></form>
 <def>become-lonely</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>tākki<pc>+</pc></form>
 <def>attacked</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>kal</form>
 <def>stone</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>porut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>beaten</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>iraṅkum</form>
 <def>sounding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>katam</form>
 <def>anger</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vīḻ</form>
-<def>descend-</def>
-</entry>
+<def>descend</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>aruvi</form>
 <def>waterfall</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nilam</form>
-<def>earth</def>
-</entry>
+<def>ground</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koḷ</form>
-<def>take-</def>
-</entry>
+<def>take</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>pāmpiṉ</form>
 <def>snake</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>iḻi</form>
-<def>fall-</def>
-</entry>
+<def>fall</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>tarum</form>
 <def>giving-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>vilaṅku</form>
-<def>transverse-</def>
-</entry>
+<def>be-transverse</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>malai</form>
 <def>mountain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭaṉoṭu</form>
 <def>land-he</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kalanta</form>
-<def>mixed-</def>
-</entry>
+<def>mixed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>intimacy</def>
 <form type="simple">naṭpu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
