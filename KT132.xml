@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -61,50 +61,62 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT132">
-<interp type="alignment" select="0">65MG12MG5M2G4MG24ML47MG7MG2M,173MG</interp>
+<standOff type="wordsplit" corresp="#KT132"><interp type="alignment" select="0">65MG12MG5M2G4MG24ML39MG8MG7MG2M,174MG</interp>
 <entry>
 <form>kavavu<pc>+</pc></form>
 <def>copulation</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭum</form>
 <def>quick</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kuraiyaḷ</form>
 <def>jubilation-she</def>
-<note>Cām. scans the feet as <term xml:lang="ta">kuvavu kaṭuṅkuraiyaḷ</term>, but does the parallel in KT 350.2 (<term xml:lang="ta">paṉikaṭuṅ kuraiyam</term>) not show that the split after <term xml:lang="ta">kaṭum</term> is to be preferred?</note>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">Cām. scans the feet as <term xml:lang="ta">kuvavu kaṭuṅkuraiyaḷ</term>, but does the parallel in KT 350.2 (<term xml:lang="ta">paṉikaṭuṅ kuraiyam</term>) not show that the split after <term xml:lang="ta">kaṭum</term> is to be preferred?</note></entry>
 <entry>
 <form>kāmar</form>
-<def>desire</def>
-</entry>
+<def>desirable</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṉappiṉaḷ</form>
 <def>beauty-she</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>kuvavu</form>
 <def>heap</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>meṉ</form>
+<form>mel</form>
 <def>soft</def>
 </entry>
 <entry>
 <form>mulaiyaḷ</form>
 <def>breast-she</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>koṭi<pc>+</pc></form>
 <def>creeper</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kūntalaḷ-ē</form>
-<def>hair-she</def>
+<def>tresses-she</def>
 <form type="simple">kūntalaḷ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>yāṅku</form>
@@ -113,85 +125,104 @@
 <entry>
 <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>forgotten</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>amaik<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-<def>I-am-quiet</def>
+<def>be-quiet-I</def>
 <form type="simple">amaiku</form>
 <gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
 <form type="simple">yāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>ñāṅkar<pc>+</pc></form>
 <def>afterwards</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭum</form>
 <def>quick</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>curai</form>
 <def>udder</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>āṉ</form>
 <def>cow</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭuṅku</form>
-<def>tremble-</def>
-</entry>
+<def>tremble</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>talai<pc>+</pc></form>
 <def>head</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kuḻavi</form>
 <def>calf</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tāy</form>
 <def>mother</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṇ</form>
-<def>see-</def>
-</entry>
+<def>see</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>viruppiṉ</form>
 <def>longing</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
-<form>cāa</form>
+<form>cāay</form>
 <def>exhausted</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>nōkkiṉaḷ-ē</form>
-<def>she-looked</def>
+<def>she-looked-at</def>
 <form type="simple">nōkkiṉaḷ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>māayōḷ-ē</form>
-<def>black-she</def>
+<def>dark-she</def>
 <form type="simple">māayōḷ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
