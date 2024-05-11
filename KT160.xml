@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -44,78 +44,85 @@
            <l>who has not come even with the great, cool north wind</l>
            <l rend="indent">at deepest midnight, where the Aṉṟil bird, [its] head red like fire,</l>
            <l rend="indent">with<note place="foot">Or <term xml:lang="ta">peṭaiyoṭu ... naralum</term>: "calls out for its female"?</note> its female, [its] beak bent like a prawn,</l>
-           <l rend="indent">calls out, such that activity ends</l>
-           <l rend="indent">in those who are separated, in the nest on a twig high in the tree?</l>
+           <l rend="indent">calls out, such that those who are separated</l>
+           <l rend="indent">feel prostrate, in the nest on a twig high in the tree?</l>
 
 
             </lg>
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT160">
-<interp type="alignment" select="0">99MR27MG11M2G20M2G2M,164MG</interp>
+<standOff type="wordsplit" corresp="#KT160"><interp type="alignment" select="0">99MR27MG11M2G20M2G2M,164MG</interp>
 <entry>
 <form>neruppiṉ</form>
 <def>fire</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>cem</form>
 <def>red</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>talai</form>
 <def>head</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṉṟil</form>
 <def>Aṉṟil(-bird)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>iṟaviṉ</form>
 <def>prawn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>koṭu</form>
 <def>curved</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vāy<pc>+</pc></form>
 <def>mouth</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>peṭaiyoṭu</form>
 <def>female-bird</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>taṭaviṉ</form>
 <def>tree</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<note><term xml:lang="ta">taṭavu</term> is little attested; the TL says only <q>a tree</q>; DEDR 3020 gives <term xml:lang="ta">taṭa</term> <q>large, broad, full</q>, respectively <term xml:lang="ta">taṭavu</term> <q>largeness, greatness</q>, that is, perhaps a lexicalised metaphor (the tree as the broad one). Further <term xml:lang="ta">Caṅkam</term> references are: NA 19.1, 235.1; PN 105.2, 199.1, 201.8.</note>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">taṭavu</term> is little attested; the TL says only <q>a tree</q>; DEDR 3020 gives <term xml:lang="ta">taṭa</term> <q>large, broad, full</q>, respectively <term xml:lang="ta">taṭavu</term> <q>largeness, greatness</q>, that is, perhaps a lexicalised metaphor (the tree as the broad one). Further <term xml:lang="ta">Caṅkam</term> references are: NA 19.1, 235.1; PN 105.2, 199.1, 201.8.</note></entry>
 <entry>
 <form>ōṅku</form>
 <def>high</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṉai<pc>+</pc></form>
 <def>twig</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭciyiṉ</form>
 <def>nest</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pirintōr</form>
 <def>separated-they</def>
@@ -124,36 +131,44 @@
 <entry>
 <form>kai</form>
 <def>action</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṟa</form>
 <def>end</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>naralum</form>
 <def>calling-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>naḷḷeṉ</form>
 <def>middle-say-</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>yāmattu<pc>+</pc></form>
 <def>midnight-</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṭai-<pc>~</pc>um</form>
 <def>north wind</def>
 <form type="simple">vāṭai</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vārār</form>
@@ -169,11 +184,13 @@
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nam</form>
 <def>our-</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kātalar</form>
 <def>lover</def>
@@ -183,8 +200,7 @@
 <form>varav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>coming</def>
 <form type="simple">varavu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
