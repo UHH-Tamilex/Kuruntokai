@@ -13,13 +13,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -42,8 +42,7 @@
           <l>Here<note place="foot"><term xml:lang="ta">īṇṭu</term> "here" can be used like Skt. iha
             as a particle of universalisation (cf. Srinivasan 1967: 194 n. 131).</note> [is] the end
             to destitution</l>
-          <l rend="indent3">– to say: I traverse<note place="foot">Unclear is whether <term
-                xml:lang="ta">ciṟu neṟi</term> has to be taken as a direct object to <term xml:lang="ta">iṟappal</term>.
+          <l rend="indent3">– to say: I traverse<note place="foot">Unclear is whether <term xml:lang="ta">ciṟu neṟi</term> has to be taken as a direct object to <term xml:lang="ta">iṟappal</term>.
             An elliptical statement is equally possible, which would mean to supplement one of the
             usual direct objects of <term xml:lang="ta">iṟa-ttal</term> like <term xml:lang="ta">
             kāṭu</term> and to understand the <term xml:lang="ta">eṉṉātu</term> sentence as a
@@ -69,33 +68,39 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT151">
-<interp type="alignment" select="0">122MG29MG3MG13M2G2M,173MG</interp>
+<standOff type="wordsplit" corresp="#KT151"><interp type="alignment" select="0">122MG29MG3MG13M2G2M,173MG</interp>
 <entry>
 <form>vaṅkā<pc>+</pc></form>
-<def>Vaṅkā(-bird)</def>
-<gramGrp></gramGrp></entry>
+<def>Vaṅkā bird</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭanta</form>
-<def>left-behind-</def>
-<note><term xml:lang="ta">kaṭa</term> is not easy to understand in this context. Literally (DEDR 1109) it is something like "to overcome". The further construction here with <term xml:lang="ta">eḻāl uṟa</term>, though, gives rise to the presupposition that the female bird is further specified by <term xml:lang="ta">vaṅkā</term>, so that "overcome" as a meaning can be excluded, if one does not want to surmise that an unspecified kind of bird is subject to attacks from two enemies.</note>
-</entry>
+<def>left-behind</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kaṭa</term> is not easy to understand in this context. Literally (DEDR 1109) it is something like "to overcome". The further construction here with <term xml:lang="ta">eḻāl uṟa</term>, though, gives rise to the presupposition that the female bird is further specified by <term xml:lang="ta">vaṅkā</term>, so that "overcome" as a meaning can be excluded, if one does not want to surmise that an unspecified kind of bird is subject to attacks from two enemies.</note></entry>
 <entry>
 <form>cem</form>
 <def>red</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kāl</form>
 <def>leg</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pēṭai</form>
-<def>female-bird</def>
-</entry>
+<def>she-bird</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eḻāl</form>
-<def>Eḻāl(-bird)</def>
-<gramGrp></gramGrp></entry>
+<def>Eḻāl bird</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṟa</form>
 <def>have</def>
@@ -104,32 +109,40 @@
 <entry>
 <form>vīḻnteṉa<pc>+</pc></form>
 <def>fallen-say</def>
-</entry>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇavaṉ</form>
 <def>husband</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṇātu</form>
 <def>see-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>kuḻal</form>
 <def>flute</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>icai<pc>+</pc></form>
 <def>sound</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kurala</form>
 <def>voice</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṟum</form>
 <def>short</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>pala</form>
 <def>many</def>
@@ -138,44 +151,55 @@
 <entry>
 <form><pc>~</pc>akavum</form>
 <def>calling-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṉṟu</form>
 <def>hill</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>keḻu</form>
-<def>have-</def>
-</entry>
+<def>have</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>little</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>neṟi</form>
-<def>way</def>
-</entry>
+<def>path</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ariya</form>
 <def>difficult-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉṉātu</form>
 <def>say-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>maṟapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>forgetting</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>arum</form>
 <def>difficult</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kātali</form>
 <def>lover</def>
-<gramGrp><gram type="role">feminine</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>oḻiya</form>
@@ -185,11 +209,17 @@
 <entry>
 <form><pc>~</pc>iṟappal</form>
 <def>I-traverse</def>
-</entry>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉpat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>saying-it</def>
-</entry>
+<def>say-it</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>īṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>here</def>
@@ -203,8 +233,7 @@
 <form>muṭiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>end</def>
 <form type="simple">muṭivu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
