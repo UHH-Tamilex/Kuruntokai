@@ -12,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +24,8 @@
             </persName>
           </person>
         </listPerson>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -50,7 +50,7 @@
            <l rend="indent">Seeing [once] her natural adornment, many dark tresses</l>
            <l rend="indent">– dissolving like a cartload of salt<note place="foot"><term xml:lang="ta">uppu oy cakaṭam</term>: the word order here suggests that it is the cart, <term xml:lang="ta">cakaṭam</term>, which is the subject of <term xml:lang="ta">vīntu</term>, which would be, of course, a slanting image. TVG explains this as a poetic change of word order (i.e. to be interpreted as <term xml:lang="ta">cakaṭam oy uppu</term>), but it might also be taken as above.</note> which stood</l>
            <l rend="indent3">on the difficult shore<note place="foot"><term xml:lang="ta">arum karai</term>: this expression seems to be an elliptical formulation (as quite usual with <term xml:lang="ta">arum</term>) for a shore difficult to pass, presumably since the sand is deep and it is difficult to draw a cart across when passing the river.</note></l>
-           <l rend="indent">when the great raining came,</l>
+           <l rend="indent">in the great rain,</l>
            <l>you were keen on what you desired,<note place="foot"><term xml:lang="ta">makiḻntataṉṟalaiyum</term> and <term xml:lang="ta">viḻaintataṉṟalaiyum</term> presumably have to be analysed with Cām. as participial nouns of the p.a., n.sg. obl. + <term xml:lang="ta">talai</term> + -<term xml:lang="ta">um</term>, but what is the function of -<term xml:lang="ta">talai</term> here? Here it seems to be a mere locative suffix, without any connotation of "on top of", as in the morphological parallels in KT 240.4, 377.2). And what is the function of -<term xml:lang="ta">um</term>? Another possible analysis would be <term xml:lang="ta">makiḻntu/viḻaintu ataṉ-talai-y-um</term>, that is, absolutive plus a kind of adverb "moreover" (which seems to be the usual meaning when it follows a finite verb as in KT 161.2, 302.2, 366.3), which would be more favourable to Srin.'s interpretation (1+2b).</note></l>
            <l rend="indent">like a toddy-drinker on what had [already] delighted [him].</l>
            <lg type="alternate" resp="#Srin" sameAs="1+2b">
@@ -64,12 +64,15 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT165">
-<interp type="alignment" select="0">16MG2MR5MG23MG2MR6MG26MG33MG28M2G2M,152MG</interp>
+<standOff type="wordsplit" corresp="#KT165"><interp type="alignment" select="0">16MG2MR5MG23MG2MR6MG26MG33MG28M2G2M,152MG</interp>
 <entry>
 <form>makiḻntataṉ</form>
 <def>delighted-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">oblique</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>talai-<pc>~</pc>um</form>
 <def>top</def>
@@ -80,16 +83,22 @@
 <entry>
 <form>naṟav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>toddy</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṇṭāṅku</form>
-<def>eaten</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<def>drunk-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>viḻaintataṉ</form>
 <def>desired-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">oblique</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>talai-<pc>~</pc>um</form>
 <def>top</def>
@@ -100,86 +109,108 @@
 <entry>
 <form>nī</form>
 <def>you</def>
-</entry>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form>veyt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>hot-it</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>uṟṟaṉai</form>
 <def>you-had</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>arum</form>
 <def>difficult</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>karai</form>
 <def>shore</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉṟa</form>
 <def>stood-</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>upp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>salt</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>oy</form>
-<def>carry-</def>
-</entry>
+<def>carry</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>cakaṭam</form>
 <def>cart</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>peyal</form>
 <def>raining</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>talai</form>
-<def>offer-</def>
-</entry>
+<def>area</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>avintāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>ceased</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>ivaḷ</form>
-<def>she</def>
-</entry>
+<def>this-one</def>
+<gramGrp><gram type="role">feminine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>irum</form>
 <def>dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>many</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>kūntal</form>
 <def>tresses</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iyal</form>
 <def>nature</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṇi</form>
 <def>adornment</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>seen</def>
 <form type="simple">kaṇṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
-    
