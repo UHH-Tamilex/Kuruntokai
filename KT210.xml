@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -48,7 +48,7 @@
           <l rend="indent2">of a hot dish of white rice stewed together with the whole</l>
           <l rend="indent3">of Toṇṭi's <note place="foot">The positioning of <term xml:lang="ta">
             toṇṭi </term> is slightly awkward. We would expect it to stand in a genitive relation
-            with <term></term> ney and thus should precede it. Either it is literally "together with
+            with <term/> ney and thus should precede it. Either it is literally "together with
             the whole Toṇṭi [possesses] in ghee", or, as T.V.G. takes it, <term xml:lang="ta">
             muḻuṭaṉ </term> has to be taken together with <term xml:lang="ta">cōṟu</term> at the end
             of the line (the ghee of Naḷḷi's forest together with the whole cooked rice of Toṇṭi).</note>
@@ -69,144 +69,176 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT210">
-    <interp type="alignment" select="0">17MG33MG24MG9MG12MG14ML49MG3M,167MG</interp>
-    <entry>
-      <form>tiṇ</form>
-      <def>firm</def>
-    </entry>
-    <entry>
-      <form>tēr</form>
-      <def>chariot</def>
-    </entry>
-    <entry>
-      <form>naḷḷi</form>
-      <def>Naḷḷi</def>
-    </entry>
-    <entry>
-      <form>kāṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>forest-</def>
-    </entry>
-    <entry>
-      <form>aṇṭar</form>
-      <def>herdsman</def>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>pal</form>
-      <def>many</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>ā</form>
-      <def>cow</def>
-    </entry>
-    <entry>
-      <form>payanta</form>
-      <def>yielded-</def>
-    </entry>
-    <entry>
-      <form>neyyiṉ</form>
-      <def>ghee</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>toṇṭi</form>
-      <def>Toṇṭi</def>
-    </entry>
-    <entry>
-      <form>muḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>whole-it</def>
-    </entry>
-    <entry>
-      <form>uṭaṉ</form>
-      <def>with</def>
-    </entry>
-    <entry>
-      <form>viḷainta</form>
-      <def>ripened-</def>
-    </entry>
-    <entry>
-      <form>veḷ</form>
-      <def>white</def>
-    </entry>
-    <entry>
-      <form>nel</form>
-      <def>rice</def>
-    </entry>
-    <entry>
-      <form>vem</form>
-      <def>hot</def>
-    </entry>
-    <entry>
-      <form>cōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>cooked-rice</def>
-    </entry>
-    <entry>
-      <form>oru</form>
-      <def>one</def>
-    </entry>
-    <entry>
-      <form>kalatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>pot-</def>
-    </entry>
-    <entry>
-      <form>ēntiṉum</form>
-      <def>receive-if-also</def>
-    </entry>
-    <entry>
-      <form>ciṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>little-it</def>
-    </entry>
-    <entry>
-      <form>eṉ</form>
-      <def>my-</def>
-    </entry>
-    <entry>
-      <form>tōḻi</form>
-      <def>friend</def>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>tōḷ</form>
-      <def>shoulder</def>
-    </entry>
-    <entry>
-      <form>nekiḻtta</form>
-      <def>loosened-</def>
-    </entry>
-    <entry>
-      <form>cellaṟku</form>
-      <def>distress</def>
-      <gram type="role">dative</gram>
-    </entry>
-    <entry>
-      <form>viruntu</form>
-      <def>feast</def>
-    </entry>
-    <entry>
-      <form>vara<pc>+</pc></form>
-      <def>come</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>karainta</form>
-      <def>cried-</def>
-    </entry>
-    <entry>
-      <form>kākkaiyatu</form>
-      <def>crow</def>
-      <gram type="role">genitive</gram>
-      <note><term xml:lang="ta">kākkaiyatu</term> :is <term xml:lang="ta">-atu</term> here a gen.
-        suffix? Or can it be understood as an pronominal noun n.sg. in attributive position?</note>
-    </entry>
-    <entry>
-      <form>pali-<pc>~</pc>ē</form>
-      <def>offering</def>
-      <form type="simple">pali</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT210"><interp type="alignment" select="0">17MG33MG24MG9MG12MG14ML49MG3M,167MG</interp>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naḷḷi</form>
+<def>Naḷḷi</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṉatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>forest</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>aṇṭar</form>
+<def>herdsman</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>ā</form>
+<def>cow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>payanta</form>
+<def>yielded</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>neyyiṉ</form>
+<def>ghee</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>toṇṭi</form>
+<def>Toṇṭi</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>muḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>whole</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaṉ</form>
+<def>together</def>
+</entry>
+<entry>
+<form>viḷainta</form>
+<def>ripened</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>cōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>cooked-rice</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>kalatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>vessel</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ēntiṉum</form>
+<def>offer-if-even</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>little-it</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nekiḻtta</form>
+<def>loosened</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>cellaṟku</form>
+<def>distress</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>viruntu</form>
+<def>feast</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vara<pc>+</pc></form>
+<def>come</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>karainta</form>
+<def>cried</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kākkaiyatu</form>
+<def>crow</def>
+<gramGrp><gram type="role">genitive</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kākkaiyatu</term> :is <term xml:lang="ta">-atu</term> here a gen.
+        suffix? Or can it be understood as an pronominal noun n.sg. in attributive position?</note></entry>
+<entry>
+<form>pali-<pc>~</pc>ē</form>
+<def>offering</def>
+<form type="simple">pali</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
