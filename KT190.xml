@@ -13,13 +13,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -53,56 +53,60 @@
             </choice> in the manger with
             many cows </l>
           <l rend="indent">that sounds each time the good bull stirs</l>
-          <l rend="indent">at midnight [after] half of the darkness<note place="foot"><term
-                xml:lang="ta">arai iruḷ naṭunāḷ</term>: how exactly to understand this phrase? At
+          <l rend="indent">at midnight [after] half of the darkness<note place="foot"><term xml:lang="ta">arai iruḷ naṭunāḷ</term>: how exactly to understand this phrase? At
             midnight half of the dark time has already passed?</note>,</l>
           <l rend="indent3">when strong thunder roars,</l>
           <l rend="indent">so that the green<note place="foot"><term xml:lang="ta">paintalai</term>: here the
             question seems legitimate whether this is a misreading of <term xml:lang="ta">paittalai</term>,
             "hooded head", i.e. part of the usual description of the cobra (cf. KT 391.3).</note>
             head of the striped [and] spotted furious<note place="foot"><term xml:lang="ta">poṟi
-            varai | vem ciṉa araviṉ</term>: what is the impact of these epithets to <term
-                xml:lang="ta">aravu</term>? Are we supposed to recognise the kind of snake?</note></l>
+            varai | vem ciṉa araviṉ</term>: what is the impact of these epithets to <term xml:lang="ta">aravu</term>? Are we supposed to recognise the kind of snake?</note></l>
           <l rend="indent4">snake is severed?</l>
         </lg>
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT190">
-<interp type="alignment" select="0">26ML29MG13MG26M3G27MG4ML15ML3MG3ML5MG9MG21MG13MG2M,210MG</interp>
+<standOff type="wordsplit" corresp="#KT190"><interp type="alignment" select="0">26ML29MG13MG26M3G27MG4ML15ML3MG3ML5MG9MG21MG13MG2M,210MG</interp>
 <entry>
 <form>neṟi</form>
-<def>curl-</def>
-</entry>
+<def>curl</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>irum</form>
 <def>dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>katuppoṭu</form>
 <def>hair</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḷ</form>
 <def>shoulder</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nīvi<pc>+</pc></form>
 <def>stroked</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>ceṟi</form>
-<def>tight</def>
-</entry>
+<def>be-tight</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷai</form>
 <def>bangle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nekiḻa<pc>+</pc></form>
 <def>become-loose</def>
@@ -110,8 +114,9 @@
 </gramGrp></entry>
 <entry>
 <form>cey</form>
-<def>make-</def>
-</entry>
+<def>make</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>poruṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>wealth</def>
@@ -120,93 +125,117 @@
 <entry>
 <form>akaṉṟōr</form>
 <def>departed-he</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>aṟivar-kol</form>
 <def>he-knows</def>
 <form type="simple">aṟivar</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
-</entry>
+<def>live-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>poṟi</form>
 <def>spot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vari</form>
-<def>line</def>
-</entry>
+<def>stripe</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vem</form>
 <def>hot</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṉa<pc>(</pc>m<pc>)</pc></form>
 <def>anger</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>araviṉ</form>
 <def>snake</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>paim</form>
 <def>green</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>talai</form>
 <def>head</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tumiya</form>
-<def>be-severed</def>
+<def>be-cut</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>urav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>strength</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>urum</form>
 <def>thunder</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>muraṟum</form>
-<def>roaring-</def>
-</entry>
+<def>rumbling-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>arai</form>
 <def>half</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iruḷ</form>
 <def>darkness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭu-nāḷ</form>
 <def>middle-day</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>ēṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bull</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iyaṅku</form>
 <def>stir</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>ever</def>
@@ -215,32 +244,38 @@
 <entry>
 <form>iyampum</form>
 <def>sounding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>many</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>āṉ</form>
 <def>cow</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>toḻuvatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>manger-</def>
-</entry>
+<def>manger</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇi<pc>+</pc></form>
 <def>bell</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kural-ē</form>
 <def>voice</def>
 <form type="simple">kural</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
