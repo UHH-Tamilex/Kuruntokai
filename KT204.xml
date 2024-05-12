@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -59,102 +59,126 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT204">
-    <interp type="alignment" select="0">24M2G6MG6M2G44MG18M2G16MG2M,124MG</interp>
-    <entry>
-      <form>kāmam</form>
-      <def>desire</def>
-    </entry>
-    <entry>
-      <form>kāmam</form>
-      <def>desire</def>
-    </entry>
-    <entry>
-      <form>eṉpa</form>
-      <def>they-say</def>
-    </entry>
-    <entry>
-      <form>kāmam</form>
-      <def>desire</def>
-    </entry>
-    <entry>
-      <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-      <def>torment</def>
-      <form type="simple">aṇaṅku</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-      <form>piṇi-<pc>~</pc>um</form>
-      <def>fetter</def>
-      <form type="simple">piṇi</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-      <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>not-so-it</def>
-      <form type="simple">aṉṟu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>niṉaippiṉ</form>
-      <def>think-if</def>
-    </entry>
-    <entry>
-      <form>mutai<pc>+</pc></form>
-      <def>old</def>
-    </entry>
-    <entry>
-      <form>cuval</form>
-      <def>height</def>
-    </entry>
-    <entry>
-      <form>kalitta</form>
-      <def>swollen-</def>
-    </entry>
-    <entry>
-      <form>muṟṟā</form>
-      <def>mature-not</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>iḷam</form>
-      <def>young</def>
-    </entry>
-    <entry>
-      <form>pul</form>
-      <def>grass</def>
-    </entry>
-    <entry>
-      <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>old</def>
-    </entry>
-    <entry>
-      <form>ā</form>
-      <def>cow</def>
-    </entry>
-    <entry>
-      <form>taivantāṅku</form>
-      <def>rubbed</def>
-      <gramGrp type="affix"><form>āṅku</form><gram type="role">comparative</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>feast</def>
-      <form type="simple">viruntu</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>kāmam</form>
-      <def>desire</def>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>tōḷōy-ē</form>
-      <def>shoulder-you</def>
-      <form type="simple">tōḷōy</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT204"><interp type="alignment" select="0">24M2G6MG6M2G44MG18M2G16MG2M,124MG</interp>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they-say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>torment</def>
+<form type="simple">aṇaṅku</form>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>piṇi-<pc>~</pc>um</form>
+<def>fetter/sickness</def>
+<form type="simple">piṇi</form>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>not-so-it</def>
+<form type="simple">aṉṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>niṉaippiṉ</form>
+<def>think-if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>mutai<pc>+</pc></form>
+<def>old</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>cuval</form>
+<def>height</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kalitta</form>
+<def>swollen</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>muṟṟā</form>
+<def>mature-not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iḷam</form>
+<def>young</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pul</form>
+<def>grass</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>old</def>
+</entry>
+<entry>
+<form>ā</form>
+<def>cow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taivantāṅku</form>
+<def>rubbed-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>feast</def>
+<form type="simple">viruntu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḷōy-ē</form>
+<def>shoulder-you</def>
+<form type="simple">tōḷōy</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
