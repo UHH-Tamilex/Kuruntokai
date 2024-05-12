@@ -12,12 +12,12 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
-        <listWit n="1"></listWit>
-        <listWit n="2"></listWit>
+        <listWit n="1"/>
+        <listWit n="2"/>
       </sourceDesc>
     </fileDesc>
     <revisionDesc/>
@@ -51,55 +51,63 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT186">
-<interp type="alignment" select="0">60MG11MR13ML8MG13MG3M,112MG</interp>
+<standOff type="wordsplit" corresp="#KT186"><interp type="alignment" select="0">60MG11MR13ML8MG13MG3M,112MG</interp>
 <entry>
 <form>ār</form>
-<def>become-full-</def>
-</entry>
+<def>become-full</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kali</form>
-<def>bustle/clamour-</def>
-</entry>
+<def>bustle/clamour</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ēṟṟoṭu</form>
 <def>stroke</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kār</form>
-<def>rainy-season</def>
-</entry>
+<def>rainy season</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>talaimaṇanta</form>
-<def>joined-</def>
-<note><term xml:lang="ta">talaimaṇanta</term> is already lexicalised, according to the TL, but presumably it still retains the erotic component of <term xml:lang="ta">maṇa</term>- "to unite".</note>
-</entry>
+<def>united</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">talaimaṇanta</term> is already lexicalised, according to the TL, but presumably it still retains the erotic component of <term xml:lang="ta">maṇa</term>- "to unite".</note></entry>
 <entry>
 <form>kollai<pc>+</pc></form>
 <def>clearing</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>puṉatta</form>
 <def>field</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>mullai</form>
 <def>jasmine</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>meṉ</form>
-<def>tender</def>
+<form>mel</form>
+<def>soft</def>
 </entry>
 <entry>
 <form>koṭi</form>
 <def>creeper</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eyiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>tooth</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉa</form>
 <def>say</def>
@@ -108,36 +116,45 @@
 <entry>
 <form>mukaikkum</form>
 <def>budding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nāṭaṟku<pc>+</pc></form>
 <def>land-he</def>
-<gramGrp><gram type="role">dative</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">dative</gram>
 </gramGrp></entry>
 <entry>
 <form>tuyil</form>
 <def>sleep</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tuṟantaṉa-<pc>~</pc>āl</form>
 <def>they-abandoned</def>
 <form type="simple">tuṟantaṉa</form>
 <gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉ</form>
-<def>my-</def>
-</entry>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇ-<pc>+</pc>ē</form>
 <def>eye</def>
 <form type="simple">kaṇ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
   </TEI>
