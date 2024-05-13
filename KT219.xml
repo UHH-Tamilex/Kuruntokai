@@ -13,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -27,7 +27,7 @@
         </listPerson>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -53,15 +53,13 @@
           <l>Pale is my body. Longing [is] in a place</l>
           <l>difficult [to reach], in his heart devoid of attachment.<note place="foot">Here the
             statement seems contradictory. Certainly <term xml:lang="ta">nayappu</term> is to be
-            understood as subject, that is, as HER longing being on the way to HIS heart, and <term
-                xml:lang="ta">ār-iṭai</term> in the sense of a place difficult to reach is well
+            understood as subject, that is, as HER longing being on the way to HIS heart, and <term xml:lang="ta">ār-iṭai</term> in the sense of a place difficult to reach is well
             attested (cf. KT 131.3), but why difficult to reach if the longing is already there?
             Probably we have to understand an ellipsis: difficult to reach physically, if not
             mentally.</note>
           </l>
           <l>Even restraint stayed aside in the distance. Knowledge.<note place="foot">T.V.G. and
-            Cām. construe one sentence from <term xml:lang="ta">aṟivu</term> up to <term
-                xml:lang="ta">irukkum</term>.This would be a completely unmarked syntactical
+            Cām. construe one sentence from <term xml:lang="ta">aṟivu</term> up to <term xml:lang="ta">irukkum</term>.This would be a completely unmarked syntactical
             connection against every particle "rule", but it would make sense (see 3-5b).</note>
           </l>
           <l>To say here: “we shall go there, rise!”<note place="foot"><term xml:lang="ta">eḻuk(a)
@@ -73,8 +71,7 @@
             him into an open statement (a proposal of marriage?).</note> : “of what kind [are]
             you?”, friend,</l>
           <l rend="indent5">[that] indeed [would be] the opportunity for</l>
-          <l rend="indent2">for the man from the coast of thorny-leafed, broad-based <term
-              xml:lang="ta">Tāḻai</term> trees,</l>
+          <l rend="indent2">for the man from the coast of thorny-leafed, broad-based <term xml:lang="ta">Tāḻai</term> trees,</l>
           <l rend="indent3">who permanently <note place="foot"><term xml:lang="ta"> kūṟi irukkum</term>:
             can iru be auxiliary for a kind of continuous form?</note> talks without being able [to
             act].<note place="foot">In the very least from line 3 onwards construction and message
@@ -84,8 +81,7 @@
 
           <lg type="alternate" sameAs="3-5b" resp="#TVG">
             <l>Knowledge is speaking to me <note place="foot">
-                <term xml:lang="ta">īṅkē </term> is by commentators sometimes explained to mean <term
-                  xml:lang="ta">eṉakku </term> (thus Cēṉ. on Tol. Col. 28).</note> , unable [to
+                <term xml:lang="ta">īṅkē </term> is by commentators sometimes explained to mean <term xml:lang="ta">eṉakku </term> (thus Cēṉ. on Tol. Col. 28).</note> , unable [to
               act]: “we'll go there, rise!”</l>
           </lg>
 
@@ -93,58 +89,69 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT219">
-<interp type="alignment" select="0">6MG10MG8MG9ML6MG2MG8MG7M2G13M2G6M2G17M3G7M2G18ML34MG4M2G12MG6MG2M,198MG</interp>
+<standOff type="wordsplit" corresp="#KT219"><interp type="alignment" select="0">6MG10MG8MG9ML6MG2MG8MG7M2G13M2G6M2G17M3G7M2G18ML34MG4M2G12MG6MG2M,198MG</interp>
 <entry>
 <form>pacapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>pallor</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉ</form>
-<def>my-</def>
-</entry>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>mēṉi</form>
 <def>body</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>atu-<pc>~</pc>ē</form>
-<def>it</def>
+<def>that</def>
 <form type="simple">atu</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>nayapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>longing</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>avar</form>
-<def>he</def>
+<def>that-one</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>nār</form>
 <def>bond</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
-<def>not</def>
-</entry>
+<def>be-not</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>neñcatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>heart-</def>
-</entry>
+<def>heart</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>difficult</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>iṭai</form>
 <def>place</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>atu-<pc>~</pc>ē</form>
-<def>it</def>
+<def>that</def>
 <form type="simple">atu</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
@@ -152,29 +159,32 @@
 <form>ceṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>restraint</def>
 <form type="simple">ceṟivu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
-<note><term xml:lang="ta">ceṟivu</term>, noun to the frequent adjective <term xml:lang="ta">
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ceṟivu</term>, noun to the frequent adjective <term xml:lang="ta">
 ceṟi </term> "close, tight", is attested only here in the old anthologies. While in the
-poetological idiom it denotes the HER confinement by the family (note the <term
-  xml:lang="ta">kiḷavi</term> phrase <term xml:lang="ta">ceṟivaṟivuṟīi</term>), in this
-context it may mean "restraint" in the sense of self-restraint (Cām. glosses with <term
-  xml:lang="ta">aṭakkam</term> "patience").</note>
-</entry>
+poetological idiom it denotes the HER confinement by the family (note the <term xml:lang="ta">kiḷavi</term> phrase <term xml:lang="ta">ceṟivaṟivuṟīi</term>), in this
+context it may mean "restraint" in the sense of self-restraint (Cām. glosses with <term xml:lang="ta">aṭakkam</term> "patience").</note></entry>
 <entry>
 <form>cēṇ</form>
 <def>distance</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ikantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>it-stayed-aside</def>
+<def>it stayed aside</def>
 <form type="simple">ikantaṉṟu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>knowledge</def>
 <form type="simple">aṟivu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>āṅkaṇ</form>
@@ -182,13 +192,16 @@ context it may mean "restraint" in the sense of self-restraint (Cām. glosses wi
 </entry>
 <entry>
 <form>celkam</form>
-<def>we-go</def>
+<def>go-we</def>
 <gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
 </gramGrp></entry>
 <entry>
 <form>eḻuk<pc>(</pc>a<pc>)</pc></form>
-<def>may-rise</def>
-</entry>
+<def>may rise</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉa</form>
 <def>say</def>
@@ -203,62 +216,76 @@ context it may mean "restraint" in the sense of self-restraint (Cām. glosses wi
 <entry>
 <form>vallā</form>
 <def>able-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>kūṟi</form>
 <def>spoken</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>irukkum</form>
 <def>being-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>muḷ</form>
 <def>thorn</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>ilai<pc>+</pc></form>
 <def>leaf</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taṭavu</form>
 <def>breadth</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nilai<pc>+</pc></form>
 <def>standing</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tāḻai<pc>+</pc></form>
-<def>Tāḻai(-tree)</def>
-<gramGrp></gramGrp></entry>
+<def>Tāḻai tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cērppaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>coast-he</def>
-<gramGrp><gram type="role">dative</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">dative</gram>
 </gramGrp></entry>
 <entry>
 <form>iṭam-maṉ</form>
 <def>place</def>
 <form type="simple">iṭam</form>
-<gramGrp type="particle"><m>maṉ</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>maṉ</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉṉīr-ō</form>
-<def>what-you</def>
+<def>what-kind-you</def>
 <form type="simple">eṉṉīr</form>
 <gramGrp><gram type="role">plural</gram>
+<gram type="role">second person</gram>
 </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>eṉiṉ-ē</form>
 <def>say-if</def>
 <form type="simple">eṉiṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
