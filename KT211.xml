@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -50,8 +50,7 @@
           <l>We have left behind, oh friend, the fear</l>
           <l rend="indent">for the one who left [us], who has no consideration for us,</l>
           <l rend="indent10">having consented</l>
-          <l rend="indent2">to choice bangles becoming loose [on her] with pretty, thin hair, <note
-              place="foot"><term xml:lang="ta">am cil ōti</term> could also mean: "[and] hair pretty
+          <l rend="indent2">to choice bangles becoming loose [on her] with pretty, thin hair, <note place="foot"><term xml:lang="ta">am cil ōti</term> could also mean: "[and] hair pretty
             [but] few", or with Cām. vocative: "[o you with] pretty, thin hair". In any case, what
             is the rationale behind this – formulaic – characterisation? Generally hair ought to be
             full (one of the standing epithets is pal "much"), so why is it few here? Does also HER
@@ -62,12 +61,10 @@
             :the verb <term xml:lang="ta">ūtu-tal</term> is ambiguous (see DEDR 741). It denotes the
             blowing of the wind, and also the sounds produced by the wind or by musical instruments
             that are blown, and thus it could well refer to the humming sounds of bees. But a
-            further meaning is to be "inflated from eating", and since here the ūti is preceded by <term
-                xml:lang="ta">tēṉōṭu </term> (and in KT 239.4 there is <term xml:lang="ta">naṟun
+            further meaning is to be "inflated from eating", and since here the ūti is preceded by <term xml:lang="ta">tēṉōṭu </term> (and in KT 239.4 there is <term xml:lang="ta">naṟun
             tātu ūtum</term>), it seems probable that at least the main meaning here is that the
             bees are inflated by eating honey (which can be explained as an ellipsis: bees eat the
-            nectar which by them will be changed into honey).</note> with the honey <note
-              place="foot">The second bee of Cām.'s commentary seems unnecessarily complicated.
+            nectar which by them will be changed into honey).</note> with the honey <note place="foot">The second bee of Cām.'s commentary seems unnecessarily complicated.
             According to him tēṉ here refers to a second kind of bee, which sucks from the single
             cluster together with the tumpi.</note> of one [single] cluster,</l>
           <l rend="indent10">in summer,</l>
@@ -83,28 +80,33 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT211">
-<interp type="alignment" select="0">46MG39MG29MG45MG2M,164MG</interp>
+<standOff type="wordsplit" corresp="#KT211"><interp type="alignment" select="0">46MG39MG29MG45MG2M,164MG</interp>
 <entry>
 <form>am</form>
 <def>pretty</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cil</form>
 <def>few</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>ōti</form>
 <def>hair</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>āy</form>
-<def>select-</def>
-</entry>
+<def>select</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷai</form>
 <def>bangle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nekiḻa</form>
 <def>loosen</def>
@@ -113,66 +115,88 @@
 <entry>
 <form>nērntu</form>
 <def>consented</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>nam</form>
-<def>our-</def>
-</entry>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>aruḷār</form>
 <def>consideration-not-he</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>nīttōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>left-he</def>
-<gramGrp><gram type="role">dative</gram>
-<gram type="role">honorific</gram>
-</gramGrp></entry>
+<def>left-he(part.n.p.a.3.dat</def>
+</entry>
 <entry>
 <form>añcal</form>
 <def>fearing</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eñciṉam</form>
-<def>we-left-behind</def>
-</entry>
+<def>we left behind</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
-</entry>
+<def>live-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eñcā<pc>+</pc></form>
 <def>leave-behind-not</def>
-</entry>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tīynta</form>
-<def>burned-</def>
-</entry>
+<def>burned</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>marāatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>Marām-(-tree)-</def>
-<gramGrp></gramGrp></entry>
+<def>Marām tree</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ōṅkal</form>
 <def>becoming-high</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vem</form>
 <def>hot</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṉai</form>
-<def>twig</def>
-</entry>
+<def>branch</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēṉil</form>
 <def>summer</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ōr</form>
 <def>one</def>
@@ -180,51 +204,62 @@
 <entry>
 <form>iṇar</form>
 <def>cluster</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tēṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>honey</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ūti</form>
-<def>blown</def>
-</entry>
+<def>filled-itself</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ārātu</form>
 <def>become-full-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
-<form>peyarun</form>
+<form>peyarum</form>
 <def>moving-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tumpi</form>
 <def>bee</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
 <def>not</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vaippiṉ</form>
 <def>region</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>curaṉ</form>
 <def>desert</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṟantōr-ē</form>
 <def>traversed-he</def>
 <form type="simple">iṟantōr</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
