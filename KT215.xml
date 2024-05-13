@@ -13,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -27,7 +27,7 @@
         </listPerson>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -57,8 +57,7 @@
           <l rend="indent2">where the shiny-tusked elephant</l>
           <l rend="indent8">which stirs the waterless poor pond</l>
           <l rend="indent2">embraces his chosen mate by the low hill</l>
-          <l rend="indent2">[and] guards [her] from the big tiger with curved stripes? <note
-              place="foot">Or the elephant embraces its mate, and the tiger is on guard. Or perhaps
+          <l rend="indent2">[and] guards [her] from the big tiger with curved stripes? <note place="foot">Or the elephant embraces its mate, and the tiger is on guard. Or perhaps
             the tiger protects its mate against the elephant.</note>
           </l>
 
@@ -68,8 +67,7 @@
               T.V.G.'s understanding (in accordance with Cām.), and this is indeed what is suggested
               by the particles, the double marking with <term xml:lang="ta">-um</term> at the
               beginning and the end of the first line, provided that we take <term xml:lang="ta">
-              paṭar</term> and <term xml:lang="ta">cuṭar</term> to be nouns and not <term
-                  xml:lang="ta"> peyareccam</term> -s. There is, however, a problem of content,
+              paṭar</term> and <term xml:lang="ta">cuṭar</term> to be nouns and not <term xml:lang="ta"> peyareccam</term> -s. There is, however, a problem of content,
               namely the fact that it is not at all sure whether HE will come or not and thus it is
               not at all clear whether HER affliction will vanish. This problem induces Cām. and
               T.V.G. to ignore the established meaning of <term xml:lang="ta">kol</term> as an
@@ -85,177 +83,212 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT215">
-<interp type="alignment" select="0">5MG22MG25MG11MG47MGMG60MG29MG2M,209MG</interp>
+<standOff type="wordsplit" corresp="#KT215"><interp type="alignment" select="0">5MG22MG25MG11MG47MGMG60MG29MG2M,209MG</interp>
 <superEntry type="ambiguous">
-<entry>
-<entry>
+<entry><entry>
 <form>paṭar-um</form>
 <def>affliction</def>
 <form type="simple">paṭar</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
-</entry>
-<entry>
-<entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form>paṭarum</form>
 <def>setting-out-</def>
-</entry>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry></entry>
 </superEntry>
 <entry>
 <form>paipaya<pc>+</pc></form>
 <def>gently</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>peyarum</form>
 <def>moving-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>cuṭar-um</form>
-<def>glowing-/glow</def>
+<def>glowing-(pey.)/glow(r.n.)</def>
 <form type="simple">cuṭar</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">peyareccam</gram>
+<gram type="role">root noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>eṉṟūḻ</form>
 <def>sun</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mā</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>malai</form>
 <def>mountain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṟaiyum</form>
 <def>vanishing-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>today</def>
 </entry>
 <entry>
 <form>avar</form>
-<def>he</def>
+<def>that-one</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>varuvar-kol</form>
 <def>come-he</def>
 <form type="simple">varuvar</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
-</entry>
+<def>live-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
-<def>water-</def>
-</entry>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
-<def>not</def>
-</entry>
+<def>be-not</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṟum</form>
 <def>poor</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kayam</form>
 <def>pond</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tuḻaiiya</form>
-<def>stirred-</def>
-</entry>
+<def>stirred</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ilaṅku</form>
-<def>shine-</def>
-</entry>
+<def>shine</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>marupp<pc>(</pc>i<pc>)</pc></form>
-<def>horn</def>
-</entry>
+<def>tusk(n)</def>
+<gramGrp/></entry>
 <entry>
 <form>yāṉai</form>
 <def>elephant</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṟum</form>
 <def>short</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>poṟai</form>
 <def>height</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>amar</form>
 <def>desire</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tuṇai</form>
-<def>companion</def>
-</entry>
+<def>consort</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taḻīi<pc>+</pc></form>
 <def>embraced</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>koṭu</form>
 <def>bent</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>vari</form>
 <def>stripe</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>irum</form>
 <def>big/dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>puli</form>
 <def>tiger</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kākkum</form>
 <def>guarding-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭu</form>
 <def>long</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>varai</form>
 <def>mountain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>curaṉ</form>
 <def>desert</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṟantōr-ē</form>
 <def>traversed-he</def>
 <form type="simple">iṟantōr</form>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff></TEI>
+</entry></standOff></TEI>
