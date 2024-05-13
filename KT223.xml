@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -59,9 +59,7 @@
             favour of going to the festival.</note>
           </l>
           <l>He gave [me] a Taḻal and a Taṭṭai and a shoot</l>
-          <l>[and] spoke <note place="foot">It is also possible to read the two absolutives <term
-                xml:lang="ta">tantu</term> and <term xml:lang="ta">kūṟi</term> as dependent on <term
-                xml:lang="ta">aṉṉai</term> , as L./Sh.P. do (= 4-7c). But how to arrive from there
+          <l>[and] spoke <note place="foot">It is also possible to read the two absolutives <term xml:lang="ta">tantu</term> and <term xml:lang="ta">kūṟi</term> as dependent on <term xml:lang="ta">aṉṉai</term> , as L./Sh.P. do (= 4-7c). But how to arrive from there
             at the notion of guarding the fields is mysterious. A better point is made if HE entices
             HER with words about her beauty (for a comparison of HER with a sprout see KT 61).
             T.V.G. has another alternative in taking <term xml:lang="ta">muṟi</term> to mean the
@@ -90,49 +88,62 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT223">
-<interp type="alignment" select="0">3MG41MG4ML14MG13MG8MG3ML3MG7MG17MG56MG5MG3M,188MG</interp>
+<standOff type="wordsplit" corresp="#KT223"><interp type="alignment" select="0">3MG41MG4ML14MG13MG8MG3ML3MG7MG17MG56MG5MG3M,188MG</interp>
 <entry>
 <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ūr</form>
 <def>village</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koṇṭa</form>
-<def>taken-</def>
-</entry>
+<def>taken</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ār</form>
-<def>become-full-</def>
-</entry>
+<def>become full</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kali</form>
-<def>bustle/clamour-</def>
-</entry>
+<def>bustle/clamour</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>viḻaviṉ</form>
 <def>festival</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>celvām</form>
 <def>we-go</def>
-</entry>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>celvām</form>
 <def>we-go</def>
-</entry>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉṟi</form>
-<def>you-say</def>
+<def>say-you</def>
 <gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>that-day</def>
+<def>that day</def>
 </entry>
 <entry>
 <form>ivaṇ</form>
@@ -141,12 +152,15 @@
 <entry>
 <form>nallōr</form>
 <def>good-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>nalla</form>
 <def>good-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
 <form>pala-<pc>~</pc>āṟṟilla</form>
@@ -159,24 +173,28 @@
 <form>taḻal-um</form>
 <def>[scarecrow1]</def>
 <form type="simple">taḻal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>taṭṭai-<pc>~</pc>um</form>
 <def>[scarecrow2]</def>
 <form type="simple">taṭṭai</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>muṟi-<pc>~</pc>um</form>
 <def>shoot</def>
 <form type="simple">muṟi</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>given</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>ivai</form>
 <def>these</def>
@@ -184,8 +202,9 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ottaṉa</form>
-<def>like-they</def>
+<def>they were like</def>
 <gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -200,62 +219,72 @@
 <entry>
 <form>poyttaṉa</form>
 <def>lied-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>kūṟi</form>
 <def>spoken</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṉṉai</form>
 <def>mother</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ōmpiya</form>
-<def>protected-</def>
-</entry>
+<def>protected</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>āy</form>
-<def>select-</def>
-</entry>
+<def>select</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>nalam</form>
 <def>goodness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <superEntry type="ambiguous">
-<entry>
-<entry>
+<entry><entry>
 <form>eṉṉai</form>
 <def>me</def>
 <gramGrp><gram type="role">accusative</gram>
-</gramGrp></entry>
-</entry>
-<entry>
-<entry>
+</gramGrp></entry></entry>
+<entry><entry>
 <form>eṉṉai</form>
 <def>my lord</def>
-</entry>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry></entry>
 </superEntry>
 <entry>
 <form>koṇṭāṉ</form>
-<def>he-took</def>
-</entry>
+<def>he took</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>yām</form>
 <def>we</def>
-</entry>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṉam-āl</form>
-<def>such-we</def>
+<def>like-this-we</def>
 <form type="simple">iṉṉam</form>
-<gramGrp type="particle"><m>āl</m></gramGrp>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
 <form>iṉi-<pc>~</pc>ē</form>
 <def>now</def>
 <form type="simple">iṉi</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
