@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -78,113 +78,137 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT212">
-    <interp type="alignment" select="0">85M2G4MG14MG8M2G4MG2M,124M</interp>
-    <entry>
-      <form>koṇkaṉ</form>
-      <def>man-from-the-sea</def>
-    </entry>
-    <entry>
-      <form>ūrnta</form>
-      <def>mounted-</def>
-    </entry>
-    <entry>
-      <form>koṭuñci</form>
-      <def>lotus-staff</def>
-      <note>What exactly is meant by <term xml:lang="ta">koṭuñci</term> ? The DEDR gives, presumably
+  <standOff type="wordsplit" corresp="#KT212"><interp type="alignment" select="0">85M2G4MG14MG8M2G4MG2M,123MG</interp>
+<entry>
+<form>koṇkaṉ</form>
+<def>man from the-sea</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūrnta</form>
+<def>mounted</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭuñci</form>
+<def>lotus staff</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">What exactly is meant by <term xml:lang="ta">koṭuñci</term> ? The DEDR gives, presumably
         going back to a commentator, the meaning "lotus staff", whatever that may mean, and T.V.G.
         explains it as a handle to hold on to in the chariot (which would doubtless be a useful
-        device).</note>
-    </entry>
-    <entry>
-      <form>neṭum</form>
-      <def>long</def>
-    </entry>
-    <entry>
-      <form>tēr</form>
-      <def>chariot</def>
-    </entry>
-    <entry>
-      <form>teḷ</form>
-      <def>clear</def>
-    </entry>
-    <entry>
-      <form>kaṭal</form>
-      <def>sea</def>
-    </entry>
-    <entry>
-      <form>aṭai</form>
-      <def>settle-</def>
-    </entry>
-    <entry>
-      <form>karai<pc>+</pc></form>
-      <def>shore</def>
-    </entry>
-    <entry>
-      <form>teḷi</form>
-      <def>clear</def>
-    </entry>
-    <entry>
-      <form>maṇi</form>
-      <def>bell</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>olippa<pc>+</pc></form>
-      <def>sound</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>kāṇa</form>
-      <def>see</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>vantu</form>
-      <def>come</def>
-    </entry>
-    <entry>
-      <form>nāṇa<pc>+</pc></form>
-      <def>be-ashamed</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>peyarum</form>
-      <def>moving-</def>
-    </entry>
-    <entry>
-      <form>aḷit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-      <def>pity/love-it</def>
-      <form type="simple">aḷitu</form>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-      <form>tāṉ-ē</form>
-      <def>self</def>
-      <form type="simple">tāṉ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>kāmam</form>
-      <def>desire</def>
-    </entry>
-    <entry>
-      <form>viḷivatu-maṉṟa</form>
-      <def>perish-it</def>
-      <form type="simple">viḷivatu</form>
-      <gramGrp type="particle"><form>maṉṟa</form></gramGrp>
-    </entry>
-    <entry>
-      <form>nōk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-      <def>I-ache</def>
-      <form type="simple">nōku</form>
-      <gram type="role">subjunctive</gram>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-      <form>yāṉ-ē</form>
-      <def>I</def>
-      <form type="simple">yāṉ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        device).</note></entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>teḷ</form>
+<def>be-clear</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṭai</form>
+<def>settle</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>karai<pc>+</pc></form>
+<def>shore</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>teḷi</form>
+<def>be-clear</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇi</form>
+<def>bell</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>olippa<pc>+</pc></form>
+<def>sound</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṇa</form>
+<def>see</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṇa<pc>+</pc></form>
+<def>be-ashamed</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>peyarum</form>
+<def>coming back-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>aḷit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>pity/love-it</def>
+<form type="simple">aḷitu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self(pron.sg.3.)</def>
+<form type="simple">tāṉ</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷivatu-maṉṟa</form>
+<def>it-perishes</def>
+<form type="simple">viḷivatu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp><gramGrp type="particle"><m>maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>nōk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>ache-I</def>
+<form type="simple">nōku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>yāṉ-ē</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
