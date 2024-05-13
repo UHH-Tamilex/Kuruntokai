@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -44,8 +44,7 @@
 
         <lg type="translation" xml:lang="en">
 
-          <l rend="indent2">To the victorious Cūli at the mountainside with clefts [and] caves<note
-              place="foot"><term xml:lang="ta">viṭarmukai </term> can also be read as a synonym
+          <l rend="indent2">To the victorious Cūli at the mountainside with clefts [and] caves<note place="foot"><term xml:lang="ta">viṭarmukai </term> can also be read as a synonym
             compound, in which case it might convey plurality: many caves.</note></l>
           <l>we don't take up duty [and] don't bind the thread on [our] hand <note place="foot">On
             nūl the -um is missing; better is the variant <term xml:lang="ta">puṇātu</term> ("not
@@ -55,8 +54,7 @@
             pūjā</term> .</note></l>
           <l>and we don't know about omens and we don't depend</l>
           <l rend="indent7">on overheard voices</l>
-          <l>and [still] it is not that we don't think and think<note place="foot"><term
-                xml:lang="ta">uḷḷalum uḷḷām aṉṟē</term> : this is presumably a figura etymologica
+          <l>and [still] it is not that we don't think and think<note place="foot"><term xml:lang="ta">uḷḷalum uḷḷām aṉṟē</term> : this is presumably a figura etymologica
             with intensifying sense.</note> , friend,</l>
           <l rend="indent3">about him who was able to be content there, having forgotten</l>
           <l rend="indent4">us who have not been content for the blink [of an eye]</l>
@@ -67,98 +65,125 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT218">
-<interp type="alignment" select="0">42MG22MG14MG2MR11MG10M2G12MG22MG33MG3MG19M2G2M,204MG</interp>
+<standOff type="wordsplit" corresp="#KT218"><interp type="alignment" select="0">42MG22MG14MG2MR11MG10M2G12MG22MG33MG3MG19M2G2M,204MG</interp>
 <entry>
 <form>viṭar</form>
 <def>cleft</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mukai</form>
 <def>cave</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṭukkattu</form>
-<def>mountain-side-</def>
-</entry>
+<def>mountain side</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>viṟal</form>
 <def>victory</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>keḻu</form>
-<def>have-</def>
-</entry>
+<def>have</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>cūlikku<pc>+</pc></form>
 <def>Cūli</def>
 <gramGrp><gram type="role">dative</gram>
+<gram type="role">proper name</gram>
 </gramGrp>
-<note><term xml:lang="ta">cūli</term>, quite obviously a designation of a god here, is widely interpreted as Skt. <term xml:lang="sa">śūlin-</term> <q>spear/trident bearer</q> and in Tamil is supposed to be a feminine, i.e. <term xml:lang="sa">Durgā</term> as a bearer of the trident (which should go back to Skt. <term xml:lang="sa">śūlinī</term>, but since <term xml:lang="ta">-i</term> is feminine suffix in Tamil, this short version might be conceivable). This is the only occurrence in all of <term xml:lang="ta">Caṅkam</term> literature.</note>
-</entry>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">cūli</term>, quite obviously a designation of a god here, is widely interpreted as Skt. <term xml:lang="sa">śūlin-</term> <q>spear/trident bearer</q> and in Tamil is supposed to be a feminine, i.e. <term xml:lang="sa">Durgā</term> as a bearer of the trident (which should go back to Skt. <term xml:lang="sa">śūlinī</term>, but since <term xml:lang="ta">-i</term> is feminine suffix in Tamil, this short version might be conceivable). This is the only occurrence in all of <term xml:lang="ta">Caṅkam</term> literature.</note></entry>
 <entry>
 <form>kaṭaṉ-um</form>
 <def>duty</def>
 <form type="simple">kaṭaṉ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pūṇām</form>
-<def>we-don't-take-up</def>
-</entry>
+<def>we don't take up</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>kai<pc>+</pc></form>
 <def>hand</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nūl</form>
 <def>thread</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāvām</form>
-<def>we-don't-bind</def>
-</entry>
+<def>we don't bind</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>puḷ-<pc>+</pc>um</form>
 <def>bird/omen</def>
 <form type="simple">puḷ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ōrām</form>
-<def>we-don't-know</def>
-</entry>
+<def>we don't know</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>viricci-<pc>~</pc>um</form>
-<def>overheard-voice</def>
+<def>overheard voice</def>
 <form type="simple">viricci</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
-<note><term xml:lang="ta">viricci</term> is not included in the DEDR; according to TP 58 it is an utterance on part of a passer-by overheard by HER (thus KT 218, NA 40.4 and PN 280.6). Are <term xml:lang="ta">cūli</term> and <term xml:lang="ta">viricci</term> to be seen as hints to a late origin of this poem?</note>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">viricci</term> is not included in the DEDR; according to TP 58 it is an utterance on part of a passer-by overheard by HER (thus KT 218, NA 40.4 and PN 280.6). Are <term xml:lang="ta">cūli</term> and <term xml:lang="ta">viricci</term> to be seen as hints to a late origin of this poem?</note></entry>
 <entry>
 <form>nillām</form>
-<def>we-don't-stand</def>
-</entry>
+<def>we don't stand</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>uḷḷal-um</form>
 <def>remembering</def>
 <form type="simple">uḷḷal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>uḷḷām</form>
-<def>we-don't-remember</def>
-</entry>
+<def>we don't remember</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>not-so-it</def>
+<def>it not so</def>
 <form type="simple">aṉṟu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uyirkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>life</def>
@@ -167,69 +192,85 @@
 <entry>
 <form>uyir</form>
 <def>life</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉar</form>
 <def>thus-he</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>ākaliṉ</form>
 <def>because</def>
-</entry>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>tam</form>
 <def>self</def>
 <gramGrp><gram type="role">plural</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>without</def>
-</entry>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>imaippu</form>
 <def>twinkling</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>varai</form>
 <def>measure</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>amaiyā</form>
 <def>become-still-not</def>
-</entry>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>nam</form>
 <def>us</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>vayiṉ</form>
-<def>at</def>
+<def>side</def>
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
 <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>forgotten</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>āṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>there</def>
 </entry>
 <entry>
 <form>amaital</form>
-<def>becoming-still</def>
-</entry>
+<def>becoming still</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>valliyōr</form>
 <def>been-able-he</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>māṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>at</def>
+<def>place</def>
 <form type="simple">māṭṭu</form>
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
