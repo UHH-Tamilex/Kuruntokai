@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -45,8 +45,7 @@
           <l>O man from a land of big stones, where an elephant cow, while a calf</l>
           <l rend="indent2">feeds from her yielding <note place="foot"><term xml:lang="ta">paya
             mulai</term> : this can be understood as <term xml:lang="ta">paya </term> (verbal root
-            DEDR 3937) <term
-                xml:lang="ta">mulai</term> "yielding breast", that is, a breast which gives milk.
+            DEDR 3937) <term xml:lang="ta">mulai</term> "yielding breast", that is, a breast which gives milk.
             T.V.G. suggests <term xml:lang="ta">payam</term> "milk", which would have to be
             explained as a borrowing from Skt. payas.</note> breast, eats of the millet in the
             front-yard,</l>
@@ -63,174 +62,218 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT225">
-    <interp type="alignment" select="0">13ML46MG5MG55MG35MG28MR6M2G2M,198M</interp>
-    <entry>
-      <form>kaṉṟu</form>
-      <def>calf</def>
-    </entry>
-    <entry>
-      <form>taṉ</form>
-      <def>self-</def>
-    </entry>
-    <entry>
-      <form>payam</form>
-      <def>yield-</def>
-    </entry>
-    <entry>
-      <form>mulai</form>
-      <def>breast</def>
-    </entry>
-    <entry>
-      <form>mānta</form>
-      <def>feed</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>muṉṟil</form>
-      <def>front-yard</def>
-    </entry>
-    <entry>
-      <form>tiṉai</form>
-      <def>millet</def>
-    </entry>
-    <entry>
-      <form>piṭi</form>
-      <def>elephant-cow</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>uṇṇum</form>
-      <def>eating-</def>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>kal</form>
-      <def>stone</def>
-    </entry>
-    <entry>
-      <form>nāṭa</form>
-      <def>land-he</def>
-      <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-      <form>keṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>got-lost-</def>
-    </entry>
-    <entry>
-      <form>iṭatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>place-</def>
-      <note><term xml:lang="ta">keṭṭiṭattu</term> : T.V.G. explains this as the (later?) temporal
+  <standOff type="wordsplit" corresp="#KT225"><interp type="alignment" select="0">13ML46MG5MG55MG35MG28MR6M2G2M,197MG</interp>
+<entry>
+<form>kaṉṟu</form>
+<def>calf</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>payam</form>
+<def>yield</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mānta</form>
+<def>feed</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>muṉṟil</form>
+<def>front yard</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṉai</form>
+<def>millet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>piṭi</form>
+<def>she-elephant</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṇṇum</form>
+<def>eating-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>keṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>got-lost</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>place</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">keṭṭiṭattu</term> : T.V.G. explains this as the (later?) temporal
         construction of <term xml:lang="ta">peyareccam +iṭattu</term> , with special sandhi, that
         is, <term xml:lang="ta">keṭṭa</term> , not an absolutive (<term xml:lang="ta">keṭṭu</term>).
-        (It is otherwise not attested in the KT, once in Kali 72.24, but common in the <term
-          xml:lang="ta">kiḷavi-s</term> ).</note>
-    </entry>
-    <entry>
-      <form>uvanta</form>
-      <def>delighted-</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>utavi</form>
-      <def>aid</def>
-    </entry>
-    <entry>
-      <form>kaṭṭil</form>
-      <def>throne</def>
-    </entry>
-    <entry>
-      <form>vīṟu</form>
-      <def>distinction</def>
-    </entry>
-    <entry>
-      <form>peṟṟu</form>
-      <def>obtained</def>
-    </entry>
-    <entry>
-      <form>maṟanta</form>
-      <def>forgotten-</def>
-    </entry>
-    <entry>
-      <form>maṉṉaṉ</form>
-      <def>king</def>
-    </entry>
-    <entry>
-      <form>pōla</form>
-      <def>be-similar</def>
-    </entry>
-    <entry>
-      <form>naṉṟi</form>
-      <def>kindness</def>
-    </entry>
-    <entry>
-      <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>forgotten</def>
-    </entry>
-    <entry>
-      <form>amaiyāy</form>
-      <def>you-don't-become-still</def>
-    </entry>
-    <entry>
-      <form>āyiṉ</form>
-      <def>if</def>
-    </entry>
-    <entry>
-      <form>meṉ</form>
-      <def>soft</def>
-    </entry>
-    <entry>
-      <form>cīr<pc>+</pc></form>
-      <def>excellence</def>
-    </entry>
-    <entry>
-      <form>kali</form>
-      <def>bustle</def>
-    </entry>
-    <entry>
-      <form>mayil</form>
-      <def>peacock</def>
-    </entry>
-    <entry>
-      <form>kalāvatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>peacock-feather-</def>
-    </entry>
-    <entry>
-      <form>aṉṉa</form>
-      <def>like</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ivaḷ</form>
-      <def>she</def>
-    </entry>
-    <entry>
-      <form>oli</form>
-      <def>sprout-</def>
-    </entry>
-    <entry>
-      <form>meṉ</form>
-      <def>soft</def>
-    </entry>
-    <entry>
-      <form>kūntal</form>
-      <def>tresses</def>
-    </entry>
-    <entry>
-      <form>uriya</form>
-      <def>suitable-they</def>
-      <gram type="role">neuter plural</gram>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ām</form>
-      <def>becoming-</def>
-    </entry>
-    <entry>
-      <form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>you</def>
-      <form type="simple">niṉakku</form>
-      <gram type="role">dative</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        (It is otherwise not attested in the KT, once in Kali 72.24, but common in the <term xml:lang="ta">kiḷavi-s</term> ).</note></entry>
+<entry>
+<form>uvanta</form>
+<def>delighted</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>utavi</form>
+<def>aid</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭṭil</form>
+<def>throne</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vīṟu</form>
+<def>distinction</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>peṟṟu</form>
+<def>obtained</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟanta</form>
+<def>forgotten</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉṉaṉ</form>
+<def>king</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pōla</form>
+<def>be similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>naṉṟi</form>
+<def>kindness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>forgotten</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>amaiyāy</form>
+<def>you don't become still</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>cīr<pc>+</pc></form>
+<def>excellence</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kali</form>
+<def>bustle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kalāvatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>peacock feather</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ivaḷ</form>
+<def>this-one</def>
+<gramGrp><gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>oli</form>
+<def>sprout</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uriya</form>
+<def>right-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ām</form>
+<def>becomes</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>you</def>
+<form type="simple">niṉakku</form>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
