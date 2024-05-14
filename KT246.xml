@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -43,8 +43,7 @@
 
         <lg type="translation" xml:lang="en">
           <l>A chariot came [and] went, they say,</l>
-          <l rend="indent2">solitary, at midday, when the little white crow <note place="foot"><term
-                xml:lang="ta">ciṟu veṇ kākkai</term>: is this a standing phrase to denote a seagull,
+          <l rend="indent2">solitary, at midday, when the little white crow <note place="foot"><term xml:lang="ta">ciṟu veṇ kākkai</term>: is this a standing phrase to denote a seagull,
             which is a white bird of the seashore, by size, voice and behaviour comparable to the
             crow? T.V.G. explains it as a particular kind of crow to be found on the seaside, which
             has a white spot on its neck.</note>
@@ -52,22 +51,17 @@
           <l rend="indent3">from the shore of the great sea disturbs the green leaves</l>
           <l rend="indent4">like elephant ears, [and] stirs the misty backwaters.</l>
           <l>There are young and inexperienced</l>
-          <l>women with flashing jewels in braids coming loose <note place="foot"><term
-                xml:lang="ta">piṉṉu viṭu</term>: what is achieved here by <term xml:lang="ta">
+          <l>women with flashing jewels in braids coming loose <note place="foot"><term xml:lang="ta">piṉṉu viṭu</term>: what is achieved here by <term xml:lang="ta">
             viṭu-tal</term> ? T.V.G. takes it just as "well-decorated".</note>
           </l>
           <l>– they [have] the better part, with mothers who don't slap [them] –</l>
           <l>and others with mothers who, taking that [as a cause],</l>
           <l rend="indent8">interrogate [and] slap [them]<note place="foot">How to account for the
             syntax of these four lines? Probably it is best to explain it as a change of word order
-            for reasons of emphasis. <term xml:lang="ta">miṉṉiḻai makaḷir</term> and <term
-                xml:lang="ta">piṟar</term> are to be read as the coordinate subjects of <term
-                xml:lang="ta">uḷarē</term> , and <term xml:lang="ta">iḷaiyar</term> and <term
-                xml:lang="ta">maṭavar</term> are subject appositions just to <term xml:lang="ta">
+            for reasons of emphasis. <term xml:lang="ta">miṉṉiḻai makaḷir</term> and <term xml:lang="ta">piṟar</term> are to be read as the coordinate subjects of <term xml:lang="ta">uḷarē</term> , and <term xml:lang="ta">iḷaiyar</term> and <term xml:lang="ta">maṭavar</term> are subject appositions just to <term xml:lang="ta">
             makaḷir</term> . The last line has to be read as an independent sentence which comments
             on the <term xml:lang="ta">makaḷir</term> . So the piṟar, who logically come second, are
-            put in front so as not to interrupt the climactic three-lines description of the <term
-                xml:lang="ta">makaḷir</term> .</note>
+            put in front so as not to interrupt the climactic three-lines description of the <term xml:lang="ta">makaḷir</term> .</note>
           </l>
 
 
@@ -75,194 +69,237 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT246">
-    <interp type="alignment" select="0">52MG31M2G8MG19MG13MG22MG41MG2ML6MG6MG25MG2M,239M</interp>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>kaṭal</form>
-      <def>sea</def>
-    </entry>
-    <entry>
-      <form>karaiyatu</form>
-      <def>shoreatu</def>
-      <note><term xml:lang="ta">karaiyatu</term> might here for once actually be interpreted as a
+  <standOff type="wordsplit" corresp="#KT246"><interp type="alignment" select="0">52MG31M2G8MG19MG13MG22MG23MG18MG2ML6MG6MG25MG2M,239MG</interp>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>karaiyatu</form>
+<def>shore</def>
+<gramGrp><gram type="role">genitive</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">karaiyatu</term> might here for once actually be interpreted as a
         genitive, unlike <term xml:lang="ta">micaiyatu</term> of KT 78.1 and <term xml:lang="ta">
         tiraiyatu</term> of KT 128.1, though it remains unclear why it should be marked as such.
-        Just for metrical reasons, i.e. in order to complete the foot?</note>
-    </entry>
-    <entry>
-      <form>ciṟu</form>
-      <def>little</def>
-    </entry>
-    <entry>
-      <form>veḷ</form>
-      <def>white</def>
-    </entry>
-    <entry>
-      <form>kākkai</form>
-      <def>crow</def>
-    </entry>
-    <entry>
-      <form>kaḷiṟṟu<pc>+</pc></form>
-      <def>elephant-bull-</def>
-    </entry>
-    <entry>
-      <form>cevi</form>
-      <def>ear</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aṉṉa</form>
-      <def>like</def>
-    </entry>
-    <entry>
-      <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>green</def>
-    </entry>
-    <entry>
-      <form>aṭai</form>
-      <def>leaf</def>
-    </entry>
-    <entry>
-      <form>mayakki<pc>+</pc></form>
-      <def>confused</def>
-    </entry>
-    <entry>
-      <form>paṉi<pc>+</pc></form>
-      <def>dew</def>
-    </entry>
-    <entry>
-      <form>kaḻi</form>
-      <def>backwaters</def>
-    </entry>
-    <entry>
-      <form>tuḻavum</form>
-      <def>stirring-</def>
-    </entry>
-    <entry>
-      <form>pāl-nāḷ</form>
-      <def>part-day</def>
-    </entry>
-    <entry>
-      <form>taṉitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>been-solitary</def>
-    </entry>
-    <entry>
-      <form>ōr</form>
-      <def>one</def>
-    </entry>
-    <entry>
-      <form>tēr</form>
-      <def>chariot</def>
-    </entry>
-    <entry>
-      <form>vantu</form>
-      <def>come</def>
-      <gram type="role">absolutive</gram>
-    </entry>
-    <entry>
-      <form>peyarntat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>it-moved</def>
-    </entry>
-    <entry>
-      <form>eṉpa</form>
-      <def>they-say</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ataṉ</form>
-      <def>that</def>
-      <gram type="role">oblique</gram>
-    </entry>
-    <entry>
-      <form>koṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>taken</def>
-    </entry>
-    <entry>
-      <form>ōrum</form>
-      <def>examining-</def>
-    </entry>
-    <entry>
-      <form>alaikkum</form>
-      <def>slapping-</def>
-    </entry>
-    <entry>
-      <form>aṉṉai</form>
-      <def>mother</def>
-    </entry>
-    <entry>
-      <form>piṟar-um</form>
-      <form type="simple">piṟar</form>
-      <def>other</def>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>piṉṉu</form>
-      <def>braid-</def>
-    </entry>
-    <entry>
-      <form>viṭu</form>
-      <def>let-</def>
-    </entry>
-    <entry>
-      <form>katuppiṉ</form>
-      <def>hair</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>miṉ</form>
-      <def>flash-</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>iḻai</form>
-      <def>jewel</def>
-    </entry>
-    <entry>
-      <form>makaḷir</form>
-      <def>women</def>
-    </entry>
-    <entry>
-      <form>iḷaiyar-um</form>
-      <form type="simple">iḷaiyar</form>
-      <def>young-they</def>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>maṭavar-um</form>
-      <form type="simple">maṭavar</form>
-      <def>inexperience-they</def>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>uḷar-ē</form>
-      <def>they-are</def>
-      <form type="simple">uḷar</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>alaiyā<pc>+</pc></form>
-      <def>slap-not</def>
-    </entry>
-    <entry>
-      <form>tāyaroṭu</form>
-      <def>mother</def>
-      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative</gram></gramGrp>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>nal</form>
-      <def>good</def>
-    </entry>
-    <entry>
-      <form>pālōr-ē</form>
-      <def>part-they</def>
-      <form type="simple">pālōr</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        Just for metrical reasons, i.e. in order to complete the foot?</note></entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kākkai</form>
+<def>crow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷiṟṟu<pc>+</pc></form>
+<def>elephant bull</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>cevi</form>
+<def>ear</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>aṭai</form>
+<def>leaf</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mayakki<pc>+</pc></form>
+<def>confused</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṉi<pc>+</pc></form>
+<def>dew</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻi</form>
+<def>backwaters</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuḻavum</form>
+<def>stirring-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pāl-nāḷ</form>
+<def>part-day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>been-solitary</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>peyarntat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it-returned</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ataṉ</form>
+<def>that</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>taken</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ōrum</form>
+<def>examining-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>alaikkum</form>
+<def>slapping-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>piṟar-um</form>
+<def>other</def>
+<form type="simple">piṟar</form>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>piṉṉu</form>
+<def>braid</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viṭu</form>
+<def>let-go</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>katuppiṉ</form>
+<def>hair</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>miṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>flash</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp><gram type="role">feminine plural</gram>
+</gramGrp></entry>
+<entry>
+<form>iḷaiyar-um</form>
+<def>young-they</def>
+<form type="simple">iḷaiyar</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>maṭavar-um</form>
+<def>inexperience-they</def>
+<form type="simple">maṭavar</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uḷar-ē</form>
+<def>they are</def>
+<form type="simple">uḷar</form>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>alaiyā<pc>+</pc></form>
+<def>slap-not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tāyaroṭu</form>
+<def>mother</def>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pālōr-ē</form>
+<def>part-they</def>
+<form type="simple">pālōr</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
