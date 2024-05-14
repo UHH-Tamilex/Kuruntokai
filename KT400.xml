@@ -2,272 +2,389 @@
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 400. <persName xml:lang="ta">Pēyaṉār</persName>
-                    : <hi rend="italic">HE</hi></title>
-            </titleStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en">
-                    <msIdentifier>
-                    </msIdentifier>
-                    <msContents>
-                        <summary><p></p>
-                        </summary>
-                    </msContents>
-                </msDesc>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 400. <persName xml:lang="ta">Pēyaṉār</persName>
+          : <hi rend="italic">HE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
 
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc />
-    </teiHeader>
-    <text xml:lang="ta" corresp="#Ed" type="edition">
-        <body>
-            <div xml:id="KT400-kilavi">
-                <p type="edition">viṉaimuṟṟi vanta talaimakaṉ ṟērppākaṉait talaiyaḷittatu. </p>
-
-
-                <p type="translation" xml:lang="en">HE, who comes after having completed [his] work,
-                    showing politeness to the charioteer. </p>
-            </div>
-
-            <div xml:id="KT400">
-                <lg type="edition">
-                    <l> cēyāṟu cellā māyi ṉiṭariṉṟu</l>
-                    <l> kaḷaikalaṅ kāmam peruntōṭ keṉṟu</l>
-                    <l> naṉṟupurin teṇṇiya maṉattai yāki</l>
-                    <l> murampukaṇ ṇuṭaiya vēkik karampaip</l>
-                    <l> putuvaḻip paṭutta matiyuṭai valavō</l>
-                    <l> yiṉṟu tantaṉai tērō</l>
-                    <l> nōyuḻan tuṟaiviyai nalka lāṉē.</l>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" corresp="#Ed" type="edition">
+    <body>
+      <div xml:id="KT400-kilavi">
+        <p type="edition">viṉaimuṟṟi vanta talaimakaṉ ṟērppākaṉait talaiyaḷittatu. </p>
 
 
-                </lg>
+        <p type="translation" xml:lang="en">HE, who comes after having completed [his] work, showing
+          politeness to the charioteer. </p>
+      </div>
 
-                <lg type="translation" xml:lang="en">
-                    <l> As one with a mind , who considered [and] desired what is good:</l>
-                    <l rend="indent"> “if we don't go the way through the distance without
-                        impediment,</l>
-                    <l rend="indent"> we won't alleviate the desire for [her with] big shoulders”,</l>
-                    <l> you charioteer with a mind that effects new paths</l>
-                    <l rend="indent"> in the wasteland, setting of to break into mounds of gravel,</l>
-                    <l> have you given [just] the chariot today?</l>
-                    <l> With this you are granting [also] her,</l>
-                    <l rend="indent6"> who constantly endures pain .</l>
+      <div xml:id="KT400">
+        <lg type="edition">
+          <l> cēyāṟu cellā māyi ṉiṭariṉṟu</l>
+          <l> kaḷaikalaṅ kāmam peruntōṭ keṉṟu</l>
+          <l> naṉṟupurin teṇṇiya maṉattai yāki</l>
+          <l> murampukaṇ ṇuṭaiya vēkik karampaip</l>
+          <l> putuvaḻip paṭutta matiyuṭai valavō</l>
+          <l> yiṉṟu tantaṉai tērō</l>
+          <l> nōyuḻan tuṟaiviyai nalka lāṉē.</l>
 
 
-                </lg>
-            </div>
-        </body>
-    </text>
-<standOff type="wordsplit" corresp="#KT400">
-<interp type="alignment" select="0">48MG15MG96MG9MG17MG2M,191MG</interp>
-<entry>
-<form>cēy</form>
-<def>distance</def>
-</entry>
-<entry>
-<form>āṟu</form>
-<def>way</def>
-</entry>
-<entry>
-<form>cellām</form>
-<def>go-not-we</def>
-</entry>
-<entry>
-<form>āyiṉ</form>
-<def>if</def>
-</entry>
-<entry>
-<form>iṭar</form>
-<def>affliction</def>
-</entry>
-<entry>
-<form>iṉṟu</form>
-<def>not-it</def>
-</entry>
-<entry>
-<form>kaḷaikalam</form>
-<def>remove-not-we</def>
-</entry>
-<entry>
-<form>kāmam</form>
-<def>desire</def>
-</entry>
-<entry>
-<form>perum</form>
-<def>big</def>
-</entry>
-<entry>
-<form>tōṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>shoulder</def>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp></entry>
-<entry>
-<form>eṉṟu</form>
-<def>said</def>
-</entry>
-<entry>
-<form>naṉṟu</form>
-<def>good-it</def>
-</entry>
-<entry>
-<form>purint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>desired</def>
-</entry>
-<entry>
-<form>eṇṇiya</form>
-<def>considered-</def>
-</entry>
-<entry>
-<form>maṉattai</form>
-<def>mind-you</def>
-</entry>
-<entry>
-<form><pc>~</pc>āki</form>
-<def>become</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form>murampu</form>
-<def>mound-of-gravel</def>
-</entry>
-<entry>
-<form>kaṇ</form>
-<def>in</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>+</pc>uṭaiya</form>
-<def>break</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>ēki<pc>+</pc></form>
-<def>gone</def>
-</entry>
-<entry>
-<form>karampai<pc>+</pc></form>
-<def>wasteland</def>
-</entry>
-<entry>
-<form>putu</form>
-<def>new</def>
-</entry>
-<entry>
-<form>vaḻi<pc>+</pc></form>
-<def>way</def>
-</entry>
-<entry>
-<form>paṭutta</form>
-<def>caused-</def>
-</entry>
-<entry>
-<form>mati</form>
-<def>mind</def>
-</entry>
-<entry>
-<form><pc>~</pc>uṭai</form>
-<def>possess-</def>
-</entry>
-<entry>
-<form>valavōy</form>
-<def>charioteer-you</def>
-</entry>
-<entry>
-<form>iṉṟu</form>
-<def>today</def>
-</entry>
-<entry>
-<form>tantaṉai</form>
-<def>you-gave</def>
-</entry>
-<entry>
-<form>tēr-ō</form>
-<def>chariot</def>
-<form type="simple">tēr</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
-</entry>
-<entry>
-<form>nōy</form>
-<def>pain</def>
-</entry>
-<entry>
-<form>uḻant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>endured</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form>uṟaiviyai</form>
-<def>remain-she</def>
-<gramGrp><gram type="role">accusative</gram>
-</gramGrp></entry>
-<entry>
-<form>nalkalāṉ-ē</form>
-<def>granting</def>
-<form type="simple">nalkalāṉ</form>
-<gramGrp><gram type="role">instrumental</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
-<standOff type="apparatus" corresp="#KT400"><listApp>
-<app corresp="6,11">
-  <lem wit="#C1 #C3 #G1 #C2 #Cam #G2 #EA">cellā</lem>
-  <rdg wit="#C2-p #Cam-p #SS">celvā</rdg>
-</app>
-<app corresp="24,34">
-  <lem wit="#C2pc #Cam #SS">kaḷaikalaṅ</lem>
-  <rdg wit="#C1 #C2ac #C3pc #Cam-p">kaḷaika</rdg>
-  <rdgGrp wit="#C3ac #G1"><rdg type="main">kaḷaik</rdg></rdgGrp>
-  <rdg wit="#G2 #EA">kaṉaiik</rdg>
-</app>
-<app corresp="77,81">
-  <lem wit="#C3 #G1 #C2 #Cam #SS #G2 #EA">yāki</lem>
-  <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>kiya</rdg>
-</app>
-<app corresp="103,112">
-  <lem wit="#C3pc #Cam #SS">karampaip</lem>
-  <rdgGrp wit="#C1 #C3ac #G1"><rdg type="main">kaḷḷarik karampaip</rdg><rdg type="sandhi" wit="#G1">kaḷḷarik/ karampaip</rdg></rdgGrp>
-  <rdgGrp wit="#C2 #G2 #EA #Cam-p"><rdg type="main">kaḷarik karampaip</rdg><rdg type="sandhi" wit="#Cam-p">kaḷarikkarampaip</rdg></rdgGrp>
-</app>
-<app corresp="137,143">
-  <lem wit="#C1 #G1 #C3pc #C2 #Cam #SS #G2 #EA">valavō</lem>
-  <rdg wit="#C3ac">valavē,</rdg>
-</app>
-<app corresp="148,156">
-  <lem wit="#C3 #G1 #C2 #Cam #SS #EA">tantaṉai</lem>
-  <rdg wit="#C1"><gap quantity="1" unit="character" reason="lost"/>ntaṉai</rdg>
-  <rdg wit="#G2">tantaṉait</rdg>
-</app>
-<app corresp="156,160">
-  <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS">tērō</lem>
-  <rdg wit="#C2ac">tērē</rdg>
-  <rdg wit="#G2 #EA">tērēr</rdg>
-</app>
-<app corresp="160,167">
-  <lem wit="#G1 #C3pc #C2 #Cam #SS #G2 #EA">nōyuḻan</lem>
-  <rdgGrp wit="#C1 #C3ac"><rdg type="main">noyuḻain</rdg><rdg type="sandhi" wit="#C3ac">nōyuḻain</rdg></rdgGrp>
-</app>
-<app corresp="167,177">
-  <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS #G2pc #EA">tuṟaiviyai</lem>
-  <rdg wit="#G2ac">tuṟaviyai</rdg>
-  <rdg wit="#C2ac">tiṟaiviyai</rdg>
-</app>
-<app corresp="177,186">
-  <lem wit="#C3pc #C2 #Cam #SS #G2 #EA">nalka lāṉē</lem>
-  <rdgGrp wit="#C1 #G1 #C3ac"><rdg type="main">nalkāṉē</rdg><rdg type="sandhi" wit="#C3ac">nalakāṉē.</rdg></rdgGrp>
-</app>
-<listWit xmlns="http://www.tei-c.org/ns/1.0"><witness xml:id="Ed" source="KT400.xml"><abbr type="siglum">Ed</abbr><expan>Wilden edition</expan></witness><witness xml:id="C1" source="mss/C1_UVSL_1076.xml"><abbr type="siglum">C1</abbr><expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan></witness><witness xml:id="C2" source="mss/C2_UVSL_183.xml"><abbr type="siglum">C2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan><witness xml:id="C2ac" type="ac"><abbr type="siglum">C2ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, ante correctionem]</expan></witness><witness xml:id="C2pc" type="pc"><abbr type="siglum">C2pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, post correctionem]</expan></witness><witness xml:id="C2-p"><abbr type="siglum">C2-p</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, interlineal annotation]</expan></witness></witness><witness xml:id="C3" source="mss/C3_UVSL_184.xml"><abbr type="siglum">C3</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan><witness xml:id="C3ac" type="ac"><abbr type="siglum">C3ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, ante correctionem]</expan></witness><witness xml:id="C3pc" type="pc"><abbr type="siglum">C3pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, post correctionem]</expan></witness></witness><witness xml:id="Cam" source="mss/Cam.xml"><abbr type="siglum">Cām</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937</expan><witness xml:id="Cam-p"><abbr type="siglum">Cam-p</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937 [variant reading]</expan></witness></witness><witness xml:id="EA" source="mss/EA.xml"><abbr type="siglum">EA</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> ed. Caurip Perumāḷ Araṅkaṉ 1915</expan></witness><witness xml:id="G1" source="mss/G1_GOML_TD65.xml"><abbr type="siglum">G1</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan><witness xml:id="G1ac" type="ac"><abbr type="siglum">G1ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, ante correctionem]</expan></witness><witness xml:id="G1pc" type="pc"><abbr type="siglum">G1pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, post correctionem]</expan></witness></witness><witness xml:id="G2" source="mss/G2_GOML_TR1072.xml"><abbr type="siglum">G2</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan><witness xml:id="G2ac" type="ac"><abbr type="siglum">G2ac</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, ante correctionem]</expan></witness><witness xml:id="G2pc" type="pc"><abbr type="siglum">G2pc</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, post correctionem]</expan></witness></witness><witness xml:id="SS" source="mss/SS.xml"><abbr type="siglum">SS</abbr><expan><title xml:lang="ta">Kuṟuntokai</title> Śaiva Siddhānta edition, 1955</expan></witness></listWit>
-</listApp></standOff> 
-<standOff type="apparatus" corresp="#KT400-kilavi"><listApp>
-<app corresp="15,25">
-  <lem wit="#C2 #Cam #G2 #EA #C3 #G1 #C1">talaimakaṉ</lem>
-  <rdg wit="#SS">talaivaṉ</rdg>
-</app>
-<app corresp="37,52">
-  <lem wit="#C2 #Cam #G2 #EA #SS #C3pc #G1pc">talaiyaḷittatu.</lem>
-  <rdgGrp wit="#C3ac #G1ac #C1"><rdg type="main">talaiyaḻittatu.</rdg><rdg type="sandhi" wit="#C1">talaiyaḻittatu ·</rdg></rdgGrp>
-</app>
-</listApp></standOff>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+          <l> As one with a mind <note place="foot">What is the significance of <term xml:lang="ta">
+            maṉam </term> and <term xml:lang="ta">mati </term> (line 5) here, both of them certainly
+            Sanskritisms?</note> , who considered [and] desired what is good:</l>
+          <l rend="indent"> “if we don't go the way through the distance without impediment,</l>
+          <l rend="indent"> we won't alleviate the desire for [her with] <note place="foot">
+              <term xml:lang="ta">perum tōḷ </term> can be seen either as a metonymy for HER or for
+            HIM, who is desirous of reaching home.</note> big shoulders”,</l>
+          <l> you charioteer with a mind that effects new paths</l>
+          <l rend="indent"> in the wasteland, setting of to break into <note place="foot">
+              <term xml:lang="ta">murampu kaṇ</term> : it seems best here to understand <term
+                xml:lang="ta">kaṇ</term> as a locative suffix.</note> mounds of gravel,</l>
+          <l> have you given [just] the chariot today?</l>
+          <l> With this you are granting <note place="foot">Literally <term xml:lang="ta">nalkalāṉ </term>
+            is a verbal noun in the instrumental, which probably is to be understood as a sociative
+            (together with).</note> [also] her,</l>
+          <l rend="indent6"> who constantly endures pain <note place="foot">
+              <term xml:lang="ta">uḻantu uṟaivi</term> : either <term xml:lang="ta">uṟai-tal </term>
+            has auxiliary function (see above) or it has to be coordinated "she, who has stayed
+            [behind and] endures pain". Against this can be said that uṟaivi is not perfective
+            aspect (and "she, who stays" does not seem to make sense in this context).</note> .</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#KT400">
+    <interp type="alignment" select="0">48MG15MG96MG9MG17MG2M,191MG</interp>
+    <entry>
+      <form>cēy</form>
+      <def>distance</def>
+    </entry>
+    <entry>
+      <form>āṟu</form>
+      <def>way</def>
+    </entry>
+    <entry>
+      <form>cellām</form>
+      <def>go-not-we</def>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>if</def>
+    </entry>
+    <entry>
+      <form>iṭar</form>
+      <def>affliction</def>
+    </entry>
+    <entry>
+      <form>iṉṟu</form>
+      <def>not-it</def>
+    </entry>
+    <entry>
+      <form>kaḷaikalam</form>
+      <def>remove-not-we</def>
+    </entry>
+    <entry>
+      <form>kāmam</form>
+      <def>desire</def>
+    </entry>
+    <entry>
+      <form>perum</form>
+      <def>big</def>
+    </entry>
+    <entry>
+      <form>tōṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>shoulder</def>
+      <gramGrp><gram type="role">dative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉṟu</form>
+      <def>said</def>
+    </entry>
+    <entry>
+      <form>naṉṟu</form>
+      <def>good-it</def>
+    </entry>
+    <entry>
+      <form>purint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>desired</def>
+    </entry>
+    <entry>
+      <form>eṇṇiya</form>
+      <def>considered-</def>
+    </entry>
+    <entry>
+      <form>maṉattai</form>
+      <def>mind-you</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āki</form>
+      <def>become</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>murampu</form>
+      <def>mound-of-gravel</def>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>in</def>
+      <gramGrp><gram type="role">postposition</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>uṭaiya</form>
+      <def>break</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ēki<pc>+</pc></form>
+      <def>gone</def>
+    </entry>
+    <entry>
+      <form>karampai<pc>+</pc></form>
+      <def>wasteland</def>
+    </entry>
+    <entry>
+      <form>putu</form>
+      <def>new</def>
+    </entry>
+    <entry>
+      <form>vaḻi<pc>+</pc></form>
+      <def>way</def>
+    </entry>
+    <entry>
+      <form>paṭutta</form>
+      <def>caused-</def>
+    </entry>
+    <entry>
+      <form>mati</form>
+      <def>mind</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṭai</form>
+      <def>possess-</def>
+    </entry>
+    <entry>
+      <form>valavōy</form>
+      <def>charioteer-you</def>
+    </entry>
+    <entry>
+      <form>iṉṟu</form>
+      <def>today</def>
+    </entry>
+    <entry>
+      <form>tantaṉai</form>
+      <def>you-gave</def>
+    </entry>
+    <entry>
+      <form>tēr-ō</form>
+      <def>chariot</def>
+      <form type="simple">tēr</form>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
+    </entry>
+    <entry>
+      <form>nōy</form>
+      <def>pain</def>
+    </entry>
+    <entry>
+      <form>uḻant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>endured</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṟaiviyai</form>
+      <def>remain-she</def>
+      <gramGrp><gram type="role">accusative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nalkalāṉ-ē</form>
+      <def>granting</def>
+      <form type="simple">nalkalāṉ</form>
+      <gramGrp><gram type="role">instrumental</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
+  <standOff type="apparatus" corresp="#KT400">
+    <listApp>
+      <app corresp="6,11">
+        <lem wit="#C1 #C3 #G1 #C2 #Cam #G2 #EA">cellā</lem>
+        <rdg wit="#C2-p #Cam-p #SS">celvā</rdg>
+      </app>
+      <app corresp="24,34">
+        <lem wit="#C2pc #Cam #SS">kaḷaikalaṅ</lem>
+        <rdg wit="#C1 #C2ac #C3pc #Cam-p">kaḷaika</rdg>
+        <rdgGrp wit="#C3ac #G1">
+          <rdg type="main">kaḷaik</rdg>
+        </rdgGrp>
+        <rdg wit="#G2 #EA">kaṉaiik</rdg>
+      </app>
+      <app corresp="77,81">
+        <lem wit="#C3 #G1 #C2 #Cam #SS #G2 #EA">yāki</lem>
+        <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character" />kiya</rdg>
+      </app>
+      <app corresp="103,112">
+        <lem wit="#C3pc #Cam #SS">karampaip</lem>
+        <rdgGrp wit="#C1 #C3ac #G1">
+          <rdg type="main">kaḷḷarik karampaip</rdg>
+          <rdg type="sandhi" wit="#G1">kaḷḷarik/ karampaip</rdg>
+        </rdgGrp>
+        <rdgGrp wit="#C2 #G2 #EA #Cam-p">
+          <rdg type="main">kaḷarik karampaip</rdg>
+          <rdg type="sandhi" wit="#Cam-p">kaḷarikkarampaip</rdg>
+        </rdgGrp>
+      </app>
+      <app corresp="137,143">
+        <lem wit="#C1 #G1 #C3pc #C2 #Cam #SS #G2 #EA">valavō</lem>
+        <rdg wit="#C3ac">valavē,</rdg>
+      </app>
+      <app corresp="148,156">
+        <lem wit="#C3 #G1 #C2 #Cam #SS #EA">tantaṉai</lem>
+        <rdg wit="#C1"><gap quantity="1" unit="character" reason="lost" />ntaṉai</rdg>
+        <rdg wit="#G2">tantaṉait</rdg>
+      </app>
+      <app corresp="156,160">
+        <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS">tērō</lem>
+        <rdg wit="#C2ac">tērē</rdg>
+        <rdg wit="#G2 #EA">tērēr</rdg>
+      </app>
+      <app corresp="160,167">
+        <lem wit="#G1 #C3pc #C2 #Cam #SS #G2 #EA">nōyuḻan</lem>
+        <rdgGrp wit="#C1 #C3ac">
+          <rdg type="main">noyuḻain</rdg>
+          <rdg type="sandhi" wit="#C3ac">nōyuḻain</rdg>
+        </rdgGrp>
+      </app>
+      <app corresp="167,177">
+        <lem wit="#C1 #C3 #G1 #C2pc #Cam #C2-p #SS #G2pc #EA">tuṟaiviyai</lem>
+        <rdg wit="#G2ac">tuṟaviyai</rdg>
+        <rdg wit="#C2ac">tiṟaiviyai</rdg>
+      </app>
+      <app corresp="177,186">
+        <lem wit="#C3pc #C2 #Cam #SS #G2 #EA">nalka lāṉē</lem>
+        <rdgGrp wit="#C1 #G1 #C3ac">
+          <rdg type="main">nalkāṉē</rdg>
+          <rdg type="sandhi" wit="#C3ac">nalakāṉē.</rdg>
+        </rdgGrp>
+      </app>
+      <listWit xmlns="http://www.tei-c.org/ns/1.0">
+        <witness xml:id="Ed" source="KT400.xml">
+          <abbr type="siglum">Ed</abbr>
+          <expan>Wilden edition</expan>
+        </witness>
+        <witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+          <abbr type="siglum">C1</abbr>
+          <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+        </witness>
+        <witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+          <abbr type="siglum">C2</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+          <witness xml:id="C2ac" type="ac">
+            <abbr type="siglum">C2ac</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, ante correctionem]</expan>
+          </witness>
+          <witness xml:id="C2pc" type="pc">
+            <abbr type="siglum">C2pc</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, post correctionem]</expan>
+          </witness>
+          <witness xml:id="C2-p">
+            <abbr type="siglum">C2-p</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183, interlineal annotation]</expan>
+          </witness>
+        </witness>
+        <witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+          <abbr type="siglum">C3</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+          <witness xml:id="C3ac" type="ac">
+            <abbr type="siglum">C3ac</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, ante correctionem]</expan>
+          </witness>
+          <witness xml:id="C3pc" type="pc">
+            <abbr type="siglum">C3pc</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184, post correctionem]</expan>
+          </witness>
+        </witness>
+        <witness xml:id="Cam" source="mss/Cam.xml">
+          <abbr type="siglum">Cām</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937</expan>
+          <witness xml:id="Cam-p">
+            <abbr type="siglum">Cam-p</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> ed. U. V. Swaminatha Iyer 1937 [variant
+              reading]</expan>
+          </witness>
+        </witness>
+        <witness xml:id="EA" source="mss/EA.xml">
+          <abbr type="siglum">EA</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> ed. Caurip Perumāḷ Araṅkaṉ 1915</expan>
+        </witness>
+        <witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+          <abbr type="siglum">G1</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+          <witness xml:id="G1ac" type="ac">
+            <abbr type="siglum">G1ac</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, ante correctionem]</expan>
+          </witness>
+          <witness xml:id="G1pc" type="pc">
+            <abbr type="siglum">G1pc</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65, post correctionem]</expan>
+          </witness>
+        </witness>
+        <witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+          <abbr type="siglum">G2</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+          <witness xml:id="G2ac" type="ac">
+            <abbr type="siglum">G2ac</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, ante correctionem]</expan>
+          </witness>
+          <witness xml:id="G2pc" type="pc">
+            <abbr type="siglum">G2pc</abbr>
+            <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072, post correctionem]</expan>
+          </witness>
+        </witness>
+        <witness xml:id="SS" source="mss/SS.xml">
+          <abbr type="siglum">SS</abbr>
+          <expan><title xml:lang="ta">Kuṟuntokai</title> Śaiva Siddhānta edition, 1955</expan>
+        </witness>
+      </listWit>
+    </listApp>
+  </standOff>
+  <standOff type="apparatus" corresp="#KT400-kilavi">
+    <listApp>
+      <app corresp="15,25">
+        <lem wit="#C2 #Cam #G2 #EA #C3 #G1 #C1">talaimakaṉ</lem>
+        <rdg wit="#SS">talaivaṉ</rdg>
+      </app>
+      <app corresp="37,52">
+        <lem wit="#C2 #Cam #G2 #EA #SS #C3pc #G1pc">talaiyaḷittatu.</lem>
+        <rdgGrp wit="#C3ac #G1ac #C1">
+          <rdg type="main">talaiyaḻittatu.</rdg>
+          <rdg type="sandhi" wit="#C1">talaiyaḻittatu ·</rdg>
+        </rdgGrp>
+      </app>
+    </listApp>
+  </standOff>
 </TEI>
