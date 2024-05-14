@@ -15,8 +15,7 @@
           understood as a case of incorporation − the integration of a poem, which on the surface
           level is not an <term xml:lang="ta">Akam</term> poem, into the fold by making use of
           motific and topic allusion. SHE remembers the place in the seashore grove where she has
-          met HIM (and presumably lost her <term
-                xml:lang="ta">nalaṉ </term> to him) as the spot where the wheels of his chariot have
+          met HIM (and presumably lost her <term xml:lang="ta">nalaṉ </term> to him) as the spot where the wheels of his chariot have
           cut down the waterlilies.</note>
           </hi></title>
       </titleStmt>
@@ -25,14 +24,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -50,14 +49,11 @@
         </lg>
 
         <lg type="translation" xml:lang="en">
-          <l>This place possesses only<note place="foot"><term xml:lang="ta">neytalum</term> : the <term
-                xml:lang="ta">-um </term> is problematic here. Perhaps this is another case of a
-            peculiar exclusive function: apart from myself (i.e. the speaker) also x (cf. KT 25.5 <term
-                xml:lang="ta">kurukum uṇṭu</term>). T.V.G. explains it as an indefinite ("all the
+          <l>This place possesses only<note place="foot"><term xml:lang="ta">neytalum</term> : the <term xml:lang="ta">-um </term> is problematic here. Perhaps this is another case of a
+            peculiar exclusive function: apart from myself (i.e. the speaker) also x (cf. KT 25.5 <term xml:lang="ta">kurukum uṇṭu</term>). T.V.G. explains it as an indefinite ("all the
             blue waterlilies"), which amounts to the same as far as contents are concerned.</note>
             short blue waterlilies</l>
-          <l rend="indent2">without full petals, as the sword faces<note place="foot"><term
-                xml:lang="ta">vāḷ mukam</term> the sharp blade or edge of a weapon seems to be
+          <l rend="indent2">without full petals, as the sword faces<note place="foot"><term xml:lang="ta">vāḷ mukam</term> the sharp blade or edge of a weapon seems to be
             called <term xml:lang="ta">mukam</term> "face" or <term xml:lang="ta">vāy</term>
             "mouth"; cf. KT 378.4 <term xml:lang="ta">cuṭar vāy neṭu vēḷ</term> . Still the transfer
             to the wheels of a chariot seems a little awkward. Perhaps the point is rather the
@@ -65,8 +61,7 @@
             cut [them]</l>
           <l rend="indent3">of the gold-rimmed<note place="foot">
               <term xml:lang="ta">polam cūṭṭu nēmi</term> : T.V.G. here explains <term xml:lang="ta">
-            polam</term> to refer to iron (black gold), but since it is compared to <term
-                xml:lang="ta">pūṇ</term> , an ornament, it might also refer to a kind of decoration
+            polam</term> to refer to iron (black gold), but since it is compared to <term xml:lang="ta">pūṇ</term> , an ornament, it might also refer to a kind of decoration
             on the wheel.</note> wheels curved like an ornament,</l>
           <l rend="indent2">– in the seashore grove he with the chariot had gone to.</l>
 
@@ -74,36 +69,43 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT227">
-<interp type="alignment" select="0">70MG8MG22MG2M,104MG</interp>
+<standOff type="wordsplit" corresp="#KT227"><interp type="alignment" select="0">70MG8MG22MG2M,104MG</interp>
 <entry>
 <form>pūṇ</form>
 <def>ornament</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷaintaṉṉa</form>
 <def>curved-like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>polam</form>
 <def>gold</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cūṭṭu</form>
 <def>rim</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nēmi</form>
 <def>wheel</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mukam</form>
 <def>face</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tumippa</form>
 <def>cut</def>
@@ -112,29 +114,37 @@
 <entry>
 <form>vaḷ</form>
 <def>abundance</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>itaḻ</form>
 <def>petal</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṟainta</form>
-<def>lacked-</def>
-</entry>
+<def>lacked</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kūḻai</form>
 <def>short</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>neytal-um</form>
-<def>blue-waterlily</def>
+<def>blue waterlily</def>
 <form type="simple">neytal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>possess-it</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>ivaṇ</form>
 <def>here</def>
@@ -142,17 +152,20 @@
 <entry>
 <form>tērōṉ</form>
 <def>chariot-he</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>pōkiya</form>
-<def>gone-</def>
-</entry>
+<def>gone</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṉalāṉ-ē</form>
-<def>seashore-grove</def>
+<def>seashore grove</def>
 <form type="simple">kāṉalāṉ</form>
 <gramGrp><gram type="role">locative</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
