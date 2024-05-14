@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -62,124 +62,155 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT238">
-    <interp type="alignment" select="0">3MG45MG87MG2M,140M</interp>
-    <entry>
-      <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>green</def>
-    </entry>
-    <entry>
-      <form>aval</form>
-      <def>rice</def>
-    </entry>
-    <entry>
-      <form>iṭitta</form>
-      <def>pounded-</def>
-    </entry>
-    <entry>
-      <form>karum</form>
-      <def>black</def>
-    </entry>
-    <entry>
-      <form>kāḻ</form>
-      <def>hardness</def>
-    </entry>
-    <entry>
-      <form>ulakkai</form>
-      <def>pestle</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āy</form>
-      <def>select-</def>
-    </entry>
-    <entry>
-      <form>katir</form>
-      <def>ear</def>
-    </entry>
-    <entry>
-      <form>nelliṉ</form>
-      <def>paddy[-field]</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>border</def>
-    </entry>
-    <entry>
-      <form>aṇai<pc>+</pc></form>
-      <def>ridge</def>
-    </entry>
-    <entry>
-      <form>tuyiṟṟi</form>
-      <def>laid-down</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>oḷ</form>
-      <def>bright</def>
-    </entry>
-    <entry>
-      <form>toṭi</form>
-      <def>bracelet</def>
-    </entry>
-    <entry>
-      <form>makaḷir</form>
-      <def>women</def>
-    </entry>
-    <entry>
-      <form>vaṇṭal</form>
-      <def>play</def>
-      <note><term xml:lang="ta"> vaṇṭal</term> is, according to the TL "girls' game of making
+  <standOff type="wordsplit" corresp="#KT238"><interp type="alignment" select="0">3MG45MG87MG2M,139MG</interp>
+<entry>
+<form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>aval</form>
+<def>rice</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭitta</form>
+<def>pounded</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāḻ</form>
+<def>hardness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ulakkai</form>
+<def>pestle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āy</form>
+<def>select</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>katir</form>
+<def>ear</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nelliṉ</form>
+<def>paddy field</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>border</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṇai<pc>+</pc></form>
+<def>ridge</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuyiṟṟi</form>
+<def>laid-down</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp><gram type="role">feminine plural</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṇṭal</form>
+<def>play</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta"> vaṇṭal</term> is, according to the TL "girls' game of making
         toy-houses; sediment, mud ...". Only the latter meaning is to be found in the DEDR (5237).
         T.V.G. explains it, just as in the case of <term xml:lang="ta">ōrai </term> (another women's
         game not included in the DEDR) simply as "play", which is the occupation by girls/women who
-        are not working. </note>
-    </entry>
-    <entry>
-      <form>ayarum</form>
-      <def>being-engaged-</def>
-    </entry>
-    <entry>
-      <form>toṇṭi</form>
-      <def>Toṇṭi</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aṉṉa</form>
-      <def>like</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉ</form>
-      <def>my-</def>
-    </entry>
-    <entry>
-      <form>nalam</form>
-      <def>goodness</def>
-    </entry>
-    <entry>
-      <form>tantu</form>
-      <def>given</def>
-    </entry>
-    <entry>
-      <form>koṇṭaṉai</form>
-      <def>you-took</def>
-    </entry>
-    <entry>
-      <form>ceṉmō</form>
-      <def>go</def>
-      <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-      <form>makiḻna</form>
-      <def>delight-he</def>
-    </entry>
-    <entry>
-      <form>niṉ</form>
-      <def>your-</def>
-    </entry>
-    <entry>
-      <form>cūḷ-ē</form>
-      <def>oath</def>
-      <form type="simple">cūḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        are not working. </note></entry>
+<entry>
+<form>ayarum</form>
+<def>being-engaged-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>toṇṭi</form>
+<def>Toṇṭi</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>nalam</form>
+<def>goodness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tantu</form>
+<def>given</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭaṉai</form>
+<def>you took</def>
+<gramGrp><gram type="role">muṟṟeccam</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṉmō</form>
+<def>go</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>makiḻna</form>
+<def>delight-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>cūḷ-ē</form>
+<def>oath</def>
+<form type="simple">cūḷ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
