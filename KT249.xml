@@ -13,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -27,7 +27,7 @@
         </listPerson>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -66,111 +66,130 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT249">
-    <interp type="alignment" select="0">4ML10ML82MR22M2G9ML6M,138MG</interp>
-    <entry>
-      <form>iṉam</form>
-      <def>group</def>
-    </entry>
-    <entry>
-      <form>mayil</form>
-      <def>peacock</def>
-    </entry>
-    <entry>
-      <form>akavum</form>
-      <def>calling-</def>
-    </entry>
-    <entry>
-      <form>maram</form>
-      <def>tree</def>
-    </entry>
-    <entry>
-      <form>payil</form>
-      <def>rustle-/become-dense-</def>
-    </entry>
-    <entry>
-      <form>kāṉattu</form>
-      <def>forest-</def>
-    </entry>
-    <entry>
-      <form>narai</form>
-      <def>whiteness</def>
-    </entry>
-    <entry>
-      <form>mukam</form>
-      <def>face</def>
-    </entry>
-    <entry>
-      <form>ūkam</form>
-      <def>black-monkey</def>
-    </entry>
-    <entry>
-      <form>pārppoṭu</form>
-      <def>young-one</def>
-      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>paṉippa<pc>+</pc></form>
-      <def>shiver</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>paṭu</form>
-      <def>happen-</def>
-    </entry>
-    <entry>
-      <form>maḻai</form>
-      <def>rain</def>
-    </entry>
-    <entry>
-      <form>poḻinta</form>
-      <def>flown-</def>
-    </entry>
-    <entry>
-      <form>cāral</form>
-      <def>slope</def>
-    </entry>
-    <entry>
-      <form>avar</form>
-      <def>he</def>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>nāṭṭu<pc>+</pc></form>
-      <def>land-</def>
-    </entry>
-    <entry>
-      <form>kuṉṟam</form>
-      <def>hill</def>
-    </entry>
-    <entry>
-      <form>nōkkiṉeṉ</form>
-      <def>I-looked</def>
-    </entry>
-    <entry>
-      <form>tōḻi</form>
-      <def>friend</def>
-    </entry>
-    <entry>
-      <form>paṇṭai</form>
-      <def>formerly</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-      <def>thus-it</def>
-      <form type="simple">aṟṟu</form>
-      <gramGrp type="particle"><form>ō</form></gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇṭiciṉ</form>
-      <def>see</def>
-      <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-      <form>nutalē</form>
-      <def>forehead</def>
-      <form type="simple">nutal</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT249"><interp type="alignment" select="0">4ML10ML82MR22M2G9ML6M,138MG</interp>
+<entry>
+<form>iṉam</form>
+<def>group</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>akavum</form>
+<def>calling-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maram</form>
+<def>tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>payil</form>
+<def>rustle/become-dense</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṉattu</form>
+<def>forest</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>narai</form>
+<def>whiteness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūkam</form>
+<def>black monkey</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pārppoṭu</form>
+<def>young one</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>paṉippa<pc>+</pc></form>
+<def>shiver</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭu</form>
+<def>happen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>poḻinta</form>
+<def>flown</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>avar</form>
+<def>that-one</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭṭu<pc>+</pc></form>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṉṟam</form>
+<def>hill</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nōkkiṉeṉ</form>
+<def>I looked at</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇṭai</form>
+<def>formerly</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>thus-it</def>
+<form type="simple">aṟṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṭiciṉ</form>
+<def>may-see</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>nutalē</form>
+<def>forehead</def>
+</entry></standOff>
 </TEI>
