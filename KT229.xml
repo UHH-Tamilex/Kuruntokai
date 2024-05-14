@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -47,8 +47,7 @@
             pāl</term> : Cām. glosses with "hair style"; in the commentary on Cīvak. 2437 written by
             Nacc. there is an extensive description of the ways to dress the hair in five different
             ways on one head.</note> and she</l>
-          <l rend="indent2">pulls his scarce head hair [and] runs [off]<note place="foot"><term
-                xml:lang="ta">vāṅkunaḷ pariya </term> is literally "running as one who is pulling".</note>
+          <l rend="indent2">pulls his scarce head hair [and] runs [off]<note place="foot"><term xml:lang="ta">vāṅkunaḷ pariya </term> is literally "running as one who is pulling".</note>
           </l>
           <l rend="indent2">and the foster-mother in love restrains [them]<note place="foot">Or the
             three infinitives + <term xml:lang="ta">-um </term> have to be taken in an optative
@@ -57,8 +56,7 @@
           <l>Good, alas indeed, [are] you, fate.</l>
           <l>You have shown us the joyful nature of the union</l>
           <l rend="indent">of these [two]:</l>
-          <l rend="indent6">like in a garland the blossoms [are] tender companions.<note
-              place="foot">The whole poem as it stands is best understood as irony: a wonderful pair
+          <l rend="indent6">like in a garland the blossoms [are] tender companions.<note place="foot">The whole poem as it stands is best understood as irony: a wonderful pair
             indeed, or rather pair to be, are these two quarrelling children. T.V.G. however
             explains the first part as the memory of the spectators of the <term xml:lang="ta">
             kiḷavi</term> : such have they been, namely quarrelling children, but now that they are
@@ -76,17 +74,16 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT229">
-<interp type="alignment" select="0">19MG37MG25MG10MG2MG16MG11MG11MG42ML19MG2M,203MG</interp>
+<standOff type="wordsplit" corresp="#KT229"><interp type="alignment" select="0">19MG37MG25MG10MG2MG16MG11MG11MG42ML19MG2M,203MG</interp>
 <entry>
 <form>ivaṉ</form>
-<def>this</def>
-<gramGrp><gram type="role">masculine</gram>
+<def>this-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>ivaḷ</form>
-<def>this</def>
-<gramGrp><gram type="role">feminine</gram>
+<def>this-one</def>
+<gramGrp><gram type="role">feminine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>aim</form>
@@ -95,7 +92,8 @@
 <entry>
 <form>pāl</form>
 <def>part</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>paṟṟa-<pc>~</pc>um</form>
 <def>grasp</def>
@@ -105,30 +103,35 @@
 </entry>
 <entry>
 <form>ivaḷ</form>
-<def>this</def>
-<gramGrp><gram type="role">feminine</gram>
+<def>this-one</def>
+<gramGrp><gram type="role">feminine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>ivaṉ</form>
-<def>this</def>
-<gramGrp><gram type="role">masculine</gram>
+<def>this-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
-<form>puṉ</form>
-<def>low</def>
-</entry>
+<form>pul</form>
+<def>ruddy</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>talai</form>
 <def>head</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ōri</form>
-<def>male's-hair</def>
-</entry>
+<def>male's hair</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṅkunaḷ</form>
 <def>pull-she</def>
-<gramGrp><gram type="role">feminine</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>pariya-<pc>~</pc>um</form>
@@ -140,11 +143,13 @@
 <entry>
 <form>kātal</form>
 <def>love</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceviliyar</form>
 <def>foster-mother</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>tavirppa-<pc>~</pc>um</form>
@@ -156,96 +161,120 @@
 <entry>
 <form>tavirāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>restrain-not</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>ēt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>reason</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
-<def>not</def>
-</entry>
+<def>be-not</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>little</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ceru</form>
 <def>quarrel</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uṟupa-maṉṉō</form>
-<def>they-have</def>
+<def>they have</def>
 <form type="simple">uṟupa</form>
-<gramGrp type="particle"><m>maṉṉō</m></gramGrp>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>maṉṉō</m></gramGrp>
 </entry>
 <entry>
 <form>nallai-maṉṟamma</form>
 <def>good-you</def>
 <form type="simple">nallai</form>
-<gramGrp type="particle"><m>maṉṟamma</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>maṉṟamma</m></gramGrp>
 </entry>
 <entry>
 <form>pāl-ē</form>
 <def>fate</def>
 <form type="simple">pāl</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>mel</form>
-<def>tender</def>
-</entry>
+<def>soft</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>iyal</form>
 <def>nature</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tuṇai</form>
 <def>companion</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>malar<pc>+</pc></form>
 <def>blossom</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>piṇaiyal</form>
 <def>garland</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ivar</form>
 <def>these</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>maṇam</form>
 <def>union</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>makiḻ</form>
-<def>rejoice-</def>
-</entry>
+<def>delight</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>iyaṟkai</form>
 <def>nature</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṭṭiyōy-ē</form>
 <def>showed-you</def>
 <form type="simple">kāṭṭiyōy</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 
 <note>For <term xml:lang="ta">ētu</term> , explained as Skt. hetu-, "reason", there is at
 least one clear parallel in NA 145.5, there too in combination with il: ētillā ūṅku, "[even]
 before there was a reason" the mother became attentive.</note>
-<note>The sandhi here actually would be resolved as <term xml:lang="ta">maṉṟu</term> , not <term
-  xml:lang="ta">maṉṟa + amma</term> . This is another special case (besides optative in <term
-  xml:lang="ta">-ka + eṉ-tal</term> ) where ending -a is treated like -u.</note>
+<note>The sandhi here actually would be resolved as <term xml:lang="ta">maṉṟu</term> , not <term xml:lang="ta">maṉṟa + amma</term> . This is another special case (besides optative in <term xml:lang="ta">-ka + eṉ-tal</term> ) where ending -a is treated like -u.</note>
 <note><term xml:lang="ta">ōri</term> , attested twice in the KT and nowhere else in the old
 anthologies, is, according to DEDR 1061 only "male jackal", according to the TL "hair of a
 male"; in KT 244.4 it seems to denote the crest of a peacock.</note>
