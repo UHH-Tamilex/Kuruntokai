@@ -13,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -27,7 +27,7 @@
         </listPerson>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -49,12 +49,10 @@
         </lg>
 
         <lg type="translation" xml:lang="en">
-          <l>May the day come when [you] let go [of me] just like that <note place="foot"><term
-                xml:lang="ta">viṭṭeṉa</term> is probably here just an adverb for rhetorical
+          <l>May the day come when [you] let go [of me] just like that <note place="foot"><term xml:lang="ta">viṭṭeṉa</term> is probably here just an adverb for rhetorical
             emphasis. T.V.G. understands it as marking the finality of his letting go of her.</note>
             .</l>
-          <l>If you have consented to that, you have given [back] <note place="foot"><term
-                xml:lang="ta">tantaṉai</term> has to be understood as a <term xml:lang="ta">
+          <l>If you have consented to that, you have given [back] <note place="foot"><term xml:lang="ta">tantaṉai</term> has to be understood as a <term xml:lang="ta">
             muṟṟeccam</term> and is accordingly glossed, by Cām., with an absolutive (see also the
             parallel in KT 238). With the conditional preceding it can be understood either as past
             or hypothetical (see 1+2b).</note>
@@ -76,139 +74,179 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT236">
-    <interp type="alignment" select="0">63MG97MG2M,164M</interp>
-    <entry>
-      <form>viṭṭeṉa</form>
-      <def>let(abs.)-say</def>
-    </entry>
-    <entry>
-      <form>viṭukku</form>
-      <def>letting-go-</def>
-    </entry>
-    <entry>
-      <form>nāḷ</form>
-      <def>day</def>
-    </entry>
-    <entry>
-      <form>varuka</form>
-      <def>may-come</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>atu</form>
-      <def>that</def>
-    </entry>
-    <entry>
-      <form>nī</form>
-      <def>you</def>
-    </entry>
-    <entry>
-      <form>nērntaṉai</form>
-      <def>you-consented</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āyiṉ</form>
-      <def>if</def>
-    </entry>
-    <entry>
-      <form>tantaṉai</form>
-      <def>you-gave</def>
-    </entry>
-    <entry>
-      <form>ceṉmō</form>
-      <def>go</def>
-      <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-      <form>kuṉṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>hill-</def>
-    </entry>
-    <entry>
-      <form>aṉṉa</form>
-      <def>like</def>
-    </entry>
-    <entry>
-      <form>kuvavu</form>
-      <def>heap</def>
-    </entry>
-    <entry>
-      <form>maṇal</form>
-      <def>sand</def>
-    </entry>
-    <entry>
-      <form>aṭai</form>
-      <def>settle-</def>
-    </entry>
-    <entry>
-      <form>karai</form>
-      <def>shore</def>
-    </entry>
-    <entry>
-      <form>niṉṟa</form>
-      <def>stood-</def>
-    </entry>
-    <entry>
-      <form>puṉṉai</form>
-      <def>Puṉṉai(-tree)</def>
-    </entry>
-    <entry>
-      <form>nilam</form>
-      <def>ground</def>
-    </entry>
-    <entry>
-      <form>tōy</form>
-      <def>touch-</def>
-    </entry>
-    <entry>
-      <form>paṭu</form>
-      <def>happen-</def>
-    </entry>
-    <entry>
-      <form>ciṉai</form>
-      <def>twig</def>
-    </entry>
-    <entry>
-      <form>vampa</form>
-      <def>new</def>
-    </entry>
-    <entry>
-      <form>nārai</form>
-      <def>wader</def>
-    </entry>
-    <entry>
-      <form>cēkkum</form>
-      <def>resting-</def>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-    </entry>
-    <entry>
-      <form>kaṭal</form>
-      <def>sea</def>
-    </entry>
-    <entry>
-      <form>cērppa</form>
-      <def>coast-he</def>
-      <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-      <form>nī</form>
-      <def>you</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>uṇṭa</form>
-      <def>eaten-</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉ</form>
-      <def>my-</def>
-    </entry>
-    <entry>
-      <form>nalaṉ-ē</form>
-      <form type="simple">nalaṉ</form>      
-      <def>innocence</def>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT236"><interp type="alignment" select="0">14MR49MG97MG2M,164MG</interp>
+<entry>
+<form>viṭṭeṉa</form>
+<def>let-go-say</def>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>viṭukkum</form>
+<def>letting-go-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>varuka</form>
+<def>may come</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>nērntaṉai</form>
+<def>you consented</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉ</form>
+<def>if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>tantaṉai</form>
+<def>you gave</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṉmō</form>
+<def>go</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṉṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hill</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>kuvavu</form>
+<def>heap</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṭai</form>
+<def>settle</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>karai</form>
+<def>shore</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉṟa</form>
+<def>stood</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉṉai</form>
+<def>Puṉṉai tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tōy</form>
+<def>touch</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭu</form>
+<def>happen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vampa</form>
+<def>new</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēkkum</form>
+<def>resting-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cērppa</form>
+<def>coast-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṇṭa</form>
+<def>eaten</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>nalaṉ-ē</form>
+<def>innocence</def>
+<form type="simple">nalaṉ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
