@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -44,9 +44,7 @@
           <l rend="indent2">As the glow goes [and] the sky is reddening, affliction abounds,</l>
           <l rend="indent2">[and] at the time the light subsides the jasmine blossoms −</l>
           <l>“evening” − those who say so are confused.</l>
-          <l rend="indent2">When in the wide city <note place="foot">It is not clear whether <term
-                xml:lang="ta">nakar</term> denotes a house or a town. Probably the attribute <term
-                xml:lang="ta">neṭum</term> is better adjusted to a town, i.e. in the sense of
+          <l rend="indent2">When in the wide city <note place="foot">It is not clear whether <term xml:lang="ta">nakar</term> denotes a house or a town. Probably the attribute <term xml:lang="ta">neṭum</term> is better adjusted to a town, i.e. in the sense of
             spacious.</note> the crested <note place="foot"><term xml:lang="ta">kuṭumi</term> here
             probably just achieves the marking of the gender-neutral <term xml:lang="ta">kōḻi </term>
             as a masculine, that is, a cock's crowing, not the cackle of chickens, and thus dawn.</note>
@@ -60,133 +58,160 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT234">
-    <interp type="alignment" select="0">29MG26ML22MG45MG2ML9MG2ML16M2G2M,162M</interp>
-    <entry>
-      <form>cuṭar</form>
-      <def>glow</def>
-    </entry>
-    <entry>
-      <form>cel</form>
-      <def>go-</def>
-    </entry>
-    <entry>
-      <form>vāṉam</form>
-      <def>sky</def>
-    </entry>
-    <entry>
-      <form>cēppa<pc>+</pc></form>
-      <def>redden</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>paṭar</form>
-      <def>affliction</def>
-    </entry>
-    <entry>
-      <form>kūrnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>been-abundant</def>
-    </entry>
-    <entry>
-      <form>el</form>
-      <def>light</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>aṟu</form>
-      <def>subside-</def>
-    </entry>
-    <entry>
-      <form>poḻutiṉ</form>
-      <def>time</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>mullai</form>
-      <def>jasmine</def>
-    </entry>
-    <entry>
-      <form>malarum</form>
-      <def>blossoming-</def>
-    </entry>
-    <entry>
-      <form>mālai</form>
-      <def>evening</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉmaṉār</form>
-      <def>say-they</def>
-      <gram type="role">honorific</gram>
-      <note>
+  <standOff type="wordsplit" corresp="#KT234"><interp type="alignment" select="0">29MG26ML22MG45MG2ML9MG2ML16M2G2M,161MG</interp>
+<entry>
+<form>cuṭar</form>
+<def>glow</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cel</form>
+<def>go</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vāṉam</form>
+<def>sky</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēppa<pc>+</pc></form>
+<def>redden</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭar</form>
+<def>affliction</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kūrnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>been-abundant</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>el</form>
+<def>light</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>aṟu</form>
+<def>subside</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>poḻutiṉ</form>
+<def>time</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>mullai</form>
+<def>jasmine</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>malarum</form>
+<def>blossoming-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">
         <term xml:lang="ta">eṉmaṉār</term> : for this participle noun formation see Agesthialingom,
-        p. 178, column 2.</note>
-    </entry>
-    <entry>
-      <form>mayaṅkiyōr-ē</form>
-      <def>confused-they</def>
-      <form type="simple">mayaṅkiyōr</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>kuṭumik</form>
-      <def>comb</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>ōḻi</form>
-      <def>fowl</def>
-    </entry>
-    <entry>
-      <form>neṭu</form>
-      <def>long</def>
-    </entry>
-    <entry>
-      <form>nakar</form>
-      <def>town</def>
-    </entry>
-    <entry>
-      <form>iyampum</form>
-      <def>sounding-</def>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>pular</form>
-      <def>dawn-</def>
-      <note> pular, elsewhere (KT 150.3, 347.1, 372.6) used in the sense of drying, according to
-        DEDR 4305 can also be "to dawn".</note>
-    </entry>
-    <entry>
-      <form>viṭiyal-um</form>
-      <form type="simple">viṭiyal</form>
-      <def>dawn</def>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-      <form>mālai</form>
-      <def>evening</def>
-    </entry>
-    <entry>
-      <form>pakal-um</form>
-      <form type="simple">pakal</form>
-      <def>midday</def>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-      <form>mālai</form>
-      <def>evening</def>
-    </entry>
-    <entry>
-      <form>tuṇai</form>
-      <def>companion</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ilōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>not-they</def>
-      <form type="simple">ilōrkku</form>
-      <gram type="role">honorific dative</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+        p. 178, column 2.</note></entry>
+<entry>
+<form>mayaṅkiyōr-ē</form>
+<def>confused-they</def>
+<form type="simple">mayaṅkiyōr</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kuṭumi<pc>+</pc></form>
+<def>comb</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōḻi</form>
+<def>fowl</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nakar</form>
+<def>city</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iyampum</form>
+<def>sounding-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pular</form>
+<def>dawn</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"> pular, elsewhere (KT 150.3, 347.1, 372.6) used in the sense of drying, according to
+        DEDR 4305 can also be "to dawn".</note></entry>
+<entry>
+<form>viṭiyal-um</form>
+<def>dawn</def>
+<form type="simple">viṭiyal</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pakal-um</form>
+<def>midday</def>
+<form type="simple">pakal</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṇai</form>
+<def>consort</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ilōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>not-they</def>
+<form type="simple">ilōrkku</form>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
