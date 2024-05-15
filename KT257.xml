@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -42,10 +42,8 @@
         <lg type="translation" xml:lang="en">
           <l>Ever when the man from the bustling <note place="foot"><term xml:lang="ta">ār kali</term>
             : here the formulaic epithet is problematic (cf. note on KT 155.1). How can a mountain
-            be noisy? Bustling with life, in a figurative sense, might be conceivable. Or is it the <term
-                xml:lang="ta">veṟpaṉ</term> himself who is very busy?</note> mountain comes,</l>
-          <l rend="indent2">with jack trees with descending bundles <note place="foot">What does <term
-                xml:lang="ta">kōḷ</term> here refer to? Bundles of fruit? But what, then, is the
+            be noisy? Bustling with life, in a figurative sense, might be conceivable. Or is it the <term xml:lang="ta">veṟpaṉ</term> himself who is very busy?</note> mountain comes,</l>
+          <l rend="indent2">with jack trees with descending bundles <note place="foot">What does <term xml:lang="ta">kōḷ</term> here refer to? Bundles of fruit? But what, then, is the
             nuance of <term xml:lang="ta">vīḻ</term> ? The weight of the many fruit hanging so low?
             T.V.G. explains it as "bundles of fruit desired by all".</note>
           </l>
@@ -68,25 +66,27 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT257">
-<interp type="alignment" select="0">3MG2ML4MG5M2G42MG58MG30MG3M,154MG</interp>
+<standOff type="wordsplit" corresp="#KT257"><interp type="alignment" select="0">3MG2ML4MG5M2G42MG58MG30MG3M,154MG</interp>
 <entry>
 <form>vēr-um</form>
 <def>root</def>
 <form type="simple">vēr</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>mutal-um</form>
 <def>base</def>
 <form type="simple">mutal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>branch</def>
 <form type="simple">kōṭu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>or</form>
@@ -95,64 +95,80 @@
 <entry>
 <form>āṅku<pc>+</pc></form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>toṭutta</form>
-<def>linked-</def>
-</entry>
+<def>linked-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>pōla<pc>+</pc></form>
 <def>be-similar</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>tūṅkupu</form>
 <def>hung</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>toṭari<pc>+</pc></form>
 <def>linked</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>kīḻ</form>
 <def>below</def>
 </entry>
 <entry>
 <form>tāḻv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>hanging-down</def>
-</entry>
+<def>hanging down</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>vīḻ</form>
-<def>descend-</def>
-</entry>
+<def>descend</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kōḷ</form>
 <def>bundle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>palaviṉ</form>
-<def>jack-tree</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<def>jackfruit tree</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ār</form>
-<def>become-full-</def>
-</entry>
+<def>become-full</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kali</form>
 <def>bustle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>veṟpaṉ</form>
 <def>mountain-he</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>varu</form>
 <def>come</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>toṟum</form>
 <def>ever</def>
@@ -160,16 +176,20 @@
 </gramGrp></entry>
 <entry>
 <form>varūum</form>
-<def>coming-</def>
-</entry>
+<def>comes</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
 <entry>
 <form>akaliṉum</form>
 <def>depart-if-even</def>
-</entry>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
 <entry>
 <form>akalāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>depart-not</def>
-</entry>
+<def>depart-not-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>āki</form>
 <def>become</def>
@@ -178,25 +198,30 @@
 <entry>
 <form><pc>~</pc>ikalum</form>
 <def>being-hostile-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nam</form>
-<def>our-</def>
-</entry>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>kāmattu<pc>+</pc></form>
-<def>desire-</def>
-</entry>
+<def>passion</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pakai-<pc>~</pc>ē</form>
 <def>enemy</def>
 <form type="simple">pakai</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-<note><term xml:lang="ta">pakai</term> : here "enemy" is apt, not "enmity"; cf. <term xml:lang="ta">tūtu</term> , which may mean "messenger" or "message".</note>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
