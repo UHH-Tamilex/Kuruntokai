@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -50,16 +50,13 @@
           <l rend="indent2">hearing the thundering voice of the indifferent sky</l>
           <l rend="indent4">which sheds, in order to take in new water,</l>
           <l rend="indent4">the old water that stayed behind from passed showers.</l>
-          <l rend="indent2">In the face of that, because a timely shower has rained,<note
-              place="foot"><term xml:lang="ta">peyteṉa ataṉetir</term> : this is syntactically
-            tricky. It might be explained as a transitional passage in the formation of the causal <term
-                xml:lang="ta">viṉaiyeccam </term> (absolutive + <term xml:lang="ta">eṉa </term> =
+          <l rend="indent2">In the face of that, because a timely shower has rained,<note place="foot"><term xml:lang="ta">peyteṉa ataṉetir</term> : this is syntactically
+            tricky. It might be explained as a transitional passage in the formation of the causal <term xml:lang="ta">viṉaiyeccam </term> (absolutive + <term xml:lang="ta">eṉa </term> =
             "because"). Taken in this way the sentence here would be slightly redundant: "in the
             face of that, because showers have rained". Taken, however, as an embedded direct speech
             the <term xml:lang="ta">peytu</term> would have to be taken not as an absolutive, but as
             a n.sg. p.a.: At [the thought] that: 'a timely shower has rained' (For a parallel cf. KT
-            207.7: ceṉṟu eṉa kēṭṭa). This solution has the advantage that it can explain <term
-                xml:lang="ta">ataṉetir</term> as a conjunction used by the speaker to distance
+            207.7: ceṉṟu eṉa kēṭṭa). This solution has the advantage that it can explain <term xml:lang="ta">ataṉetir</term> as a conjunction used by the speaker to distance
             herself from the contents of the <term xml:lang="ta">eṉa </term> clause, since she wants
             to ascertain that in fact the rain has not come in time.</note>
           </l>
@@ -68,50 +65,58 @@
           <l>It is not the rainy season, friend, may your affliction end.</l>
 
           <lg type="alternate" sameAs="6b">
-            <l>which sheds, so that one takes <note place="foot">For a possible parallel of <term
-                  xml:lang="ta">koḷ</term> in the sense of "to take for" (= "to mistake for") cf. KT
+            <l>which sheds, so that one takes <note place="foot">For a possible parallel of <term xml:lang="ta">koḷ</term> in the sense of "to take for" (= "to mistake for") cf. KT
               127.1.</note> it for new water,</l>
           </lg>
         </lg>
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT251">
-<interp type="alignment" select="0">28ML23MG12M2G15MG19MG14MG36MR30M2G2M,188MG</interp>
+<standOff type="wordsplit" corresp="#KT251"><interp type="alignment" select="0">28ML23MG12M2G15MG19MG14MG36MR30M2G2M,188MG</interp>
 <entry>
 <form>maṭava</form>
 <def>inexperienced-they</def>
-<gramGrp><gram type="role">neuter plural</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">imperative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>maññai</form>
 <def>peacock</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>āy</form>
-<def>select-</def>
-</entry>
+<def>select</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉam</form>
 <def>group</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kālam</form>
 <def>time</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>māri</form>
 <def>shower</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>peyteṉa</form>
 <def>rained-say</def>
-</entry>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ataṉ</form>
 <def>that</def>
@@ -126,36 +131,43 @@
 <form>ālal-um</form>
 <def>dancing</def>
 <form type="simple">ālal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>āliṉa</form>
-<def>they-danced</def>
+<def>they danced</def>
 <gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>piṭav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-<def>Piṭavu(-plant)</def>
+<def>Piṭavu plant</def>
 <form type="simple">piṭavu</form>
-<gramGrp></gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>pūttaṉa</form>
-<def>they-flowered</def>
+<def>they flowered</def>
 <gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>kār</form>
-<def>rainy-season</def>
-</entry>
+<def>rainy season</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>not-so-it</def>
-</entry>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>ikuḷai</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tīrka</form>
 <def>may-end</def>
@@ -163,18 +175,22 @@
 </gramGrp></entry>
 <entry>
 <form>niṉ</form>
-<def>your-</def>
-</entry>
+<def>your</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>paṭar-ē</form>
 <def>affliction</def>
 <form type="simple">paṭar</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>kaḻinta</form>
-<def>passed-by-</def>
-</entry>
+<def>passed-by</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>mārikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>shower</def>
@@ -182,24 +198,30 @@
 </gramGrp></entry>
 <entry>
 <form>oḻinta</form>
-<def>stayed-behind-</def>
-</entry>
+<def>stayed-behind</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>paḻa</form>
 <def>old</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>putu</form>
 <def>new</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koḷīiya</form>
 <def>take</def>
@@ -207,33 +229,39 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>uku<pc>+</pc></form>
-<def>shed-</def>
-</entry>
+<def>be-shed</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>tarum</form>
 <def>giving-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>notumal</form>
 <def>indifference</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṉattu</form>
-<def>sky-</def>
-</entry>
+<def>sky</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>muḻaṅku</form>
-<def>thunder-</def>
-</entry>
+<def>thunder</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kural</form>
 <def>voice</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kēṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>heard</def>
 <form type="simple">kēṭṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
