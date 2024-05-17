@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -48,8 +48,7 @@
             happened also ..."?</note>
           </l>
           <l rend="indent7">One day only [was] that.</l>
-          <l>Very many days [my] shoulders <note place="foot">Here is another passage where <term
-                xml:lang="ta">tōḷ</term> is obviously used in a metonymic-metaphorical way to denote
+          <l>Very many days [my] shoulders <note place="foot">Here is another passage where <term xml:lang="ta">tōḷ</term> is obviously used in a metonymic-metaphorical way to denote
             HER body as having been touched by a man.</note> have been confused</l>
           <l><choice>
               <seg>[and that] of a nature which attracts <note place="foot">
@@ -76,107 +75,128 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT271">
-    <interp type="alignment" select="0">40MR19MG16M2G14ML21ML7M2G2M,126MG</interp>
-    <entry>
-      <form>aruvi</form>
-      <def>waterfall</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aṉṉa</form>
-      <def>like</def>
-    </entry>
-    <entry>
-      <form>paru</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>uṟai</form>
-      <def>drop</def>
-    </entry>
-    <entry>
-      <form>citaṟi</form>
-      <def>strewn</def>
-    </entry>
-    <entry>
-      <form>yāṟu</form>
-      <def>river</def>
-    </entry>
-    <entry>
-      <form>niṟai</form>
-      <def>fullness</def>
-    </entry>
-    <entry>
-      <form>pakarum</form>
-      <def>uttering-</def>
-    </entry>
-    <entry>
-      <form>nāṭaṉai<pc>+</pc></form>
-      <def>land-he</def>
-      <gramGrp><gram type="role">accusative</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>tēṟi</form>
-      <def>believed</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>uṟṟatu-maṉṉum</form>
-      <def>had-it</def>
-      <form type="simple">uṟṟatu</form>
-      <gramGrp type="particle"><m>maṉṉum</m></gramGrp>
-    </entry>
-    <entry>
-      <form>oru</form>
-      <def>one</def>
-    </entry>
-    <entry>
-      <form>nāḷ</form>
-      <def>day</def>
-    </entry>
-    <entry>
-      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-atu</form>
-      <def>that</def>
-      <form type="simple">atu</form>
-      <gramGrp type="particle"><m>maṟṟu</m></gramGrp>
-    </entry>
-    <entry>
-      <form>tava<pc>+</pc></form>
-      <def>very</def>
-    </entry>
-    <entry>
-      <form>pal</form>
-      <def>many</def>
-    </entry>
-    <entry>
-      <form>nāḷ</form>
-      <def>day</def>
-    </entry>
-    <entry>
-      <form>tōḷ</form>
-      <def>shoulder</def>
-    </entry>
-    <entry>
-      <form>mayaṅki</form>
-      <def>confused</def>
-    </entry>
-    <entry>
-      <form>vauvum</form>
-      <def>snatching-</def>
-    </entry>
-    <entry>
-      <form>paṇpiṉ</form>
-      <def>nature</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>nōy</form>
-      <def>pain</def>
-    </entry>
-    <entry>
-      <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>it-became</def>
-      <form type="simple">ākiṉṟu</form>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT271"><interp type="alignment" select="0">40MR19MG16M2G14ML21ML7M2G2M,126MG</interp>
+<entry>
+<form>aruvi</form>
+<def>waterfall</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>paru</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṟai</form>
+<def>drop</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>citaṟi</form>
+<def>scattered</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṟu</form>
+<def>river</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>niṟai</form>
+<def>fullness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pakarum</form>
+<def>uttering-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭaṉai<pc>+</pc></form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>tēṟi</form>
+<def>believed</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uṟṟatu-maṉṉum</form>
+<def>had-it</def>
+<form type="simple">uṟṟatu</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>maṉṉum</m></gramGrp>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-atu</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>tava<pc>+</pc></form>
+<def>very</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mayaṅki</form>
+<def>been-confused</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>vauvum</form>
+<def>snatching-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇpiṉ</form>
+<def>nature</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>it-became</def>
+<form type="simple">ākiṉṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
