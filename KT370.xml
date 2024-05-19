@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -59,118 +59,145 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT370">
-    <interp type="alignment" select="0">60MG20MG16MG19ML25MG2M,146MG</interp>
-    <entry>
-      <form>poykai</form>
-      <def>pond</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āmpal</form>
-      <def>waterlily</def>
-    </entry>
-    <entry>
-      <form>aṇi</form>
-      <def>adorn-</def>
-    </entry>
-    <entry>
-      <form>niṟa<pc>+</pc></form>
-      <def>colour</def>
-    </entry>
-    <entry>
-      <form>koḻu</form>
-      <def>rich</def>
-    </entry>
-    <entry>
-      <form>mukai</form>
-      <def>bud</def>
-    </entry>
-    <entry>
-      <form>vaṇṭu</form>
-      <def>bee</def>
-    </entry>
-    <entry>
-      <form>vāy</form>
-      <def>mouth</def>
-    </entry>
-    <entry>
-      <form>tiṟakkum</form>
-      <def>opening-</def>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-    </entry>
-    <entry>
-      <form>tuṟai</form>
-      <def>ghat</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ūraṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>village-he</def>
-      <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>iruppiṉ</form>
-      <def>seat</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>iru</form>
-      <def>two</def>
-    </entry>
-    <entry>
-      <form>maruṅkiṉam-ē</form>
-      <def>side(obl.)-we</def>
-      <form type="simple">maruṅkiṉam</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>kiṭappiṉ</form>
-      <def>rest-if</def>
-    </entry>
-    <entry>
-      <form>vil</form>
-      <def>bow</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>akam</form>
-      <def>inside</def>
-    </entry>
-    <entry>
-      <form>viraliṉ</form>
-      <def>finger</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>porunti</form>
-      <def>fitted</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>avaṉ</form>
-      <def>he</def>
-    </entry>
-    <entry>
-      <form>nal</form>
-      <def>good</def>
-    </entry>
-    <entry>
-      <form><pc>+</pc>akam</form>
-      <def>inside</def>
-    </entry>
-    <entry>
-      <form>cēriṉ</form>
-      <def>join-if</def>
-    </entry>
-    <entry>
-      <form>oru</form>
-      <def>one</def>
-    </entry>
-    <entry>
-      <form>maruṅkiṉam-ē</form>
-      <def>side(obl.)-we</def>
-      <form type="simple">maruṅkiṉam</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT370"><interp type="alignment" select="0">60MG20MG16MG19ML25MG2M,146MG</interp>
+<entry>
+<form>poykai</form>
+<def>pond</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āmpal</form>
+<def>waterlily</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṇi</form>
+<def>adorn</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>niṟa<pc>+</pc></form>
+<def>colour</def>
+</entry>
+<entry>
+<form>koḻu</form>
+<def>rich</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>mukai</form>
+<def>bud</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṟakkum</form>
+<def>opening-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ūraṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>village-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>iruppiṉ</form>
+<def>seat</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>iru</form>
+<def>two</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>maruṅkiṉam-ē</form>
+<def>side-we</def>
+<form type="simple">maruṅkiṉam</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kiṭappiṉ</form>
+<def>rest-if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>akam</form>
+<def>inside</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viraliṉ</form>
+<def>finger</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>porunti</form>
+<def>fitted</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>avaṉ</form>
+<def>that-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>akam</form>
+<def>inside</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēriṉ</form>
+<def>join-if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>maruṅkiṉam-ē</form>
+<def>side-we</def>
+<form type="simple">maruṅkiṉam</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
