@@ -13,14 +13,14 @@
                     <msIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary><p></p>
+                        <summary><p/>
                         </summary>
                     </msContents>
                 </msDesc>
 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc />
+        <revisionDesc/>
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
@@ -64,95 +64,127 @@
             </div>
         </body>
     </text>
-    <standOff type="wordsplit" corresp="#KT399">
-        <interp type="alignment" select="0">30M2G64MG2M,98MG</interp>
-        <entry>
-            <form>ūr</form>
-            <def>village</def>
-        </entry>
-        <entry>
-            <form>uṇ</form>
-            <def>collyrium/eat-</def>
-        </entry>
-        <entry>
-            <form>kēṇi</form>
-            <def>well</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>uṇ</form>
-            <def>collyrium/eat-</def>
-        </entry>
-        <entry>
-            <form>tuṟai<pc>+</pc></form>
-            <def>ghat</def>
-        </entry>
-        <entry>
-            <form>tokka</form>
-            <def>gathered-</def>
-        </entry>
-        <entry>
-            <form>pāci</form>
-            <def>lichen</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-            <def>thus-it</def>
-            <form type="simple">aṟṟu</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-        <entry>
-            <form>pacalai</form>
-            <def>pallor</def>
-        </entry>
-        <entry>
-            <form>kātalar</form>
-            <def>lover</def>
-            <gramGrp><gram type="role">honorific</gram>
-            </gramGrp>
-        </entry>
-        <entry>
-            <form>toṭu</form>
-            <def>touch</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>uḻi<pc>+</pc></form>
-            <def>while</def>
-        </entry>
-        <entry>
-            <form>toṭu</form>
-            <def>touch</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>uḻi</form>
-            <def>while</def>
-        </entry>
-        <entry>
-            <form>nīṅki</form>
-            <def>left</def>
-        </entry>
-        <entry>
-            <form>viṭu</form>
-            <def>let</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>uḻi</form>
-            <def>while</def>
-        </entry>
-        <entry>
-            <form>viṭu</form>
-            <def>let</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>uḻi<pc>+</pc></form>
-            <def>while</def>
-        </entry>
-        <entry>
-            <form>parattalāṉ-ē</form>
-            <def>spreading</def>
-            <form type="simple">parattalāṉ</form>
-            <gramGrp><gram type="role">instrumental</gram>
-            </gramGrp>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-    </standOff>
+    <standOff type="wordsplit" corresp="#KT399"><interp type="alignment" select="0">30M2G64MG2M,98MG</interp>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>uṇ</form>
+<def>kajal</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>uṇ</form>
+<def>eat</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry></entry>
+</superEntry>
+<entry>
+<form>kēṇi</form>
+<def>well</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form><pc>~</pc>uṇ</form>
+<def>kajal</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>uṇ</form>
+<def>eat</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry></entry>
+</superEntry>
+<entry>
+<form>tuṟai<pc>+</pc></form>
+<def>ghat</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tokka</form>
+<def>gathered</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pāci</form>
+<def>lichen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>thus-it</def>
+<form type="simple">aṟṟu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>pacalai</form>
+<def>pallor</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>toṭu</form>
+<def>touch</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḻi<pc>+</pc></form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>toṭu</form>
+<def>touch</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḻi</form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>nīṅki</form>
+<def>left</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>viṭu</form>
+<def>let-go</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḻi</form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>viṭu</form>
+<def>let-go</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḻi<pc>+</pc></form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>parattalāṉ-ē</form>
+<def>spreading</def>
+<form type="simple">parattalāṉ</form>
+<gramGrp><gram type="role">instrumental</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
