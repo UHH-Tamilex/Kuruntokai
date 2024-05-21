@@ -13,14 +13,14 @@
                     <msIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary><p></p>
+                        <summary><p/>
                         </summary>
                     </msContents>
                 </msDesc>
 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc />
+        <revisionDesc/>
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
@@ -50,13 +50,11 @@
                     <l rend="indent"> for the garland of intertwined blossoms to soften.</l>
                     <l rend="indent9"> The gossip,</l>
                     <l> it [is] louder than the roaring of the Koṅkars with bright swords,</l>
-                    <l rend="indent2"> when the energetic Atikaṉ, the Pāṇṭiya with green ornaments <note
-                            place="foot">
+                    <l rend="indent2"> when the energetic Atikaṉ, the Pāṇṭiya with green ornaments <note place="foot">
                             <term xml:lang="ta">pacum pūṇ</term> is explained by T.V.G. as referring
                         to a special kind of gold, called "green gold".</note> ,</l>
                     <l rend="indent2"> fell with the elephant bull,</l>
-                    <l rend="indent3"> in the desert place of Vākai [full of] owls [and] fowl <note
-                            place="foot">What is a <term xml:lang="ta">kūkai kōḻi</term>? Different
+                    <l rend="indent3"> in the desert place of Vākai [full of] owls [and] fowl <note place="foot">What is a <term xml:lang="ta">kūkai kōḻi</term>? Different
                         owl-like birds? A statement to the effect that there are owls in the Sirissa
                         trees in the desert place where the armies meet would be just as well as
                         that they are in the place <term xml:lang="ta">Vākai</term> . T.V.G.
@@ -69,138 +67,173 @@
             </div>
         </body>
     </text>
-    <standOff type="wordsplit" corresp="#KT393">
-        <interp type="alignment" select="0">45ML8MG7MG105M2G2M,171MG</interp>
-        <entry>
-            <form>mayaṅku</form>
-            <def>confuse-</def>
-        </entry>
-        <entry>
-            <form>malar<pc>+</pc></form>
-            <def>blossom</def>
-        </entry>
-        <entry>
-            <form>kōtai</form>
-            <def>garland</def>
-        </entry>
-        <entry>
-            <form>kuḻaiya</form>
-            <def>soften</def>
-            <gramGrp><gram type="role">infinitive</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>makiḻnaṉ</form>
-            <def>delight-he</def>
-        </entry>
-        <entry>
-            <form>muyaṅkiya</form>
-            <def>embraced-</def>
-        </entry>
-        <entry>
-            <form>nāḷ</form>
-            <def>day</def>
-        </entry>
-        <entry>
-            <form>tava<pc>+</pc></form>
-            <def>very</def>
-        </entry>
-        <entry>
-            <form>cila-<pc>~</pc>ē</form>
-            <def>few</def>
-            <form type="simple">cila</form>
-            <gramGrp><gram type="role">neuter plural</gram></gramGrp>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-        <entry>
-            <form><pc>~</pc>alar-ē</form>
-            <def>gossip</def>
-            <form type="simple">alar</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-        <entry>
-            <form>kūkai<pc>+</pc></form>
-            <def>owl</def>
-        </entry>
-        <entry>
-            <form>kōḻi</form>
-            <def>fowl</def>
-        </entry>
-        <entry>
-            <form>vākai<pc>+</pc></form>
-            <def>Vākai/Sirissa(-tree)</def>
-            <note><term xml:lang="ta">vākai </term>is understood here by Cām. as the name of a
-                place. This is not known to the TL.</note>
-        </entry>
-        <entry>
-            <form>paṟantalai<pc>+</pc></form>
-            <def>desert-village</def>
-            <note>
+    <standOff type="wordsplit" corresp="#KT393"><interp type="alignment" select="0">45ML8MG7MG105M2G2M,171MG</interp>
+<entry>
+<form>mayaṅku</form>
+<def>be-confused</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>malar<pc>+</pc></form>
+<def>blossom</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuḻaiya</form>
+<def>soften</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>makiḻnaṉ</form>
+<def>delight-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>muyaṅkiya</form>
+<def>embraced</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tava<pc>+</pc></form>
+<def>very</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>cila-<pc>~</pc>ē</form>
+<def>few</def>
+<form type="simple">cila</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>alar-ē</form>
+<def>gossip</def>
+<form type="simple">alar</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kūkai<pc>+</pc></form>
+<def>owl</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōḻi</form>
+<def>fowl</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>vākai<pc>+</pc></form>
+<def>Sirissa tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>vākai<pc>+</pc></form>
+<def>Vākai</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">vākai </term>is understood here by Cām. as the name of a
+                place. This is not known to the TL.</note></entry></entry>
+</superEntry>
+<entry>
+<form>paṟantalai<pc>+</pc></form>
+<def>desert village</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">
                 <term xml:lang="ta">paṟantalai </term> is given in DEDR 4026 as "desert village"
                 (there is a number of occurrences in AN and PN, and apparently a direct parallel in
                 AN 125.19). What is here the etymology? T.V.G. explains it simply as "vast area",
-                but there is no trace of <term xml:lang="ta">paṟam/paṟamai</term> in such a sense.</note>
-        </entry>
-        <entry>
-            <form>pacum</form>
-            <def>green</def>
-        </entry>
-        <entry>
-            <form>pūṇ</form>
-            <def>ornament</def>
-        </entry>
-        <entry>
-            <form>pāṇṭiyaṉ</form>
-            <def>Pāṇṭiya</def>
-        </entry>
-        <entry>
-            <form>viṉai</form>
-            <def>work</def>
-        </entry>
-        <entry>
-            <form>val</form>
-            <def>strong</def>
-        </entry>
-        <entry>
-            <form>atikaṉ</form>
-            <def>Atikaṉ</def>
-        </entry>
-        <entry>
-            <form>kaḷiṟoṭu</form>
-            <def>elephant-bull</def>
-            <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-        </entry>
-        <entry>
-            <form>paṭṭa</form>
-            <def>happened-</def>
-        </entry>
-        <entry>
-            <form>ñāṉṟai</form>
-            <def>when</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>oḷiṟu</form>
-            <def>brightness</def>
-        </entry>
-        <entry>
-            <form>vāḷ</form>
-            <def>sword</def>
-        </entry>
-        <entry>
-            <form>koṅkar</form>
-            <def>Koṅkar</def>
-            <gramGrp><gram type="role">honorific</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>ārppiṉum</form>
-            <def>roaringiṉ</def>
-            <form type="simple">ārppiṉ</form>
-            <gramGrp type="particle"><m>um</m></gramGrp>
-        </entry>
-        <entry>
-            <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-            <def>big-it</def>
-            <form type="simple">peritu</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-    </standOff>
+                but there is no trace of <term xml:lang="ta">paṟam/paṟamai</term> in such a sense.</note></entry>
+<entry>
+<form>pacum</form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pūṇ</form>
+<def>ornament</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇṭiyaṉ</form>
+<def>Pāṇṭiya</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>atikaṉ</form>
+<def>Atikaṉ</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷiṟoṭu</form>
+<def>elephant-bull</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭṭa</form>
+<def>fell</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ñāṉṟai</form>
+<def>when</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷiṟu</form>
+<def>be-bright</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>koṅkar</form>
+<def>Koṅkar</def>
+<gramGrp><gram type="role">proper name</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>ārppiṉum</form>
+<def>roaring</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
