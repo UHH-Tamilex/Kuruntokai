@@ -6,14 +6,14 @@
         <fileDesc>
             <titleStmt>
                 <title><title xml:lang="ta">Kuṟuntokai</title> 384. <persName xml:lang="ta">
-                    ōrampōkiyār </persName>: <hi rend="italic">the confidante</hi></title>
+                    Ōrampōkiyār </persName>: <hi rend="italic">the confidante</hi></title>
             </titleStmt>
             <sourceDesc>
                 <msDesc xml:lang="en">
                     <msIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary><p/>
+                        <summary><p />
                         </summary>
                     </msContents>
                 </msDesc>
@@ -27,7 +27,7 @@
                 </listPerson>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc/>
+        <revisionDesc />
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
@@ -55,7 +55,12 @@
                     <l rend="indent"> If you give [her] up, having eaten [her] innocence,</l>
                     <l rend="indent2"> [for] women with tight bracelets, long many tresses</l>
                     <l rend="indent8"> [and] bamboo shoulders</l>
-                    <l rend="indent2"> with sugarcane [drawing ], on the platform for [guarding]</l>
+                    <l rend="indent2"> with sugarcane [drawing <note place="foot">Thus Cām.'s gloss,
+                        backed up by a parallel in NA 39.11 as well as several passages in the <term
+                                xml:lang="ta">Kalittokai</term> (Kali 63.7f., 64.19, 76.15, 112.6,
+                        143.31f.). Most explicit is perhaps Cilap. 2.29: <term xml:lang="ta">karumpum
+                        valliyum peruntōḷ eḻuti </term> "drawing a sugarcane and a creeper on [her]
+                        big shoulder".</note> ], on the platform for [guarding]</l>
                     <l rend="indent8"> the black gram [field,</l>
                     <l> very good, alas, delightful man, [is] your oath.</l>
 
@@ -67,128 +72,155 @@
             </div>
         </body>
     </text>
-    <standOff type="wordsplit" corresp="#KT384"><interp type="alignment" select="0">5MG18MG14ML58M2G17MG2M,119MG</interp>
-<entry>
-<form>uḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>black-gram</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>uṭai<pc>+</pc></form>
-<def>possess</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>kaḻutiṉ</form>
-<def>platform</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>karump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>sugarcane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>uṭai<pc>+</pc></form>
-<def>possess</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>paṇai<pc>+</pc></form>
-<def>bamboo</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>tōḷ</form>
-<def>shoulder</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>neṭum</form>
-<def>long</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>pal</form>
-<def>many</def>
-<gramGrp><gram type="role">pronoun</gram>
-</gramGrp></entry>
-<entry>
-<form>kūntal</form>
-<def>tresses</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>kuṟum</form>
-<def>short</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>toṭi</form>
-<def>bracelet</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>makaḷir</form>
-<def>women</def>
-<gramGrp><gram type="role">feminine plural</gram>
-</gramGrp></entry>
-<entry>
-<form>nalaṉ</form>
-<def>innocence</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>uṇṭu</form>
-<def>eaten</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form>tuṟatti</form>
-<def>abandon-you</def>
-<gramGrp><gram type="role">subjunctive</gram>
+    <standOff type="wordsplit" corresp="#KT384">
+        <interp type="alignment" select="0">5MG18MG14ML58M2G17MG2M,119MG</interp>
+        <entry>
+            <form>uḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>black-gram</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>uṭai<pc>+</pc></form>
+            <def>possess</def>
+            <gramGrp><gram type="role">postposition</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>kaḻutiṉ</form>
+            <def>platform</def>
+            <gramGrp><gram type="role">oblique</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>karump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+            <def>sugarcane</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>uṭai<pc>+</pc></form>
+            <def>possess</def>
+            <gramGrp><gram type="role">postposition</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>paṇai<pc>+</pc></form>
+            <def>bamboo</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>tōḷ</form>
+            <def>shoulder</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>neṭum</form>
+            <def>long</def>
+            <gramGrp><gram type="role">adjective</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>pal</form>
+            <def>many</def>
+            <gramGrp><gram type="role">pronoun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>kūntal</form>
+            <def>tresses</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>kuṟum</form>
+            <def>short</def>
+            <gramGrp><gram type="role">adjective</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>toṭi</form>
+            <def>bracelet</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>makaḷir</form>
+            <def>women</def>
+            <gramGrp><gram type="role">feminine plural</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>nalaṉ</form>
+            <def>innocence</def>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>uṇṭu</form>
+            <def>eaten</def>
+            <gramGrp><gram type="role">absolutive</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>tuṟatti</form>
+            <def>abandon-you</def>
+            <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
-<gram type="role">second person</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>āyiṉ</form>
-<def>if</def>
-<gramGrp><gram type="role">conditional</gram>
-</gramGrp></entry>
-<entry>
-<form>mika</form>
-<def>be-much</def>
-<gramGrp><gram type="role">adverb</gram>
+<gram
+                    type="role">second person</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form><pc>~</pc>āyiṉ</form>
+            <def>if</def>
+            <gramGrp><gram type="role">conditional</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>mika</form>
+            <def>be-much</def>
+            <gramGrp><gram type="role">adverb</gram>
 <gram type="role">infinitive</gram>
-</gramGrp></entry>
-<entry>
-<form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
-<def>good-it</def>
-<form type="simple">naṉṟu</form>
-<gramGrp><gram type="role">pronominalised noun</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
+            <def>good-it</def>
+            <form type="simple">naṉṟu</form>
+            <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
-</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
-</entry>
-<entry>
-<form>makiḻna</form>
-<def>delight-he</def>
-<gramGrp><gram type="role">participial noun</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m>amma</m></gramGrp>
+        </entry>
+        <entry>
+            <form>makiḻna</form>
+            <def>delight-he</def>
+            <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">masculine singular</gram>
-<gram type="role">imperfect aspect</gram>
+<gram
+                    type="role">imperfect aspect</gram>
 <gram type="role">vocative</gram>
-</gramGrp></entry>
-<entry>
-<form>niṉ</form>
-<def>your</def>
-<gramGrp><gram type="role">oblique</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>niṉ</form>
+            <def>your</def>
+            <gramGrp><gram type="role">oblique</gram>
 <gram type="role">singular</gram>
-<gram type="role">second person</gram>
-</gramGrp></entry>
-<entry>
-<form>cūḷ-ē</form>
-<def>oath</def>
-<form type="simple">cūḷ</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<gram
+                    type="role">second person</gram>
+            </gramGrp>
+        </entry>
+        <entry>
+            <form>cūḷ-ē</form>
+            <def>oath</def>
+            <form type="simple">cūḷ</form>
+            <gramGrp><gram type="role">noun</gram>
+            </gramGrp>
+            <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+    </standOff>
 </TEI>
