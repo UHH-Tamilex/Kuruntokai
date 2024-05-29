@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -56,42 +56,52 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT340">
-<interp type="alignment" select="0">45ML5MG23MG12MR98M2G2M,190MG</interp>
+<standOff type="wordsplit" corresp="#KT340"><interp type="alignment" select="0">45ML5MG23MG12MR98M2G2M,190MG</interp>
 <entry>
 <form>kāmam</form>
-<def>desire</def>
-</entry>
+<def>passion</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭaiyiṉ</form>
 <def>increase-if</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kātalar<pc>+</pc></form>
 <def>lover</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
 <entry>
 <form>paṭarntu</form>
 <def>set-out/thought-of</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>nām</form>
 <def>we</def>
-</entry>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>avar<pc>+</pc></form>
-<def>he</def>
+<def>that-one</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>pulampiṉ</form>
 <def>lament-if</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nammōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>us</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-<gramGrp><gram type="role">oblique</gram>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
 </gramGrp></entry>
 <entry>
 <form>āki</form>
@@ -101,15 +111,18 @@
 <entry>
 <form><pc>~</pc>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
 <entry>
 <form>pāl</form>
 <def>fate</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>paṭutal</form>
 <def>happening</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cellāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>go-not</def>
@@ -117,41 +130,50 @@
 </gramGrp></entry>
 <entry>
 <form>āyiṭai</form>
-<def>at-that-time</def>
-</entry>
+<def>at that time</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aḻuvam</form>
 <def>depth</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉṟa</form>
-<def>stood-</def>
-</entry>
+<def>stood</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>alar</form>
 <def>blossom</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēy</form>
-<def>cover-</def>
-</entry>
+<def>cover</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭal</form>
 <def>mangrove</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻi</form>
 <def>backwaters</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>peyar</form>
-<def>move-</def>
-</entry>
+<def>move</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>olki</form>
 <def>become-weak</def>
@@ -160,11 +182,13 @@
 <entry>
 <form><pc>~</pc>ōtam</form>
 <def>flood</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>peyar</form>
-<def>move-</def>
-</entry>
+<def>move</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tara<pc>+</pc></form>
 <def>give</def>
@@ -172,39 +196,49 @@
 </gramGrp></entry>
 <entry>
 <form>peyar</form>
-<def>move-</def>
-</entry>
+<def>move</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tantāṅku</form>
-<def>given</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<def>given-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>varuntum</form>
-<def>being-troubled-</def>
-</entry>
+<def>is troubled</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>avar</form>
-<def>he</def>
+<def>that-one</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>irunta</form>
-<def>been-</def>
-</entry>
+<def>been</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>eṉ</form>
-<def>my-</def>
-</entry>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>heart</def>
 <form type="simple">neñcu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

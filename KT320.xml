@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
@@ -61,71 +61,86 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT320">
-<interp type="alignment" select="0">73MG52MG6ML5MG6MG7MG4MG56MG24MG2M,243MG</interp>
+<standOff type="wordsplit" corresp="#KT320"><interp type="alignment" select="0">73MG52MG6ML5MG6MG7MG4MG56MG24MG2M,243MG</interp>
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>paratavar</form>
 <def>fisherman</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>koḷ</form>
-<def>take-</def>
-</entry>
+<def>take</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṇaṅkaliṉ</form>
-<def>drying-</def>
-</entry>
+<def>drying</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>arum</form>
 <def>difficult</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻi<pc>+</pc></form>
 <def>backwaters</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koṇṭa</form>
-<def>taken-</def>
-</entry>
+<def>taken</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>viṟaviṉ</form>
 <def>prawn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṭaloṭu</form>
 <def>fading</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nilavu</form>
 <def>moonlight</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>niṟam</form>
 <def>colour</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇal</form>
 <def>sand</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pulava<pc>+</pc></form>
 <def>reek-of-fish</def>
@@ -143,7 +158,8 @@
 <entry>
 <form>ekkar</form>
 <def>dune</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>toṟum</form>
 <def>ever</def>
@@ -151,82 +167,103 @@
 </gramGrp></entry>
 <entry>
 <form>parikkum</form>
-<def>spreading-over-</def>
-</entry>
+<def>spreading-over</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>tuṟaivaṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>ghat-he</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nakkat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>laughed-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>ōr</form>
 <def>one</def>
-</entry>
+<gramGrp/></entry>
 <entry>
 <form>paḻi-<pc>~</pc>um</form>
 <def>blame</def>
 <form type="simple">paḻi</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ilam-ē</form>
 <def>not-we</def>
 <form type="simple">ilam</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bud</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aviḻ</form>
 <def>open</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>poṉ</form>
 <def>gold</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>iṇar</form>
 <def>cluster</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>marīiya</form>
-<def>joined-</def>
-</entry>
+<def>joined</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>puḷ</form>
 <def>bird</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>imiḻ</form>
-<def>buzz-</def>
-</entry>
+<def>buzz</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>poṅkar<pc>+</pc></form>
 <def>branch</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>puṉṉaiyam</form>
-<def>Puṉṉai</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
-</entry>
+<def>Puṉṉai tree</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>cēri</form>
-<def>street</def>
-</entry>
+<def>quarter</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>i<pc>+</pc></form>
 <def>this-</def>
@@ -234,21 +271,26 @@
 <entry>
 <form><pc>~</pc>ūr</form>
 <def>village</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>koṉ-<pc>+</pc>alar</form>
 <def>gossip</def>
 <form type="simple">alar</form>
-<gramGrp type="particle"><m>koṉ</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>koṉ</m></gramGrp>
 </entry>
 <entry>
 <form>tūṟṟum</form>
-<def>spreading-</def>
-</entry>
+<def>spreads</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
 <entry>
 <form>taṉ</form>
 <def>self</def>
 <gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>koṭumaiyāṉ-ē</form>
@@ -256,8 +298,7 @@
 <form type="simple">koṭumaiyāṉ</form>
 <gramGrp><gram type="role">locative</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
   <standOff type="apparatus" corresp="#KT320">
     <listApp>
     <app corresp="0,10">
@@ -291,11 +332,11 @@
     </app>
     <app corresp="63,73">
       <lem wit="#C2 #EA #C1 #G1 #C3 #Cam #SS">nilavuniṟa</lem>
-      <rdg wit="#G2"></rdg>
+      <rdg wit="#G2"/>
     </app>
     <app corresp="73,81">
       <lem wit="#C2 #EA #C1 #G1 #C3 #Cam #SS">veṇmaṇal</lem>
-      <rdg wit="#G2"></rdg>
+      <rdg wit="#G2"/>
     </app>
     <app corresp="81,88">
       <lem wit="#C2 #C1pc #G1ac #G2pc #Cam #SS">pulavap</lem>
@@ -366,7 +407,7 @@
       <rdg wit="#G1">tūrttaṉ</rdg>
     </app>
     <app corresp="235,235">
-      <lem wit="#C2 #EA #C1 #G1 #C3 #G2 #Cam"></lem>
+      <lem wit="#C2 #EA #C1 #G1 #C3 #G2 #Cam"/>
       <rdg wit="#SS">tumpicēr kīraṉar.</rdg>
     </app>
     <listWit xmlns="http://www.tei-c.org/ns/1.0"><witness xml:id="C1" source="mss/C1_UVSL_1076.xml"><abbr type="siglum">C1</abbr><expan>

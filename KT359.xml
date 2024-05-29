@@ -13,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
@@ -27,7 +27,7 @@
         </listPerson>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -69,127 +69,158 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT359">
-    <interp type="alignment" select="0">16MG6M2G44ML37ML65MG2M,175MG</interp>
-    <entry>
-      <form>kaṇṭiciṉ</form>
-      <def>see</def>
-      <gram type="role">imperative</gram>
-    </entry>
-    <entry>
-      <form>pāṇa</form>
-      <def>bard</def>
-      <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-      <form>paṇp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>nature</def>
-    </entry>
-    <entry>
-      <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
-      <def>possess-it</def>
-      <form type="simple">uṭaittu</form>
-      <gramGrp type="particle"><form>amma</form></gramGrp>
-    </entry>
-    <entry>
-      <form>mālai</form>
-      <def>evening</def>
-    </entry>
-    <entry>
-      <form>virinta</form>
-      <def>expanded-</def>
-    </entry>
-    <entry>
-      <form>pacu</form>
-      <def>green</def>
-    </entry>
-    <entry>
-      <form>veḷ</form>
-      <def>white</def>
-    </entry>
-    <entry>
-      <form>nilaviṉ</form>
-      <def>moonlight</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>kuṟum</form>
-      <def>short</def>
-    </entry>
-    <entry>
-      <form>kāl</form>
-      <def>leg</def>
-    </entry>
-    <entry>
-      <form>kaṭṭil</form>
-      <def>cot</def>
-    </entry>
-    <entry>
-      <form>naṟum</form>
-      <def>fragrant</def>
-    </entry>
-    <entry>
-      <form>pūm</form>
-      <def>flower</def>
-    </entry>
-    <entry>
-      <form>cēkkai<pc>+</pc></form>
-      <def>bed</def>
-    </entry>
-    <entry>
-      <form>paḷḷi</form>
-      <def>resting-place</def>
-    </entry>
-    <entry>
-      <form>yāṉaiyiṉ</form>
-      <def>elephant</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>uyirttaṉaṉ</form>
-      <def>he-breathed</def>
-    </entry>
-    <entry>
-      <form>nacaiyiṉ</form>
-      <def>yearning-if</def>
-    </entry>
-    <entry>
-      <form>putalvaṉ</form>
-      <def>son</def>
-    </entry>
-    <entry>
-      <form>taḻīiyiṉaṉ</form>
-      <def>he-embraced</def>
-    </entry>
-    <entry>
-      <form>viṟal</form>
-      <def>victory</def>
-    </entry>
-    <entry>
-      <form>avaṉ</form>
-      <def>he</def>
-    </entry>
-    <entry>
-      <form>putalvaṉ</form>
-      <def>son</def>
-    </entry>
-    <entry>
-      <form>tāy</form>
-      <def>mother</def>
-    </entry>
-    <entry>
-      <form>avaṉ</form>
-      <def>he</def>
-    </entry>
-    <entry>
-      <form>puṟam</form>
-      <def>back</def>
-    </entry>
-    <entry>
-      <form>kavaiiyiṉaḷ-ē</form>
-      <def>bifurcation-she</def>
-      <form type="simple">kavaiiyiṉaḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT359"><interp type="alignment" select="0">16MG6M2G44ML37ML65MG2M,175MG</interp>
+<entry>
+<form>kaṇṭiciṉ</form>
+<def>see</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇa</form>
+<def>bard</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>nature</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-amma</form>
+<def>possess-it</def>
+<form type="simple">uṭaittu</form>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
+</entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>virinta</form>
+<def>expanded</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pacu</form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nilaviṉ</form>
+<def>moonlight</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟum</form>
+<def>short</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭṭil</form>
+<def>cot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cēkkai<pc>+</pc></form>
+<def>bed</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paḷḷi</form>
+<def>resting place</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉaiyiṉ</form>
+<def>elephant</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>uyirttaṉaṉ</form>
+<def>he breathed</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>nacaiyiṉ</form>
+<def>yearning-if</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taḻīiyiṉaṉ</form>
+<def>he embraced</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>viṟal</form>
+<def>victory</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>avaṉ</form>
+<def>that-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāy</form>
+<def>mother</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>avaṉ</form>
+<def>that-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kavaiiyiṉaḷ-ē</form>
+<def>bifurcation-she</def>
+<form type="simple">kavaiiyiṉaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

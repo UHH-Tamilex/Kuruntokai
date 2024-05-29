@@ -13,14 +13,14 @@
                     <msIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary><p></p>
+                        <summary><p/>
                         </summary>
                     </msContents>
                 </msDesc>
 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc />
+        <revisionDesc/>
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
@@ -66,177 +66,211 @@
             </div>
         </body>
     </text>
-    <standOff type="wordsplit" corresp="#KT394">
-        <interp type="alignment" select="0">71M3G24MG19ML16MG42MG18M2G2M,200MG</interp>
-        <entry>
-            <form>muḻam</form>
-            <def>yard</def>
-        </entry>
-        <entry>
-            <form>tāḷ</form>
-            <def>foot</def>
-            <note>Is <term xml:lang="ta">muḻam tāḷ</term> : "yard foot" here already lexicalised as
+    <standOff type="wordsplit" corresp="#KT394"><interp type="alignment" select="0">71M3G24MG19ML16MG42MG18M2G2M,200MG</interp>
+<entry>
+<form>muḻam</form>
+<def>yard</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāḷ</form>
+<def>foot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">Is <term xml:lang="ta">muḻam tāḷ</term> : "yard foot" here already lexicalised as
                 "lower leg"? But that would be difficult to understand in the context. (It is
-                attested only here and in later Caṅkam texts.)</note>
-        </entry>
-        <entry>
-            <form>irum</form>
-            <def>big/dark</def>
-        </entry>
-        <entry>
-            <form>piṭi<pc>+</pc></form>
-            <def>she-elephant</def>
-        </entry>
-        <entry>
-            <form>kayam</form>
-            <def>softness</def>
-        </entry>
-        <entry>
-            <form>talai<pc>+</pc></form>
-            <def>head</def>
-        </entry>
-        <entry>
-            <form>kuḻavi</form>
-            <def>calf</def>
-        </entry>
-        <entry>
-            <form>naṟavu</form>
-            <def>toddy</def>
-        </entry>
-        <entry>
-            <form>mali</form>
-            <def>be-much-</def>
-        </entry>
-        <entry>
-            <form>pākkattu<pc>+</pc></form>
-            <def>village</def>
-            <gramGrp><gram type="role">oblique</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>kuṟa</form>
-            <def>Kuṟav</def>
-            <gramGrp type="affix"><m>a</m></gramGrp>
-        </entry>
-        <entry>
-            <form>makaḷ</form>
-            <def>daughter</def>
-        </entry>
-        <entry>
-            <form>īṉṟa</form>
-            <def>brought-forth-</def>
-        </entry>
-        <entry>
-            <form>kuṟiy<pc>(</pc>a<pc>)</pc></form>
-            <def>short</def>
-            <note>
+                attested only here and in later Caṅkam texts.)</note></entry>
+<entry>
+<form>irum</form>
+<def>big/dark</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>piṭi<pc>+</pc></form>
+<def>she-elephant</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kayam</form>
+<def>softness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>talai<pc>+</pc></form>
+<def>head</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kuḻavi</form>
+<def>calf</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṟavu</form>
+<def>toddy</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mali</form>
+<def>be-much</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>pākkattu<pc>+</pc></form>
+<def>village</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟa</form>
+<def>Kuṟava</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷ</form>
+<def>daughter</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>īṉṟa</form>
+<def>brought-forth</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟiy<pc>(</pc>a<pc>)</pc></form>
+<def>short</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">
                 <term xml:lang="ta">kuṟiyiṟai = kuṟiy(a) irai</term> ; a parallel for this
-                particular <term xml:lang="ta">sandhi</term> is to be found in KT 202.2 <term
-                    xml:lang="ta">ciṟiyilai </term> (cf. also NA 64.5, 207.2, 218.11). The author is
+                particular <term xml:lang="ta">sandhi</term> is to be found in KT 202.2 <term xml:lang="ta">ciṟiyilai </term> (cf. also NA 64.5, 207.2, 218.11). The author is
                 named after this word creation <term xml:lang="ta">Kuṟiyiṟaiyār</term> , and T.V.G.
                 explains it as having little intermediate space between the finger joints, which
-                would presumably mean "short-fingered".</note>
-        </entry>
-        <entry>
-            <form>iṟai<pc>+</pc></form>
-            <def>joint</def>
-        </entry>
-        <entry>
-            <form>putalvaroṭu</form>
-            <def>son</def>
-            <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-            <gramGrp><gram type="role">honorific</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>maṟuvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-            <def>mixed-up</def>
-            <gramGrp><gram type="role">absolutive</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>ōṭi</form>
-            <def>run</def>
-            <gramGrp><gram type="role">absolutive</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>kūrai</form>
-            <def>hut</def>
-        </entry>
-        <entry>
-            <form>muṟṟum</form>
-            <def>entirely</def>
-        </entry>
-        <entry>
-            <form>cāral</form>
-            <def>slope</def>
-        </entry>
-        <entry>
-            <form>nāṭaṉ</form>
-            <def>searching</def>
-        </entry>
-        <entry>
-            <form>muṉ</form>
-            <def>before</def>
-        </entry>
-        <entry>
-            <form>nāḷ</form>
-            <def>day</def>
-        </entry>
-        <entry>
-            <form>iṉiyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-            <def>pleasant-it</def>
-        </entry>
-        <entry>
-            <form>āki<pc>+</pc></form>
-            <def>become</def>
-            <gramGrp><gram type="role">absolutive</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>piṉ</form>
-            <def>after</def>
-        </entry>
-        <entry>
-            <form>nāḷ</form>
-            <def>day</def>
-        </entry>
-        <entry>
-            <form>avar</form>
-            <def>he</def>
-            <gramGrp><gram type="role">honorific</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>tiṉai</form>
-            <def>millet</def>
-        </entry>
-        <entry>
-            <form>mēy</form>
-            <def>graze-</def>
-        </entry>
-        <entry>
-            <form>tantāṅku<pc>+</pc></form>
-            <def>given</def>
-            <gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-        </entry>
-        <entry>
-            <form>pakai</form>
-            <def>enmity</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-            <def>it-became</def>
-        </entry>
-        <entry>
-            <form>avar</form>
-            <def>he</def>
-            <gramGrp><gram type="role">honorific</gram></gramGrp>
-        </entry>
-        <entry>
-            <form>nakai</form>
-            <def>jest</def>
-        </entry>
-        <entry>
-            <form>viḷaiyāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-            <def>play</def>
-            <form type="simple">viḷaiyāṭṭu</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-    </standOff>
+                would presumably mean "short-fingered".</note></entry>
+<entry>
+<form>iṟai<pc>+</pc></form>
+<def>joint</def>
+<gramGrp><gram type="role">feminine</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>putalvaroṭu</form>
+<def>son</def>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟuvant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>mixed-up</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ōṭi</form>
+<def>run</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kūrai</form>
+<def>hut</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>muṟṟum</form>
+<def>completely</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭal</form>
+<def>searching</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉiyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pleasant-it</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>āki<pc>+</pc></form>
+<def>become</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>avar</form>
+<def>those-ones</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṉai</form>
+<def>millet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mēy</form>
+<def>graze</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tantāṅku<pc>+</pc></form>
+<def>given-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>pakai</form>
+<def>enmity</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it became</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>avar</form>
+<def>this-one(3.h.obl)</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>nakai</form>
+<def>jest</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷaiyāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>play</def>
+<form type="simple">viḷaiyāṭṭu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

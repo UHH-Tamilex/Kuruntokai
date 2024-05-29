@@ -13,14 +13,14 @@
                     <msIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary><p></p>
+                        <summary><p/>
                         </summary>
                     </msContents>
                 </msDesc>
 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc />
+        <revisionDesc/>
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
@@ -73,6 +73,7 @@
             </div>
         </body>
     </text>
+<<<<<<< HEAD
     <standOff type="wordsplit" corresp="#KT389">
         <interp type="alignment" select="0">55ML27M2G6MG9ML3M2G9MG8MG2M,127MG</interp>
         <entry>
@@ -186,4 +187,139 @@
             <gramGrp type="particle"><m>ē</m></gramGrp>
         </entry>
     </standOff>
+=======
+<standOff type="wordsplit" corresp="#KT389"><interp type="alignment" select="0">55ML27M2G6MG9ML3M2G9MG8MG2M,127MG</interp>
+<entry>
+<form>ney</form>
+<def>ghee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṉi</form>
+<def>melt</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟum</form>
+<def>short</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pūḻ</form>
+<def>quail</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāyam</form>
+<def>spice</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ār</form>
+<def>become-full</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>patam</form>
+<def>food</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>peṟuka</form>
+<def>may obtain</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi<pc>~</pc>attai</form>
+<def>friend</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>varainteṉa</form>
+<def>limited-because</def>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>avaṉ</form>
+<def>that-one</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>etir</form>
+<def>against</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>makaṉ-ē</form>
+<def>son</def>
+<form type="simple">makaṉ</form>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṟaṉeṉ</form>
+<def>I said</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>seems</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>said</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>uraittōṉ-ē</form>
+<def>told-he</def>
+<form type="simple">uraittōṉ</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+>>>>>>> 9aae56805897d700b3a4e0c0e1f0eeb40db314b5
 </TEI>

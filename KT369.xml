@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -44,7 +44,7 @@
 
         <lg type="translation" xml:lang="en">
           <l rend="indent3">Into the forest, where the west wind lifts</l>
-          <l rend="indent2">the many bright nuts on the Sirissa trees by the road,</l>
+          <l rend="indent2">the many bright seed pods on the Sirissa trees by the road,</l>
           <l rend="indent">to make the grains roar like metal pieces in anklets,</l>
           <l>we are going, friend. Our <choice>
               <seg>man has</seg>
@@ -56,81 +56,98 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT369">
-    <interp type="alignment" select="0">4M3G15ML3MG65MG2M,94MG</interp>
-    <entry>
-      <form>atta<pc>(</pc>m<pc>)</pc></form>
-      <def>road</def>
-    </entry>
-    <entry>
-      <form>vākai</form>
-      <def>Sirissa-tree</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>amalai</form>
-      <def>abundance</def>
-    </entry>
-    <entry>
-      <form>vāl</form>
-      <def>purity</def>
-    </entry>
-    <entry>
-      <form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>nut</def>
-    </entry>
-    <entry>
-      <form>ari</form>
-      <def>metal-pieces</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ār</form>
-      <def>roar-</def>
-    </entry>
-    <entry>
-      <form>cilampiṉ</form>
-      <def>anklet</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>arici</form>
-      <def>grain</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ārppa<pc>+</pc></form>
-      <def>roar</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>kōṭai</form>
-      <def>west-wind</def>
-    </entry>
-    <entry>
-      <form>tūkkum</form>
-      <def>lifting-</def>
-    </entry>
-    <entry>
-      <form>kāṉam</form>
-      <def>forest</def>
-    </entry>
-    <entry>
-      <form>celvām</form>
-      <def>we-go</def>
-    </entry>
-    <entry>
-      <form>tōḻi</form>
-      <def>friend</def>
-    </entry>
-    <entry>
-      <form>nalkiṉar</form>
-      <def>granted-he</def>
-      <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-      <form>namar-ē</form>
-      <def>our-they</def>
-      <form type="simple">namar</form>
-      <gram type="role">honorific</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT369"><interp type="alignment" select="0">4M3G15ML3MG65MG2M,94MG</interp>
+<entry>
+<form>atta<pc>(</pc>m<pc>)</pc></form>
+<def>road</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vākai</form>
+<def>Sirissa tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>amalai</form>
+<def>abundance</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vāl</form>
+<def>purity</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>deed pod</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ari</form>
+<def>metal pieces</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ār</form>
+<def>roar</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>cilampiṉ</form>
+<def>anklet</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>arici</form>
+<def>grain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ārppa<pc>+</pc></form>
+<def>roar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kōṭai</form>
+<def>west wind</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tūkkum</form>
+<def>lifting-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṉam</form>
+<def>forest</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>celvām</form>
+<def>we-go</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nalkiṉar</form>
+<def>he granted</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>namar-ē</form>
+<def>our-he</def>
+<form type="simple">namar</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

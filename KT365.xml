@@ -13,14 +13,14 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
 
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -50,7 +50,7 @@
           <l rend="indent2">where the waterfall, resounding from the long mountain</l>
           <l rend="indent8">difficult to approach,</l>
           <l rend="indent2">displays the rumbling sound of the drum promising coolness </l>
-          <l>– they are unending in dew, having cried without sleeping</l>
+          <l>– they are unending in tears, having cried without sleeping</l>
           <l rend="indent">day per day, so that [her] conch-cut shining bangles become loose.</l>
 
 
@@ -58,143 +58,175 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT365">
-    <interp type="alignment" select="0">3MG22MG5MG19MG6MG55ML27ML16MG3M,163MG</interp>
-    <entry>
-      <form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>conch</def>
-    </entry>
-    <entry>
-      <form>īr</form>
-      <def>cut-</def>
-    </entry>
-    <entry>
-      <form>ilaṅku</form>
-      <def>shine-</def>
-    </entry>
-    <entry>
-      <form>vaḷai</form>
-      <def>bangle</def>
-    </entry>
-    <entry>
-      <form>nekiḻa</form>
-      <def>loosen</def>
-    </entry>
-    <entry>
-      <form>nāḷ-um</form>
-      <def>day</def>
-      <form type="simple">nāḷ</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
-    </entry>
-    <entry>
-      <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>sleeping</def>
-    </entry>
-    <entry>
-      <form>ila</form>
-      <def>not-they</def>
-      <gram type="role">neuter plural</gram>
-    </entry>
-    <entry>
-      <form>kaliḻntu</form>
-      <def>cried</def>
-    </entry>
-    <entry>
-      <form>paṉi</form>
-      <def>dew</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āṉā-<pc>~</pc>ē</form>
-      <def>end-not</def>
-      <form type="simple">āṉā</form>
-      <gram type="role">neuter plural</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-    <entry>
-      <form>tuṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>near-</def>
-    </entry>
-    <entry>
-      <form>aru</form>
-      <def>difficult</def>
-    </entry>
-    <entry>
-      <form>neṭu</form>
-      <def>long</def>
-    </entry>
-    <entry>
-      <form>varai<pc>+</pc></form>
-      <def>mountain</def>
-    </entry>
-    <entry>
-      <form>tatumpiya</form>
-      <def>resounded-</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aruvi</form>
-      <def>waterfall</def>
-    </entry>
-    <entry>
-      <form>taṇṇeṉ</form>
-      <def>cool-say-</def>
-    </entry>
-    <entry>
-      <form>muraciṉ</form>
-      <def>drum</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>imiḻ</form>
-      <def>buzz-</def>
-    </entry>
-    <entry>
-      <form>icai</form>
-      <def>sound</def>
-    </entry>
-    <entry>
-      <form>kāṭṭum</form>
-      <def>showing-</def>
-    </entry>
-    <entry>
-      <form>maruṅkiṉ</form>
-      <def>side</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>koṇṭa</form>
-      <def>taken-</def>
-    </entry>
-    <entry>
-      <form>palaviṉ</form>
-      <def>jackfruit-tree</def>
-      <gramGrp type="affix"><m>iṉ</m><gram type="role">oblique</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-    </entry>
-    <entry>
-      <form>kal</form>
-      <def>stone</def>
-    </entry>
-    <entry>
-      <form>nāṭa</form>
-      <def>land-he</def>
-      <gram type="role">vocative</gram>
-    </entry>
-    <entry>
-      <form>nī</form>
-      <def>you</def>
-    </entry>
-    <entry>
-      <form>nayantōḷ</form>
-      <def>longed-she</def>
-    </entry>
-    <entry>
-      <form>kaṇ-<pc>+</pc>ē</form>
-      <def>eye</def>
-      <form type="simple">kaṇ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#KT365"><interp type="alignment" select="0">3MG22MG5MG19MG6MG55ML27ML16MG3M,163MG</interp>
+<entry>
+<form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>conch</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>īr</form>
+<def>cut</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>ilaṅku</form>
+<def>shine</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nekiḻa</form>
+<def>become-loose</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nāḷ-um</form>
+<def>day</def>
+<form type="simple">nāḷ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sleeping</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ila</form>
+<def>not-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kaliḻntu</form>
+<def>cried</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṉi</form>
+<def>tear</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āṉā-<pc>~</pc>ē</form>
+<def>end-not-they</def>
+<form type="simple">āṉā</form>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">negative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>tuṉṉ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>near</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>aru</form>
+<def>difficult</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭu</form>
+<def>tall</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>varai<pc>+</pc></form>
+<def>mountain</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tatumpiya</form>
+<def>resounded</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aruvi</form>
+<def>waterfall</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇṇeṉ</form>
+<def>cool-say</def>
+<gramGrp><gram type="role">verbal root</gram>
+<gram type="role">ideophone</gram>
+</gramGrp></entry>
+<entry>
+<form>muraciṉ</form>
+<def>drum</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>imiḻ</form>
+<def>buzz</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>icai</form>
+<def>sound</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṭṭum</form>
+<def>showing-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>palaviṉ</form>
+<def>jackfruit tree</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>nayantōḷ</form>
+<def>longed-she</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ-<pc>+</pc>ē</form>
+<def>eye</def>
+<form type="simple">kaṇ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
