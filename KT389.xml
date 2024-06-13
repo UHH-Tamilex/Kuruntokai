@@ -2,192 +2,77 @@
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title><title xml:lang="ta">Kuṟuntokai</title> 389. <persName xml:lang="ta">Vēṭṭak
-                    Kaṇṇaṉ</persName>: <hi rend="italic">the confidante</hi></title>
-            </titleStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en">
-                    <msIdentifier>
-                    </msIdentifier>
-                    <msContents>
-                        <summary><p/>
-                        </summary>
-                    </msContents>
-                </msDesc>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title><title xml:lang="ta">Kuṟuntokai</title> 389. <persName xml:lang="ta">Vēṭṭak
+                Kaṇṇaṉ</persName>: <hi rend="italic">the confidante</hi></title>
+        </titleStmt>
+        <sourceDesc>
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                </msIdentifier>
+                <msContents>
+                    <summary><p/>
+                    </summary>
+                </msContents>
+            </msDesc>
 
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc/>
-    </teiHeader>
-    <text xml:lang="ta" type="edition">
-        <body>
-            <div xml:id="KT389-kilavi">
-                <p type="edition">talaimakaṉ kuṟṟēvaṉmakaṉāṉmai varaivu malinta tōḻi talaimakaṭkuc
-                    colliyatu. </p>
-
-
-                <p type="translation" xml:lang="en">Uttered to HER by the confidante, who rejoiced,
-                    with HIS servant, about the marriage. </p>
-            </div>
-
-            <div xml:id="KT389">
-                <lg type="edition">
-                    <l> neykaṉi kuṟumpūḻ kāya māka</l>
-                    <l> vārputam peṟuka tōḻi yattai</l>
-                    <l> peruṅka ṉāṭaṉ varainteṉa vavaṉetir</l>
-                    <l> naṉṟō makaṉē yeṉṟaṉe</l>
-                    <l> ṉaṉṟē pōlu meṉṟurait tōṉē.</l>
+        </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+</teiHeader>
+<text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT389-kilavi">
+            <p type="edition">talaimakaṉ kuṟṟēvaṉmakaṉāṉmai varaivu malinta tōḻi talaimakaṭkuc
+                colliyatu. </p>
 
 
-                </lg>
+            <p type="translation" xml:lang="en">Uttered to HER by the confidante, who rejoiced,
+                with HIS servant, about the marriage. </p>
+        </div>
 
-                <lg type="translation" xml:lang="en">
-                    <l rend="indent"> Of <note place="foot">What is the function of <term
-                                xml:lang="ta">āka</term> here? Something like "consisting of"?</note>
-                        curry [and] small quail, melting in ghee,</l>
-                    <l> he may obtain [his] fill, friend!</l>
-                    <l rend="indent2"> Since the man from the land of big stones is chosen <note
-                            place="foot">
-                            <term xml:lang="ta">varainteṉa</term> : the context of settling a
-                        marriage is certainly clear, but we might ask whether the verb <term
-                                xml:lang="ta">varai </term> does already have the meaning "to marry"
-                        (as is attested unequivocally in NA 390). T.V.G. for one takes it in another
-                        way, transitive and slightly elliptical: "the man from a land of big stones
-                        has fixed [everything for the marriage]".</note> ,</l>
-                    <l> I said to him <note place="foot">
-                            <term xml:lang="ta">avaṉ etir </term> is literally "in front of him" or
-                        "confronting him", and the nuance of this strongly marked direct object
-                        might be the expectation of an answer, which lays weight on his judgement.</note>
-                        “is [that] good, son?”</l>
-                    <l> “It seems good”, he told [me]. <note place="foot">The subject to <term
-                                xml:lang="ta">peṟuka</term> is postponed to the end: <term
-                                xml:lang="ta">uraittōṉ</term> . The circular structure of the Tamil
-                        is here, because of the inserted main sentence, not even representable.</note>
-                    </l>
+        <div xml:id="KT389">
+            <lg type="edition">
+                <l> neykaṉi kuṟumpūḻ kāya māka</l>
+                <l> vārputam peṟuka tōḻi yattai</l>
+                <l> peruṅka ṉāṭaṉ varainteṉa vavaṉetir</l>
+                <l> naṉṟō makaṉē yeṉṟaṉe</l>
+                <l> ṉaṉṟē pōlu meṉṟurait tōṉē.</l>
 
 
-                </lg>
-            </div>
-        </body>
-    </text>
-<<<<<<< HEAD
-    <standOff type="wordsplit" corresp="#KT389">
-        <interp type="alignment" select="0">55ML27M2G6MG9ML3M2G9MG8MG2M,127MG</interp>
-        <entry>
-            <form>ney</form>
-            <def>ghee</def>
-        </entry>
-        <entry>
-            <form>kaṉi</form>
-            <def>melt-</def>
-        </entry>
-        <entry>
-            <form>kuṟum</form>
-            <def>short</def>
-        </entry>
-        <entry>
-            <form>pūḻ</form>
-            <def>quail</def>
-            <note>Cām. takes <term xml:lang="ta">kuṟumpūḻ</term> as the name of the bird (T.V.G.
-                adduces a corresponding gloss given by Nacc. on Kali 95.8), but see KT 68.1 <term
-                    xml:lang="ta">pūḻ.</term> And an attribute "short" = "small=young=tender" is
-                perfectly adequate in this context of festival food.</note>
-        </entry>
-        <entry>
-            <form>kāyam</form>
-            <def>spice</def>
-        </entry>
-        <entry>
-            <form>āka</form>
-            <def>become</def>
-            <gramGrp><gram type="role">infinitive</gram>
-            </gramGrp>
-        </entry>
-        <entry>
-            <form><pc>~</pc>ār</form>
-            <def>be-full-</def>
-        </entry>
-        <entry>
-            <form>patam</form>
-            <def>food</def>
-        </entry>
-        <entry>
-            <form>peṟuka</form>
-            <def>may-obtain</def>
-        </entry>
-        <entry>
-            <form>tōḻi<pc>~</pc>attai</form>
-            <def>friend</def>
-            <form type="simple">tōḻi</form>
-            <gramGrp type="particle"><m>attai</m></gramGrp>
-            <note>Here just as in KT 129.2 <term xml:lang="ta">attai</term> is supposed to be
-                expletive.</note>
-        </entry>
-        <entry>
-            <form>perum</form>
-            <def>big</def>
-        </entry>
-        <entry>
-            <form>kal</form>
-            <def>stone</def>
-        </entry>
-        <entry>
-            <form>nāṭaṉ</form>
-            <def>land-he</def>
-        </entry>
-        <entry>
-            <form>varainteṉa</form>
-            <def>limited-because</def>
-        </entry>
-        <entry>
-            <form><pc>~</pc>avaṉ</form>
-            <def>he</def>
-        </entry>
-        <entry>
-            <form>etir</form>
-            <def>opposite</def>
-        </entry>
-        <entry>
-            <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
-            <def>good-it</def>
-            <form type="simple">naṉṟu</form>
-            <gramGrp type="particle"><m>ō</m></gramGrp>
-        </entry>
-        <entry>
-            <form>makaṉ-ē</form>
-            <def>son</def>
-            <form type="simple">makaṉ</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-        <entry>
-            <form><pc>~</pc>eṉṟaṉeṉ</form>
-            <def>I-said</def>
-        </entry>
-        <entry>
-            <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-            <def>good-it</def>
-            <form type="simple">naṉṟu</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-        <entry>
-            <form>pōlum</form>
-            <def>being-similar-</def>
-        </entry>
-        <entry>
-            <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-            <def>said</def>
-        </entry>
-        <entry>
-            <form>uraittōṉ-ē</form>
-            <def>told-he</def>
-            <form type="simple">uraittōṉ</form>
-            <gramGrp type="particle"><m>ē</m></gramGrp>
-        </entry>
-    </standOff>
-=======
+            </lg>
+
+            <lg type="translation" xml:lang="en">
+                <l rend="indent"> Of <note place="foot">What is the function of <term
+                            xml:lang="ta">āka</term> here? Something like "consisting of"?</note>
+                    curry [and] small quail, melting in ghee,</l>
+                <l> he may obtain [his] fill, friend!</l>
+                <l rend="indent2"> Since the man from the land of big stones is chosen <note
+                        place="foot">
+                        <term xml:lang="ta">varainteṉa</term> : the context of settling a
+                    marriage is certainly clear, but we might ask whether the verb <term
+                            xml:lang="ta">varai </term> does already have the meaning "to marry"
+                    (as is attested unequivocally in NA 390). T.V.G. for one takes it in another
+                    way, transitive and slightly elliptical: "the man from a land of big stones
+                    has fixed [everything for the marriage]".</note> ,</l>
+                <l> I said to him <note place="foot">
+                        <term xml:lang="ta">avaṉ etir </term> is literally "in front of him" or
+                    "confronting him", and the nuance of this strongly marked direct object
+                    might be the expectation of an answer, which lays weight on his judgement.</note>
+                    “is [that] good, son?”</l>
+                <l> “It seems good”, he told [me]. <note place="foot">The subject to <term
+                            xml:lang="ta">peṟuka</term> is postponed to the end: <term
+                            xml:lang="ta">uraittōṉ</term> . The circular structure of the Tamil
+                    is here, because of the inserted main sentence, not even representable.</note>
+                </l>
+
+
+            </lg>
+        </div>
+    </body>
+</text>
 <standOff type="wordsplit" corresp="#KT389"><interp type="alignment" select="0">55ML27M2G6MG9ML3M2G9MG8MG2M,127MG</interp>
 <entry>
 <form>ney</form>
@@ -208,7 +93,12 @@
 <form>pūḻ</form>
 <def>quail</def>
 <gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+</gramGrp>
+<note>Cām. takes <term xml:lang="ta">kuṟumpūḻ</term> as the name of the bird (T.V.G.
+                adduces a corresponding gloss given by Nacc. on Kali 95.8), but see KT 68.1 <term
+                    xml:lang="ta">pūḻ.</term> And an attribute "short" = "small=young=tender" is
+                perfectly adequate in this context of festival food.</note>
+</entry>
 <entry>
 <form>kāyam</form>
 <def>spice</def>
@@ -237,6 +127,8 @@
 <entry>
 <form>tōḻi<pc>~</pc>attai</form>
 <def>friend</def>
+<note>Here just as in KT 129.2 <term xml:lang="ta">attai</term> is supposed to be
+                expletive.</note>
 </entry>
 <entry>
 <form>perum</form>
@@ -321,5 +213,4 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
->>>>>>> 9aae56805897d700b3a4e0c0e1f0eeb40db314b5
 </TEI>
