@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -120,8 +117,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp><gram type="role">masculine</gram>
-</gramGrp>
+<gramGrp/>
 <note xmlns="http://www.tei-c.org/ns/1.0">What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note></entry>
 <entry>
 <form>talai</form>
@@ -164,9 +160,9 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ārntaṉa</form>
-<def>they became full(p.a.n.pl)</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">noun</gram>
+<def>they became full</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>kuvaḷai</form>
