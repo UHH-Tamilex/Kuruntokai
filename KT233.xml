@@ -73,12 +73,19 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT233"><interp type="alignment" select="0">94MG40M2G49M,185MG</interp>
-<entry>
+  <standOff type="wordsplit" corresp="#KT233"><interp type="alignment" select="0">94MG40M2G47MG2M,186MG</interp>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>kavalai</form>
-<def>Kavalai plant(n.)/crossroad(n.)</def>
+<def>Kavalai plant</def>
 <gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>kavalai</form>
+<def>crossroad</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry></entry>
+</superEntry>
 <entry>
 <form>keṇṭiya</form>
 <def>dug</def>
@@ -258,8 +265,10 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ūrē</form>
+<form><pc>~</pc>ūr-ē</form>
 <def>village</def>
+<form type="simple">ūr</form>
 <gramGrp><gram type="role">noun</gram>
-</gramGrp></entry></standOff>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
