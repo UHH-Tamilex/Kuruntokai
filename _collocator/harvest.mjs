@@ -42,10 +42,10 @@ const readfiles = arr => {
         const doc = parser.parseFromString(str,'text/xml');
         const words = [...doc.querySelectorAll('standOff[type="wordsplit"] > entry')].map(el => {
             const simple = el.querySelector('form[type="simple"]');
-            if(simple) return simple.textContent.replaceAll(/[*’]/g,'u').split('-');
+            if(simple) return simple.textContent.trim().replaceAll(/[*’]/g,'u').split('-');
             const form = el.querySelector('form').cloneNode(true);
             for(const pc of form.querySelectorAll('pc, note')) pc.remove();
-            return form.textContent.replace(/-um$/,'').replaceAll(/[*’]/g,'u').split('-');
+            return form.textContent.trim().replace(/-um$/,'').replaceAll(/[*’]/g,'u').split('-');
         }).flat().filter(f => f !== '');
         
         const findfn = (word) => index.find(e => e[0] === word);
@@ -63,7 +63,6 @@ const readfiles = arr => {
         appendNgrams(words,2,twograms,1,poemnum);
         appendNgrams(words,1,onegrams,0,poemnum);
     }
-
     const npmi = new Map();
     for(const [gram,obj] of twograms) {
         const freq = obj.count;
