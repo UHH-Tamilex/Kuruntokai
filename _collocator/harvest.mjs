@@ -21,7 +21,7 @@ const go = () => {
         if(err) return console.log(err);
         const flist = [];
         files.forEach(f => {
-            if(/^Aink.+\.xml$/.test(f))
+            if(/^KT.+\.xml$/.test(f))
                 flist.push(dir + '/' + f);
         });
         readfiles(flist);
