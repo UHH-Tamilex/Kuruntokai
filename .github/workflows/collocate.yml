@@ -1,0 +1,38 @@
+name: update collocations
+on: 
+  push:
+  workflow_dispatch:
+jobs:
+  collocate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: cancel previous run
+        uses: styfle/cancel-workflow-action@0.11.0
+        with:
+          all_but_latest: true
+          access_token: ${{ github.token }}
+
+      - uses: actions/checkout@v3
+        with: 
+          ref: ${{ github.head_ref }}
+          fetch-depth: 10
+          submodules: 'true'
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: build collocations map
+        run: |
+          cd _collocator
+          yarn install
+          yarn harvest
+          git pull
+          yarn build --emptyOutDir
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: automatic collocations update
+          file_pattern: collocations/* collocations/assets/*
+          commit_user_name: Tamilex Bot
