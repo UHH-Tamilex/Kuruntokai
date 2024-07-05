@@ -1,6 +1,7 @@
 import Fs from 'fs';
 import Path from 'path';
 import Jsdom from 'jsdom';
+import {Sanscript} from '../lib/js/sanscript.mjs';
 
 const featureMap = new Map([
     ['adj.','adjective'],
@@ -76,16 +77,18 @@ const readfiles = arr => {
     }
     const nodes = [...onegrams].toSorted((a,b) => b[1] > a[1] ? -1 : 1)
                                .map(c => {
+                                 const name = Sanscript.t(c[0],'iast','tamil');
+
                                  const found = index.find(e => e[1].islemma === c[0]);
-                                 if(!found) return {id: c[0], size: c[1].count};
+                                 if(!found) return {id: c[0], name: name, size: c[1].count};
                                  
                                  const features = found[1].features;
                                  for(const feature of features) {
                                     if(featureMap.has(feature))
-                                        return {id: c[0], size: c[1].count, type: featureMap.get(feature)};
+                                        return {id: c[0], name: name, size: c[1].count, type: featureMap.get(feature)};
                                  }
                                  
-                                 return {id: c[0], size: c[1].count};
+                                 return {id: c[0], name: name, size: c[1].count};
                                 });
     /*
     const out2 = [...twograms].toSorted((a,b) => b[1] - a[1])
