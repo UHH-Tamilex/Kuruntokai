@@ -39,10 +39,12 @@ const makeGraph = () => {
         .graphData({nodes: collocations.nodes, links: newlinks})
         .nodeLabel(n => `${n.size} occurences`)
         .nodeThreeObject(n => {
-            const sprite = new SpriteText(n.id);
+            //const sprite = new SpriteText(n.id);
+            const sprite = new SpriteText(n.name);
             sprite.material.depthWrite = false;
             sprite.color = colours.get(n.type) || colours.get('other');
             sprite.textHeight = n.size/2 < 8 ? 8 : n.size/2;
+            sprite.padding = 1.5;
             return sprite;
         })
         //.nodeVal(n => n.size/30)
