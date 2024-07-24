@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -191,4 +188,127 @@
 <gramGrp><gram type="role">dative</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#KT19" type="apparatus"><listApp>
+<app corresp="11,22">
+        <lem wit="#C2v #Perv #Nacc #IV #Cam">vaṟumaiyāḻp</lem>
+        <rdg wit="#L1 #C1 #C2 #C3 #G1 #G2 #Il #Per #EA #I #AT #Camv #VP">vaṟumaiyar</rdg>
+        </app>
+<app corresp="62,68">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">vāḻiya</lem>
+        <rdg wit="#Camv">vāḻiyō</rdg>
+<rdg wit="#IV #VP">vāḻiyar</rdg>
+        </app>
+<app corresp="83,90">
+        <lem wit="#L1 #C2 #C3 #G1 #G2 #EA #Cam">telluṟu</lem>
+        <rdg wit="#C1">tolluṟu</rdg>
+        </app>
+<app corresp="114,127">
+        <lem wit="#C1 #C2 #C3 #G1 #G2 #Perv #Cam">yāraḷō namakkē</lem>
+        <rdg wit="#L1">yarāḷō namakkē</rdg>
+<rdg wit="#Per #EA #I #Camv2">yāruḷar namakkē</rdg>
+<rdg wit="#Camv">yārē niṉakkē</rdg>
+<rdg wit="#Il">lārē niṉakkē</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nacc">
+    <abbr type="siglum">Nacc</abbr>
+    <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+    <witness xml:id="Naccv">
+      <abbr type="siglum">Naccv</abbr>
+      <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="IV">
+    <abbr type="siglum">IV</abbr>
+    <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title></expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2ac</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Il">
+    <abbr type="siglum">Iḷ</abbr>
+    <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+    <witness xml:id="Ilv">
+      <abbr type="siglum">Iḷ<hi rend="subscript">v</hi></abbr>
+      <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Per">
+    <abbr type="siglum">Pēr</abbr>
+    <expan><persName xml:lang="ta">Pērāciriyar</persName> on <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="I">
+    <abbr type="siglum">I</abbr>
+    <expan>edition of <persName xml:lang="ta">Irāmarattiṉam</persName> from 1930 (rep. 2002)</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT">
+    <abbr type="siglum">AT</abbr>
+    <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP">
+    <abbr type="siglum">VP</abbr>
+    <expan><persName xml:lang="ta">Vaiyāpurip Piḷḷai</persName>'s <term xml:lang="ta">Caṅka Ilakkiyam</term> edition from 1940</expan>
+  </witness>
+</listWit></standOff></TEI>
