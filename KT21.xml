@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +71,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT21"><interp type="alignment" select="0">118MG23MG2M,144MG</interp>
+  <standOff type="wordsplit" corresp="#KT21"><interp type="alignment" select="0">113MG5MG23MG2M,145MG</interp>
 <entry>
 <form>vaṇṭu</form>
 <def>bee</def>
@@ -178,10 +180,13 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>kūṟiṉum</form>
+<form>kūṟiṉ-um</form>
 <def>talking-if-even</def>
+<form type="simple">kūṟiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>yāṉ-ō</form>
 <def>I</def>

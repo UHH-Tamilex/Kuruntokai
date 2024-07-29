@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +54,7 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT42"><interp type="alignment" select="0">11MG51MG6MR13M2G7MG11MG2M,107MG</interp>
+<standOff type="wordsplit" corresp="#KT42"><interp type="alignment" select="0">11MG4MG47MG6MR13M2G7MG11MG2M,108MG</interp>
 <entry>
 <form>kāmam</form>
 <def>passion</def>
@@ -66,10 +68,13 @@
 <gram type="role">imperfect aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>yāmattu<pc>+</pc></form>
 <def>midnight</def>
@@ -160,12 +165,9 @@
 </entry></entry>
 <entry><entry>
 <form>vayiṉāṉ-ē</form>
-<def>side-I</def>
+<def>side-I(pron.n</def>
 <form type="simple">vayiṉāṉ</form>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">singular</gram>
-<gram type="role">first person</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></entry>
 </superEntry></standOff>
     

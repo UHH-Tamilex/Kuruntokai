@@ -65,7 +65,7 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT318"><interp type="alignment" select="0">34ML84MG3MG8MG8MG4MG65MG9MG10MG5MG2M,241MG</interp>
+  <standOff type="wordsplit" corresp="#KT318"><interp type="alignment" select="0">34ML67MG10MG7MG3MG8MG8MG4MG65MG9MG10MG5MG2M,243MG</interp>
 <entry>
 <form>eṟi</form>
 <def>dash</def>
@@ -136,8 +136,8 @@
 <form>kaḷattiṉiṉ</form>
 <def>arena</def>
 <gramGrp><gram type="role">comparative</gram>
-<note><term xml:lang="ta"> kaḷattiṉiṉ </term>: here we obviously have to read a double marking with <term xml:lang="ta"> -iṉ </term>, once for the oblique, once for the comparison (thus also Cām.) </note>
-</gramGrp></entry>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta"> kaḷattiṉiṉ </term>: here we obviously have to read a double marking with <term xml:lang="ta"> -iṉ </term>, once for the oblique, once for the comparison (thus also Cām.) </note></entry>
 <entry>
 <form>tōṉṟun</form>
 <def>appearing-</def>
@@ -156,15 +156,21 @@
 <gram type="role">negative</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
-<form>kuṟippiṉum</form>
+<form>kuṟippiṉ-um</form>
 <def>intend-if-even</def>
+<form type="simple">kuṟippiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>piṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>other-it</def>
@@ -288,9 +294,17 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)(n.sg.|sg.|3.|n.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>

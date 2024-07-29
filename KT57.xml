@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,17 +63,20 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT57"><interp type="alignment" select="0">63MG4MG18MG14MG15MG19MG25M2G2M,167MG</interp>
+  <standOff type="wordsplit" corresp="#KT57"><interp type="alignment" select="0">13MG50MG4MG18MG14MG15MG19MG25M2G2M,168MG</interp>
 <entry>
 <form>pū</form>
 <def>flower</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>iṭaippaṭiṉum</form>
+<form><pc>~</pc>iṭaippaṭiṉ-um</form>
 <def>middle-appear-if-even</def>
+<form type="simple">iṭaippaṭiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>yāṇṭu</form>
 <def>year</def>

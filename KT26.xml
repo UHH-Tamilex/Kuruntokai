@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -55,7 +57,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT26"><interp type="alignment" select="0">5MG29MG45MR54MG3M2G8MG57MG5MG14MG3M,232MG</interp>
+  <standOff type="wordsplit" corresp="#KT26"><interp type="alignment" select="0">5MG29MG45MR30MG24MG3M2G8MG57MG5MG14MG3M,233MG</interp>
 <entry>
 <form>arump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bud</def>
@@ -158,8 +160,16 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)(n.sg.|sg.|3.|n.|3.)</def>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
@@ -169,10 +179,13 @@
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-<form>moḻiyiṉum</form>
+<form>moḻiyiṉ-um</form>
 <def>speak-if-even</def>
+<form type="simple">moḻiyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>taṉ</form>
 <def>self-</def>
@@ -284,9 +297,18 @@
 </entry>
 <entry>
 <form>koṭiyōṉai-<pc>~</pc>ē</form>
-<def>cruel he(pron.nm.sg.acc.)</def>
+<def>cruel he(pron.nm.sg.acc.)(m.pl.|pron.|acc.)(m.pl.|m.pl.|pron.|acc.|pron.|acc.)</def>
 <form type="simple">koṭiyōṉai</form>
 <gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">pronoun</gram>
+<gram type="role">accusative</gram>
+<gram type="role">pronoun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">accusative</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">pronoun</gram>
+<gram type="role">accusative</gram>
 <gram type="role">pronoun</gram>
 <gram type="role">accusative</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>

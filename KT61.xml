@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +54,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT61"><interp type="alignment" select="0">27MG3MG21MG3MG20MG3MG10MR28MG3MG21MG3M,151MG</interp>
+  <standOff type="wordsplit" corresp="#KT61"><interp type="alignment" select="0">27MG3MG9MG12MG3MG20MG3MG9MGMR28MG3MG21MG3M,153MG</interp>
 <entry>
 <form>taccaṉ</form>
 <def>carpenter</def>
@@ -98,10 +100,13 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kaiyiṉ</form>
 <def>hand</def>
@@ -152,10 +157,13 @@
 <gram type="role">first person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>nal</form>
 <def>good</def>

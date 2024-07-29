@@ -72,7 +72,7 @@
             </div>
         </body>
     </text>
-    <standOff type="wordsplit" corresp="#KT395"><interp type="alignment" select="0">4M2G12M2G6MG5MG48MG6MG11MG52MG17M2G4MG4MG5MG13ML10MG2M,215MG</interp>
+    <standOff type="wordsplit" corresp="#KT395"><interp type="alignment" select="0">4M2G12M2G6MG5MG48MG6MG11MG23MG29MG17M2G4MG4MG5MG13ML10MG2M,216MG</interp>
 <entry>
 <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>heart</def>
@@ -188,10 +188,13 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kaṇ</form>
 <def>eye</def>
@@ -247,9 +250,12 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
