@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 141. <persName xml:lang="ta">maturaip peruṅ kollaṉ</persName>: <i>SHE</i></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"/>
+        <listWit n="2"/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="KT141-kilavi">
+          <p type="edition">iṟceṟikkappaṭṭuḻi iravukkuṟi vantoḻukun talaimakaṟku varum ētam añcip pakaṟkuṟi nērnta vāyppāṭṭāṉ atuvum maṟuttuc ciṟaippuṟamākat tōḻikkut talaimakaḷ colliyatu. (C5: /)</p>
+          <p type="translation" xml:lang="en">Uttered by HER to the confidante, when [he] was behind the hedge, as a denial of that [meeting at night], in words insinuating a granted meeting at day, fearing the danger for HIM, who comes to the meeting at night as appointed, as she is confined in the house.</p>
+          </div>
+
+
+        <div xml:id="KT141">
+            <lg type="edition">
+<l>                vaḷaivāyc ciṟukiḷi viḷaitiṉaik kaṭīiyar</l>
+<l>                celkeṉ ṟōḷē yaṉṉai yeṉanī</l>
+<l>                colli ṉevaṉān tōḻi kollai</l>
+<l>                neṭuṅkai vaṉmāṉ kaṭumpakai yuḻanta</l>
+<l>                kuṟuṅkai yirumpulik kōḷva lēṟṟai</l>
+<l>                paiṅkaṭ cennāy paṭupatam pārkku</l>
+<l>                māriru ṇaṭunāḷ varuti</l>
+<l>                cāra ṉāṭa vāralō veṉavē.</l>
+             </lg>
+            <lg type="translation" xml:lang="en">
+           <l>What would happen if you said, friend:</l>
+           <l rend="indent">“mother said: go chasing away from the</l>
+           <l rend="indent">ripening millet little hook-beaked parakeets”</l>
+           <l>[and]</l>
+           <l rend="indent">“don't come, man from the slope</l>
+           <l rend="indent">
+                <choice>
+            <seg>– you would come in the midst of difficult darkness,</seg>
+            <seg>come at midday!<note place="foot"><term xml:lang="ta">aṭunāḷ varuti</term>: here lies the point of integration for the allusively suggested appointment at day time (for once a case where the <term xml:lang="ta">kiḷavi</term> is very convincing!). <term xml:lang="ta">naṭunāḷ</term> is not only "midnight", but also "midday" (the classical time for day trysts), and <term xml:lang="ta">varuti</term> as a subjunctive can be read either as hypothetical description or as a request.</note></seg>
+                </choice>
+           </l>
+           <l rend="indent">where the green-eyed red dog looks out for the cadaver<note place="foot">From the point of view of word order, <term xml:lang="ta">puli ēṟṟai</term> would be expected to be the subject of <term xml:lang="ta">pārkkum</term>: "where the male of the tiger looks out for the red dog as its proper prey."  From the point of view of content, however, one is led to construe the other way round.</note></l>
+           <l rend="indent">of the male of the short-handed big tiger, strong in killing,</l>
+           <l rend="indent">who bore the enmity of the long-handed mighty elephant</l>
+           <l rend="indent4">in the clearing”?</l>
+        
+
+            </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#KT141"><interp type="alignment" select="0">40M3G5MG105MG21MG4ML3MG14ML8MG5MG3M,218MG</interp>
+<entry>
+<form>vaḷai</form>
+<def>curve</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vāy<pc>+</pc></form>
+<def>mouth</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḷi</form>
+<def>parakeet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷai</form>
+<def>ripen</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tiṉai<pc>+</pc></form>
+<def>millet</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭīiyar</form>
+<def>chase</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>celk<pc>(</pc>a<pc>)</pc></form>
+<def>may-go</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">celk’ eṉṟōḷē</term> is a special <term xml:lang="ta">sandhi</term> occasionally to be observed for an optative in <term xml:lang="ta">-ka</term> before a form of <term xml:lang="ta">eṉ-tal</term>, i.e. <term xml:lang="ta">celka eṉṟōḷē</term> (thus also Cām.'s gloss; cf. KT 217.1, 219.4, 325.3, 383.3). It would, however, also be possible to construe the 1st sg. <term xml:lang="ta">celku</term>, an indirect speech instead of an account of direct speech.</note></entry>
+<entry>
+<form>eṉṟōḷ-ē</form>
+<def>said-she</def>
+<form type="simple">eṉṟōḷ</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aṉṉai</form>
+<def>mother</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">The two <term xml:lang="ta">eṉa (eṉa nī</term> 2nd line and <term xml:lang="ta">eṉavē</term> at the end) are best to be explained as final marks (like Skt. iti) of the two informations SHE wants HIM to get with the help of the confidante.</note></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>colliṉ</form>
+<def>say-if</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>evaṉ</form>
+<def>what</def>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kollai</form>
+<def>clearing</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>māṉ</form>
+<def>animal</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭum</form>
+<def>quick</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>pakai</form>
+<def>enmity</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḻanta</form>
+<def>borne</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟum</form>
+<def>short</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>irum</form>
+<def>dark</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>puli<pc>+</pc></form>
+<def>tiger</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōḷ</form>
+<def>taking</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>ēṟṟai</form>
+<def>male</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paim</form>
+<def>green</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cem-nāy</form>
+<def>red-dog</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭu</form>
+<def>fall-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>patam</form>
+<def>proper-consistency</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pārkkum</form>
+<def>looking-out-for</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>difficult</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>iruḷ</form>
+<def>darkness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṭu-nāḷ</form>
+<def>middle-day</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>varuti</form>
+<def>come-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>cāral</form>
+<def>slope</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>vāral-ō</form>
+<def>come-not</def>
+<form type="simple">vāral</form>
+<gramGrp><gram type="role">imperative</gram>
+<gram type="role">negative</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
