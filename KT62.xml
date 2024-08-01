@@ -58,7 +58,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT62"><interp type="alignment" select="0">30MG15MG5MG41ML34M2G6M2G2M,140MG</interp>
+  <standOff type="wordsplit" corresp="#KT62"><interp type="alignment" select="0">30MG15MG46ML16MG18M2G6M2G2M,140MG</interp>
 <entry>
 <form>kōṭal</form>
 <def>white Malabar lily</def>
@@ -105,7 +105,7 @@
 <gramGrp><gram type="role">sociative</gram>
 </gramGrp></entry>
 <entry>
-<form>iṭai<pc>+</pc>-paṭa</form>
+<form>iṭaippaṭa</form>
 <def>middle-appear</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -158,12 +158,24 @@
 <def>body</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
-<entry>
-<form>muṟiyiṉum</form>
-<def>shoot(n.comp.)/perish-if-even(comp.)</def>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>muṟiyiṉ-um</form>
+<def>shoot</def>
+<form type="simple">muṟiyiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
 <gram type="role">noun</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>muṟiyiṉ-um</form>
+<def>perish-if-even</def>
+<form type="simple">muṟiyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>vāyvatu</form>
 <def>it surpasses/it is excellent</def>
