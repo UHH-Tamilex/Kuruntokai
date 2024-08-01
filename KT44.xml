@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,7 +49,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT44"><interp type="alignment" select="0">3MG12MG5MG23MG30MG24MG2M,104MG</interp>
+  <standOff type="wordsplit" corresp="#KT44"><interp type="alignment" select="0">3MG12MG5MG23MG23MG7MG24MG2M,105MG</interp>
 <entry>
 <form>kāl-ē</form>
 <def>leg</def>
@@ -114,18 +116,20 @@
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>mīṉiṉum</form>
+<form>mīṉiṉ-um</form>
 <def>star</def>
+<form type="simple">mīṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>palar-ēmaṉṟa</form>
 <def>many</def>
 <form type="simple">palar</form>
-<gramGrp type="particle"><m>ēmaṉṟa</m></gramGrp>
 <gramGrp><gram type="role">honorific</gram>
 <gram type="role">third person</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>ēmaṉṟa</m></gramGrp>
+</entry>
 <entry>
 <form><pc>~</pc>i<pc>+</pc></form>
 <def>this-</def>

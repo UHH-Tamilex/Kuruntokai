@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT84"><interp type="alignment" select="0">64MG6ML30MG9MGMR30MG2M,147MG</interp>
+  <standOff type="wordsplit" corresp="#KT84"><interp type="alignment" select="0">64MG6ML30MG9MGMR17MG13MG2M,148MG</interp>
 <entry>
 <form>peyarttaṉeṉ</form>
 <def>I removed</def>
@@ -126,8 +128,9 @@
 </entry>
 <entry>
 <form>kaḻal</form>
-<def>anklet(n.)/become-loose(v.r.)</def>
+<def>anklet(n.)/become-loose(v.r.)(v.r.|n.)</def>
 <gramGrp><gram type="role">verbal root</gram>
+<gram type="role">noun</gram>
 <gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -180,14 +183,19 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>malariṉum</form>
+<form>malariṉ-um</form>
 <def>blossom</def>
+<form type="simple">malariṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
