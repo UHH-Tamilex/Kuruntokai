@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -51,7 +53,7 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT12"><interp type="alignment" select="0">87MG20MG5MG4MG39MG2M,161MG</interp>
+  <standOff type="wordsplit" corresp="#KT12"><interp type="alignment" select="0">87MG20M2G5MG4MG39MG2M,162MG</interp>
 <entry>
 <form>eṟumpi</form>
 <def>ant</def>
@@ -161,12 +163,16 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>ē</form>
+<form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>way</def>
+<form type="simple">āṟu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>atu-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>that</def>
+<form type="simple">atu</form>
+<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>avalam</form>
