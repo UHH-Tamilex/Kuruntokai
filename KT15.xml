@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>paṭa<pc>+</pc></form>
+<form>paṭa<c type="geminated">p</c></form>
 <def>happen</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -80,7 +82,7 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>iṟai</form>
+<form><c type="glide">v</c>iṟai</form>
 <def>seat</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -95,12 +97,12 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>mūt<c type="elided">u</c></form>
 <def>old</def>
 
 <note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tol mutu</term> – "old old": is this supposed to mean "age-old"? Or "venerable"?</note></entry>
 <entry>
-<form>ālattu<pc>+</pc></form>
+<form>ālattu<c type="geminated">p</c></form>
 <def>banyan-tree</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
@@ -122,7 +124,7 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>ūr<pc>+</pc></form>
+<form><c type="geminated">l</c>ūr<c type="geminated">k</c></form>
 <def>village</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -152,7 +154,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>ākiṉṟ<c type="elided">u</c>-ē</form>
 <def>it-became</def>
 <form type="simple">ākiṉṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
@@ -165,7 +167,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āy</form>
+<form><c type="glide">y</c>āy</form>
 <def>select</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
@@ -180,7 +182,7 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ilai</form>
+<form><c type="glide">y</c>ilai</form>
 <def>leaf</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -220,7 +222,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>naṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>naṭp<c type="elided">u</c>-ē</form>
 <def>intimacy</def>
 <form type="simple">naṭpu</form>
 <gramGrp><gram type="role">noun</gram>
