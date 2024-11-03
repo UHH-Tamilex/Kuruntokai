@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,12 +76,12 @@
 </gramGrp><gramGrp type="particle"><m>maṉṟa</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>em</form>
+<form><c type="glide">v</c>em</form>
 <def>our</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>kaṇ-<pc>+</pc>ē</form>
+<form>kaṇ-<c type="geminated">ṇ</c>ē</form>
 <def>eye</def>
 <form type="simple">kaṇ</form>
 <gramGrp><gram type="role">noun</gram>
@@ -96,10 +98,9 @@
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
-<form>ciṉai<pc>+</pc></form>
-<def>twig(r.n.)/egg(r.n.)</def>
+<form>ciṉai<c type="geminated">p</c></form>
+<def>twig/egg</def>
 <gramGrp><gram type="role">root noun</gram>
-<gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>pacum</form>
@@ -113,11 +114,11 @@
 </gramGrp></entry>
 <entry>
 <form>cūl</form>
-<def>pregnancy(n.)/egg(n.)</def>
+<def>pregnancy/egg</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>mutirpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>mutirpp<c type="elided">u</c></form>
 <def>ripeness</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -148,7 +149,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>aviḻa</form>
+<form><c type="glide">y</c>aviḻa</form>
 <def>open</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp>
@@ -159,12 +160,12 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>uṟai</form>
+<form><c type="geminated">ṇ</c>uṟai</form>
 <def>drip</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>aḻi</form>
+<form><c type="glide">y</c>aḻi</form>
 <def>perish</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
@@ -191,14 +192,14 @@
 </gramGrp>
 <note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">taṇ varal</term>: does the verbal noun here function as mere noun apposition, varal being identified with <term xml:lang="ta">vāṭai</term>? Cf. note on KT 28.</note></entry>
 <entry>
-<form>vāṭai-<pc>~</pc>um</form>
+<form>vāṭai-<c type="glide">y</c>um</form>
 <def>north wind</def>
 <form type="simple">vāṭai</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>pirinticiṉōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>pirinticiṉōrkk<c type="elided">u</c></form>
 <def>separated-they</def>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">dative</gram>
@@ -206,14 +207,22 @@
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>aḻal-ē</form>
-<def>heat(r.n.)/crying(v.n.)</def>
+<def>heat</def>
 <form type="simple">aḻal</form>
 <gramGrp><gram type="role">root noun</gram>
-<gram type="role">verbal noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+</entry></entry>
+<entry><entry>
+<form>aḻal-ē</form>
+<def>crying</def>
+<form type="simple">aḻal</form>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></entry>
+</superEntry></standOff>
 <standOff corresp="#KT35" type="apparatus"><listApp>
 <app corresp="26,37">
         <lem wit="#L1 #C2 #G1 #G2 #EA #Cam">ciṉaippacum</lem>
