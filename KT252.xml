@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,7 +103,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>nekiḻa<pc>+</pc></form>
+<form>nekiḻa<c type="geminated">k</c></form>
 <def>become loose</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -135,9 +137,10 @@
 </gramGrp></entry>
 <entry>
 <form>varuvatōr</form>
-<def>coming-one(v.n.i.a.n.sg.rel.)</def>
+<def>coming-one</def>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">imperfect aspect</gram>
+<gram type="role">relative</gram>
 <gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
@@ -146,7 +149,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>iṉ</form>
+<form><c type="glide">y</c>iṉ</form>
 <def>pleasing</def>
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
@@ -202,7 +205,7 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>eṉa<pc>+</pc></form>
+<form><c type="glide">y</c>eṉa<c type="geminated">k</c></form>
 <def>say</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -220,7 +223,7 @@
 <entry>
 <form>vāḻi</form>
 <def>live-you</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
@@ -242,14 +245,17 @@
 <def>praising-</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>muṉṉar</form>
-<def>in front(adv.)/front-they(pron.n.3.h.)</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">adverb</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
+<def>in front</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>muṉṉar</form>
+<def>front-they(pron.n.</def>
+</entry></entry>
+</superEntry>
 <entry>
 <form>nāṇupa</form>
 <def>they are ashamed</def>
@@ -263,11 +269,11 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>yāṅk<c type="elided">u</c></form>
 <def>how</def>
 </entry>
 <entry>
-<form>olpa-<pc>~</pc>ō</form>
+<form>olpa-<c type="glide">v</c>ō</form>
 <def>is possible to them</def>
 <form type="simple">olpa</form>
 <gramGrp><gram type="role">perfective aspect</gram>
