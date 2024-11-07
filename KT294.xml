@@ -71,7 +71,7 @@
 <def>together</def>
 </entry>
 <entry>
-<form>āṭi-<pc>~</pc>um</form>
+<form>āṭi-<c type="glide">y</c>um</form>
 <def>bathed</def>
 <form type="simple">āṭi</form>
 <gramGrp><gram type="role">absolutive</gram>
@@ -83,7 +83,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>alki-<pc>~</pc>um</form>
+<form>alki-<c type="glide">y</c>um</form>
 <def>dwelt</def>
 <form type="simple">alki</form>
 <gramGrp><gram type="role">absolutive</gram>
@@ -95,12 +95,12 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyamoṭu</form>
+<form><c type="glide">y</c>āyamoṭu</form>
 <def>companion</def>
 <gramGrp><gram type="role">sociative</gram>
 </gramGrp></entry>
 <entry>
-<form>taḻuv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>taḻuv<c type="elided">u</c></form>
 <def>embrace</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
@@ -108,10 +108,10 @@
 <form>aṇi</form>
 <def>adornment</def>
 <gramGrp><gram type="role">verbal root</gram>
-<note> <term xml:lang="ta"> taḻuvaṇi </term> is, according to the TL, with reference to this passage, a dance of women (thus also T.V.G.); here is the only occurrence in the whole of Caṅkam literature, and so I prefer translating it literally.  </note>
-</gramGrp></entry>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0"> <term xml:lang="ta"> taḻuvaṇi </term> is, according to the TL, with reference to this passage, a dance of women (thus also T.V.G.); here is the only occurrence in the whole of Caṅkam literature, and so I prefer translating it literally.  </note></entry>
 <entry>
-<form><pc>~</pc>ayarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form><c type="glide">y</c>ayarnt<c type="elided">u</c>-um</form>
 <def>engaged</def>
 <form type="simple">ayarntu</form>
 <gramGrp><gram type="role">absolutive</gram>
@@ -125,7 +125,7 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>pōla<pc>+</pc></form>
+<form>pōla<c type="geminated">k</c></form>
 <def>be-similar</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -154,14 +154,14 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>alarntaṉṟu-maṉṉē</form>
+<form><c type="glide">y</c>alarntaṉṟu-maṉṉē</form>
 <def>it gossiped</def>
 <form type="simple">alarntaṉṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">perfective aspect</gram>
-<note> <term xml:lang="ta"> alarntaṉṟu </term> has certainly to be taken with Cām. as a denominative to <term xml:lang="ta"> alar </term> "gossip". </note>
 </gramGrp><gramGrp type="particle"><m>maṉṉē</m></gramGrp>
-</entry>
+
+<note xmlns="http://www.tei-c.org/ns/1.0"> <term xml:lang="ta"> alarntaṉṟu </term> has certainly to be taken with Cām. as a denominative to <term xml:lang="ta"> alar </term> "gossip". </note></entry>
 <entry>
 <form>titti</form>
 <def>beauty spot</def>
@@ -174,7 +174,7 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>paitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>paitt<c type="elided">u</c></form>
 <def>spread</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
@@ -189,7 +189,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>tirunt<c type="elided">u</c></form>
 <def>be-perfect</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
@@ -199,12 +199,12 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>tuyalvu<pc>+</pc></form>
+<form>tuyalvu<c type="geminated">k</c></form>
 <def>swinging</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kōṭṭ<c type="elided">u</c></form>
 <def>branch</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
@@ -220,7 +220,7 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form>kuḻai<pc>+</pc></form>
+<form>kuḻai<c type="geminated">t</c></form>
 <def>sprout</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -244,8 +244,9 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)</def>
-<gramGrp><gram type="role">neuter singular</gram>
+<def>self</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
@@ -260,18 +261,18 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>kātt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kātt<c type="elided">u</c></form>
 <def>guarded</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
-<form>ōmpal-<pc>+</pc>ē</form>
+<form>ōmpal-<c type="geminated">l</c>ē</form>
 <def>protecting</def>
 <form type="simple">ōmpal</form>
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
-<standOff corresp="#KT294-kilavi" type="apparatus"></standOff>
+<standOff corresp="#KT294-kilavi" type="apparatus"/>
 <standOff corresp="#KT294" type="apparatus"><listApp>
 <app corresp="42,50">
         <lem wit="#L1 #C1 #C2 #C3v #G1v #G2 #EA #Cam">taḻuvaṇi</lem>
