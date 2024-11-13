@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -80,7 +82,7 @@
       </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT215"><interp type="alignment" select="0">5MG22MG25MG11MG47MGMG60MG29MG2M,209MG</interp>
+<standOff type="wordsplit" corresp="#KT215"><interp type="alignment" select="0">5MG47MG11MG108MR29MG2M,206MG</interp>
 <superEntry type="ambiguous">
 <entry><entry>
 <form>paṭar-um</form>
@@ -91,28 +93,34 @@
 </entry></entry>
 <entry><entry>
 <form>paṭarum</form>
-<def>setting-out-</def>
+<def>setting out</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry></entry>
 </superEntry>
 <entry>
-<form>paipaya<pc>+</pc></form>
+<form>paipaya<c type="geminated">p</c></form>
 <def>gently</def>
 <gramGrp><gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
 <form>peyarum</form>
-<def>moving-</def>
+<def>moving</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
-<entry>
-<form>cuṭar-um</form>
-<def>glowing-(pey.)/glow(r.n.)</def>
-<form type="simple">cuṭar</form>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>cuṭarum</form>
+<def>glowing</def>
 <gramGrp><gram type="role">peyareccam</gram>
-<gram type="role">root noun</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>cuṭar-um</form>
+<def>glow</def>
+<form type="simple">cuṭar</form>
+<gramGrp><gram type="role">root noun</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>eṉṟūḻ</form>
 <def>sun</def>
@@ -130,16 +138,16 @@
 </gramGrp></entry>
 <entry>
 <form>maṟaiyum</form>
-<def>vanishing-</def>
+<def>vanishing</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>iṉṟ<c type="elided">u</c></form>
 <def>today</def>
 </entry>
 <entry>
 <form>avar</form>
-<def>that-one</def>
+<def>that one</def>
 <gramGrp><gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
@@ -155,7 +163,7 @@
 <entry>
 <form>vāḻi</form>
 <def>live-you</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
@@ -171,7 +179,7 @@
 </gramGrp></entry>
 <entry>
 <form>il</form>
-<def>be-not</def>
+<def>be not</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
@@ -191,14 +199,15 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ilaṅku</form>
+<form><c type="glide">v</c>ilaṅku</form>
 <def>shine</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>marupp<pc>(</pc>i<pc>)</pc></form>
-<def>tusk(n)</def>
-<gramGrp/></entry>
+<form>maruppu</form>
+<def>tusk</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṉai</form>
 <def>elephant</def>
@@ -230,7 +239,7 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>taḻīi<pc>+</pc></form>
+<form>taḻīi<c type="geminated">k</c></form>
 <def>embraced</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
@@ -245,7 +254,7 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>irum</form>
+<form><c type="glide">y</c>irum</form>
 <def>big/dark</def>
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
