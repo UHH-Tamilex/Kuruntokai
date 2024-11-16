@@ -55,18 +55,20 @@
 <standOff type="wordsplit" corresp="#KT28"><interp type="alignment" select="0">8MG3ML7MG10MG15MG17MG56M2G2M,125MG</interp>
 <entry>
 <form>muṭṭuvēṉ-kol</form>
-<def>I-attack</def>
+<def>I attack</def>
 <form type="simple">muṭṭuvēṉ</form>
-<gramGrp><gram type="role">imperfect aspect</gram>
+<gramGrp><gram type="role">finite verb</gram>
+<gram type="role">imperfect aspect</gram>
 <gram type="role">singular</gram>
 <gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form>tākkuvēṉ-kol</form>
-<def>I-strike-against</def>
+<def>I strike against</def>
 <form type="simple">tākkuvēṉ</form>
-<gramGrp><gram type="role">imperfect aspect</gram>
+<gramGrp><gram type="role">finite verb</gram>
+<gram type="role">imperfect aspect</gram>
 <gram type="role">singular</gram>
 <gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
@@ -97,28 +99,31 @@
 </gramGrp>
 <note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">peṟṟi</term> is a hapax, but Cām.'s "pretext" is meaningful, if a context is presupposed where SHE is not allowed to publicly admit her sorrow, or at least the reason for her sorrow. This might be viewed as a play with the topos of being possessed by the god: according to poetics, the relatives call in the soothsayer when SHE is overthrown by grief; here SHE behaves like one who is possessed, because this is the only way open to her to express her grief.</note></entry>
 <entry>
-<form>mēliṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>mēliṭṭ<c type="elided">u</c></form>
 <def>pretended</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
 <form>āa</form>
-<def>‘āa’(excl.)</def>
-<gramGrp/></entry>
+<def>‘āa’</def>
+<gramGrp><gram type="role">interjection</gram>
+</gramGrp></entry>
 <entry>
-<form><pc>~</pc>ol</form>
-<def>‘ol’(excl.)</def>
-<gramGrp/></entry>
+<form><c type="glide">v</c>ol</form>
+<def>‘ol’</def>
+<gramGrp><gram type="role">interjection</gram>
+</gramGrp></entry>
 <entry>
-<form><pc>+</pc>eṉa<pc>+</pc></form>
+<form><c type="geminated">l</c>eṉa<c type="geminated">k</c></form>
 <def>say</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
 <form>kūvuvēṉ-kol</form>
-<def>I-crow</def>
+<def>I crow</def>
 <form type="simple">kūvuvēṉ</form>
-<gramGrp><gram type="role">imperfect aspect</gram>
+<gramGrp><gram type="role">finite verb</gram>
+<gram type="role">imperfect aspect</gram>
 <gram type="role">singular</gram>
 <gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
@@ -140,17 +145,17 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>alaippa</form>
+<form><c type="glide">y</c>alaippa</form>
 <def>slap</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>eṉ</form>
+<form><c type="glide">v</c>eṉ</form>
 <def>my</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>uyavu</form>
+<form><c type="geminated">ṉ</c>uyavu</form>
 <def>distress</def>
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
@@ -171,9 +176,110 @@
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>ūrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>village(dat.)ē∞</def>
+<form>ūrkk<c type="elided">u</c>-ē</form>
+<def>village</def>
 <form type="simple">ūrkku</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#KT28" type="apparatus"><listApp>
+<app corresp="0,10">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #Cam">muṭṭu vēṉko</lem>
+        <rdg wit="#EA #Camv #IrV #EP">mūṭṭu vēṉko</rdg>
+        </app>
+<app corresp="10,15">
+        <lem wit="#C1 #C2 #C3 #G2 #EA #Cam">ṟākku</lem>
+        <rdg wit="#L1 #G1">ṟāku</rdg>
+        </app>
+<app corresp="20,25">
+        <lem wit="#C2 #C3v #G2 #EA #Cam">lōrēṉ</lem>
+        <rdg wit="#L1 #C1 #C3 #G1 #Camv">lōrē</rdg>
+        </app>
+<app corresp="37,70">
+        <lem wit="#C1 #C2 #C3 #G1 #G2 #Cam">mēliṭṭāa volleṉak kūvu vēṉko lalamara</lem>
+        <rdg wit="#L1">mēliṭṭā
+lolleṉak kūvu vēṉkol lamā</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2ac</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv3">
+      <abbr type="siglum">Cām<hi rend="subscript">v3</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv4">
+      <abbr type="siglum">Cām<hi rend="subscript">v4</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="IrV">
+    <abbr type="siglum">IrV</abbr>
+    <expan>edition of <persName xml:lang="ta">Irāka Vaiyaṅkār</persName> from 1946</expan>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EP">
+    <abbr type="siglum">EP</abbr>
+    <expan>edition with critical apparatus of <persName xml:lang="ta">Caṇmukam Piḷḷai</persName> from 1985</expan>
+  </witness>
+</listWit></standOff></TEI>
