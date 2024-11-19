@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,7 +57,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT1">
-<interp type="alignment" select="0">17MG31MGMG11ML39M2G2M,106MG</interp>
+<interp type="alignment" select="0">17MG43ML39M2G2M,104MG</interp>
 <entry>
 <form>cem</form>
 <def>red</def>
@@ -91,7 +94,7 @@
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<note>The traditional identification of <term xml:lang="ta">avuṇar</term> with Skt. asura- is a morphological enigma, and the context does not give any hint except that the <term xml:lang="ta">avuṇar</term> seem to be enemies of Murukaṉ. The only other occurrence in the early anthologies is PN 174.1 where they are enemies of <term xml:lang="ta">Māyōṉ</term>.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">The traditional identification of <term xml:lang="ta">avuṇar</term> with Skt. asura- is a morphological enigma, and the context does not give any hint except that the <term xml:lang="ta">avuṇar</term> seem to be enemies of Murukaṉ. The only other occurrence in the early anthologies is PN 174.1 where they are enemies of <term xml:lang="ta">Māyōṉ</term>.</note>
 </entry>
 <entry>
 <form>tēytta</form>
@@ -123,7 +126,7 @@
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
-<note>Here (like on many occasions) one might ask, why <term xml:lang="ta">ampu</term> comes as an oblique in -iṉ, but yāṉai stays unchanged, while both of them must be interpreted as attributes to <term xml:lang="ta">cēey</term> (Murukaṉ). The traditional answer is: for metrical reasons; just <term xml:lang="ta">ampu</term>, with over-short -u is not a complete metrical foot.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">Here (like on many occasions) one might ask, why <term xml:lang="ta">ampu</term> comes as an oblique in -iṉ, but yāṉai stays unchanged, while both of them must be interpreted as attributes to <term xml:lang="ta">cēey</term> (Murukaṉ). The traditional answer is: for metrical reasons; just <term xml:lang="ta">ampu</term>, with over-short -u is not a complete metrical foot.</note>
 </entry>
 <entry>
 <form>cem</form>
@@ -134,7 +137,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kōṭṭ(i)</form>
+<form>kōṭṭu</form>
 <def>tusk-</def>
 <form type="sandhi">kōṭṭi</form>
 <gramGrp>
@@ -212,7 +215,7 @@
 </entry>
 <entry>
 <form>kāntaṭṭ<c type="elided">u</c>-ē</form>
-<def>Malabar glory lily it</def>
+<def>Malabar-glory-lily-it</def>
 <form type="simple">kāntaṭṭu</form>
 <form type="sandhi">kāntaṭṭ</form>
 <gramGrp>
@@ -245,7 +248,7 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C2" source="mss/C2_UVSL_183.xml">
     <abbr type="siglum">C2</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
     <witness xml:id="C2v">
@@ -253,7 +256,7 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C3" source="mss/C3_UVSL_184.xml">
     <abbr type="siglum">C3</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
     <witness xml:id="C3v">
@@ -261,7 +264,7 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="Cam" source="mss/Cam.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Cam" source="mss/Cam.xml">
     <abbr type="siglum">Cām</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
     <witness xml:id="Camv">
@@ -273,7 +276,7 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="L1">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1">
     <abbr type="siglum">L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
     <witness xml:id="L1v">
@@ -281,7 +284,7 @@
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="mss/C1_UVSL_1076.xml">
     <abbr type="siglum">C1</abbr>
     <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076]</expan>
     <witness xml:id="C1v">
@@ -289,7 +292,7 @@
         <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="mss/G1_GOML_TD65.xml">
     <abbr type="siglum">G1</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
     <witness xml:id="G1v">
@@ -297,7 +300,7 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="mss/G2_GOML_TR1072.xml">
     <abbr type="siglum">G2</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
     <witness xml:id="G2v">
@@ -305,23 +308,23 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="Nam">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nam">
     <abbr type="siglum">Nam</abbr>
     <expan><persName xml:lang="ta">Nampi</persName> on <title xml:lang="ta">Akapporuḷ Viḷakkam</title></expan>
   </witness>
-<witness xml:id="EA" source="mss/EA.xml">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EA" source="mss/EA.xml">
     <abbr type="siglum">EA</abbr>
     <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
   </witness>
-<witness xml:id="PP">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="PP">
     <abbr type="siglum">PP</abbr>
     <expan>palm leaf ms. (<term xml:lang="ta">ēṭṭu kuṟippu?</term>) of <persName xml:lang="ta">Pūṇṭiyappap Pulavar</persName></expan>
   </witness>
-<witness xml:id="AA">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="AA">
     <abbr type="siglum">AA</abbr>
     <expan>fragments of a palm leaf manuscript from <term xml:lang="ta">Aṇṇāmalai</term></expan>
   </witness>
-<witness xml:id="Il">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Il">
     <abbr type="siglum">Iḷ</abbr>
     <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
     <witness xml:id="Ilv">
@@ -329,33 +332,25 @@
       <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
     </witness>
   </witness>
-<witness xml:id="IV">
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="IV">
     <abbr type="siglum">IV</abbr>
     <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title></expan>
   </witness>
-</listWit></standOff><standOff corresp="#KT1-kilavi" type="wordsplit">
-<interp type="alignment" select="0">22M,21MG</interp>
+</listWit></standOff><standOff corresp="#KT1-kilavi" type="wordsplit"><interp type="alignment" select="0">7MG12MG3M,23MG</interp>
 <entry>
 <form>tōḻi</form>
 <def>confidante</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>kaiyuṟai</form>
+<form>kai­yuṟai</form>
 <def>present</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>maṟuttatu</form>
+<form>maṟutta­tu</form>
 <def>refused-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-</standOff></TEI>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry></standOff></TEI>
