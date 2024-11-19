@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -219,13 +221,11 @@
 </entry>
 <entry>
 <form>yām-ē</form>
-<def>we(pron.pl.1.)(n.pl.|1.)</def>
+<def>we</def>
 <form type="simple">yām</form>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>

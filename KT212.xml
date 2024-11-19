@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -99,7 +101,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note>What exactly is meant by <term xml:lang="ta">koṭuñci</term> ? The DEDR gives, presumably
+<note xmlns="http://www.tei-c.org/ns/1.0">What exactly is meant by <term xml:lang="ta">koṭuñci</term> ? The DEDR gives, presumably
         going back to a commentator, the meaning "lotus staff", whatever that may mean, and T.V.G.
         explains it as a handle to hold on to in the chariot (which would doubtless be a useful
         device).</note>
@@ -210,13 +212,11 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)(n.sg.|3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>

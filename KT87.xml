@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,13 +61,24 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>marāatta</form>
-<def>tree(adj)/Marām tree(adj.)(adj.)</def>
+<def>tree</def>
+<form type="sandhi">aarāatta</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>marāatta</form>
+<def>Marām tree</def>
+<form type="sandhi">aarāatta</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>pēem</form>
 <def>fear</def>

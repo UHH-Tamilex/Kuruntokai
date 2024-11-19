@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -228,15 +230,22 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form><c type="glide">y</c>uṭai<c type="geminated">p</c></form>
-<def>possess(post.)/break(v.r.)(post.|v.r.)</def>
+<def>possess</def>
 <gramGrp>
   <gram type="role">postposition</gram>
-  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form><c type="glide">y</c>uṭai<c type="geminated">p</c></form>
+<def>break</def>
+<gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>pacum</form>
 <def>green</def>

@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,7 +49,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT73">
-<interp type="alignment" select="0">12M2G10ML22ML53MG9MG7MGM2GM,124M</interp>
+<interp type="alignment" select="0">12M2G10ML22ML53MG9MG7M2G2M,122MG</interp>
 <entry>
 <form>makiḻnaṉ</form>
 <def>delight-he</def>
@@ -85,7 +87,7 @@
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-<note><term xml:lang="ta">nī</term>, put without particle-marking at the end of line 1, can function as a subject for line 1 and for line 2.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">nī</term>, put without particle-marking at the end of line 1, can function as a subject for line 1 and for line 2.</note>
 </entry>
 <entry>
 <form><c type="glide">y</c>aḻiyal</form>
@@ -214,16 +216,12 @@
 <gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
 </entry>
 <entry>
-<form>ciṟit(u(-ē</form>
-<def>little-it(pron.n.n.sg.~adv.)(pron.n.|n.sg.|adv.)</def>
-<form type="simple">ciṟit(u(</form>
-<form type="sandhi">ciṟitē</form>
+<form>ciṟit<c type="elided">u</c>-ē</form>
+<def>little-it</def>
+<form type="simple">ciṟitu</form>
+<form type="sandhi">ciṟit</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">adverb</gram>
 </gramGrp>

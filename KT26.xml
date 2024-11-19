@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -204,27 +206,10 @@
 </entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)(n.sg.|3.)(n.sg.|sg.|3.|n.|3.)(n.sg.|sg.|3.|n.|n.sg.|3.|sg.|3.|n.|3.)</def>
+<def>self</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -397,36 +382,15 @@
 </entry>
 <entry>
 <form>a<c type="geminated">k</c></form>
-<def>that-</def>
+<def>that</def>
 </entry>
 <entry>
 <form>koṭiyōṉai-<c type="glide">y</c>ē</form>
-<def>cruel he(pron.nm.sg.acc.)(m.pl.|pron.|acc.)(m.pl.|m.pl.|pron.|acc.|pron.|acc.)(m.sg.|m.sg.|pron.|acc.|pron.|m.sg.|acc.|m.sg.|pron.|acc.|pron.|acc.)</def>
+<def>cruel he</def>
 <form type="simple">koṭiyōṉai</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
-  <gram type="role">masculine plural</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">masculine plural</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">masculine plural</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">accusative</gram>
-  <gram type="role">pronoun</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>

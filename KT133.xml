@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -252,20 +254,26 @@
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>pulampiṉāṉ-ē</form>
-<def>loneliness(loc.)/loneliness-he(pron.n.m.sg.)(pron.n.|m.sg.|loc.)</def>
+<def>loneliness</def>
+<form type="simple">pulampiṉāṉ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>pulampiṉāṉ-ē</form>
+<def>loneliness-he</def>
 <form type="simple">pulampiṉāṉ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">locative</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">locative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 </standOff>
 </TEI>

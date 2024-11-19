@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -214,15 +216,11 @@
 </entry>
 <entry>
 <form>nāṭaṉōṭ<c type="elided">u</c></form>
-<def>land-he(pron.nm.sg.soc.)(m.sg.|pron.|soc.)</def>
+<def>land-he</def>
 <form type="sandhi">nāṭaṉōṭ</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">sociative</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">masculine</gram>
-  <gram type="role">pronoun</gram>
   <gram type="role">sociative</gram>
 </gramGrp>
 </entry>

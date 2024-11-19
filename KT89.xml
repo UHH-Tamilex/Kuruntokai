@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -345,15 +347,13 @@
 </entry>
 <entry>
 <form>pāṭiṉaḷ</form>
-<def>she sang(f.sg.p.a.~muṟṟ.)(f.sg.|p.a.)</def>
+<def>she sang</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">feminine</gram>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<note><term xml:lang="ta">pāṭiṉaḷ</term>: here the p.a. might either refer to an incident that has taken place in the recent past, or it might express that SHE kept singing in spite of the talk.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">pāṭiṉaḷ</term>: here the p.a. might either refer to an incident that has taken place in the recent past, or it might express that SHE kept singing in spite of the talk.</note>
 </entry>
 <entry>
 <form>kuṟiṉ-ē</form>

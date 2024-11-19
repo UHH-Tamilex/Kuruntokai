@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -168,14 +170,11 @@
 </entry>
 <entry>
 <form>tām-ē</form>
-<def>self(pron.pl.h.3.)(n.pl.|h.|3.)</def>
+<def>self</def>
 <form type="simple">tām</form>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">plural</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>

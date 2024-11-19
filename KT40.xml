@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -94,21 +96,28 @@
   <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>ākiyar-ō</form>
-<def>may-become(opt.)/become-they(p.a.3.h.)(opt.|p.a.|h.|3.)</def>
+<def>may-become</def>
 <form type="simple">ākiyar</form>
 <gramGrp>
   <gram type="role">optative</gram>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>ākiyar-ō</form>
+<def>become-they</def>
+<form type="simple">ākiyar</form>
+<gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form><c type="glide">v</c>entai-<c type="glide">y</c>um</form>
 <def>my father</def>
@@ -233,15 +242,22 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>uṭai</form>
-<def>possess(post.)/break(v.r.)(post.|v.r.)</def>
+<def>possess</def>
 <gramGrp>
   <gram type="role">postposition</gram>
-  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>uṭai</form>
+<def>break</def>
+<gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>neñcam</form>
 <def>heart</def>

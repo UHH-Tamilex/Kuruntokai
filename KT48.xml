@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -114,7 +116,7 @@
 </entry>
 <entry>
 <form>varuntum</form>
-<def>suffering-</def>
+<def>suffering</def>
 <form type="sandhi">varuntuṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -149,7 +151,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note><term xml:lang="ta">ōrai</term> is, according to the TL, a kind of game played by women. It is not included in the DEDR, and TVG wants to render it just by "play" (thus also in the case of <term xml:lang="ta">vaṇṭal</term>, cf. KT 238.3, 243.3).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ōrai</term> is, according to the TL, a kind of game played by women. It is not included in the DEDR, and TVG wants to render it just by "play" (thus also in the case of <term xml:lang="ta">vaṇṭal</term>, cf. KT 238.3, 243.3).</note>
 </entry>
 <entry>
 <form><c type="glide">y</c>āyam</form>
@@ -199,21 +201,17 @@
 </entry>
 <entry>
 <form>perit<c type="elided">u</c></form>
-<def>big-it(pron.n.n.sg.~adv.)(pron.n.|n.sg.|adv.)</def>
+<def>big-it</def>
 <form type="sandhi">perit</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>uḻakkum</form>
-<def>bearing-</def>
+<def>bearing</def>
 <form type="sandhi">uḻakkun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>

@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -135,30 +137,34 @@
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>uṟaivi</form>
-<def>remain-she(part.n.f.sg.i.a.)/remain-you(part.n.2.sg.i.a.)(part.n.|f.sg.|i.a.|sg.|2.|n.)</def>
+<def>remain-she</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>
   <gram type="role">imperfect aspect</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">second person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>uṟaivi</form>
+<def>remain-you</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
   <gram type="role">imperfect aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
-  <gram type="role">noun</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>miṉṉiṉ</form>
 <def>flash</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
-<note place="foot">Or <term xml:lang="ta">miṉṉu iṉ</term>: "flashing [and] pleasing" with Cām., that is, two attributes to <term xml:lang="ta">tūvi</term>. The variant <term xml:lang="ta">miṉ eṉ</term>, however, speaks in favour of a comparison.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Or <term xml:lang="ta">miṉṉu iṉ</term>: "flashing [and] pleasing" with Cām., that is, two attributes to <term xml:lang="ta">tūvi</term>. The variant <term xml:lang="ta">miṉ eṉ</term>, however, speaks in favour of a comparison.</note>
 </entry>
 <entry>
 <form>tūvi</form>

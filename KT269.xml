@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -121,11 +123,10 @@
 </entry>
 <entry>
 <form>ucāvunar<c type="geminated">p</c></form>
-<def>inquire-he(part.i.a.3.h.)(i.a.|h.|3.)</def>
+<def>inquire-he</def>
 <gramGrp>
+  <gram type="role">participial noun</gram>
   <gram type="role">imperfect aspect</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>

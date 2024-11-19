@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -115,13 +117,8 @@
 </entry>
 <entry>
 <form>vēḷ</form>
-<def>desire(n.)/Murukaṉ(p.n.)(p.n.|n.)(p.n.|n.|n.)</def>
+<def>desire/Murukaṉ</def>
 <gramGrp>
-  <gram type="role">proper name</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">proper name</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">noun</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -267,7 +264,7 @@
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
-<note place="foot"><term xml:lang="ta">vallē</term>: one of the rarer function of <term xml:lang="ta">-ē</term> is the formation of adverbs.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">vallē</term>: one of the rarer function of <term xml:lang="ta">-ē</term> is the formation of adverbs.</note>
 </entry>
 <entry>
 <form>varuka</form>
@@ -295,11 +292,19 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form><c type="geminated">m</c>illōr</form>
-<def>house-theypron.n.3.h.</def>
+<def>house-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
 </entry></entry>
 <entry><entry>
 <form><c type="geminated">m</c>illōr</form>
-<def>not-he(h.</def>
+<def>not-he</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
 </entry></entry>
 </superEntry>
 <entry>
@@ -325,22 +330,11 @@
 </entry>
 <entry>
 <form>ciṟit<c type="elided">u</c>-ē</form>
-<def>little-it(pron.n.n.sg.~adv.)(pron.n.|n.sg.|adv.)(pron.n.|n.sg.|pron.|adv.|n.|n.sg.|adv.)</def>
+<def>little-it</def>
 <form type="simple">ciṟitu</form>
 <form type="sandhi">ciṟit</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">adverb</gram>
 </gramGrp>

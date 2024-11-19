@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,17 +52,24 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT82">
-<interp type="alignment" select="0">17MG15MG39MG3ML88M,165MG</interp>
-<entry>
+<interp type="alignment" select="0">17MG15MG39MG3ML86MG2M,166MG</interp>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>vār</form>
-<def>length(n.)/comb(v.r.)(v.r.|n.)</def>
+<def>length</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
-  <gram type="role">noun</gram>
   <gram type="role">noun</gram>
 </gramGrp>
-<note>One further meaning of vār is the transitive "to comb". Thus also possible TVG's interpretation of vār uṟu vaṇar katuppu as "nicely combed curly hair". What speaks against this is the fact that uṟu normally is used as a verbaliser after nouns and not in combination with other verbal roots.</note>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>vār</form>
+<def>comb</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">One further meaning of vār is the transitive "to comb". Thus also possible TVG's interpretation of vār uṟu vaṇar katuppu as "nicely combed curly hair". What speaks against this is the fact that uṟu normally is used as a verbaliser after nouns and not in combination with other verbal roots.</note>
+</entry></entry>
+</superEntry>
 <entry>
 <form>uṟu</form>
 <def>have</def>
@@ -284,17 +293,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vārātōrē</form>
-<def>come not he(neg.partpn.3.h.)(neg.|h.|3.|n.)</def>
+<form>vārātōr-ē</form>
+<def>come not he</def>
+<form type="simple">vārātōr</form>
 <gramGrp>
+  <gram type="role">participial noun</gram>
   <gram type="role">negative</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 <standOff corresp="#KT82" type="apparatus"><listApp>

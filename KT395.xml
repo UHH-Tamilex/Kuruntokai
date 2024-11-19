@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -281,7 +283,7 @@
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note>For <term xml:lang="ta">eṉmar</term> as a special form of the participial noun see
+<note xmlns="http://www.tei-c.org/ns/1.0">For <term xml:lang="ta">eṉmar</term> as a special form of the participial noun see
                 Agesthialingom par. 14.7.1:5d.</note>
 </entry>
 <entry>
@@ -311,18 +313,11 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)(n.sg.|3.)(n.sg.|sg.|3.|n.|3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>

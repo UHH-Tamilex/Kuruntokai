@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -106,7 +108,7 @@
 </entry>
 <entry>
 <form>iraṅkum</form>
-<def>sounding-</def>
+<def>sounding</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -152,12 +154,10 @@
 </entry>
 <entry>
 <form>kaṭiya</form>
-<def>quick-they(pon.n.n.pl.)(n.pl.|n.)</def>
+<def>quick-they</def>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>

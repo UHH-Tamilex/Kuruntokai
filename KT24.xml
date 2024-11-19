@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -113,7 +115,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note><term xml:lang="ta">yāṇar</term>: Cām. "fresh income"; otherwise "fertility" (cf. KT 85.6, 106.6, 171.1).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">yāṇar</term>: Cām. "fresh income"; otherwise "fertility" (cf. KT 85.6, 106.6, 171.1).</note>
 </entry>
 <entry>
 <form>eṉṉai</form>
@@ -190,17 +192,35 @@
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>eḻu</form>
-<def>rise(v.r.)/seven</def>
-</entry>
-<entry>
+<def>rise</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>eḻu</form>
+<def>seven</def>
+</entry></entry>
+</superEntry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>kuḷiṟu</form>
-<def>tone(n.)/crab(n.)(n.)(n.)</def>
+<def>tone</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>kuḷiṟu</form>
+<def>crab</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>mititta</form>
 <def>trampled</def>

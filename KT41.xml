@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,25 +100,30 @@
 </entry>
 <entry>
 <form>perit<c type="elided">u</c></form>
-<def>big-it(pron.n.n.sg.~adv.)(pron.n.|n.sg.|adv.)</def>
+<def>big-it</def>
 <form type="sandhi">perit</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
-  <gram type="role">pronoun</gram>
-  <gram type="role">adverb</gram>
-  <gram type="role">noun</gram>
-  <gram type="role">neuter singular</gram>
   <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>uvantu</form>
-<def>delighted(abs.)/come(abs.)(abs.)</def>
+<def>delighted</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>uvantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>cāṟu</form>
 <def>festival</def>

@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -289,15 +291,22 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>marāatta</form>
-<def>tree(adj.)/Marām tree(obl.)(adj.|obl.)</def>
+<def>tree</def>
 <gramGrp>
   <gram type="role">adjective</gram>
-  <gram type="role">oblique</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>marāatta</form>
+<def>Marām tree</def>
+<gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>piḷḷai</form>
 <def>child</def>
@@ -329,7 +338,10 @@
 </entry></entry>
 <entry><entry>
 <form>cerīiya</form>
-<def>insert(p.a.</def>
+<def>insert</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry></entry>
 </superEntry>
 <entry>
@@ -353,7 +365,7 @@
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
-<note><term xml:lang="ta">koṇṭamaiyiṉ</term>: Cām. reads an abstract noun in -<term xml:lang="ta">mai</term> from the perfective peyareccam + -<term xml:lang="ta">iṉ</term> oblique. Would it not be better to read <term xml:lang="ta">koṇṭu amaiyiṉ</term>, the usual abs. to <term xml:lang="ta">koḷ</term> + cond. to <term xml:lang="ta">amai</term>, 4th class, "to become quite"? It is true that there are parallels for such a mode of expression, like in KT 173.7 <term xml:lang="ta">uṇarntamaiyiṉ</term>. On the other hand there are passages like KT 132.3 with <term xml:lang="ta">maṟantu amaiku</term> (see also KT 137.2, 225.5; cf. also KT 117.5 abs.neg. + <term xml:lang="ta">amaiyiṉ</term>), i.e. unequivocally absolutive + amai, so that the question is justified whether <term xml:lang="ta">amai</term> can be understood as an auxiliary verb.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṇṭamaiyiṉ</term>: Cām. reads an abstract noun in -<term xml:lang="ta">mai</term> from the perfective peyareccam + -<term xml:lang="ta">iṉ</term> oblique. Would it not be better to read <term xml:lang="ta">koṇṭu amaiyiṉ</term>, the usual abs. to <term xml:lang="ta">koḷ</term> + cond. to <term xml:lang="ta">amai</term>, 4th class, "to become quite"? It is true that there are parallels for such a mode of expression, like in KT 173.7 <term xml:lang="ta">uṇarntamaiyiṉ</term>. On the other hand there are passages like KT 132.3 with <term xml:lang="ta">maṟantu amaiku</term> (see also KT 137.2, 225.5; cf. also KT 117.5 abs.neg. + <term xml:lang="ta">amaiyiṉ</term>), i.e. unequivocally absolutive + amai, so that the question is justified whether <term xml:lang="ta">amai</term> can be understood as an auxiliary verb.</note>
 </entry>
 <entry>
 <form>viraiyum-āl</form>
