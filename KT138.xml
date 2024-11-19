@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -42,10 +39,12 @@
            <l>Even if the big(?) village sleeps,</l>
            <l rend="indent4">we don't sleep</l>
            <l rend="indent">
+            having heard
             <choice>
-            <seg>having heard the plentiful falling of the sapphire-like flowers,</seg>
-            <seg>having heard much singing from the bell-like flowers,<note place="foot">maṇi ... pāṭu can almost certainly be taken as an intended pun: we may recall the topos of the bells on the cows which keep HER awake at night because they remind her of HIS chariot bells.</note></seg>
+            <seg>the plentiful falling of the sapphire-like</seg>
+            <seg>much singing from the bell-like</seg>
             </choice>
+            flowers,<note place="foot">maṇi ... pāṭu can almost certainly be taken as an intended pun: we may recall the topos of the bells on the cows which keep HER awake at night because they remind her of HIS chariot bells.</note>
         </l>
         <l rend="indent">which have withered on the many soft twigs, the decoration</l>
         <l rend="indent">of the Nocci tree with peacock-foot-shaped big leaf-clusters,<note place="foot">How to understand this description? The most meaningful seems a connection of <term xml:lang="ta">ilaiya</term> with <term xml:lang="ta">kural</term>, that is, a leaf made up of single leaf-elements (in the form of a peacock's foot) – a description that fits in well with the identification of the <term xml:lang="ta">nocci</term> as Vitex negundo. For <term xml:lang="ta">mā</term> the question is whether it simply means "big", though Cām. glosses with <term xml:lang="ta">kariya</term>, "black".</note></l>
@@ -56,61 +55,81 @@
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#KT138"><interp type="alignment" select="0">3MG9MG13MG13MG32ML19MG31M2G2M,129MG</interp>
+<standOff type="wordsplit" corresp="#KT138">
+<interp type="alignment" select="0">3MG9MG13MG13MG32ML19MG31M2G2M,129MG</interp>
 <entry>
-<form>koṉ-<pc>+</pc>ūr</form>
+<form>koṉ-<c type="geminated">ṉ</c>ūr</form>
 <def>village</def>
 <form type="simple">ūr</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>koṉ</m></gramGrp>
-
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṉ</term> is one of the remaining difficult particles; cf. note on KT 91. Here Cām. chooses greatness among the four meanings enumerated in the Tolkāppiyam (in fact the only one which makes at least a vague sense, though not one very specific to the poem).</note></entry>
+<form type="sandhi"><c type="geminated">ṉ</c>ūr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="proclitic">koṉ</m></gramGrp>
+<note><term xml:lang="ta">koṉ</term> is one of the remaining difficult particles; cf. note on KT 91. Here Cām. chooses greatness among the four meanings enumerated in the Tolkāppiyam (in fact the only one which makes at least a vague sense, though not one very specific to the poem).</note>
+</entry>
 <entry>
 <form>tuñciṉ-um</form>
 <def>sleep-if-even</def>
 <form type="simple">tuñciṉ</form>
-<gramGrp><gram type="role">concessive</gram>
-<gram type="role">conditional</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>yām</form>
 <def>we</def>
-<gramGrp><gram type="role">plural</gram>
-<gram type="role">first person</gram>
-</gramGrp></entry>
+<form type="sandhi">yān</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tuñcalam-ē</form>
 <def>we-don't-sleep</def>
 <form type="simple">tuñcalam</form>
-<gramGrp><gram type="role">negative</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>em</form>
+<form><c type="glide">y</c>em</form>
 <def>our</def>
-<gramGrp><gram type="role">oblique</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>+</pc>il</form>
+<form><c type="geminated">m</c>il</form>
 <def>house</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>ayalat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>ayalat<c type="elided">u</c></form>
 <def>neighbourhood-it</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">neuter singular</gram>
-</gramGrp></entry>
+<form type="sandhi">ayalat</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ēḻil</form>
 <def>Ēḻil mountain</def>
-<gramGrp><gram type="role">proper name</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>umpar</form>
 <def>beyond</def>
@@ -118,91 +137,140 @@
 <entry>
 <form>mayil</form>
 <def>peacock</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>aṭi</form>
 <def>foot</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>ilaiya</form>
+<form><c type="glide">y</c>ilaiya</form>
 <def>leaf</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>mā<pc>+</pc></form>
+<form>mā<c type="geminated">k</c></form>
 <def>black/big</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kural</form>
 <def>ear</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">kuraṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nocci</form>
 <def>Nocci tree</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">ṉocci</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>aṇi</form>
+<form><c type="glide">y</c>aṇi</form>
 <def>adornment</def>
-<gramGrp><gram type="role">verbal noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>miku</form>
 <def>become-much</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>mel</form>
 <def>soft</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<form type="sandhi">meṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>komp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>komp<c type="elided">u</c></form>
 <def>twig</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">komp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ūḻtta</form>
 <def>withered</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>maṇi</form>
 <def>jewel/bell</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>maruḷ</form>
 <def>resemble</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pūviṉ</form>
 <def>flower</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pāṭu</form>
-<def>happening(n.)/sing(v.r.)(v.r.|n.)</def>
-<gramGrp><gram type="role">verbal root</gram>
-<gram type="role">noun</gram>
-<gram type="role">noun</gram>
-</gramGrp></entry>
+<def>happening(n.)/sing(v.r.)(v.r.|n.)(v.r.|n.|n.)(v.r.|n.|v.r.|n.|n.|n.)</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>naṉi</form>
 <def>abundant</def>
-<gramGrp><gram type="role">adverb</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>kēṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>kēṭṭ<c type="elided">u</c>-ē</form>
 <def>heard</def>
 <form type="simple">kēṭṭu</form>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<form type="sandhi">kēṭṭ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

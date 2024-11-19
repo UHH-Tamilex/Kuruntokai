@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,141 +58,139 @@
 </body>
 </text>
 <standOff type="wordsplit" corresp="#KT369">
-<interp type="alignment" select="0">4M3G15ML3MG65MG2M,94MG</interp>
+<interp type="alignment" select="0">4MG15ML3MG65MG2M,92MG</interp>
 <entry>
-  <form>atta<pc>(</pc>m<pc>)</pc>
-  </form>
-  <def>road</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>atta<c type="uncertain">m</c></form>
+<def>road</def>
+<form type="sandhi">atta</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>vākai</form>
-  <def>Sirissa tree</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>vākai</form>
+<def>Sirissa tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>
-    <pc>~</pc>amalai</form>
-  <def>abundance</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form><c type="glide">y</c>amalai</form>
+<def>abundance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>vāl</form>
-  <def>purity</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>vāl</form>
+<def>purity</def>
+<form type="sandhi">vāṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>neṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>
-  </form>
-  <def>deed pod</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>neṟṟ<c type="elided">u</c></form>
+<def>deed pod</def>
+<form type="sandhi">ṉeṟṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>ari</form>
-  <def>metal pieces</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>ari</form>
+<def>metal pieces</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>
-    <pc>~</pc>ār</form>
-  <def>roar</def>
-  <gramGrp>
-    <gram type="role">verbal root</gram>
-  </gramGrp>
+<form><c type="glide">y</c>ār</form>
+<def>roar</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>cilampiṉ</form>
-  <def>anklet</def>
-  <gramGrp>
-    <gram type="role">oblique</gram>
-  </gramGrp>
+<form>cilampiṉ</form>
+<def>anklet</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>arici</form>
-  <def>grain</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>arici</form>
+<def>grain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>
-    <pc>~</pc>ārppa<pc>+</pc>
-  </form>
-  <def>roar</def>
-  <gramGrp>
-    <gram type="role">infinitive</gram>
-  </gramGrp>
+<form><c type="glide">y</c>ārppa<c type="geminated">k</c></form>
+<def>roar</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>kōṭai</form>
-  <def>west wind</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>kōṭai</form>
+<def>west wind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>tūkkum</form>
-  <def>lifting-</def>
-  <gramGrp>
-    <gram type="role">peyareccam</gram>
-  </gramGrp>
+<form>tūkkum</form>
+<def>lifting-</def>
+<form type="sandhi">tūkkuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>kāṉam</form>
-  <def>forest</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>kāṉam</form>
+<def>forest</def>
+<form type="sandhi">kāṉañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>celvām</form>
-  <def>we-go</def>
-  <gramGrp>
-    <gram type="role">imperfect aspect</gram>
-    <gram type="role">plural</gram>
-    <gram type="role">first person</gram>
-  </gramGrp>
+<form>celvām</form>
+<def>we-go</def>
+<form type="sandhi">celvān</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>tōḻi</form>
-  <def>friend</def>
-  <gramGrp>
-    <gram type="role">noun</gram>
-  </gramGrp>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>nalkiṉar</form>
-  <def>he granted</def>
-  <gramGrp>
-    <gram type="role">perfective aspect</gram>
-    <gram type="role">honorific</gram>
-    <gram type="role">third person</gram>
-  </gramGrp>
+<form>nalkiṉar</form>
+<def>he granted</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
 </entry>
 <entry>
-  <form>namar-ē</form>
-  <def>our-he</def>
-  <form type="simple">namar</form>
-  <gramGrp>
-    <gram type="role">pronominalised noun</gram>
-    <gram type="role">honorific</gram>
-    <gram type="role">third person</gram>
-  </gramGrp>
-  <gramGrp type="particle">
-    <m>ē</m>
-  </gramGrp>
+<form>namar-ē</form>
+<def>our-he</def>
+<form type="simple">namar</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>

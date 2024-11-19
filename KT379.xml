@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -51,9 +48,9 @@
                     <l> Where [is] he today, friend,</l>
                     <l> who stroked [my] thick hair,</l>
                     <l> saying “you will come to our house,</l>
-                    <l rend="indent3"> [you with] small bracelets, when knowledge is ripe”, <note place = "foot"> In other words when the secret relation is no longer secret. Differently Cām.: when HER knowledge has come to maturity, that is, the message is a consolation directed to a girl not yet of age. </note> </l>
+                    <l rend="indent3"> [you with] small bracelets, when knowledge is ripe”, <note place="foot"> In other words when the secret relation is no longer secret. Differently Cām.: when HER knowledge has come to maturity, that is, the message is a consolation directed to a girl not yet of age. </note> </l>
                     <l> the man from a land,</l>
-                    <l rend="indent"> where the forest man, who has dug a pit for fruit <note place= "foot">
+                    <l rend="indent"> where the forest man, who has dug a pit for fruit <note place="foot">
                         <term xml:lang="ta">  paḻam = paḻaiya </term>    "old", as read by Cām., does not make sense. It rather might be read either as an adverb to <term xml:lang="ta">   akaḻnta </term>      (a pit dug successfully) or attributive to  <term xml:lang="ta"> kuḻi </term> : a "fruit pit", that is, a pit which actually does contain something. </note>    on the hill,</l>
                 <l rend="indent"> [and] obtains, together with the bulbous roots, a jewel</l>
                 <l rend="indent8"> of eye-widening    <note place="foot">
@@ -67,223 +64,216 @@
 <standOff type="wordsplit" corresp="#KT379">
 <interp type="alignment" select="0">3MGMG9MG68MR72MG2M,159MG</interp>
 <entry>
-    <form>iṉṟ<pc>(</pc>i<pc>)</pc>
-    </form>
-    <def>today</def>
+<form>iṉṟ(i)</form>
+<def>today</def>
+<form type="sandhi">iṉṟi</form>
 </entry>
 <entry>
-    <form>yāṇṭaiyaṉ-ō</form>
-    <def>where-he</def>
-    <form type="simple">yāṇṭaiyaṉ</form>
-    <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-    </gramGrp>
-    <gramGrp type="particle">
-        <m>ō</m>
-    </gramGrp>
+<form>yāṇṭaiyaṉ-ō</form>
+<def>where-he</def>
+<form type="simple">yāṇṭaiyaṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kuṉṟattu<pc>+</pc>
-    </form>
-    <def>hill</def>
-    <gramGrp>
-        <gram type="role">oblique</gram>
-    </gramGrp>
+<form>kuṉṟattu<c type="geminated">p</c></form>
+<def>hill</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>paḻam</form>
-    <def>fruit</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>paḻam</form>
+<def>fruit</def>
+<form type="sandhi">paḻaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kuḻi</form>
-    <def>pit</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>kuḻi</form>
+<def>pit</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>
-        <pc>~</pc>akaḻnta</form>
-    <def>dug</def>
-    <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-    </gramGrp>
+<form><c type="glide">y</c>akaḻnta</form>
+<def>dug</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kāṉavaṉ</form>
-    <def>forest-he</def>
-    <gramGrp>
-        <gram type="role">masculine singular</gram>
-    </gramGrp>
+<form>kāṉavaṉ</form>
+<def>forest-he</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kiḻaṅkiṉoṭu</form>
-    <def>bulbous root</def>
-    <gramGrp>
-        <gram type="role">sociative</gram>
-    </gramGrp>
+<form>kiḻaṅkiṉoṭu</form>
+<def>bulbous root</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>
-        <pc>+</pc>akal</form>
-    <def>widen</def>
-    <gramGrp>
-        <gram type="role">verbal root</gram>
-    </gramGrp>
+<form><c type="geminated">ṇ</c>akal</form>
+<def>widen</def>
+<form type="sandhi"><c type="geminated">ṇ</c>akaṉ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>tū</form>
-    <def>purity</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>tū</form>
+<def>purity</def>
+<form type="sandhi">ṟū</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>maṇi</form>
-    <def>sapphire</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>maṇi</form>
+<def>sapphire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>peṟūum</form>
-    <def>obtaining-</def>
-    <gramGrp>
-        <gram type="role">peyareccam</gram>
-    </gramGrp>
+<form>peṟūum</form>
+<def>obtaining-</def>
+<form type="sandhi">peṟūun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>nāṭaṉ</form>
-    <def>land-he</def>
-    <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-    </gramGrp>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>aṟivu</form>
-    <def>knowledge</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>aṟivu</form>
+<def>knowledge</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>kāḻkkoḷḷum</form>
-    <def>coming-to-a-climax-</def>
-    <gramGrp>
-        <gram type="role">peyareccam</gram>
-    </gramGrp>
+<form>kāḻkkoḷḷum</form>
+<def>coming-to-a-climax-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>aḷavai<pc>+</pc>
-    </form>
-    <def>measure</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>aḷavai<c type="geminated">c</c></form>
+<def>measure</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>ciṟu</form>
-    <def>small</def>
-    <gramGrp>
-        <gram type="role">adjective</gram>
-    </gramGrp>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>toṭi</form>
-    <def>bracelet</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>toṭi</form>
+<def>bracelet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>
-        <pc>~</pc>em</form>
-    <def>our</def>
-    <gramGrp>
-        <gram type="role">oblique</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-    </gramGrp>
+<form><c type="glide">y</c>em</form>
+<def>our</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>
-        <pc>+</pc>il</form>
-    <def>house</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form><c type="geminated">m</c>il</form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>varukuvai</form>
-    <def>you come</def>
-    <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-    </gramGrp>
+<form>varukuvai</form>
+<def>you come</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>nī</form>
-    <def>you</def>
-    <gramGrp>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-    </gramGrp>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>
-        <pc>~</pc>eṉa</form>
-    <def>say</def>
-    <gramGrp>
-        <gram type="role">infinitive</gram>
-    </gramGrp>
+<form><c type="glide">y</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>pommal</form>
-    <def>thickness</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>pommal</form>
+<def>thickness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>ōti</form>
-    <def>hair</def>
-    <gramGrp>
-        <gram type="role">noun</gram>
-    </gramGrp>
+<form>ōti</form>
+<def>hair</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-    <form>nīviyōṉ-ē</form>
-    <def>stroked-he</def>
-    <form type="simple">nīviyōṉ</form>
-    <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">perfective aspect</gram>
-    </gramGrp>
-    <gramGrp type="particle">
-        <m>ē</m>
-    </gramGrp>
+<form>nīviyōṉ-ē</form>
+<def>stroked-he</def>
+<form type="simple">nīviyōṉ</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
