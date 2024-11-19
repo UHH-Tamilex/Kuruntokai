@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -162,6 +164,7 @@
 <def>adorned</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry></entry>
 <entry><entry>
@@ -169,6 +172,7 @@
 <def>practised</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
@@ -326,7 +330,7 @@
   <gram type="role">sociative</gram>
   <gram type="role">plural</gram>
 </gramGrp>
-<note>cūrara makaḷir: instead of postulating an adjective ara celestial (with a dubious etymology to Skt. amara- "immortal") another reading of the text might be considered here, namely cūrar makaḷir (as the puḷḷi is usually absent in the manuscripts the burden of interpretation is that of the editor in any case). That would be the "women inspiring fear" and might be read as an explication of the more frequent cūr without further qualification (see note on KT 52.2).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">cūrara makaḷir: instead of postulating an adjective ara celestial (with a dubious etymology to Skt. amara- "immortal") another reading of the text might be considered here, namely cūrar makaḷir (as the puḷḷi is usually absent in the manuscripts the burden of interpretation is that of the editor in any case). That would be the "women inspiring fear" and might be read as an explication of the more frequent cūr without further qualification (see note on KT 52.2).</note>
 </entry>
 <entry>
 <form>uṟṟa</form>

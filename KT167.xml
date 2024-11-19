@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -222,7 +224,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note><term xml:lang="ta">pākar</term> is attested only here in the early anthologies; according to the Index, it is "curry" – according to the TL "chariot"! Can this be a secondary formation to pākam &gt; Skt. pāka- "cooking, cooked food" similar to <term xml:lang="ta">kāmam/kāmar</term> (the DEDR does not include it).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">pākar</term> is attested only here in the early anthologies; according to the Index, it is "curry" – according to the TL "chariot"! Can this be a secondary formation to pākam &gt; Skt. pāka- "cooking, cooked food" similar to <term xml:lang="ta">kāmam/kāmar</term> (the DEDR does not include it).</note>
 </entry>
 <entry>
 <form>iṉit<c type="elided">u</c></form>
@@ -299,7 +301,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note><term xml:lang="ta">mukaṉ</term>: what is the function here of the <term xml:lang="ta">-ṉ</term> suffix instead of the usual <term xml:lang="ta">-m</term>? Is this a positive mark of distinction?</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">mukaṉ</term>: what is the function here of the <term xml:lang="ta">-ṉ</term> suffix instead of the usual <term xml:lang="ta">-m</term>? Is this a positive mark of distinction?</note>
 </entry>
 </standOff>
   <standOff corresp="#KT167" type="apparatus"><listApp>

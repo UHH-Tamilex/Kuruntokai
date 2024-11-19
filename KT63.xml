@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,6 +89,8 @@
 <form type="sandhi">illōrkk</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry></entry>
 <entry><entry>
@@ -95,6 +99,9 @@
 <form type="sandhi">illōrkk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
@@ -132,7 +139,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note>Is this to be understood as <term xml:lang="ta">viṉai kai</term>: "work action", that is, a synonym compound? Or <term xml:lang="ta">kaimmika</term> as an adverb "overmuch"? The formulaic occurrence (and perhaps the sandhi) speaks in favour of the latter.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">Is this to be understood as <term xml:lang="ta">viṉai kai</term>: "work action", that is, a synonym compound? Or <term xml:lang="ta">kaimmika</term> as an adverb "overmuch"? The formulaic occurrence (and perhaps the sandhi) speaks in favour of the latter.</note>
 </entry>
 <entry>
 <form>mika</form>
@@ -153,7 +160,7 @@
 <entry>
 <form><c type="glide">y</c>a<c type="geminated">v</c></form>
 <def>that</def>
-<note>TVG (as Cām.) reads <term xml:lang="ta">am-mā</term> "pretty [and] dark".</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">TVG (as Cām.) reads <term xml:lang="ta">am-mā</term> "pretty [and] dark".</note>
 </entry>
 <entry>
 <form>viṉaikk<c type="elided">u</c></form>
