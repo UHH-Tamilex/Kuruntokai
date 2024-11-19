@@ -21,7 +21,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <div xml:id="KT3-kilavi">
-        <p type="edition">talaimakaṉ ciṟaippuṟamāka avaṉ varaintu (C1+3: vaṇṭiraintu) koḷvatu vēṇṭit
+        <p type="edition">talaimakaṉ ciṟaippuṟamāka avaṉ <app><lem>varaintu</lem><rdg wit="#C1 #C3">vaṇṭiraintu</rdg></app> koḷvatu vēṇṭit
           tōḻi iyaṟpaḻittavaḻit talaimakaḷ iyaṟpaṭa moḻintatu.</p>
         <p type="translation" xml:lang="en">Put into words by HER to make [his] qualities clear,
           when the confidante belittled [his] qualities, wishing that he married [her], when HE was
@@ -286,35 +286,31 @@
     </witness>
   </witness>
 </listWit></standOff><standOff corresp="#KT3-kilavi" type="wordsplit">
-<interp type="alignment" select="0">2MG3MG2MG8MG7MG8MG3MG17MG32MG7MG3MG2MG18MG3M,45MGMG79MG</interp>
+<interp type="alignment" select="0">108M,36M11G60MG</interp>
 <entry>
-<form>ta­lai­ma­kaṉ</form>
-<def>hero()</def>
-<form type="sandhi">talaimakaṉ</form>
+<form>talaimakaṉ</form>
+<def>hero</def>
 </entry>
 <entry>
-<form>ciṟai­ppuṟam</form>
-<form type="sandhi">ciṟaippuṟam</form>
+<form>ciṟaippuṟam</form>
 </entry>
 <entry>
-<form>ā­ka</form>
-<form type="sandhi">āka</form>
+<form>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>avaṉ</form>
 <def>he</def>
 </entry>
 <entry>
-<form>va­rai­ntu</form>
-<form type="sandhi">varaintu</form>
-</entry>
-<entry>
-<form>(C<c type="geminated">1</c>:</form>
-<form type="sandhi">(C<c type="geminated">1</c>+3:</form>
-</entry>
-<entry>
-<form>vaṇṭirai­ntu)</form>
-<form type="sandhi">vaṇṭiraintu)</form>
+<form>varaintu</form>
+<def>married</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>koḷvatu</form>
@@ -329,14 +325,13 @@
 </entry>
 <entry>
 <form>tōḻi</form>
-<def>friend</def>
+<def>confidante</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iyaṟpaḻitta­</form>
-<form type="sandhi">iyaṟpaḻitta</form>
+<form>iyaṟpaḻitta</form>
 </entry>
 <entry>
 <form>vaḻi<c type="geminated">t</c></form>
@@ -346,14 +341,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ta­lai­ma­kaḷ</form>
-<form type="sandhi">talaimakaḷ</form>
+<form>talaimakaḷ</form>
+<def>lady/mistress</def>
 </entry>
 <entry>
 <form>iyaṟpaṭa</form>
 </entry>
 <entry>
-<form>moḻinta­tu</form>
-<form type="sandhi">moḻintatu</form>
+<form>moḻintatu</form>
 </entry>
 </standOff></TEI>

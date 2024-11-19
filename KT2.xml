@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -321,7 +319,7 @@
     </witness>
   </witness>
 </listWit></standOff><standOff corresp="#KT2-kilavi" type="wordsplit">
-<interp type="alignment" select="0">209M,89MG118MG</interp>
+<interp type="alignment" select="0">225M,89MG93MGM7GM8G23MG</interp>
 <entry>
 <form>iyaṟkai<c type="geminated">p</c></form>
 <def>nature</def>
@@ -526,6 +524,7 @@
 <entry>
 <form>aṉpu</form>
 <def>love</def>
+<form type="sandhi">alaimakaṉtaṉatuaṉpu</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
