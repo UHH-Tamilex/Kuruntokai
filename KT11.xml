@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +70,7 @@
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-<note><term xml:lang="ta">koṭu īr...vaḷai</term> are, according to TVG and Cām., bangles that have been cut as pieces from big conchs (a practice clearly attested in AN 24.1f.). But as <term xml:lang="ta">īr</term> may also mean "smoothness" or "moistness", an image might be intended here as well, i.e., bangles shining smooth or moist like conchs.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṭu īr...vaḷai</term> are, according to TVG and Cām., bangles that have been cut as pieces from big conchs (a practice clearly attested in AN 24.1f.). But as <term xml:lang="ta">īr</term> may also mean "smoothness" or "moistness", an image might be intended here as well, i.e., bangles shining smooth or moist like conchs.</note>
 </entry>
 <entry>
 <form>ilaṅku</form>
@@ -155,7 +157,7 @@
   <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note><term xml:lang="ta">uraitalum</term>: here the <term xml:lang="ta">-um</term> should have a diminutive function.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uraitalum</term>: here the <term xml:lang="ta">-um</term> should have a concessive function.</note>
 </entry>
 <entry>
 <form>uykuvam</form>
@@ -165,7 +167,7 @@
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<note><term xml:lang="ta">uykuvam</term>: for the euphonic infix <term xml:lang="ta">-ku-</term> with the non-past see Lehmann 1994: 97f. (cf. KT 26.5 <term xml:lang="ta">poykkuvatu</term>, KT 189.7 <term xml:lang="ta">uvakkuvam</term>, KT 191.7 <term xml:lang="ta">eṉkuvem</term>.)</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uykuvam</term>: for the euphonic infix <term xml:lang="ta">-ku-</term> with the non-past see Lehmann 1994: 97f. (cf. KT 26.5 <term xml:lang="ta">poykkuvatu</term>, KT 189.7 <term xml:lang="ta">uvakkuvam</term>, KT 191.7 <term xml:lang="ta">eṉkuvem</term>.)</note>
 </entry>
 <entry>
 <form>āṅk<c type="elided">u</c>-ē</form>
@@ -325,7 +327,7 @@
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<note><term xml:lang="ta">tēettar</term>: the pronominal noun to <term xml:lang="ta">tēm</term> (&gt; <term xml:lang="ta">deśa</term>- country) of the obl. <term xml:lang="ta">tēttu</term>, seems to function, in contradistinction to <term xml:lang="ta">nāṭaṉ</term> which is completely nominalised, as a predicate noun, that is, as a denominative: "he abides in a country".</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tēettar</term>: the pronominal noun to <term xml:lang="ta">tēm</term> (&gt; <term xml:lang="ta">deśa</term>- country) of the obl. <term xml:lang="ta">tēttu</term>, seems to function, in contradistinction to <term xml:lang="ta">nāṭaṉ</term> which is completely nominalised, as a predicate noun, that is, as a denominative: "he abides in a country".</note>
 </entry>
 <entry>
 <form>āyiṉ-um</form>
@@ -366,7 +368,7 @@
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<note>TVG takes the ambiguous form <term xml:lang="ta">cūḻnticiṉ</term> to be a 1st sg. Since unlike in other cases an explicative <term xml:lang="ta">yāṉ</term> "I" is missing and the context gives reason to expect another imperative directed to the heart, the supposition lies close at hand that there are reasons of content for such a decision: poetics do not allow for HER actually setting out for HIS place – she only may think of it.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">TVG takes the ambiguous form <term xml:lang="ta">cūḻnticiṉ</term> to be a 1st sg. Since unlike in other cases an explicative <term xml:lang="ta">yāṉ</term> "I" is missing and the context gives reason to expect another imperative directed to the heart, the supposition lies close at hand that there are reasons of content for such a decision: poetics do not allow for HER actually setting out for HIS place – she only may think of it.</note>
 </entry>
 <entry>
 <form>uṭai</form>
