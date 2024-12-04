@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,99 +49,143 @@
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#KT71"><interp type="alignment" select="0">6MG10M2G6MG9M2G26MG17ML41MG2M,125MG</interp>
+  <standOff type="wordsplit" corresp="#KT71">
+<interp type="alignment" select="0">6MG10M2G6MG9M2G26MG17ML41MG2M,125MG</interp>
 <entry>
-<form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>marunt<c type="elided">u</c></form>
 <def>remedy</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">marunt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>eṉiṉ</form>
 <def>say if</def>
-<gramGrp><gram type="role">conditional</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>marunt<c type="elided">u</c>-ē</form>
 <def>remedy</def>
 <form type="simple">maruntu</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<form type="sandhi">marunt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>vaipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>vaipp<c type="elided">u</c></form>
 <def>treasure</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">vaipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>eṉiṉ</form>
 <def>say if</def>
-<gramGrp><gram type="role">conditional</gram>
-</gramGrp></entry>
-<entry>
-<form>vaipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>treasure</def>
-<form type="simple">vaippu</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>arumpiya</form>
+<form>vaipp<c type="elided">u</c>-ē</form>
+<def>treasure</def>
+<form type="simple">vaippu</form>
+<form type="sandhi">vaipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>arumpiya</form>
 <def>budded-</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>cuṇaṅkiṉ</form>
 <def>beauty spot</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>am</form>
 <def>pretty/group</def>
-<gramGrp><gram type="role">adjective</gram>
-<gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>pakaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>pakaṭṭ<c type="elided">u</c></form>
 <def>high-</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="sandhi">pakaṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>iḷa</form>
 <def>young</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>mulai<pc>+</pc></form>
+<form>mulai<c type="geminated">p</c></form>
 <def>breast</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>perum</form>
 <def>big</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tōḷ</form>
 <def>shoulder</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">tōṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nuṇukiya</form>
 <def>slender</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<form type="sandhi">ṇuṇukiya</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nucuppiṉ</form>
 <def>waist</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="sandhi">nucuppiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kal</form>
 <def>stone</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>keḻu</form>
 <def>have-</def>
@@ -152,23 +193,30 @@
 <entry>
 <form>kāṉavar</form>
 <def>forest he</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nal</form>
 <def>good</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kuṟu</form>
 <def>short</def>
-
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">nalkuṟu makaḷ</term>: tradition splits thus, taking <term xml:lang="ta">uṟu</term> simply as a meaningless auxiliary to <term xml:lang="ta">nalku</term> 5th "to bestow", that is, "the daughter granted by the man of the forest". This interpretation is perhaps supported by the variant <term xml:lang="ta">nalkuvar</term> ("the daughter of the forest man who grants [her]"). But firstly this breaks up the well-attested formula <term xml:lang="ta">kuṟumakaḷ</term>; secondly, nalku plus <term xml:lang="ta">uṟu</term> is unknown, at least to the TL.</note></entry>
+<note><term xml:lang="ta">nalkuṟu makaḷ</term>: tradition splits thus, taking <term xml:lang="ta">uṟu</term> simply as a meaningless auxiliary to <term xml:lang="ta">nalku</term> 5th "to bestow", that is, "the daughter granted by the man of the forest". This interpretation is perhaps supported by the variant <term xml:lang="ta">nalkuvar</term> ("the daughter of the forest man who grants [her]"). But firstly this breaks up the well-attested formula <term xml:lang="ta">kuṟumakaḷ</term>; secondly, nalku plus <term xml:lang="ta">uṟu</term> is unknown, at least to the TL.</note>
+</entry>
 <entry>
 <form>makaḷ-ē</form>
 <def>daughter</def>
 <form type="simple">makaḷ</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

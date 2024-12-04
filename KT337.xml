@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,18 +76,15 @@
 </body>
 </text>
 <standOff type="wordsplit" corresp="#KT337">
-<interp type="alignment" select="0">5MG17MG7MG33MG17MG26M2G13MG13MGMG12MG12MG5MG6MG3ML2MG27MG2M,217MG</interp>
+<interp type="alignment" select="0">5MG17MG7MG33MG17MG26M2G13MG26MG12MG5MG6MG3ML2MG27MG2M,215MG</interp>
 <entry>
-<form>mulai-<pc>~</pc>ē
-</form>
+<form>mulai-<c type="glide">y</c>ē</form>
 <def>breast</def>
 <form type="simple">mulai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>mukiḻ</form>
@@ -100,29 +94,23 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mukiḻttaṉa-<pc>~</pc>ē
-</form>
+<form>mukiḻttaṉa-<c type="glide">v</c>ē</form>
 <def>they budded</def>
 <form type="simple">mukiḻttaṉa</form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>talai-<pc>~</pc>ē
-</form>
+<form>talai-<c type="glide">y</c>ē</form>
 <def>head</def>
 <form type="simple">talai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>kiḷaiiya</form>
@@ -135,6 +123,7 @@
 <entry>
 <form>mel</form>
 <def>soft</def>
+<form type="sandhi">meṉ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -154,17 +143,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vīḻntaṉa-<pc>~</pc>ē
-</form>
+<form>vīḻntaṉa-<c type="glide">v</c>ē</form>
 <def>they descended</def>
 <form type="simple">vīḻntaṉa</form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>ceṟi</form>
@@ -183,6 +169,7 @@
 <entry>
 <form>veḷ</form>
 <def>white</def>
+<form type="sandhi">veṇ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -194,9 +181,7 @@
 <gramGrp>
   <gram type="role">pronoun</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>um</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>paṟi</form>
@@ -221,15 +206,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cuṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>cuṇaṅk<c type="elided">u</c>-um</form>
 <def>beauty spot</def>
 <form type="simple">cuṇaṅku</form>
+<form type="sandhi">cuṇaṅk</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>um</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>cila</form>
@@ -239,23 +223,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tōṉṟiṉa-<pc>~</pc>ē
-</form>
+<form>tōṉṟiṉa-<c type="glide">v</c>ē</form>
 <def>they appeared</def>
 <form type="simple">tōṉṟiṉa</form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>
-  <pc>~</pc>aṇaṅkutaṟk<pc>(</pc>i<pc>)</pc>
-</form>
+<form><c type="glide">y</c>aṇaṅkutaṟku</form>
 <def>tormenting</def>
+<form type="sandhi"><c type="glide">y</c>aṇaṅkutaṟki</form>
 <gramGrp>
   <gram type="role">dative</gram>
   <gram type="role">verbal noun</gram>
@@ -272,6 +252,7 @@
 <entry>
 <form>taṉ</form>
 <def>self</def>
+<form type="sandhi">ṟaṉ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
   <gram type="role">singular</gram>
@@ -287,15 +268,14 @@
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)</def>
+<def>self</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -307,14 +287,12 @@
   <gram type="role">feminine singular</gram>
   <gram type="role">negative</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>
-</form>
+<form>yāṅk<c type="elided">u</c></form>
 <def>how</def>
+<form type="sandhi">yāṅk</form>
 </entry>
 <entry>
 <form>ākuvaḷ-kol</form>
@@ -324,21 +302,19 @@
   <gram type="role">feminine singular</gram>
   <gram type="role">imperfect aspect</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>kol</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
+<form type="sandhi">ṟāṉ</form>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>peru</form>
@@ -384,9 +360,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle">
-  <m>ē</m>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
