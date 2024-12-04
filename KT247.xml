@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +71,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT247">
-<interp type="alignment" select="0">16MG3MG32MG29MG3MG12MG9MG48MR9MG5MG12ML3M2G2M,195MG</interp>
+<interp type="alignment" select="0">16MG3MG32MG29MG15MG9MG48MR9MG5MG12ML3M2G2M,194MG</interp>
 <entry>
 <form>eḻil</form>
 <def>grace</def>
@@ -179,11 +181,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puṇai-<c type="glide">y</c>um-ār</form>
+<form>puṇai-<c type="glide">y</c>umār</form>
 <def>support</def>
-<form type="simple">puṇai-um</form>
-<form type="sandhi">puṇai<c type="glide">y</c>um</form>
-<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+<form type="simple">puṇai</form>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>i<c type="geminated">v</c></form>
