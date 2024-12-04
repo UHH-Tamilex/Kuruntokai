@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,12 +58,18 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT181">
-<interp type="alignment" select="0">3MG4MG4MG41ML5MG10MG107M2G2M,183MG</interp>
+<interp type="alignment" select="0">7MG4MG41ML5MG10MG107M2G2M,182MG</interp>
 <entry>
-<form>itu-maṟṟ<c type="elided">u</c></form>
+<form>itu</form>
 <def>this</def>
-<form type="simple">itu</form>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>evaṉ-ō</form>

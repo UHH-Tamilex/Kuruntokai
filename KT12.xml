@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,14 +54,14 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT12">
-<interp type="alignment" select="0">87MG20M2G5MG4MG39MG2M,162MG</interp>
+<interp type="alignment" select="0">87MG20M2G9MG39MG2M,161MG</interp>
 <entry>
 <form>eṟumpi</form>
 <def>ant</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note><term xml:lang="ta">eṟumpi</term> is to be understood as a rare deviation (here and AN 377.3) from the common erumpu "ant". <term xml:lang="ta">erumpiṉ</term> would be smoother but is clearly the lectio facilior.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">eṟumpi</term> is to be understood as a rare deviation (here and AN 377.3) from the common erumpu "ant". <term xml:lang="ta">erumpiṉ</term> would be smoother but is clearly the lectio facilior.</note>
 </entry>
 <entry>
 <form><c type="glide">y</c>aḷaiyiṉ</form>
@@ -89,7 +91,7 @@
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-<note place="foot">Many of the numerous nominal derivations ending in -a can be explained neither by a suffix of genitive plural (Lehmann 1994: 47), nor as verbal nouns in neuter plural (Rajam 1993 et.al.). Much more likely, however, is a suffix forming adjectives (as has already been suggested by Srinivasan 1977: 205. References: KT 12.1, 193.2 (<term xml:lang="ta">cuṉaiya</term>), 25.3 (<term xml:lang="ta">kāla</term>), 89.1 (<term xml:lang="ta">urala</term>), 92.3 (<term xml:lang="ta">marāatta</term>), 110.2,3 (<term xml:lang="ta">nīra</term>, <term xml:lang="ta">putala</term>), 114.4 (<term xml:lang="ta">vayiṟṟa</term>), 138.3 (<term xml:lang="ta">ilaiya</term>), 144.1 (<term xml:lang="ta">kaṭala</term>, <term xml:lang="ta">kaḻiya</term>), 148.2 (<term xml:lang="ta">vāya</term>), 183.1 (<term xml:lang="ta">nāṭṭa</term>), 186.2 (<term xml:lang="ta">puṉatta</term>), 197.2 (<term xml:lang="ta">karuviya</term>), 198.2 (<term xml:lang="ta">mutala</term>).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Many of the numerous nominal derivations ending in -a can be explained neither by a suffix of genitive plural (Lehmann 1994: 47), nor as verbal nouns in neuter plural (Rajam 1993 et.al.). Much more likely, however, is a suffix forming adjectives (as has already been suggested by Srinivasan 1977: 205. References: KT 12.1, 193.2 (<term xml:lang="ta">cuṉaiya</term>), 25.3 (<term xml:lang="ta">kāla</term>), 89.1 (<term xml:lang="ta">urala</term>), 92.3 (<term xml:lang="ta">marāatta</term>), 110.2,3 (<term xml:lang="ta">nīra</term>, <term xml:lang="ta">putala</term>), 114.4 (<term xml:lang="ta">vayiṟṟa</term>), 138.3 (<term xml:lang="ta">ilaiya</term>), 144.1 (<term xml:lang="ta">kaṭala</term>, <term xml:lang="ta">kaḻiya</term>), 148.2 (<term xml:lang="ta">vāya</term>), 183.1 (<term xml:lang="ta">nāṭṭa</term>), 186.2 (<term xml:lang="ta">puṉatta</term>), 197.2 (<term xml:lang="ta">karuviya</term>), 198.2 (<term xml:lang="ta">mutala</term>).</note>
 </entry>
 <entry>
 <form><c type="glide">v</c>ulai<c type="geminated">k</c></form>
@@ -212,11 +214,16 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>atu-maṟṟ<c type="elided">u</c></form>
+<form><c type="glide">y</c>atu</form>
 <def>that</def>
-<form type="simple">atu</form>
-<form type="sandhi"><c type="glide">y</c>atu</form>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>avalam</form>
@@ -233,7 +240,7 @@
   <gram type="role">absolutive</gram>
   <gram type="role">negative</gram>
 </gramGrp>
-<note>Here <term xml:lang="ta">koḷ</term> is employed as an embedding verb instead of <term xml:lang="ta">eṉ</term>, concluding a sentence of direct speech in which the predicate noun is marked by the restrictive particle <term xml:lang="ta">maṟṟu</term>.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">Here <term xml:lang="ta">koḷ</term> is employed as an embedding verb instead of <term xml:lang="ta">eṉ</term>, concluding a sentence of direct speech in which the predicate noun is marked by the restrictive particle <term xml:lang="ta">maṟṟu</term>.</note>
 </entry>
 <entry>
 <form>notumal</form>
@@ -249,7 +256,7 @@
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
-<note><term xml:lang="ta">kaḻaṟu</term> is a slightly problematic lexical item. According to DEDR 1354 it is nothing but "to thunder", but its use in the KT shows quite clearly that it is meant as a kind of incessant talking – which is in one case (KT 158.2) metaphorically transferred to thunder.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kaḻaṟu</term> is a slightly problematic lexical item. According to DEDR 1354 it is nothing but "to thunder", but its use in the KT shows quite clearly that it is meant as a kind of incessant talking – which is in one case (KT 158.2) metaphorically transferred to thunder.</note>
 </entry>
 <entry>
 <form>i<c type="geminated">v</c></form>
