@@ -32,7 +32,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div xml:id="KT45-kilavi">
-          <p type="edition">talaimakaṟkup pāṅkāyiṉāyiṉār vāyil vēṇṭiyavaḻit tōḻi vāyil nērntatu.</p>
+          <p type="edition">talaimakaṟkup pāṅkāyiṉār vāyil vēṇṭiyavaḻit tōḻi vāyil nērntatu.</p>
           <p type="translation" xml:lang="en">The confidante granting mediation/the door, when those close to HIM wished for mediation/the door.</p>
           </div>
 
@@ -393,4 +393,68 @@
     <abbr type="siglum">I</abbr>
     <expan>edition of <persName xml:lang="ta">Irāmarattiṉam</persName> from 1930 (rep. 2002)</expan>
   </witness>
-</listWit></standOff></TEI>
+</listWit></standOff><standOff corresp="#KT45-kilavi" type="wordsplit">
+<interp type="alignment" select="0">62M,22M4G35MG</interp>
+<entry>
+<form>talaimakaṟku<c type="geminated">p</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṅkāyiṉār</form>
+<def>close-they</def>
+<form type="sandhi">pāṅkāyiṉāyiṉār</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door/mediation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭiya</form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">t</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door/mediation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērntatu</form>
+<def>granted-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
