@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -322,4 +324,52 @@
         <expan><title xml:lang="ta">Eṭṭuttokai</title> [UVSL 1076], variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff></TEI>
+</listWit></standOff><standOff corresp="#KT63-kilavi" type="wordsplit">
+<interp type="alignment" select="0">55M,18MGMG33MG</interp>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaikkūṭṭiya</form>
+<def>adored</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>(C<c type="geminated">2</c>:</form>
+<def>(C2+3:</def>
+<form type="sandhi">(C<c type="geminated">2</c>+3:</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaikkūṭṭiya)</form>
+<def>covetted</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñciṟku<c type="geminated">c</c></form>
+<def>heart</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
