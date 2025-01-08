@@ -302,11 +302,58 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-<standOff corresp="#KT106" type="apparatus"><listApp>
-<app><note xml:lang="en">FF</note></app>
+<standOff corresp="#KT106-kilavi" type="wordsplit">
+<interp type="alignment" select="0">43M,42MG</interp>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tūtu</form>
+<def>messenger</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭu</form>
+<def>seen</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻatti</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">k</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#KT106" type="apparatus"><listApp>
 <app corresp="0,5">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #EA #Cam">pulvī</lem>
-        <rdg wit="#G2">pulvi</rdg>
+        <rdg wit="#G2">pulvi</rdg><note xml:lang="en">Faulty.</note>
         </app>
 <app corresp="5,11">
         <lem wit="#C2 #C3c #C5 #G1v #G2 #EA #Cam">ḻiṟṟik</lem>
@@ -319,11 +366,11 @@
         </app>
 <app corresp="80,88">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">vantaṉṟu</lem>
-        <rdg wit="#Camv #VPFF">nayantaṉṟu</rdg>
+        <rdg wit="#Camv #VP">nayantaṉṟu</rdg>
         </app>
 <app corresp="88,100">
         <lem wit="#C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">vāḻi tōḻi nāmu</lem>
-        <rdg wit="#L1">tōḻi</rdg>
+        <rdg wit="#L1">tōḻi</rdg><note xml:lang="en">Faulty.</note>
         </app>
 <app corresp="120,138">
         <lem wit="#C2 #C3v #C5v #G1v #Nacc">tāmaṇan taṉaiyameṉa</lem>
@@ -414,6 +461,10 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
     </witness>
   </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP">
+    <abbr type="siglum">VP</abbr>
+    <expan><persName xml:lang="ta">Vaiyāpurip Piḷḷai</persName>'s <term xml:lang="ta">Caṅka Ilakkiyam</term> edition from 1940</expan>
+  </witness>
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nacc">
     <abbr type="siglum">Nacc</abbr>
     <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
@@ -421,10 +472,6 @@
       <abbr type="siglum">Naccv</abbr>
       <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
     </witness>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP">
-    <abbr type="siglum">VP</abbr>
-    <expan><persName xml:lang="ta">Vaiyāpurip Piḷḷai</persName>'s <term xml:lang="ta">Caṅka Ilakkiyam</term> edition from 1940</expan>
   </witness>
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
     <abbr type="siglum">ER</abbr>
@@ -438,52 +485,4 @@
       <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff><standOff corresp="#KT106-kilavi" type="wordsplit">
-<interp type="alignment" select="0">43M,42MG</interp>
-<entry>
-<form>talaimakaṉ</form>
-<def>hero</def>
-<gramGrp>
-  <gram type="role">masculine singular</gram>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tūtu</form>
-<def>messenger</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kaṇṭu</form>
-<def>seen</def>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kiḻatti</form>
-<def>heroine</def>
-<gramGrp>
-  <gram type="role">feminine singular</gram>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōḻikku<c type="geminated">k</c></form>
-<def>confidante</def>
-<gramGrp>
-  <gram type="role">dative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kūṟiyatu</form>
-<def>told-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-</standOff></TEI>
+</listWit></standOff></TEI>
