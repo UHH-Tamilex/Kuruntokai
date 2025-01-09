@@ -669,4 +669,66 @@
     <rdg wit="#SS">yāṉē. <lb n="5"/><space/>-tumpicēr kīraṉar.</rdg>
   </app>
 </listApp></standOff>
-</TEI>
+<standOff type="apparatus" corresp="#KT320-kilavi" source="alignments/KT320-kilavi.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,8">
+    <lem>alar añci</lem>
+    <rdgGrp select="#C1 #C2 #C3 #Cam #G1 #G2">
+      <rdg type="main">etu. alar añci</rdg>
+      <rdg type="minor" wit="#C2 #C3 #Cam">e-tu. alar añci</rdg>
+      <rdg type="minor" wit="#G2">e-tu:― alar añci</rdg>
+    </rdgGrp>
+    <rdg wit="#EA">[itu, alar añci</rdg>
+  </app>
+  <app corresp="8,18">
+    <lem wit="#Cam #EA #G1 #G2">āṟṟāḷākiya</lem>
+    <rdg wit="#C1 #C2 #C3">yāṟṟuḷ ākiya</rdg>
+  </app>
+  <app corresp="18,38">
+    <lem wit="#Cam">talaimakaḷ talaimakaṉ</lem>
+    <rdgGrp select="#C1pc #C3 #G1">
+      <rdg type="main">talaimakaṭalai vaṉ</rdg>
+      <rdg type="minor" wit="#C3 #G1">talaimakaṭalaivaṉ</rdg>
+    </rdgGrp>
+    <rdgGrp select="#C2 #EA #G2">
+      <rdg type="main">talaimakaḷ, talaivaṉ</rdg>
+      <rdg type="minor" wit="#EA #G2">talaimakaḷ talaivaṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#C1ac">talaimakaṭalai <gap reason="lost" quantity="1"/> vaṉ</rdg>
+  </app>
+  <app corresp="38,48">
+    <lem wit="#C1 #C2 #C3 #Cam #EA #G2">kēṭpāṉākat</lem>
+    <rdg wit="#G1">kēṭpāṉ ā</rdg>
+  </app>
+  <app corresp="48,56">
+    <lem wit="#EA #G1 #G2">tōḻikkuk</lem>
+    <rdg wit="#C1 #C2 #C3">tōlikkuk</rdg>
+    <rdg wit="#Cam">tōḻikkūk</rdg>
+  </app>
+  <app corresp="56,65">
+    <lem>kūṟiyatu.</lem>
+    <rdgGrp select="#C1 #C2 #C3pc #Cam #G1">
+      <rdg type="main">kūṟiyatu · tumpicēr kīraṉ ·</rdg>
+      <rdg type="minor" wit="#C3pc">kūṟiyatu. tumpicēr kīraṉ. 320</rdg>
+      <rdg type="minor" wit="#C2">kūṟiyatu. tumpicēr kīraṉ.</rdg>
+      <rdg type="minor" wit="#Cam #G1">kūṟiyatu. tumpicēr kīraṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#C3ac">kūṟiyatu. tumpicēr tīraṉ. 320</rdg>
+    <rdg wit="#EA">kūṟiyatu.] [tumpīmōci kīraṉ pāṭiyatu]</rdg>
+    <rdg wit="#G2">kūṟiyatu. -tumpīmōci kīraṉ-</rdg>
+  </app>
+</listApp></standOff></TEI>
