@@ -30,7 +30,8 @@ jobs:
           yarn pageindex KT Kuṟuntokai
           yarn todb KT
           yarn dbtohtml Kuṟuntokai
-          #git pull
+          cd ../..
+          git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
