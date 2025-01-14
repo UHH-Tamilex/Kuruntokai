@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +24,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <div xml:id="KT266-kilavi">
-        <p type="edition">varaiyātu pirintaviṭattut tōḻikkuk kiḻatti uraittatu</p>
+        <p type="edition">varaiyātu pirintaviṭattat tōḻikkuk kiḻatti uraittatu</p>
         <p type="translation" xml:lang="en">Told by HER to the confidante when he had separated
           without marrying. </p>
       </div>
@@ -253,4 +255,54 @@
 </standOff>
 <standOff corresp="#KT266" type="apparatus"><listApp>
 <app><note xml:lang="en">the additional line is missing in L1, C1+2+3, G1, EA, I, but available in VP, IrV, ER, EP, while G2 leaves free a big gap between lines 3 and 4 and so does AT</note></app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff corresp="#KT266-kilavi" type="wordsplit">
+<interp type="alignment" select="0">48M,48M</interp>
+<entry>
+<form>varaiyātu</form>
+<def>marry-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirinta</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṭattu<c type="geminated">t</c></form>
+<def>place</def>
+<form type="sandhi"><c type="glide">v</c>iṭatta<c type="geminated">t</c></form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">k</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻatti</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
