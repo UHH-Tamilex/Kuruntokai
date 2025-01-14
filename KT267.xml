@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -526,4 +528,151 @@
       <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933, variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff></TEI>
+</listWit></standOff><standOff corresp="#KT267-kilavi" type="wordsplit">
+<interp type="alignment" select="0">4ML3M2G33MG43MG19MG13MG11M,132MG</interp>
+<entry>
+<form>“mēl</form>
+<def>above</def>
+<form type="sandhi">“mēṉ</form>
+</entry>
+<entry>
+<form>niṉṟ<c type="elided">u</c>-um</form>
+<def>stood</def>
+<form type="simple">niṉṟu</form>
+<form type="sandhi">ṉiṉṟ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āṭavar</form>
+<def>men</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruṭku<c type="geminated">p</c></form>
+<def>wealth</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirintār</form>
+<def>separated-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākaliṉ</form>
+<def>because</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nām-um</form>
+<def>we</def>
+<form type="simple">nām</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>poruṭku<c type="geminated">p</c></form>
+<def>wealth</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piritum”</form>
+<def>separate-we</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñciṟku</form>
+<def>heart</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāḷatu</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉmai-<c type="glide">y</c>um</form>
+<def>fewness</def>
+<form type="simple">ciṉmai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iḷamaiyatu</form>
+<def>youth</def>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arumai-<c type="glide">y</c>um</form>
+<def>preciousness</def>
+<form type="simple">arumai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kūṟi<c type="geminated">c</c></form>
+<def>talked</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celav<c type="elided">u</c></form>
+<def>going</def>
+<form type="sandhi">celav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḻuṅkiyatu</form>
+<def>prevented-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
