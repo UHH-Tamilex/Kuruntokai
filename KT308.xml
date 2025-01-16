@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -354,4 +356,59 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#KT308-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG41M,47MG</interp>
+<entry>
+<form>varaiv<c type="elided">u</c></form>
+<def>marriage</def>
+<form type="sandhi">varaiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭai<c type="geminated">k</c></form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻattiyai</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>val</form>
+<def>hard</def>
+<form type="sandhi">vaṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colli</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṟpuṟuttiyatu</form>
+<def>encouraged-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
