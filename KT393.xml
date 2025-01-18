@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -392,4 +394,79 @@
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff></TEI>
+</listWit></standOff><standOff corresp="#KT393-kilavi" type="wordsplit">
+<interp type="alignment" select="0">63M,62MG</interp>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated">p</c></form>
+<def>fence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>outside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alar</form>
+<def>gossip</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malivu</form>
+<def>increase</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaitta</form>
+<def>limited</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭāyatu</form>
+<def>urged-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
