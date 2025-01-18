@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -389,4 +391,100 @@
       <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933, variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff></TEI>
+</listWit></standOff><standOff corresp="#KT390-kilavi" type="wordsplit">
+<interp type="alignment" select="0">53M2G7MG27M,89MG</interp>
+<entry>
+<form>puṇarntu</form>
+<def>united</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭaṉpōyiṉārai</form>
+<def>gone away together-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭai<c type="geminated">c</c></form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>curattu<c type="geminated">k</c></form>
+<def>desert</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭār</form>
+<def>seen-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">p</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>poḻutu</form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celav<c type="elided">u</c>-um</form>
+<def>going</def>
+<form type="simple">celavu</form>
+<form type="sandhi">celav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pakai-<c type="glide">y</c>um</form>
+<def>enmity</def>
+<form type="simple">pakai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi<c type="geminated">c</c></form>
+<def>shown</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celavu</form>
+<def>going</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilakkiyatu</form>
+<def>hindered-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
