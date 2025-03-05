@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT275-kilavi">
-        <p type="edition">paruvavaraviṉkaṇ varavu nimittan tōṉṟa tōḻi talaimakaṭku uraittatu. </p>
-        <p type="translation" xml:lang="en">Told to HER by the confidante to whom a sign of [his]
+      <div rend="parallel">
+        <p xml:id="KT275-kilavi">paruvavaraviṉkaṇ varavu nimittan tōṉṟa tōḻi talaimakaṭku uraittatu. </p>
+        <p xml:lang="en">Told to HER by the confidante to whom a sign of [his]
           coming appeared at the coming of the season. </p>
       </div>
 
-      <div xml:id="KT275">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT275">
           <l> mullai yūrnta kalluyar pēṟik</l>
           <l> kaṇṭaṉam varukañ ceṉmō tōḻi</l>
           <l> yellūrc cērtaru mēṟuṭai yiṉattup</l>
@@ -41,7 +39,7 @@
           <l> tērmaṇi kollāṇ ṭiyampiya vuḷavē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Come, <note place="foot">
               <term xml:lang="ta">ceṉmō</term>: here the imperative rather has the flavour of a
             particle of invitation (similar to Skt. hanta).</note> friend, let us come to see,</l>

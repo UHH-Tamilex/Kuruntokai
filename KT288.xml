@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT288-kilavi">
-        <p type="edition">talaimakaṉatu varavuṇarntu “nam perumāṉ namakku aṉpilar” eṉṟa tōḻikkuk
+      <div rend="parallel">
+        <p xml:id="KT288-kilavi">talaimakaṉatu varavuṇarntu “nam perumāṉ namakku aṉpilar” eṉṟa tōḻikkuk
           kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who said “our great man is
+        <p xml:lang="en">Told by HER to the confidante who said “our great man is
           without love [for us]!”, after having realised HIS coming. </p>
       </div>
 
-      <div xml:id="KT288">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT288">
           <l> kaṟivaḷa raṭukkat tāṅkaṇ muṟiyaruntu</l>
           <l> kuraṅkoruṅ kirukkum peruṅka ṉāṭa</l>
           <l> ṉiṉiya ṉākali ṉiṉatti ṉiyaṉṟa</l>
@@ -39,7 +37,7 @@
           <l> viṉiteṉap paṭūum puttē ṇāṭē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>The land of the gods is called pleasing.</l>
           <l>Is it more pleasing than the unpleasantness</l>
           <l rend="indent">which came from the family, <note place="foot"> <term xml:lang="ta"> iṉam </term> presumably refers to HER family who interferes because of HER commitment to HIM, and the (in this connection) uncommon word is chosen because of the alliteration with the <term xml:lang="ta"> iṉ </term>-derivations. So the sense is that as long as HE is there even the trouble with the family is preferable to the bliss of heaven.  </note> because he is pleasing,</l>

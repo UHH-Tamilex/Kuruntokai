@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT194-kilavi">
-          <p type="edition">paruva varaviṉkaṇ āṟṟāḷām eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
-          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT194-kilavi">paruva varaviṉkaṇ āṟṟāḷām eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
           </div>
           
 
-        <div xml:id="KT194">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT194">
 <l>                eṉṉeṉap paṭuṅko ṟōḻi miṉṉupu</l>
 <l>                vāṉēr piraṅku moṉṟō vataṉetir</l>
 <l>                kāṉa maññai kaṭiya vēṅku</l>
 <l>                mētila kalanta viraṇṭaṟkeṉ</l>
 <l>                pētai neñcam perumalak kuṟumē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
               <l>
                 <choice>
                     <seg>Do you ask: <note place="foot"><term xml:lang="ta">eṉa paṭum</term>: besides in KT 17.3 and KT 288.5 this seems to be the only place in the KT where the verb <term xml:lang="ta">paṭu-tal</term> might already be a passive-forming auxiliary, i.e. literally "Is it asked by you, friend?" TVG understands: "Does it happen [that someone asks] what [is it with you]?"</note> what [is that], friend?</seg>

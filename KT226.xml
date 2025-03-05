@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT226-kilavi">
-        <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would
+      <div rend="parallel">
+        <p xml:id="KT226-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+        <p xml:lang="en">Told by HER to the confidante who was anxious she would
           not have the strength [to await] the time of marriage.</p>
       </div>
 
-      <div xml:id="KT226">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT226">
           <l>pūvoṭu puraiyuṅ kaṇṇum vēyeṉa</l>
           <l>viṟalvaṉap peytiya tōḷum piṟaiyeṉa</l>
           <l>matimayak kuṟūu nutalu naṉṟu</l>
@@ -40,7 +38,7 @@
           <l>virinīrc cērppaṉoṭu nakāa vūṅkē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Very <note place="foot">
               <term xml:lang="ta">naṉṟum</term> apparently is to be understood as an adverb (cf. KT
             29.4, 237.3, 327.3).</note> good certainly, oh friend, [was]</l>

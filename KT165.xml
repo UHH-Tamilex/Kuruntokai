@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,21 +29,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT165-kilavi">
-          <p type="edition">piṉṉiṉṟa talaimakaṉ maṟukkappaṭṭup peyarntuṅ (C5: peyarttuṅ) kūṭaluṟu neñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by HIM, who had begged, to the heart which wanted cohabitation, after he had been refused [meetings] several times.</p>
+        <div rend="parallel">
+          <p xml:id="KT165-kilavi">piṉṉiṉṟa talaimakaṉ maṟukkappaṭṭup peyarntuṅ (C5: peyarttuṅ) kūṭaluṟu neñciṟkuc colliyatu.</p>
+          <p xml:lang="en">Uttered by HIM, who had begged, to the heart which wanted cohabitation, after he had been refused [meetings] several times.</p>
           </div>
 
 
-        <div xml:id="KT165">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT165">
 <l>                makiḻntataṉ ṟalaiyu naṟavuṇ ṭāṅku</l>
 <l>                viḻaintataṉ ṟalaiyu nīvey tuṟṟaṉai</l>
 <l>                yaruṅkarai niṉṟa vuppoy cakaṭam</l>
 <l>                perumpeyaṟ ṟalaiyavin tāṅkiva</l>
 <l>                ḷirumpal kūnta liyalaṇi kaṇṭē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">Seeing [once] her natural adornment, many dark tresses</l>
            <l rend="indent">– dissolving like a cartload of salt<note place="foot"><term xml:lang="ta">uppu oy cakaṭam</term>: the word order here suggests that it is the cart, <term xml:lang="ta">cakaṭam</term>, which is the subject of <term xml:lang="ta">vīntu</term>, which would be, of course, a slanting image. TVG explains this as a poetic change of word order (i.e. to be interpreted as <term xml:lang="ta">cakaṭam oy uppu</term>), but it might also be taken as above.</note> which stood</l>
            <l rend="indent3">on the difficult shore<note place="foot"><term xml:lang="ta">arum karai</term>: this expression seems to be an elliptical formulation (as quite usual with <term xml:lang="ta">arum</term>) for a shore difficult to pass, presumably since the sand is deep and it is difficult to draw a cart across when passing the river.</note></l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT184-kilavi">
-          <p type="edition">kaḻaṟiya pāṅkaṟkuk kiḻavaṉ uraittatu.</p>
-          <p type="translation" xml:lang="en">Told by HIM to the companion who urged [him].</p>
+        <div rend="parallel">
+          <p xml:id="KT184-kilavi">kaḻaṟiya pāṅkaṟkuk kiḻavaṉ uraittatu.</p>
+          <p xml:lang="en">Told by HIM to the companion who urged [him].</p>
           </div>
           
 
-        <div xml:id="KT184">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT184">
 <l>                aṟikari poytta lāṉṟōrk killai</l>
 <l>                kuṟuka lōmpumiṉ ciṟukuṭic celavē</l>
 <l>                yitaṟkitu māṇṭa teṉṉā tataṟpaṭ</l>
@@ -39,7 +37,7 @@
 <l>                nuṇvalaip paratavar maṭamakaḷ</l>
 <l>                kaṇvalaip paṭūuṅ kāṉa lāṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>For noble men there is no lying on the part of a knowing witness.<note place="foot">Here the first line has to be taken as an aphoristic prelude. As usual the message is far from self-evident. Does this mean: with those who are noble/wise there is no false testimony (implying: and this speaker is of such a type, so listen to his words)?</note></l>
            <l>Beware approaching when going past the little homes!<note place="foot">What is achieved here by the pointed postposition of <term xml:lang="ta">celavu</term> where <term xml:lang="ta">kuṟukal</term> would be semantically sufficient? Do we have to think of a special kind of going, such as the setting out for a task the completion of which is prevented by being caught in the net?</note></l>
            <l rend="indent">In the seashore grove where the inexperienced<note place="foot">The epithet <term xml:lang="ta">maṭam</term> for the fishermen's daughters is contrary to the message of the image. Is this to be understood in an ironical sense (the fishermen's daughters, so very innocent, throwing out their eyes' nets) or does it mean that they really do not know yet about the effects they achieve?</note> daughters</l>

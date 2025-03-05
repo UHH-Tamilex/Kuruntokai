@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -30,18 +28,18 @@
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
-            <div xml:id="KT384-kilavi">
-                <p type="edition">“niṉ parattaiyarkku nī uṟṟa cūḷuṟavu naṉṟāy iruntatu” eṉṟu
+            <div rend="parallel">
+                <p xml:id="KT384-kilavi">“niṉ parattaiyarkku nī uṟṟa cūḷuṟavu naṉṟāy iruntatu” eṉṟu
                     nakaiyāṭit tōḻi vāyiṉ maṟuttatu. </p>
 
 
-                <p type="translation" xml:lang="en">The door refused by the confidante in jest,
+                <p xml:lang="en">The door refused by the confidante in jest,
                     saying “it is excellent to have the oath, which you have made to your other
                     women.” </p>
             </div>
 
-            <div xml:id="KT384">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="KT384">
                     <l> uḻuntuṭaik kaḻutiṟ karumpuṭaip paṇaittō</l>
                     <l> ṇeṭumpal kūntaṟ kuṟuntoṭi makaḷir</l>
                     <l> nalaṉuṇṭu tuṟatti yāyiṉ</l>
@@ -50,7 +48,7 @@
 
                 </lg>
 
-                <lg type="translation" xml:lang="en">
+                <lg xml:lang="en">
                     <l rend="indent"> If you give [her] up, having eaten [her] innocence,</l>
                     <l rend="indent2"> [for] women with tight bracelets, long many tresses</l>
                     <l rend="indent8"> [and] bamboo shoulders</l>

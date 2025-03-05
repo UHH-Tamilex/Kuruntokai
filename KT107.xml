@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT107-kilavi">
-          <p type="edition">poruṇ muṭintu vanta talaimakaṉaiyuṭaiya kiḻatti kāma mikka kaḻipaṭar kiḷaviyāṟ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken with words of distress out of excessive desire for HIM, who was coming after he had accumulated wealth.</p>
+        <div rend="parallel">
+          <p xml:id="KT107-kilavi">poruṇ muṭintu vanta talaimakaṉaiyuṭaiya kiḻatti kāma mikka kaḻipaṭar kiḷaviyāṟ kūṟiyatu.</p>
+          <p xml:lang="en">Spoken with words of distress out of excessive desire for HIM, who was coming after he had accumulated wealth.</p>
           </div>
           
 
 
-        <div xml:id="KT107">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT107">
 <l>                kuviyiṇart tōṉṟi yoṇpū vaṉṉa</l>
 <l>                tokucen neṟṟik kaṇaṅkoḷ cēva</l>
 <l>                ṉaḷḷiruḷ yāmat tilleli pārkkum</l>
@@ -40,7 +38,7 @@
 <l>                yāṇa rūraṉ ṟaṉṉoṭu vatinta</l>
 <l>                vēma viṉṟuyi leṭuppi yōyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Cock with your troupe [and your] forehead gathering red</l>
            <l rend="indent">like the bright flower of the Malabar lily in overlapping clusters,</l>
            <l>may you suffer severe punishment,</l>

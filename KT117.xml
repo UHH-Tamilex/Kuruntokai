@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT117-kilavi">
-          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaṭkut tōḻi colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by the confidante to HER, when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT117-kilavi">varaivu nīṭṭittaviṭattut talaimakaṭkut tōḻi colliyatu.</p>
+          <p xml:lang="en">Uttered by the confidante to HER, when [he] delayed marriage.</p>
           </div>
 
 
-        <div xml:id="KT117">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT117">
 <l>                māri yāmpa laṉṉa kokkiṉ</l>
 <l>                pārva lañciya paruvara līrñeṇṭu</l>
 <l>                kaṇṭal vēraḷaic celīiya raṇṭar</l>
@@ -38,7 +36,7 @@
 <l>                vārā tamaiyiṉu mamaika</l>
 <l>                ciṟiyavu muḷavīṇṭu vilaiñarkai vaḷaiyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">
             <choice>
               <seg>Even if he is content not to come,<note place="foot"><term xml:lang="ta">varātu amaiyiṉum amaika</term>: this is a play on the root <term xml:lang="ta">amai-tal</term>, but still it is possible to read an auxiliary in the first case, in the sense of reaching permanently a new condition. Cf. note on KT 92.5, 132.3.</note></seg>

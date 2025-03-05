@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,13 +21,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT297-kilavi">
-        <p type="edition">tōḻi varaivu malintatu. </p>
-        <p type="translation" xml:lang="en">The confidante rejoicing at the [prospect of] marriage. </p>
+      <div rend="parallel">
+        <p xml:id="KT297-kilavi">tōḻi varaivu malintatu. </p>
+        <p xml:lang="en">The confidante rejoicing at the [prospect of] marriage. </p>
       </div>
 
-      <div xml:id="KT297">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT297">
           <l> avviḷim purīiya koṭuñcilai maṟavar</l>
           <l> vaivār vāḷi viṟaṟpakai pēṇār</l>
           <l> māṟuniṉ ṟiṟanta vāṟucel vampala</l>
@@ -39,7 +37,7 @@
           <l> vuṇarntēṉ maṉṟavava ruṇarā vūṅkē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>I realised before he did [what actually deserves to be called] “wealth”,</l>
           <l rend="indent">[namely] that he would speak good [words], unite [with her</l>
           <l rend="indent">and] go away together, <note place="foot"> <term xml:lang="ta"> puṇarntu uṭaṉ pōtal poruḷ eṉa </term>: the whole line seems to be a play on the poetological idiom, <term xml:lang="ta"> puṇarntu </term> refering to the fact of their union, and <term xml:lang="ta"> uṭaṉ pōtal </term> drawing the consequence of going away together. This gives rise to a re-evaluation of <term xml:lang="ta"> poruḷ </term>, here not (as one would have expected on account of the setting) connected with HIS leaving HER at home while he tries to make wealth, but the "real" wealth, namely being together (for a similar implicit deconstruction of <term xml:lang="ta"> poruḷ </term> see KT 174.6f.).  </note> to the vast area in stony height,</l>

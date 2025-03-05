@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,14 +29,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT154-kilavi">
-          <p type="edition">poruḷvayiṟ pirinta talaimakaṉai niṉaintu talaimakaḷ tōḻikku uraittatu.</p>
-          <p type="translation" xml:lang="en">Told to the confidante by HER, when she thought of HIM who had separated because of wealth.</p>
+        <div rend="parallel">
+          <p xml:id="KT154-kilavi">poruḷvayiṟ pirinta talaimakaṉai niṉaintu talaimakaḷ tōḻikku uraittatu.</p>
+          <p xml:lang="en">Told to the confidante by HER, when she thought of HIM who had separated because of wealth.</p>
           </div>
 
 
-        <div xml:id="KT154">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT154">
 <l>                yāṅkaṟin taṉarko ṟōḻi pāmpi</l>
 <l>                ṉurinimirn taṉṉa vuruppavi ramaiyat</l>
 <l>                tiraivēṭ ṭeḻunta cēva luṉṉip</l>
@@ -48,7 +46,7 @@
 <l>                maruñcura vaippiṟ kāṉam</l>
 <l>                pirintucē ṇuṟaital vallu vōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>How has he known,<note place="foot"><term xml:lang="ta">yāṅku aṟintaṉar kol</term>: how to understand this question? Is it really possible to find in <term xml:lang="ta">valluvōr</term> the content of the knowledge, which would mean to take a verbal noun as modal in character? Srin. prefers to take the question independently and to relate it to the content of 7b.</note> friend,</l>
                 <l>he who is able to remain distant, separated,</l>
                 <l rend="indent">in the forest of the difficult desert region,</l>

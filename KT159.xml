@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT159-kilavi">
-          <p type="edition">1. talaimakaṉ ciṟaippuṟamākat tōḻi ceṟippaṟivuṟuttatu.
+        <div rend="parallel">
+          <p xml:id="KT159-kilavi">1. talaimakaṉ ciṟaippuṟamākat tōḻi ceṟippaṟivuṟuttatu.
             2. uyir cela vēṟṟu varaivu variṉum atu māṟṟuṭaṟku nikaḻttatūumām.</p>
-          <p type="translation" xml:lang="en">1. The confidante informing of confinement, while HE is behind the hedge.
+          <p xml:lang="en">1. The confidante informing of confinement, while HE is behind the hedge.
             2. Undertaken, even when another marriage comes while live passes,  to prevent that. (TP 109, l.14)</p>
           </div>
 
 
-        <div xml:id="KT159">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT159">
 <l>                taḻaiyaṇi yalku ṟāṅkal cellā</l>
 <l>                nuḻaiciṟu nucuppiṟ kevva māka</l>
 <l>                vammel lāka niṟaiya vīṅkik</l>
@@ -41,7 +39,7 @@
 <l>                mavala neñcamō ṭucāvāk</l>
 <l>                kavalai mākkaṭṭip pētai yūrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>This foolish village has scandal[-spreading] people</l>
            <l>who do not inquire after afflicted hearts:<note place="foot">What is the function of the construction <term xml:lang="ta">cāvu + -oṭu</term> (cf. KT 145.4)? It might be understood either like above as an indirect object, or also to be connected with the <term xml:lang="ta">mākkaḷ</term>: "distressed people who do not inquire, with afflicted hearts: ...".</note></l>
            <l>[she with the] flower earring, what will become of her?</l>

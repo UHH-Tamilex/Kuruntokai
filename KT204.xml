@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,13 +21,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT204-kilavi">
-        <p type="edition">talaimakaṟkup pāṅkaṉ uraittatu. </p>
-        <p type="translation" xml:lang="en">Told to the companion by HIM.</p>
+      <div rend="parallel">
+        <p xml:id="KT204-kilavi">talaimakaṟkup pāṅkaṉ uraittatu. </p>
+        <p xml:lang="en">Told to the companion by HIM.</p>
       </div>
 
-      <div xml:id="KT204">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT204">
           <l>kāmaṅ kāma meṉpa kāma</l>
           <l>maṇaṅkum piṇiyu maṉṟē niṉaippiṉ</l>
           <l>mutaiccuvaṟ kalitta muṟṟā viḷampuṉ</l>
@@ -38,7 +36,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Desire, desire, they say, desire:</l>
           <l>It is no torment or fetter.</l>
           <l rend="indent4">When one thinks [about it],<note place="foot"><term xml:lang="ta">

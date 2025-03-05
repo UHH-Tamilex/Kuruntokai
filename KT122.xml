@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT122-kilavi">
-          <p type="edition">talaimakaḷ poḻutu kaṇṭu aḻintatu.</p>
-          <p type="translation" xml:lang="en">She being desolate at the sight of the time [of day].</p>
+        <div rend="parallel">
+          <p xml:id="KT122-kilavi">talaimakaḷ poḻutu kaṇṭu aḻintatu.</p>
+          <p xml:lang="en">She being desolate at the sight of the time [of day].</p>
           </div>
 
 
-        <div xml:id="KT122">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT122">
 <l>                paiṅkāṟ kokkiṉ puṉpuṟat taṉṉa</l>
 <l>                kuṇṭunī rāmpaluṅ kūmpiṉa viṉiyē</l>
 <l>                vantaṉṟu vāḻiyō mālai</l>
 <l>                yorutā ṉaṉṟē kaṅkulu muṭaittē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">Like [the wings]<note place="foot">The oblique puṟattu suggests an ellipsis of this kind.</note> on the low(?) backs of green-legged egrets(?)</l>
            <l>all the lilies in the deep water are closed now.</l>
            <l>Evening has come – may it live!<note place="foot"><term xml:lang="ta">vāḻiyō</term>: TVG sees in this <term xml:lang="ta">-ō</term> following the imperative <term xml:lang="ta">vāḻi</term> one of the cases where <term xml:lang="ta">-ō</term> conveys distress: SHE cannot really wish to welcome evening. Although quite attractive here, such an interpretation seems arbitrary when one considers the number of passages where this imperative + <term xml:lang="ta">-ō</term> is to be taken seriously.</note></l>

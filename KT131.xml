@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT131-kilavi">
-          <p type="edition">viṉaimuṟṟiya talaimakaṉ paruva varaviṉkaṇ colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered at the coming of the season by HIM who had completed [his] work.</p>
+        <div rend="parallel">
+          <p xml:id="KT131-kilavi">viṉaimuṟṟiya talaimakaṉ paruva varaviṉkaṇ colliyatu.</p>
+          <p xml:lang="en">Uttered at the coming of the season by HIM who had completed [his] work.</p>
           </div>
 
 
-        <div xml:id="KT131">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT131">
 <l>                āṭamai puraiyum vaṉappiṟ paṇaittōṭ</l>
 <l>                pēramark kaṇṇi yirunta vūrē</l>
 <l>                neṭuñcē ṇāriṭai yatuvē neñcē</l>
@@ -38,7 +36,7 @@
 <l>                tōrē ruḻavaṉ pōlap</l>
 <l>                peruvitup puṟṟaṉṟā ṉōkō yāṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>The village where she with big beautiful eyes was,</l>
            <l rend="indent">[her] bamboo shoulder of a beauty resembling dancing bamboo,</l>
            <l>far away, a place difficult [to attain] it [is], heart.<note place="foot"><term xml:lang="ta">neñcē</term> as the joint between the two sentences can either be a postpositioned vocative in the first sentence, or an antepositioned one in the second. (For an antepositioned vocative, however, references are few, if <term xml:lang="ta">amma vāḻi tōḻi</term> has not to be counted as such.) But since <term xml:lang="ta">atu</term> is also marked by <term xml:lang="ta">-ē</term>, and accordingly the first sentence can be understood as complete, it seems reasonable to suppose that the double relation of <term xml:lang="ta">neñcē</term> is calculated.</note></l>

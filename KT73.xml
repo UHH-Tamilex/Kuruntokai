@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT73-kilavi">
-          <p type="edition">pakaṟkuṟi maṟuttu iravukkuṟi nērntu atuvu maṟuttamai paṭat talaimakaṭkut tōḻi colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by the confidante to HER after having refused a day tryst, [but] granted a night tryst, in order to refuse also the latter.</p>
+        <div rend="parallel">
+          <p xml:id="KT73-kilavi">pakaṟkuṟi maṟuttu iravukkuṟi nērntu atuvu maṟuttamai paṭat talaimakaṭkut tōḻi colliyatu.</p>
+          <p xml:lang="en">Uttered by the confidante to HER after having refused a day tryst, [but] granted a night tryst, in order to refuse also the latter.</p>
           </div>
 
 
 
-        <div xml:id="KT73">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT73">
 <l>                makiḻnaṉ mārpē veyyai yāṉī</l>
 <l>                yaḻiyal vāḻi tōḻi naṉṉa</l>
 <l>                ṉaṟumā koṉṟu nāṭṭiṟ pōkiya</l>
 <l>                voṉṟumoḻik kōcar pōla</l>
 <l>                vaṉkaṭ cūḻcciyum vēṇṭumāṟ ciṟitē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l>Just for the delightful man's(?) chest you are aglow,</l>
           <l>don't worry, oh friend,</l>
           <l rend="indent">as with the Kōcars of one counsel</l>

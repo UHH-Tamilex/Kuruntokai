@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT50-kilavi">
-          <p type="edition">kiḻavaṟkup pāṅkāyiṉa vāyilkaṭkuk kiḻatti colliyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER to the mediators who were close to HIM.</p>
+        <div rend="parallel">
+          <p xml:id="KT50-kilavi">kiḻavaṟkup pāṅkāyiṉa vāyilkaṭkuk kiḻatti colliyatu.</p>
+          <p xml:lang="en">Spoken by HER to the mediators who were close to HIM.</p>
           </div>
 
 
 
-        <div xml:id="KT50">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT50">
 <l>                aiyavi yaṉṉa ciṟuvī ñāḻal</l>
 <l>                cevvī marutiṉ cemmaloṭu tāayt</l>
 <l>                tuṟaiyaṇin taṉṟava rūrē yiṟaiyiṟan</l>
 <l>                tilaṅkuvaḷai nekiḻac cāayp</l>
 <l>                pulampaṇin taṉṟavar maṇanta tōḷē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l>Like white mustard the small-blossomed Ñāḻal</l>
              <l rend="indent">spread together with withered red Arjuna blossoms</l>
              <l>adorned<note place="foot"><term xml:lang="ta">aṇintaṉṟu</term>: here another clear example for the aspectual character of the "preterite". The nuance is not to be found in a retrospective, but rather in the fact that the blossoms have already fallen and the loneliness has been put on as an ornament.</note> the ghat in his village.</l>

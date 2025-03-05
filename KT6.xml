@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,19 +21,19 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT6-kilavi">
-          <p type="edition">varaiviṭai vaittup pirintavaḻi āṟṟāḷākiya talaimakaḷ tōḻiyai neruṅkic colliyatu.</p>
-          <p type="translation" xml:lang="en">Spoken directed to the confidante by HER, who didn't have the strength [any more] when [he] had separated after the time for marriage had been fixed.</p>
+        <div rend="parallel">
+          <p xml:id="KT6-kilavi">varaiviṭai vaittup pirintavaḻi āṟṟāḷākiya talaimakaḷ tōḻiyai neruṅkic colliyatu.</p>
+          <p xml:lang="en">Spoken directed to the confidante by HER, who didn't have the strength [any more] when [he] had separated after the time for marriage had been fixed.</p>
           </div>
 
-        <div xml:id="KT6">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT6">
 <l>                naḷḷeṉ ṟaṉṟē yāmañ collavin</l>
 <l>                tiṉitaṭaṅ kiṉarē mākkaṇ muṉiviṉṟu</l>
 <l>                naṉantalai yulakamun tuñcu</l>
 <l>                mōryāṉ maṉṟa tuñcā tēṉē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
 <l>Deepest midnight.<note place="foot"><term xml:lang="ta">naḷḷeṉṟaṉṟu</term> is ambiguous; either n.sg. positive with expletive infix -aṉ- ("... said 'middle'") or  naḷ eṉṟu aṉṟu = two times n.sg. and negated ("... does not say 'middle'"). The figure of speech makes it probable that naḷ is an ideophone, although a noun with the meaning "middle" (or an adjective meaning "dense") and always employed in this particular combination, namely together with eṉ, and meant to describe the night (one time also the evening) is possible as well. (Further occurrences: KT 107.3, 118.2, 160.4, 163.5, 244.1, 261.4, 312.4; for the concept of ideophones in Tamil see Chevillard 2004).</note> Wordless</l>
 <l>sweetly still were the people. Sorrowless</l>
 <l>the whole wide world is sleeping.<note place="foot">Or, because the form is ambiguous, due to the absence of a clarifying particle, a subordinate peyareccam <term xml:lang="ta">tuñcum</term>: "as the whole wide world is sleeping ...".</note></l>

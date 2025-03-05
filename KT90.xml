@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT90-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaṭkut talaimakaṉ ciṟaippuṟamākat tōḻi kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by the confidante, while HE was behind the hedge, to HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT90-kilavi">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaṭkut talaimakaṉ ciṟaippuṟamākat tōḻi kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by the confidante, while HE was behind the hedge, to HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT90">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT90">
 <l>                eṟṟō vāḻi tōḻi muṟṟupu</l>
 <l>                kaṟivaḷa raṭukkat tiraviṉ muḻaṅkiya</l>
 <l>                maṅkuṉ māmaḻai vīḻnteṉap poṅkumayirk</l>
@@ -40,7 +38,7 @@
 <l>                kuṉṟa nāṭaṉ kēṇmai</l>
 <l>                meṉṟōḷ cāyttuñ cālpiṉ ṟaṉṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Why is it, oh friend?</l>
                 <l>
                     <choice>

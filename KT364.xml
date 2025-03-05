@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,18 +24,18 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT364-kilavi">
-        <p type="edition">vēṟōr parattai taṉṉaip puṟaṅkūṟiṉāḷ eṉak kēṭṭa iṟparattai avarkkup
+      <div rend="parallel">
+        <p xml:id="KT364-kilavi">vēṟōr parattai taṉṉaip puṟaṅkūṟiṉāḷ eṉak kēṭṭa iṟparattai avarkkup
           pāṅkāyiṉār kēṭpak kūṟiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Spoken, so that those close to her would hear, by the
+        <p xml:lang="en">Spoken, so that those close to her would hear, by the
           other woman in the house (= the concubine?), who had heard that another other woman (= the
           courtesan?) had talked about her behind [her] back. </p>
       </div>
 
-      <div xml:id="KT364">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT364">
           <l> ariṟpavarp pirampiṉ varippuṟa nīrnāy</l>
           <l> vāḷai nāḷirai peṟūu mūraṉ</l>
           <l> poṟkō lavirtoṭit taṟkeḻu takuvi</l>
@@ -50,7 +48,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>One who has on herself shining bangles in a golden row, befitting</l>
           <l rend="indent">the man from the village, where Vāḷai fish is obtained as daily prey</l>
           <l rend="indent2">by an otter with a back striped like the reed with creepers</l>

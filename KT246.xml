@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,13 +21,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT246-kilavi">
-        <p type="edition">ciṟaippuṟam. </p>
-        <p type="translation" xml:lang="en">Hedge. </p>
+      <div rend="parallel">
+        <p xml:id="KT246-kilavi">ciṟaippuṟam. </p>
+        <p xml:lang="en">Hedge. </p>
       </div>
 
-      <div xml:id="KT246">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT246">
           <l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
           <l>kaḷiṟṟuccevi yaṉṉa pācaṭai mayakkip</l>
           <l>paṉikkaḻi tuḻavum pāṉāṭ ṭaṉittōr</l>
@@ -40,7 +38,7 @@
           <l>yalaiyāt tāyaroṭu naṟpā lōrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>A chariot came [and] went, they say,</l>
           <l rend="indent2">solitary, at midday, when the little white crow <note place="foot"><term xml:lang="ta">ciṟu veṇ kākkai</term>: is this a standing phrase to denote a seagull,
             which is a white bird of the seashore, by size, voice and behaviour comparable to the

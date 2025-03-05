@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -30,18 +28,18 @@
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
-            <div xml:id="KT390-kilavi">
-                <p type="edition">puṇarntu uṭaṉpōyiṉārai iṭaiccurattuk kaṇṭār ippoḻutu celavum
+            <div rend="parallel">
+                <p xml:id="KT390-kilavi">puṇarntu uṭaṉpōyiṉārai iṭaiccurattuk kaṇṭār ippoḻutu celavum
                     pakaiyuṅ kāṭṭic celavu vilakkiyatu. </p>
 
 
-                <p type="translation" xml:lang="en">What obstructs going, showing the [danger of]
+                <p xml:lang="en">What obstructs going, showing the [danger of]
                     enmity and going at [this] time, by those who saw them in the middle of the
                     desert, who had united [and] gone away together. </p>
             </div>
 
-            <div xml:id="KT390">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="KT390">
                     <l> ellu melliṉṟu pāṭuṅ kēḷāy</l>
                     <l> cellā tīmō ciṟupiṭi tuṇaiyē</l>
                     <l> vēṟṟumuṉai vemmaiyiṟ cāttuvan tiṟutteṉa</l>
@@ -51,7 +49,7 @@
 
                 </lg>
 
-                <lg type="translation" xml:lang="en">
+                <lg xml:lang="en">
                     <l> Light is not light and <note place="foot">This looks like a hybrid
                         structure, a coordination of an indicative and an imperative by   <term xml:lang="ta">-um + -um </term> in
                         line 1: ind. + ipt. [ipt + voc.-ē inserted] ... dir. object-ē(?).</note>

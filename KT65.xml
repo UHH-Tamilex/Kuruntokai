@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,22 +29,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT65-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikku uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared to the confidante by HER who was desolate when seeing the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT65-kilavi">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikku uraittatu.</p>
+          <p xml:lang="en">Declared to the confidante by HER who was desolate when seeing the season.</p>
           </div>
 
 
 
-        <div xml:id="KT65">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT65">
 <l>                vaṉparaṟ ṟeḷḷaṟal parukiya viralaitaṉ</l>
 <l>                ṉiṉpuṟu tuṇaiyoṭu maṟuvan tukaḷat</l>
 <l>                tāṉvan taṉṟē taḷitaru taṇkār</l>
 <l>                vārā tuṟaiyunar varaṉacaii</l>
 <l>                varuntinon tuṟaiya viruntaṉirō veṉavē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l rend="indent">So that the Iralai deer, that drank the water clear on hard pebbles,</l>
              <l rend="indent">bounces about full of joy with his mate,</l>
              <l>the rainy season itself has come, cool [and] dripping,</l>

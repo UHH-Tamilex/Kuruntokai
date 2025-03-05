@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,22 +29,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT108-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuk kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken to the confidante by HER was desolate at the sight of the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT108-kilavi">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuk kūṟiyatu.</p>
+          <p xml:lang="en">Spoken to the confidante by HER was desolate at the sight of the season.</p>
           </div>
           
 
 
-        <div xml:id="KT108">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT108">
 <l>                maḻaiviḷai yāṭuṅ kuṉṟucēr ciṟukuṭik</l>
 <l>                kaṟavai kaṉṟuvayiṟ paṭarap puṟaviṟ</l>
 <l>                pācilai mullai yācil vāṉpūc</l>
 <l>                cevvāṉ cevvi koṇṭaṉ</l>
 <l>                ṟuyyēṉ pōlva ṟōḻi yāṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">For the cows to set out<note place="foot"><term xml:lang="ta">paṭara: paṭar-tal</term> is several times to be taken as "thinking of", though the semantic nucleus rather seems to be the direction of movement towards a desired aim. Here it has to be surmised that the description is situative: at sunset, in the rainy season, the cows return to the village, to their calves (cf. KT 64 with the cows returning in the evening).</note> for [their] calves,</l>
            <l rend="indent">to the little homes<note place="foot">TVG explains <term xml:lang="ta">ciṟukuṭi</term> as the type of little village to be found in the woodlands.</note> joining hills on which rain is playing,</l>
             

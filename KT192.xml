@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT192-kilavi">
-          <p type="edition">piriviṭai vaṟpuṟutta vaṉpoṟaiyetir aḻintu kiḻatti uraittatu.</p>
-          <p type="translation" xml:lang="en">Told by HER, desolate in the face of encouragement given to her in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="KT192-kilavi">piriviṭai vaṟpuṟutta vaṉpoṟaiyetir aḻintu kiḻatti uraittatu.</p>
+          <p xml:lang="en">Told by HER, desolate in the face of encouragement given to her in the time of separation.</p>
           </div>
           
 
-        <div xml:id="KT192">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT192">
 <l>                īṅkē varuva riṉaiya lavareṉa</l>
 <l>                vaḻāaṟkō viṉiyē nōynon tuṟaivi</l>
 <l>                miṉṉiṉ ṟūvi yiruṅkuyil poṉṉi</l>
@@ -38,7 +36,7 @@
 <l>                naṟuntātu koḻutum poḻutum</l>
 <l>                varuṅkuraṟ kūnta ṟaivaru vēṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
      <l>“Here he will come, <note place="foot">Here for once is a clear example of an inserted imperative: <term xml:lang="ta">avar</term>, the subject to <term xml:lang="ta">varuvar</term>, is positioned only after the <term xml:lang="ta">iṉaiyal</term>. And still it would also be possible to read an pronominal noun with a complete pronominal ending: <term xml:lang="ta">iṉaiyalavar</term> "he, who doesn't know despair".</note> do not despair!”</l>
      <l>
         <choice>

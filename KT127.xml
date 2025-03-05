@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT127-kilavi">
-          <p type="edition">pāṇaṉ vāyilākap pukkavaḻit talaimakaṟkut tōḻi colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante for HIM, when the bard entered as a mediator.</p>
+        <div rend="parallel">
+          <p xml:id="KT127-kilavi">pāṇaṉ vāyilākap pukkavaḻit talaimakaṟkut tōḻi colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante for HIM, when the bard entered as a mediator.</p>
           </div>
 
 
-        <div xml:id="KT127">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT127">
 <l>                kurukukoḷak kuḷitta keṇṭai yayala</l>
 <l>                turukeḻu tāmarai vāṉmukai verūuṅ</l>
 <l>                kaḻaṉiyam paṭappaik kāñci yūra</l>
@@ -38,7 +36,7 @@
 <l>                vuḷḷa pāṇa rellāṅ</l>
 <l>                kaḷvar pōlvarnī yakaṉṟici ṉōrkkē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>O man from the village of Kāñci trees in the gardens near the fields,</l>
            <l rend="indent">
             <choice>

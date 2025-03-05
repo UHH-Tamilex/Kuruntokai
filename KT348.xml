@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,16 +28,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT348-kilavi">
-        <p type="edition">celavuk kuṟippaṟintu vēṟupaṭṭa kiḻattiyait tōḻi vaṟpuṟīiyatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT348-kilavi">celavuk kuṟippaṟintu vēṟupaṭṭa kiḻattiyait tōḻi vaṟpuṟīiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante encouraging HER, who changed when she
+        <p xml:lang="en">The confidante encouraging HER, who changed when she
           understood [his] intention of going. </p>
       </div>
 
-      <div xml:id="KT348">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT348">
           <l> tāmē celpa vāyiṟ kāṉattup</l>
           <l> pulantēr yāṉaik kōṭṭiṭai yoḻinta</l>
           <l> ciṟuvī mullaik kompiṟ ṟāa</l>
@@ -50,7 +48,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>As for him, <note place="foot"> <term xml:lang="ta"> tām-ē </term> would be awkward in the subordinate  <term xml:lang="ta"> āyiṉ </term>  clause, so the best might be to take it as an antepositioned subject to <term xml:lang="ta"> kāṇār </term>.  </note> if he goes, <note place="foot"> Here the question arises whether the plural is to be understood as such. <term xml:lang="ta">celpa</term> usually is a real plural form, not a honorific. From the point of view of metre <term xml:lang="ta"> celvar</term> would not have been a problem. Still, there is at least one more instance (cf. KT 231.4) of a form in <term xml:lang="ta"> -pa </term> that has to be read as honorific. </note> </l>
           <l rend="indent">doesn't he see, our man with glorious jewellery,</l>
           <l rend="indent2">that also [our] beautiful breasts get wet, inside the ornaments <note place="foot">What is meant  <term xml:lang="ta"> pūṇ akam </term> ? Her decoration is wet through and through?  </note> </l>

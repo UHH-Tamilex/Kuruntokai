@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT25-kilavi">
-          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT25-kilavi">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER when [he] delayed marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT25">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT25">
 <l>                yāru millait tāṉē kaḷvaṉ</l>
 <l>                ṟāṉatu poyppiṉ yāṉevaṉ ceykō</l>
 <l>                tiṉaittā ḷaṉṉa ciṟupacuṅ kāla</l>
 <l>                voḻukunī rāral pārkkuṅ</l>
 <l>                kuruku muṇṭutāṉ maṇanta ñāṉṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent2">No one [was] there, only him, the robber.</l>
                 <l rend="indent2">If he deny it,<note place="foot"><term xml:lang="ta">atu</term> must be taken as a direct object to <term xml:lang="ta">poyppiṉ</term>. "If he lies about that (i.e. the promised marriage?) ...".</note> what shall I do?</l>
                 <l rend="indent3">With legs greenish<note place="foot"><term xml:lang="ta">ciṟu pacum kāla</term>: as Srinivasan 1977: 205f. rightly points out, in the given context it would not make much sense to understand <term xml:lang="ta">ciṟu</term> as an additional attribute to the legs, since heron legs are not small but rather long and stalky (like millet stalks), though one might be justified in calling them "thin". His proposal is to take it as a qualification of pacum, "green", instead. Now it seems more rational to take that as literally as possible, that is not "fresh green" (for which meaning at least one would want parallels, and those are not to be found in the KT), but "a little green", i.e. "greenish" which by the way would aptly describe the brown-greenish colour of the legs of the grey heron (Ardea cinerea) common in India today.</note> like millet stalks,</l>

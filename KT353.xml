@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,22 +24,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT353-kilavi">
-        <p type="edition">pakaṟkuṟi vantoḻukun talaimakaṉ veḷippāṭu añci iravukkuṟi nayantāṉatu
+      <div rend="parallel">
+        <p xml:id="KT353-kilavi">pakaṟkuṟi vantoḻukun talaimakaṉ veḷippāṭu añci iravukkuṟi nayantāṉatu
           kuṟippaṟinta tōḻi “iraviṉkaṇ aṉṉaiyatu kāval aṟintu piṉṉum pakaṟkuṟiyē naṉṟu
           avviravukkuṟiyiṉ” eṉṟu pakaṟkuṟiyum iravukkuṟiyum maṟuttut talaimakaṉ ciṟaippuṟattāṉāka
           varaivu kaṭāyatu.</p>
 
 
-        <p type="translation" xml:lang="en">Inquiring about marriage, while HE is behind the hedge,
+        <p xml:lang="en">Inquiring about marriage, while HE is behind the hedge,
           refusing day trysts and night trysts [with the words] “knowing about the watch of mother
           during the night, a day tryst again is better than a night tryst.”, by the confidante who
           understood the intention of HIM who was longing for night trysts, fearing exposure, when
           kept coming for day trysts. </p>
       </div>
 
-      <div xml:id="KT353">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT353">
           <l> ārkali veṟpaṉ mārpupuṇai yākak</l>
           <l> kōṭuyar neṭuvaraik kavāaṟ pakalē</l>
           <l> pāṭiṉ ṉaruvi yāṭuta liṉitē</l>
@@ -53,7 +51,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Midday on the slope of the long mountain, high with peaks,</l>
           <l>for a raft the chest of the man from the bustling mountains.</l>
           <l>Sweet to play in the singing sweet waterfall.<note place="foot">Or: "in the waterfall sweet in singing". </note></l>

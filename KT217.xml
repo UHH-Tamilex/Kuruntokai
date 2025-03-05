@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +22,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT217-kilavi">
-        <p type="edition">uṭaṉpōkku nayappat tōḻi talaimakaṭkuk kūṟiyatu. </p>
-        <p type="translation" xml:lang="en">Spoken to HER by the confidante so that [she] would
+      <div rend="parallel">
+        <p xml:id="KT217-kilavi">uṭaṉpōkku nayappat tōḻi talaimakaṭkuk kūṟiyatu. </p>
+        <p xml:lang="en">Spoken to HER by the confidante so that [she] would
           yield to going away together. </p>
       </div>
 
-      <div xml:id="KT217">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT217">
 
           <l>tiṉaikiḷi kaṭikeṉiṟ pakalu mollu</l>
           <l>miravunī varutali ṉūṟu mañcuval</l>
@@ -42,7 +40,7 @@
           <l>kaḻimutuk kuṟaimaiyum paḻiyumeṉ ṟiciṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l>“If they said: "go chasing parakeets from the millet",</l>
           <l rend="indent6">it would be possible at midday too. <note place="foot">The conditional

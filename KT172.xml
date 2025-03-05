@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT172-kilavi">
-          <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she would not have the strength [to await] the time of marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT172-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by HER to the confidante who was anxious that she would not have the strength [to await] the time of marriage.</p>
           </div>
 
 
-        <div xml:id="KT172">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT172">
 <l>                tāa vañciṟai noppaṟai vāval</l>
 <l>                paḻumaram paṭarum paiyuṇ mālai</l>
 <l>                yemiya māka vīṅkut tuṟantōr</l>
@@ -39,7 +37,7 @@
 <l>                vulaivāṅku mititōl pōlat</l>
 <l>                talaivaram paṟiyātu varuntumeṉ ṉeñcē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>The one who has abandoned [us] here,<note place="foot">Here TVG interprets the <term xml:lang="ta">īṅku</term> not as a designation of place, but as a substitute for the missing (or ellipitical) personal pronoun and direct object <term xml:lang="ta">emmai</term>, "us", (thus Nacc. on Tol. Col. 29).</note></l>
            <l rend="indent3">so that we are by ourselves<note place="foot"><term xml:lang="ta">āka</term> here and in the following line has to be taken in a predicative sense.</note></l>
            <l rend="indent">in sorrowful evening, when the bats with light flight</l>

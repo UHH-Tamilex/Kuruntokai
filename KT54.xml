@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT54-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT54-kilavi">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] when [he] delayed marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT54">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT54">
 <l>                yāṉē yīṇṭai yēṉē yeṉṉalaṉē</l>
 <l>                yēṉal kāvalar kavaṇoli verīik</l>
 <l>                kāṉa yāṉai kaiviṭu pacuṅkaḻai</l>
 <l>                mīṉeṟi tūṇṭili ṉivakkuṅ</l>
 <l>                kāṉaka nāṭaṉō ṭāṇṭoḻin taṉṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l>I, I am here, but my innocence<note place="foot"><term xml:lang="ta">nalam/nalaṉ</term> literally "goodness" can be explained as HER integrity, i.e. the feminine quality of being physically and emotionally in accord with social expectations, especially connected with HER establishing a sexual relationship with HIM, and manifested in HER physical wellness and beauty, and thus dependent on HIS course of action. One way of distinguishing her general beauty from her virginity, an important aspect of it, is to employ the distinctive suffix <i>-ṉ</i> instead of the more general <i>-m</i>.</note></l>
              <l>stayed behind there with the man from the forest</l>
              <l rend="indent">where, like the hook thrown after the fish,</l>

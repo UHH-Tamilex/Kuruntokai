@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT32-kilavi">
-          <p type="edition">piṉṉiṉṟāṉ kūṟukiṉṟatu.</p>
-          <p type="translation" xml:lang="en">Told by HIM who had entreated [her/the confidante].</p>
+        <div rend="parallel">
+          <p xml:id="KT32-kilavi">piṉṉiṉṟāṉ kūṟukiṉṟatu.</p>
+          <p xml:lang="en">Told by HIM who had entreated [her/the confidante].</p>
           </div>
 
 
 
-        <div xml:id="KT32">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT32">
 <l>                kālaiyum pakaluṅ kaiyaṟu mālaiyu</l>
 <l>                mūrtuñ ciyāmamum viṭiyalu meṉṟip</l>
 <l>                poḻutiṭai teriyiṟ poyyē kāma</l>
@@ -39,7 +37,7 @@
 <l>                teṟṟeṉat tūṟṟalum paḻiyē</l>
 <l>                vāḻtalum paḻiyē pirivutalai variṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l>Morning and midday and motionless evening</l>
                <l>and midnight when the village sleeps and dawn</l>
                <l rend="indent">if [still] familiar with these daytimes,</l>

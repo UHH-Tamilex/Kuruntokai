@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT308-kilavi">
-        <p type="edition">varaiviṭaik kiḻattiyai vaṉcol colli vaṟpuṟuttiyatu. </p>
-        <p type="translation" xml:lang="en">Encouraging HER, speaking strong words at the time of
+      <div rend="parallel">
+        <p xml:id="KT308-kilavi">varaiviṭaik kiḻattiyai vaṉcol colli vaṟpuṟuttiyatu. </p>
+        <p xml:lang="en">Encouraging HER, speaking strong words at the time of
           marriage. </p>
       </div>
 
-      <div xml:id="KT308">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT308">
           <l> cōlai vāḻaic curinukum piṉaiya</l>
           <l> vaṇaṅkuṭai yaruntalai nīvaliṉ mataṉaḻintu</l>
           <l> mayaṅkutuya ruṟṟa maiyal vēḻa</l>
@@ -47,7 +45,7 @@
           <l> kāman taruvatōr kaitāḻn taṉṟē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Bringing only <note place="foot"> 	Is it possible to take <term xml:lang="ta"> ōr </term> in this way as an adverb?    </note> desire [now] it has lowered [its] hand, <note place="foot"> <term xml:lang="ta"> kai tāḻntaṉṟu </term> has presumably to be taken in a transferred sense, namely the giving hand as a metaphor for active attachment.  </note></l>
           <l>the friendship of the man from the land of big mountains,</l>
           <l rend="indent">where the proud elephant bull rarely <note place="foot"> <term xml:lang="ta">	aritu </term> must be taken as an adverb here. </note> closes [his] eyes,</l>

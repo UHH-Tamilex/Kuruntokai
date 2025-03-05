@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT168-kilavi">
-          <p type="edition">poruḷ valikku neñciṟkuk kiḻavaṉ uraittatu.</p>
-          <p type="translation" xml:lang="en">Told by HIM to the heart that was keen on wealth.</p>
+        <div rend="parallel">
+          <p xml:id="KT168-kilavi">poruḷ valikku neñciṟkuk kiḻavaṉ uraittatu.</p>
+          <p xml:lang="en">Told by HIM to the heart that was keen on wealth.</p>
           </div>
 
 
-        <div xml:id="KT168">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT168">
 <l>                mārip pittikattu nīrvār koḻumukai</l>
 <l>                yirumpaṉam pacuṅkuṭaip palavuṭaṉ potintu</l>
 <l>                perumpeyal viṭiyal virittuviṭ ṭaṉṉa</l>
@@ -39,7 +37,7 @@
 <l>                maṇattoṟun taṇattalu milamē</l>
 <l>                piriyiṉ vāḻta lataṉiṉu milamē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Whenever we unite [with her] we cannot get away:</l>
            <l>bamboo shoulder with supple joints, like a raft on the flood,<note place="foot">TVG explains this strange comparison as a simile: the shoulders (a frequent metonymy or pars-pro-toto expression for HER) would be the raft on which to cross the flood of desire.</note></l>
            <l>good dark body – fragrant [and] cool she [is],</l>

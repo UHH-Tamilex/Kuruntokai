@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT39-kilavi">
-          <p type="edition">“piriviṭai āṟṟal vēṇṭum” eṉṟa tōḻikku “yāṅkaṉam āṟṟuvēṉ” eṉat taṉatu āṟṟāmai mikuti tōṉṟat talaimakaḷ kūṟukiṉṟāḷ. “nam mulaiyiṭait tuyiṉ muṉintu pōyiṉār ceṉṟavaḻi ippaṭippaṭṭa koṭumaittāl yāṉ eṅṅaṉam āṟṟiyuḷēṉ āvēṉ? yāṉ āṟṟukiṉṟilēṉ” eṉa “nī āṟṟāy ākiṉṟatu eṉ” eṉat tōḻikkut talaimakaḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">SHE, whose lack of strength appeared to be enormous, spoke to the confidante who said “it is necessary to have the strength in the time of separation”. Spoken by HER to the confidante, when she said “how is it that you do not have the strength?”, in order to say “because of the cruelty that has befallen since he has gone away, he who set off hating the sleep between our breasts, how am I to have the strenth? I do not have the strength”.</p>
+        <div rend="parallel">
+          <p xml:id="KT39-kilavi">“piriviṭai āṟṟal vēṇṭum” eṉṟa tōḻikku “yāṅkaṉam āṟṟuvēṉ” eṉat taṉatu āṟṟāmai mikuti tōṉṟat talaimakaḷ kūṟukiṉṟāḷ. “nam mulaiyiṭait tuyiṉ muṉintu pōyiṉār ceṉṟavaḻi ippaṭippaṭṭa koṭumaittāl yāṉ eṅṅaṉam āṟṟiyuḷēṉ āvēṉ? yāṉ āṟṟukiṉṟilēṉ” eṉa “nī āṟṟāy ākiṉṟatu eṉ” eṉat tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p xml:lang="en">SHE, whose lack of strength appeared to be enormous, spoke to the confidante who said “it is necessary to have the strength in the time of separation”. Spoken by HER to the confidante, when she said “how is it that you do not have the strength?”, in order to say “because of the cruelty that has befallen since he has gone away, he who set off hating the sleep between our breasts, how am I to have the strenth? I do not have the strength”.</p>
           </div>
 
 
 
-        <div xml:id="KT39">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT39">
 <l>                ventiṟaṟ kaṭuvaḷi poṅkarp pōnteṉa</l>
 <l>                neṟṟuviḷai yuḻiñcil vaṟṟa lārkku</l>
 <l>                malaiyuṭai yaruñcura meṉpanam</l>
 <l>                mulaiyiṭai muṉinar ceṉṟa vāṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l>Where, because the hot, powerful wind has come on the branches,</l>
                <l>Sirissa [seeds] dried ripe in the nut are roaring<note place="foot">TVG explains that the ripe seed capsules open with a loud sound and shed the seeds. The wording is, as so often, much too elliptical to decide the matter, and equally uncertain is the identification of the plant.</note></l>
                <l>– mountainous, difficult desert, they say,</l>

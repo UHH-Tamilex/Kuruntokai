@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT328-kilavi">
-        <p type="edition">varaiviṭai vēṟupaṭuṅ kiḻattiyai “avar varaiyum nāḷ aṇittu” eṉavum “alar
+      <div rend="parallel">
+        <p xml:id="KT328-kilavi">varaiviṭai vēṟupaṭuṅ kiḻattiyai “avar varaiyum nāḷ aṇittu” eṉavum “alar
           añcal” eṉavuṅ kūṟiyatu. </p>
-        <p type="translation" xml:lang="en">Spoken in order to say “don't fear gossip” and “close is
+        <p xml:lang="en">Spoken in order to say “don't fear gossip” and “close is
           the day he will marry [you]”, to HER, who is changing [while awaiting] the time of
           marriage. </p>
       </div>
 
-      <div xml:id="KT328">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT328">
           <l> ciṟuvī ñāḻal vēraḷaip paḷḷi</l>
           <l> yalavaṉ ciṟumaṉai citaiyap puṇari</l>
           <l> kuṇilvāy muraci ṉiraṅkun tuṟaiva</l>
@@ -43,7 +41,7 @@
           <l> kalikeḻu kuṟumpū rārppiṉum peritē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>The man from the ghat,</l>
           <l rend="indent">where the ocean sounds like a drum, the mouth to a drumstick,</l>
           <l rend="indent2">so that the little houses of crabs are destroyed,</l>

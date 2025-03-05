@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,15 +29,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT7-kilavi">
-          <p type="edition">celaviṉkaṇ iṭaiccurattuk kaṇṭōr/kaṇṭār colliyatu (C2: kūṟiyatu).</p>
-          <p type="translation" xml:lang="en">Spoken by those who saw [them] in the middle of the wilderness as [they were] going.
+        <div rend="parallel">
+          <p xml:id="KT7-kilavi">celaviṉkaṇ iṭaiccurattuk kaṇṭōr/kaṇṭār colliyatu (C2: kūṟiyatu).</p>
+          <p xml:lang="en">Spoken by those who saw [them] in the middle of the wilderness as [they were] going.
 
           </p>
           </div>
 
-        <div xml:id="KT7">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT7">
 <l>                villōṉ kālaṉa kaḻalē toṭiyōṇ</l>
 <l>                mellaṭi mēlavuñ cilampē nallōr</l>
 <l>                yārko laḷiyar tāmē yāriyar</l>
@@ -47,7 +45,7 @@
 <l>                vākai veṇṇeṟ ṟolikkum</l>
 <l>                vēypayi laḻuva muṉṉi yōrē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
 <l>He with the bow, anklets on [his] legs. And she with bracelets,</l>
 <l>tinkling rings<note place="foot"><term xml:lang="ta">cilampu</term> is explained by poetics as a kind of anklets with little bells an unmarried woman wears and which are removed by her elders on the day she marries (see Zvelebil 1986: 54f.). This is viewed as a hint that the poem describes a case of elopement.</note> over [her] tender feet. Good ones,</l>
 <l>

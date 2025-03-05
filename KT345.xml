@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT345-kilavi">
-        <p type="edition">pakal vantoḻukuvāṉait tōḻi “irā vā” eṉṟatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT345-kilavi">pakal vantoḻukuvāṉait tōḻi “irā vā” eṉṟatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante saying “come at night” to the one who
+        <p xml:lang="en">The confidante saying “come at night” to the one who
           unexpectedly came at day. </p>
       </div>
 
-      <div xml:id="KT345">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT345">
           <l> iḻaiyaṇin tiyalvaruṅ koṭiñci neṭuntēr</l>
           <l> varaimaru ṇeṭumaṇaṟ ṟavirttuniṉ ṟacaiit</l>
           <l> taṅkiṉi rāyiṟ ṟavaṟō teyya</l>
@@ -44,7 +42,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>[Would it be] a mistake, then, <note place="foot"> Srin.'s proposal of taking <term xml:lang="ta"> teyya </term> as a particle of admonition makes sense also here (cf. KT 81.4). </note> if you stayed, <note place="foot"> <term xml:lang="ta"> taṅkiṉir </term>: the perfective aspect expresses here once again the hypothetical character of the question. </note></l>
           <l rend="indent">restraining [and] bringing to a stop <note place="foot"><term xml:lang="ta">  niṉṟu acaii </term>: is this an intensifying (quasi-)synonym compound or is <term xml:lang="ta"> niṉṟu </term> to be understood as an adverb to <term xml:lang="ta"> acaii </term>?  </note>  by the sand [dune]</l>
           <l rend="indent8">long as a mountain</l>

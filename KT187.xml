@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,21 +29,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT187-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷai āṟṟuvikka vēṇṭit talaimakaṉai iyaṟpaḻitta tōḻikkut talaimakaḷ iyaṟpaṭa moḻintatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER so that [his] qualities become clear, to the confidante, who belittled HIS qualities, wishing to reassure HER, who didn't have the strength [anymore], when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT187-kilavi">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷai āṟṟuvikka vēṇṭit talaimakaṉai iyaṟpaḻitta tōḻikkut talaimakaḷ iyaṟpaṭa moḻintatu.</p>
+          <p xml:lang="en">Spoken by HER so that [his] qualities become clear, to the confidante, who belittled HIS qualities, wishing to reassure HER, who didn't have the strength [anymore], when [he] delayed marriage.</p>
           </div>
           
 
-        <div xml:id="KT187">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT187">
 <l>               cevvaraic cēkkai varuṭai māṉmaṟi</l>
 <l>               curaipoḻi tīmpā lāra māntip</l>
 <l>               peruvarai nīḻa lukaḷu nāṭaṉ</l>
 <l>               kalliṉum valiyaṉ ṟōḻi</l>
 <l>               valiya ṉeṉṉātu meliyumeṉ ṉeñcē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
      <l>He is harder than stone, friend,</l>   
      <l rend="indent4">the man from a land,</l> 
      <l rend="indent">where the male lamb of the mountain sheep(?)<note place="foot">varuṭai māṉ is an eight-legged fabulous beast according to Cām. (TVG adduces Nacc. on Maturaik. 502.3). The text itself does not give any hint that might help us to decide the matter. The other old anthologies do not contain parallel material.</note></l>

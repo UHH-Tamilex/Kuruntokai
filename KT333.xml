@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT333-kilavi">
-        <p type="edition">“aṟattoṭu niṟpal” eṉak kiḻattikkut tōḻi uraittatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT333-kilavi">“aṟattoṭu niṟpal” eṉak kiḻattikkut tōḻi uraittatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante telling HER: “I will stand firm in duty”. </p>
+        <p xml:lang="en">The confidante telling HER: “I will stand firm in duty”. </p>
       </div>
 
-      <div xml:id="KT333">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT333">
           <l> kuṟumpaṭaip pakaḻik koṭuviṟ kāṉavaṉ</l>
           <l> puṉamuṇṭu kaṭinta paiṅkaṇ yāṉai</l>
           <l> naṟuntaḻai makaḷi rōppuṅ kiḷḷaiyoṭu</l>
@@ -40,7 +38,7 @@
           <l> tuṇiyi levaṉō tōḻinam maṟaiyē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>If I resolve,</l>
           <l rend="indent">that the suffering should be destroyed,</l>
           <l rend="indent2">[which results] from the lack of action of the man from the hills,</l>

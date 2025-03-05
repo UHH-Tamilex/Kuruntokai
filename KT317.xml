@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT317-kilavi">
-        <p type="edition">piriviṭaik kiḻattiyait tōḻi vaṟpuṟuttiyatu. </p>
-        <p type="translation" xml:lang="en">The confidante encouraging HER in the time of
+      <div rend="parallel">
+        <p xml:id="KT317-kilavi">piriviṭaik kiḻattiyait tōḻi vaṟpuṟuttiyatu. </p>
+        <p xml:lang="en">The confidante encouraging HER in the time of
           separation. </p>
       </div>
 
-      <div xml:id="KT317">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT317">
           <l> purimaṭa maraiyāṉ karunarai nallēṟu</l>
           <l> tīmpuḷi nelli mānti yayalatu</l>
           <l> tēmpāy māmalar naṭuṅka veytuyirt</l>
@@ -40,7 +38,7 @@
           <l> teṉpulam paṭarun taṇpaṉi nāḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent">On a day with cool dew, when the decreasing rain sets out</l>
           <l rend="indent2">for the southern fields before the wind</l>
           <l rend="indent6">from the northern fields, <note place="foot"> Is this the intended statement? Cām. takes both <term xml:lang="ta"> pulam </term> simply as "direction" (but why then not just <term xml:lang="ta"> vaṭa/teṉ</term>?) and does not consider <term xml:lang="ta"> aḻi</term> at all. In any case it seems unavoidable to understand the dative <term xml:lang="ta"> vāṭaikku </term> in the way of an ablative "from – to", because surely nothing can be supposed to set out towards the wind.   </note> overmuch,</l>

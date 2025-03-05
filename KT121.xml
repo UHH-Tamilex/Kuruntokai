@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT121-kilavi">
-          <p type="edition">iravukkuṟi varun talaimakaṉ ceyyun kuṟip piṟitu oṉṟiṉāṉ nikaḻntu maṟṟu avaṉ kuṟiyai ottavaḻi avvoppumaiyai meypporuḷāka uṇarntu ceṉṟāḷ āṇṭu avaṉaik kāṇātu talaimakaḷ mayaṅkiyavaḻip piṉṉar avaṉ varavu uṇarttiya tōḻikkut talaimakaḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER to the confidante, who made her realise that he would come on another day, [that is,] when she had got confused because she didn't see him there [where she had awaited him]: she had gone there, because another sign had been given that had been similar to the one he used to give when coming to the night tryst, so that she had mistaken the similarity for the real sign.</p>
+        <div rend="parallel">
+          <p xml:id="KT121-kilavi">iravukkuṟi varun talaimakaṉ ceyyun kuṟip piṟitu oṉṟiṉāṉ nikaḻntu maṟṟu avaṉ kuṟiyai ottavaḻi avvoppumaiyai meypporuḷāka uṇarntu ceṉṟāḷ āṇṭu avaṉaik kāṇātu talaimakaḷ mayaṅkiyavaḻip piṉṉar avaṉ varavu uṇarttiya tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by HER to the confidante, who made her realise that he would come on another day, [that is,] when she had got confused because she didn't see him there [where she had awaited him]: she had gone there, because another sign had been given that had been similar to the one he used to give when coming to the night tryst, so that she had mistaken the similarity for the real sign.</p>
           </div>
 
 
-        <div xml:id="KT121">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT121">
 <l>                meyyō vāḻi tōḻi cāraṉ</l>
 <l>                maippaṭ ṭaṉṉa māmuka mucukkalai</l>
 <l>                yāṟṟap pāyāt tappa lēṟṟa</l>
@@ -38,7 +36,7 @@
 <l>                ṟāṉkuṟi vāyāt tappaṟkut</l>
 <l>                tāmpacan taṉaveṉ ṟaṭameṉ ṟōḷē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>
             <choice>
                 <seg>[Is it] truth,<note place="foot"><term xml:lang="ta">mey</term> can either be understood literally as "body" or in a figurative sense as "truth/reality". The variant <term xml:lang="ta">meyyē</term> would have to be taken as an antepositioned exclamation: "[It is] true, oh friend!" or "[My] body, oh friend!"</note>oh friend?</seg>

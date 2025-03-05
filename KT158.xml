@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT158-kilavi">
-          <p type="edition">talaimakaṉ iravukkuṟi vantuḻi avaṉ kēṭpat tōḻikkuc colluvāḷāyc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered, while speaking to the confidante, for him to hear, when he had come to the night tryst.</p>
+        <div rend="parallel">
+          <p xml:id="KT158-kilavi">talaimakaṉ iravukkuṟi vantuḻi avaṉ kēṭpat tōḻikkuc colluvāḷāyc colliyatu.</p>
+          <p xml:lang="en">Uttered, while speaking to the confidante, for him to hear, when he had come to the night tryst.</p>
           </div>
 
 
-        <div xml:id="KT158">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT158">
 <l>                neṭuvarai maruṅkiṟ pāmpupaṭa viṭikkuṅ</l>
 <l>                kaṭuvicai yurumiṉ kaḻaṟukura laḷaiik</l>
 <l>                kāloṭu vanta kamañcūṉ māmaḻai</l>
@@ -38,7 +36,7 @@
 <l>                yimaiyamun tuḷakkum paṇpiṉai</l>
 <l>                tuṇaiyila raḷiyar peṇṭiriḵ tevaṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">Black cloud, fully pregnant, come with the wind,</l>
            <l rend="indent">mingled with the murmuring voice of heavy<note place="foot"><term xml:lang="ta">kaṭuvicai</term>: in this place it might be asked whether the <term xml:lang="ta">sandhi</term> is to be dissolved to yield <term xml:lang="ta">kaṭu vicai</term>, that would be, an intensifying "synonym" compound, or <term xml:lang="ta">kaṭu -v-icai</term>, the thunder with loud sound. The second formulaic occurrence in KT 272.5, however, leaves little doubt that it is the former which is actually meant (<term xml:lang="ta">kaṭu vicai kalai</term> "the very quick male monkey").</note> thunder,<note place="foot">With <term xml:lang="ta">iṭikkum</term>, <term xml:lang="ta">urum</term> and <term xml:lang="ta">kaḻaṟu</term> three words are assembled here which denote "thunder" or "to thunder". Their exact valence is, as with nearly all of the numerous words connected with sound, unclear, except for the verb <term xml:lang="ta">kaḻaṟu</term>, which generally has to be counted among the verba dicendi and accordingly denotes a loud and continuous verbal utterance ("to murmur"), and thus it is not by chance that it is combined here with <term xml:lang="ta">kural</term> "voice".</note></l>
            <l rend="indent">roaring so that snakes suffer<note place="foot"><term xml:lang="ta">pāmpu paṭa</term>: for the motif of the snake in the thunderstorm cf. KT 190.4, 268.4, 391.3. Cām.'s interpretation of <term xml:lang="ta">paṭu</term> as "die" is also not to be excluded.</note> on the long mountain side:</l>

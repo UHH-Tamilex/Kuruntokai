@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT150-kilavi">
-          <p type="edition">iravukkuṟi nērnta tōḻikkut talaimakaḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by HER to the confidante who had granted night trysts.</p>
+        <div rend="parallel">
+          <p xml:id="KT150-kilavi">iravukkuṟi nērnta tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p xml:lang="en">Uttered by HER to the confidante who had granted night trysts.</p>
           </div>
 
 
-        <div xml:id="KT150">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT150">
 <l>                cēṇōṉ māṭṭiya naṟumpukai ñekiḻi</l>
 <l>                vāṉa mīṉiṉ vayiṉvayi ṉimaikku</l>
 <l>                mōṅkumalai nāṭaṉ cāntupula rakala</l>
 <l>                muḷḷi ṉuṇṇōy malkum</l>
 <l>                pulliṉ māyva tevaṉko laṉṉāy.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>The chest with drying sandal paste of the man from a land</l>
            <l rend="indent4">of high mountains,</l>
            <l rend="indent">where flash forth in place after place like stars in the sky</l>

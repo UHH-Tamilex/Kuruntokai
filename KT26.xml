@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT26-kilavi">
-          <p type="edition">ippāṭṭu naṟṟāyuñ cevilittāyun talaimakaḷatu vēṟupāṭu kaṇṭor “iḵtu etaṉāṉ āyiṟṟu” eṉṟu kaṭṭuvicciyai viṉavik kaṭṭukkāṇkiṉṟa kālattut “talaimakaḷatu vēṟupāṭṭiṟkuk kāraṇam piṟitōr teyvam” eṉṟu kūṟak kēṭṭut tōḻi aṟattoṭu niṉṟatu.</p>
-          <p type="translation" xml:lang="en">The confidante standing firm in duty after she heard say another god (i.e. not the lover) was the cause of HER changes at the time the divination came to pass [and] the soothsayer was asked “where has this come from”, by the real mother and the foster-mother of this song who had seen the changes in HER.</p>
+        <div rend="parallel">
+          <p xml:id="KT26-kilavi">ippāṭṭu naṟṟāyuñ cevilittāyun talaimakaḷatu vēṟupāṭu kaṇṭor “iḵtu etaṉāṉ āyiṟṟu” eṉṟu kaṭṭuvicciyai viṉavik kaṭṭukkāṇkiṉṟa kālattut “talaimakaḷatu vēṟupāṭṭiṟkuk kāraṇam piṟitōr teyvam” eṉṟu kūṟak kēṭṭut tōḻi aṟattoṭu niṉṟatu.</p>
+          <p xml:lang="en">The confidante standing firm in duty after she heard say another god (i.e. not the lover) was the cause of HER changes at the time the divination came to pass [and] the soothsayer was asked “where has this come from”, by the real mother and the foster-mother of this song who had seen the changes in HER.</p>
           </div>
 
 
 
-        <div xml:id="KT26">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT26">
 <l>                arumpaṟa malarnta karuṅkāl vēṅkai</l>
 <l>                mēkkeḻu peruñciṉai yirunta tōkai</l>
 <l>                pūkkoy makaḷiriṟ ṟōṉṟu nāṭaṉ</l>
@@ -41,7 +39,7 @@
 <l>                varaiyāṭu vaṉpaṟaḻt tantaik</l>
 <l>                kaṭuvaṉu maṟiyumak koṭiyō ṉaiyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent">Even if he speaks evil things such as:</l>
                 <l rend="indent">“unfit [is] the man from the [mountain]-land,</l>
                 <l rend="indent">where appears, like women plucking flowers,</l>

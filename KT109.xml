@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +27,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT109-kilavi">
-          <p type="edition">ciṟaippuṟam. tam vēṟupāṭu kaṇṭa puṟattār alar kūṟukiṉṟamai tōṉṟat tōḻi talaimakaṭkuk kūṟuvāḷāyk kūṟiyatu. (C5: ciṟaippuṟam.)</p>
-          <p type="translation" xml:lang="en">Hedge. Spoken as if speaking to HER by the confidante so that [HE] would realise the gossip spoken by outsiders who had seen the changes in her.</p>
+        <div rend="parallel">
+          <p xml:id="KT109-kilavi">ciṟaippuṟam. tam vēṟupāṭu kaṇṭa puṟattār alar kūṟukiṉṟamai tōṉṟat tōḻi talaimakaṭkuk kūṟuvāḷāyk kūṟiyatu. (C5: ciṟaippuṟam.)</p>
+          <p xml:lang="en">Hedge. Spoken as if speaking to HER by the confidante so that [HE] would realise the gossip spoken by outsiders who had seen the changes in her.</p>
           </div>
           
 
 
-        <div xml:id="KT109">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT109">
 <l>                muṭakkā liṟaviṉ muṭaṅkupuṟap peruṅkiḷai</l>
 <l>                puṇari yikutirai tarūun tuṟaivaṉ</l>
 <l>                puṇariya virunta ñāṉṟu</l>
 <l>                miṉṉatu maṉṉō naṉṉutaṟ kaviṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">Each time the man from the ghat, where breaking ocean waves</l>
            <l rend="indent">yield<note place="foot">For the gift of the waters cf. KT 90.5: ... <term xml:lang="ta">aruvi uṇ tuṟai tarūum / kuṉṟa nāṭaṉ</term>.</note> big bent-backed hordes of bent-legged prawns,</l>
            <l rend="indent">has been there to unite with [you/her],</l>

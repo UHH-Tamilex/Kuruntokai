@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT176-kilavi">
-          <p type="edition">tōḻi kiḻattiyaik kuṟainayappak kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by the confidante, that SHE would yield to [his] request.</p>
+        <div rend="parallel">
+          <p xml:id="KT176-kilavi">tōḻi kiḻattiyaik kuṟainayappak kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by the confidante, that SHE would yield to [his] request.</p>
           </div>
 
 
-        <div xml:id="KT176">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT176">
 <l>                orunāḷ vārala ṉirunāḷ vāralaṉ</l>
 <l>                paṉṉāḷ vantu paṇimoḻi payiṟṟiyeṉ</l>
 <l>                ṉaṉṉar neñca nekiḻtta piṉṟai</l>
@@ -39,7 +37,7 @@
 <l>                vēṟupula ṉaṉṉāṭṭup peyta</l>
 <l>                vēṟuṭai maḻaiyiṟ kaluḻumeṉ ṉeñcē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>For one day he didn't come, for two days he didn't come,</l>
            <l rend="indent">after he had come for many days, repeating humble words,</l>
            <l rend="indent">[and] made my good heart soft –</l>

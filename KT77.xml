@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT77-kilavi">
-          <p type="edition">piriviṉkaṇ āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="KT77-kilavi">piriviṉkaṇ āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] in the time of separation.</p>
           </div>
 
 
 
-        <div xml:id="KT77">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT77">
 <l>                amma vāḻi tōḻi yāvatun</l>
 <l>                tavaṟeṉiṟ ṟavaṟō vilavē veñcurat</l>
 <l>                tulanta vampala ruvaliṭu patukkai</l>
@@ -39,7 +37,7 @@
 <l>                mariya kāṉañ ceṉṟōrk</l>
 <l>                keḷiya vākiya taṭameṉ ṟōḷē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l rend="indent">Alas, oh friend, if [you] say:</l>
           <l>somehow they are mistaken,</l>
           <l>[my] broad, tender shoulders that have become [too] easy<note place="foot">In this interpretation of <term xml:lang="ta">eḷiya</term> I follow Chevillard 1996:73, against the traditional understanding as "emaciated" (<term xml:lang="ta">melintavaṉa ākiya</term> in Cām.'s gloss). Parallels such as KT 269.8 (where SHE is easy to have, since her parents are out of the house) are unequivocally in its favour.</note></l>

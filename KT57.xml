@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT57-kilavi">
-          <p type="edition">kāppu mikutikkaṇ āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] in an increase of guarding.</p>
+        <div rend="parallel">
+          <p xml:id="KT57-kilavi">kāppu mikutikkaṇ āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER who didn't have the strength [anymore] in an increase of guarding.</p>
           </div>
 
 
 
-        <div xml:id="KT57">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT57">
 <l>                pūviṭaip paṭiṉum yāṇṭukaḻin taṉṉa</l>
 <l>                nīruṟai makaṉṟiṟ puṇarcci pōlap</l>
 <l>                pirivari tākiya taṇṭāk kāmamō</l>
@@ -39,7 +37,7 @@
 <l>                tiruvē mākiya vulakat</l>
 <l>                toruvē mākiya puṉmainā muyaṟkē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l rend="indent">Like the union of the Makaṉṟil birds staying in the water,</l>
              <l rend="indent">as if a year had passed if even a flower comes between them,</l>
              <l rend="indent">with desire unchecked for which separation is difficult,</l>

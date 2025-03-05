@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,18 +21,18 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT342-kilavi">
-        <p type="edition">ceṟippaṟivuṟukkappaṭṭāḷ varaiviṉkaṇ cellātu piṉṉum varavu vēṇṭiṉa
+      <div rend="parallel">
+        <p xml:id="KT342-kilavi">ceṟippaṟivuṟukkappaṭṭāḷ varaiviṉkaṇ cellātu piṉṉum varavu vēṇṭiṉa
           talaimakaṉait tōḻi neruṅkic colli varaivu kaṭāyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Inquired about marriage, the confidante speaking,
+        <p xml:lang="en">Inquired about marriage, the confidante speaking,
           approaching HIM, who wanted to come again without entering into marriage with her who
           suffered confinement. </p>
       </div>
 
-      <div xml:id="KT342">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT342">
           <l> kalaikai toṭṭa kamaḻcuḷaip perumpaḻaṅ</l>
           <l> kāvaṉ maṟanta kāṉavaṉ ñāṅkark</l>
           <l> kaṭiyuṭai marantoṟum paṭuvalai māṭṭuṅ</l>
@@ -46,7 +44,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Is it befitting, o man from a land of hills –</l>
           <l rend="indent">where the forest man, who forgot to watch</l>
           <l rend="indent2">the big jackfruit with fragrant pulp the male monkey touched <note place="foot"> Or: "the male monkey has dug [its] hand in" (cf. KT 373.3).    </note> </l>

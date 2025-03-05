@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,19 +29,19 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT17-kilavi">
-          <p type="edition">tōḻiyiṟ kūṭṭam vēṇṭip piṉṉiṉṟa talaimakaṉ tōḻi kuṟai maṟāmal kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Uttered so that the confidante might not refuse [his] request by HIM who begged wishing the help of the confidante.</p>
+        <div rend="parallel">
+          <p xml:id="KT17-kilavi">tōḻiyiṟ kūṭṭam vēṇṭip piṉṉiṉṟa talaimakaṉ tōḻi kuṟai maṟāmal kūṟiyatu.</p>
+          <p xml:lang="en">Uttered so that the confidante might not refuse [his] request by HIM who begged wishing the help of the confidante.</p>
           </div>
 
-        <div xml:id="KT17">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT17">
 <l>                māveṉa maṭalu mūrpa pūveṉak</l>
 <l>                kuvimuki ḻerukkaṅ kaṇṇiyuñ cūṭupa</l>
 <l>                maṟuki ṉārkkavum paṭupa</l>
 <l>                piṟitu mākupa kāmaṅkāḻk koḷiṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>For horses they'll ride Palmyra-stems and for flowers</l>
                 <l>they'll wear Yarcum chaplets of piled-up buds</l>
                 <l>and in the streets they'll happen to shout</l>

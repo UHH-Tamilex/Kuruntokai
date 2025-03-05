@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT74-kilavi">
-          <p type="edition">tōḻi talaimakaṉ kuṟai maṟātavāṟṟāṟ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by the confidante in a way of not refusing HIS request.</p>
+        <div rend="parallel">
+          <p xml:id="KT74-kilavi">tōḻi talaimakaṉ kuṟai maṟātavāṟṟāṟ kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by the confidante in a way of not refusing HIS request.</p>
           </div>
 
 
 
-        <div xml:id="KT74">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT74">
 <l>                viṭṭa kutirai viyappi ṉaṉṉa</l>
 <l>                vicumputōy pacuṅkaḻaik kuṉṟa nāṭaṉ</l>
 <l>                yāntaṟ paṭarntamai yaṟiyāṉ ṟāṉum</l>
 <l>                vēṉi lāṉēṟu pōlac</l>
 <l>                cāyiṉa ṉeṉpanam māṇala nayantē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l>The man from the hills of green bamboo that touches the sky,</l>
           <l rend="indent">like a horse that is surprisingly set free,</l>
           <l>he didn't know we were thinking of him<note place="foot"><term xml:lang="ta">paṭarntamai</term>, acc. object to <term xml:lang="ta">aṟiyāṉ</term>: "he didn't know us as such who thought of him". The traditional analysis is that of an abstract noun in <term xml:lang="ta">-mai</term>: "he didn't know about our thinking of him" (thus Cām.).</note></l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT33-kilavi">
-          <p type="edition">vāyilākap pukka pāṇaṉ kēṭpat tōḻiyai nōkkit talaimakaḷ vāyil nērvāḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">SHE talking as one who grants mediation/the door, looking at the confidante, [but] for the bard to hear who has entered as a mediator.</p>
+        <div rend="parallel">
+          <p xml:id="KT33-kilavi">vāyilākap pukka pāṇaṉ kēṭpat tōḻiyai nōkkit talaimakaḷ vāyil nērvāḷ kūṟiyatu.</p>
+          <p xml:lang="en">SHE talking as one who grants mediation/the door, looking at the confidante, [but] for the bard to hear who has entered as a mediator.</p>
           </div>
 
 
 
-        <div xml:id="KT33">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT33">
 <l>                aṉṉā yivaṉō riḷamā ṇākkaṉ</l>
 <l>                ṟaṉṉūr maṉṟat teṉṉaṉ kollō</l>
 <l>                virantū ṇirampā mēṉiyoṭu</l>
 <l>                virunti ṉūrum peruñcem malaṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l>Mother, 
                 <choice>
                     <seg>this one,</seg>

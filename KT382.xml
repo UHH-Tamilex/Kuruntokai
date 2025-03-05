@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,18 +21,18 @@
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
-            <div xml:id="KT382-kilavi">
-                <p type="edition">paruvavaraviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi “paruvam aṉṟu vampu”
+            <div rend="parallel">
+                <p xml:id="KT382-kilavi">paruvavaraviṉkaṇ vēṟupaṭṭa talaimakaḷait tōḻi “paruvam aṉṟu vampu”
                     eṉṟu vaṟpuṟīiyatu. </p>
 
 
-                <p type="translation" xml:lang="en">The confidante, saying “it is not the season,
+                <p xml:lang="en">The confidante, saying “it is not the season,
                     [it is] out of time”, encouraging HER, who had changed at the coming of the
                     season. </p>
             </div>
 
-            <div xml:id="KT382">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="KT382">
                     <l> taṇṭuḷik kēṟṟa paiṅkoṭi mullai</l>
                     <l> mukaitalai tiṟanta nāṟṟam putaṉmicaip</l>
                     <l> pūmali taḷavamoṭu tēṅkamaḻpu kañala</l>
@@ -45,7 +43,7 @@
 
                 </lg>
 
-                <lg type="translation" xml:lang="en">
+                <lg xml:lang="en">
                     <l> Out of time <note place="foot">
                             <term xml:lang="ta">vampu</term> (DEDR 5252 "instability") is attested
                         only here in the KT (as well as once in AN, thrice in NA, and occasionally

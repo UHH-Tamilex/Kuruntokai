@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT323-kilavi">
-        <p type="edition">viṉaimuṟṟiṉāṉ pākaṟku uraittu. </p>
-        <p type="translation" xml:lang="en">Told to the charioteer by him who had completed [his]
+      <div rend="parallel">
+        <p xml:id="KT323-kilavi">viṉaimuṟṟiṉāṉ pākaṟku uraittu. </p>
+        <p xml:lang="en">Told to the charioteer by him who had completed [his]
           work. </p>
       </div>
 
-      <div xml:id="KT323">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT323">
           <l> ellā mevaṉō pataṭi vaikal</l>
           <l> pāṇar paṭumalai paṇṇiya veḻāliṉ</l>
           <l> vāṉat teḻuñcuvar nallicai vīḻap</l>
@@ -40,7 +38,7 @@
           <l> kaḻinta nāḷivaṇ vāḻu nāḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>What of all [that]? Chaff [are] the days.<note place="foot"> <term xml:lang="ta"> pataṭi vaikal </term> is not marked by a particle, but it has to be taken as an independent sentence. Or can it also be read as the specification of <term xml:lang="ta"> ellām </term>: "What of all these useless days?"  </note> </l>
           <l>When [I] slept by the shoulder pair <note place="foot"> Or: "when [we] slept as a pair, [me] by the shoulder of the young woman..."  </note> of the young woman</l>
           <l rend="indent">with fragrant forehead smelling of the pollen [and] green buds</l>

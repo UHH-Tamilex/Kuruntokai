@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT41-kilavi">
-          <p type="edition">piriviṭai vēṟupāṭu kaṇṭu kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared by HER to the confidante who was anxious on seeing changes [in her] during the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="KT41-kilavi">piriviṭai vēṟupāṭu kaṇṭu kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p xml:lang="en">Declared by HER to the confidante who was anxious on seeing changes [in her] during the time of separation.</p>
           </div>
 
 
 
-        <div xml:id="KT41">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT41">
 <l>                kātala ruḻaiya rākap perituvantu</l>
 <l>                cāṟuko ḷūriṟ pukalvēṉ maṉṟa</l>
 <l>                vatta naṇṇiya vaṅkuṭic cīṟūr</l>
@@ -49,7 +47,7 @@
 <l>                pulappil pōlap pulleṉ</l>
 <l>                ṟalappeṉ ṟōḻiyava rakaṉṟa ñāṉṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l rend="indent">When<note place="foot">In this version the infinitive <term xml:lang="ta">āka</term> is to be understood as a conditional which is not impossible, for sure, but also not very usual.</note> [my] lover is close, greatly delighted,<note place="foot">Instead of <term xml:lang="ta">peritu uvantu</term> it is also possible to read <term xml:lang="ta">peritu vantu</term>: "as something big has come", that is: like a village having a festival for a special occasion.</note></l>
                <l rend="indent2">like a village taking a festival,</l>
                <l rend="indent4">I rejoice, certainly.</l>

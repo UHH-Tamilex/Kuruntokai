@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT223-kilavi">
-        <p type="edition">varaiviṭai vēṟupaṭṭa kiḻattiyatu vēṟupāṭu kaṇṭu vaṟpuṟuttun tōḻikkuk
+      <div rend="parallel">
+        <p xml:id="KT223-kilavi">varaiviṭai vēṟupaṭṭa kiḻattiyatu vēṟupāṭu kaṇṭu vaṟpuṟuttun tōḻikkuk
           kiḻatti uraittatu.</p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who encourages [her] at
+        <p xml:lang="en">Told by HER to the confidante who encourages [her] at
           the sight of changes in HER, who had changed [while awaiting] the time of marriage. </p>
       </div>
 
-      <div xml:id="KT223">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT223">
           <l>pērūr koṇṭa vārkali viḻaviṟ</l>
           <l>celvāñ celvā meṉṟi yaṉṟiva</l>
           <l>ṇallōr nalla palavāṟ ṟilla</l>
@@ -41,7 +39,7 @@
           <l>meṉṉai koṇṭāṉyā miṉṉamā liṉiyē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l>On that day you <note place="foot">Here syntax is tricky, and the addressee of the
             first lines is not marked at all. Perhaps we can work with a switch of perspective,

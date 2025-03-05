@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT305-kilavi">
-        <p type="edition">kāppumikutikkaṇ tōḻi aṟattoṭu niṟpāḷākat taṉatu āṟṟāmai tōṉṟat talaimakaḷ
+      <div rend="parallel">
+        <p xml:id="KT305-kilavi">kāppumikutikkaṇ tōḻi aṟattoṭu niṟpāḷākat taṉatu āṟṟāmai tōṉṟat talaimakaḷ
           taṉṉuḷḷē kūṟiyatu </p>
-        <p type="translation" xml:lang="en">Uttered in herself by HER, so that her lack of strength
+        <p xml:lang="en">Uttered in herself by HER, so that her lack of strength
           appeared, while the confidante stood firm in duty, during an increase in guarding. </p>
       </div>
 
-      <div xml:id="KT305">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT305">
           <l> kaṇṭara vanta kāma voḷḷeri</l>
           <l> yeṉpuṟa naliyiṉu mavaroṭu pēṇic</l>
           <l> ceṉṟunā muyaṅkaṟ karuṅkāṭ ciyamē</l>
@@ -42,7 +40,7 @@
           <l> kaḷaivō rilaiyā ṉuṟṟa nōyē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent">Even though the bright flame of desire,</l>
           <l rend="indent7">that came as the eye brought [it] on,</l>
           <l rend="indent">afflicts [us] to the bone, having developed esteem towards him,<note place="foot"> <term xml:lang="ta"> varoṭu pēṇi | ceṉṟu </term>? How to understand this phrase? Does it refer to an act of elopement? Or can <term xml:lang="ta"> cel-tal </term> here be used as an auxiliary, and then coordinate to <term xml:lang="ta"> muyaṅkaṟku </term>, as above? In this case the instrumental on <term xml:lang="ta"> avaroṭu </term> remains strange; one would expect an accusative. </note> </l>

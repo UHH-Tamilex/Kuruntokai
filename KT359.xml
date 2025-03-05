@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,18 +28,18 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT359-kilavi">
-        <p type="edition">parattaiyiṟ pirintu vanta talaimakaṉ vāyil vēṇṭip peṟātu tāṉē pukkuk
+      <div rend="parallel">
+        <p xml:id="KT359-kilavi">parattaiyiṟ pirintu vanta talaimakaṉ vāyil vēṇṭip peṟātu tāṉē pukkuk
           kūṭiyatu kaṇṭu tōḻi pāṇarkkuc colliyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Uttered to the bard by the confidante, when she saw the
+        <p xml:lang="en">Uttered to the bard by the confidante, when she saw the
           arrival of HIM, who came after having separated because of another woman, entering in
           person without obtaining [reconciliation] when wishing for the door/mediation. </p>
       </div>
 
-      <div xml:id="KT359">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT359">
           <l> kaṇṭiciṟ pāṇa paṇpuṭait tamma</l>
           <l> mālai virinta pacuveṇ ṇilaviṟ</l>
           <l> kuṟuṅkāṟ kaṭṭi ṉaṟumpūñ cēkkaip</l>
@@ -52,7 +50,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>See, bard, it is like that, alas:</l>
           <l rend="indent">As he was yearning, he breathing <note place="foot"> Here it seems best to take <term xml:lang="ta"> uyirttaṉaṉ </term> as a <term xml:lang="ta"> muṟṟeccam </term>, as is confirmed by the variant <term xml:lang="ta"> uriyā </term>, an absolutive in place of the finite form. </note> like an elephant on [its] lair, <note place="foot"> The traditional interpretation of the elephant sighing when lying down does not seem to have a semantic basis (see DEDR 4018 <term xml:lang="ta"> paḷḷi</term> "sleeping place"), unless the wording of the image here is very elliptical. </note> </l>
           <l rend="indent2">on the bed fragrant with flowers near the short-legged cot <note place="foot"><term xml:lang="ta"> kaṭṭil </term> certainly has to be the cot of the son, not HIS bed.     </note> </l>

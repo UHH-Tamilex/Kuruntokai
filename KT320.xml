@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -153,14 +151,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
-      <div xml:id="KT320-kilavi">
-        <p type="edition">alar añci āṟṟāḷākiya talaimakaḷ talaimakaṉ kēṭpāṉākat tōḻikkuk kūṟiyatu. </p>
-        <p type="translation" xml:lang="en">Spoken to the confidante, while HE listens, by HER, who
+      <div rend="parallel">
+        <p xml:id="KT320-kilavi">alar añci āṟṟāḷākiya talaimakaḷ talaimakaṉ kēṭpāṉākat tōḻikkuk kūṟiyatu. </p>
+        <p xml:lang="en">Spoken to the confidante, while HE listens, by HER, who
           doesn't have strength [anymore] because of the gossip. </p>
       </div>
 
-      <div xml:id="KT320">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT320">
           <l> peruṅkaṭaṟ paratavar koṇmī ṉuṇaṅkali</l>
           <l> ṉaruṅkaḻik koṇṭa viṟaviṉ vāṭaloṭu</l>
           <l> nilavuniṟa veṇmaṇal pulavap palavuṭa</l>
@@ -171,7 +169,7 @@
           <l> koṉṉalar tūṟṟuntaṉ koṭumai yāṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>We are without any blame <note place="foot"> <term xml:lang="ta"> ōr paḻi-yum </term>: has the <term xml:lang="ta"> -um </term> to be read as a marking of the indefinite?  </note> of having laughed a single day</l>
           <l rend="indent">with the man from the ghat, where they spread over every dune</l>
           <l rend="indent2">drying [bits] of fish caught by the fishermen of the great sea,</l>
@@ -533,18 +531,18 @@
 </standOff>
   <standOff type="apparatus" corresp="#KT320" source="alignments/KT320.xml"><interp type="normalization">
   <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag subtype="ignore">pc</tag>
+    <tag subtype="ignore">abbr</tag>
+    <tag subtype="ignore">corr</tag>
+    <tag subtype="ignore">ex</tag>
+    <tag subtype="ignore">head</tag>
+    <tag subtype="ignore">label</tag>
+    <tag subtype="ignore">note</tag>
+    <tag subtype="ignore">num</tag>
+    <tag subtype="ignore">locus</tag>
+    <tag subtype="ignore">metamark</tag>
+    <tag subtype="ignore">supplied</tag>
+    <tag subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
   <app corresp="0,10">
@@ -671,18 +669,18 @@
 </listApp></standOff>
 <standOff type="apparatus" corresp="#KT320-kilavi" source="alignments/KT320-kilavi.xml"><interp type="normalization">
   <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag subtype="ignore">pc</tag>
+    <tag subtype="ignore">abbr</tag>
+    <tag subtype="ignore">corr</tag>
+    <tag subtype="ignore">ex</tag>
+    <tag subtype="ignore">head</tag>
+    <tag subtype="ignore">label</tag>
+    <tag subtype="ignore">note</tag>
+    <tag subtype="ignore">num</tag>
+    <tag subtype="ignore">locus</tag>
+    <tag subtype="ignore">metamark</tag>
+    <tag subtype="ignore">supplied</tag>
+    <tag subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
   <app corresp="0,8">

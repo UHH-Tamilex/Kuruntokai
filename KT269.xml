@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
-      <div xml:id="KT269-kilavi">
-        <p type="edition">talaimakaṉ ciṟaippuṟattāṉākat talaimakaḷ tōḻikkuc colluvāḷāyc colliyatu. </p>
-        <p type="translation" xml:lang="en">SHE speaking as if speaking to the confidante, when HE
+      <div rend="parallel">
+        <p xml:id="KT269-kilavi">talaimakaṉ ciṟaippuṟattāṉākat talaimakaḷ tōḻikkuc colluvāḷāyc colliyatu. </p>
+        <p xml:lang="en">SHE speaking as if speaking to the confidante, when HE
           is behind the hedge. </p>
       </div>
 
-      <div xml:id="KT269">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT269">
           <l> cēyāṟu ceṉṟu tuṉaipari yacāvā</l>
           <l> tucāvunarp peṟiṉē naṉṟumaṟ ṟilla</l>
           <l> vayaccuṟā veṟinta puṇṭaṇin tentaiyu</l>
@@ -41,7 +39,7 @@
           <l> kiṉivari ṉeḷiya ḷeṉṉun tūtē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Oh, it would be good if one could get someone</l>
           <l rend="indent6">who goes the way into the distance</l>
           <l>without tarrying in [his] hasty motion [and] inquires [after him]:</l>

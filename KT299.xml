@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT299-kilavi">
-        <p type="edition">ciṟaippuṟamākat tōḻikkuk kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante, while [he] is behind the
+      <div rend="parallel">
+        <p xml:id="KT299-kilavi">ciṟaippuṟamākat tōḻikkuk kiḻatti uraittatu. </p>
+        <p xml:lang="en">Told by HER to the confidante, while [he] is behind the
           hedge. </p>
       </div>
 
-      <div xml:id="KT299">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT299">
           <l> itumaṟ ṟevaṉō tōḻi mutunīrp</l>
           <l> puṇari tiḷaikkum puḷḷimiḻ kāṉa</l>
           <l> liṇarvīḻ puṉṉai yekkar nīḻaṟ</l>
@@ -41,7 +39,7 @@
           <l> taṇappiṉ ñekiḻpaveṉ ṟaṭameṉ ṟōḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Now, what [is] this, friend?</l>
           <l rend="indent">At the time [I] reached the meeting point <note place="foot"> <term xml:lang="ta"> puṇar kuṟi </term> is literally "the union sign". Here one gets the impression that <term xml:lang="ta"> kuṟi </term> is already used in the <term xml:lang="ta"> kiḷavi </term> sense, i.e. as "meeting place". </note> </l>
           <l rend="indent2">in the shade of the dunes, by the Puṉṉai tree, clusters descending,</l>

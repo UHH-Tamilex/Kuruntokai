@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT10-kilavi">
-          <p type="edition">talaimakaṟkut tōḻi vāyil nērntatu.</p>
-          <p type="translation" xml:lang="en">The confidante granting the door/mediation to HIM.</p>
+        <div rend="parallel">
+          <p xml:id="KT10-kilavi">talaimakaṟkut tōḻi vāyil nērntatu.</p>
+          <p xml:lang="en">The confidante granting the door/mediation to HIM.</p>
           </div>
 
-        <div xml:id="KT10">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT10">
 <l>                yāyā kiyaḷē viḻavumuta lāṭṭi</l>
 <l>                payaṟupō liṇara paintātu paṭīiya</l>
 <l>                ruḻavar vāṅkiya kamaḻpū meṉciṉaik</l>
 <l>                kāñci yūraṉ koṭumai</l>
 <l>                karantaṉa ḷākali ṉāṇiya varumē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
 <l>
     <choice>
     <seg>She is [now] mother, a woman [who is] cause for feasting:</seg>
