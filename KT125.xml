@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,14 +29,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT125-kilavi">
-          <p type="edition">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc ciṟaippuṟamākac colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered while [he] was behind the hedge, to the confidante by HER, when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT125-kilavi">varaivu nīṭṭittaviṭattut talaimakaḷ tōḻikkuc ciṟaippuṟamākac colliyatu.</p>
+          <p xml:lang="en">Uttered while [he] was behind the hedge, to the confidante by HER, when [he] delayed marriage.</p>
           </div>
 
 
-        <div xml:id="KT125">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT125">
 <l>                ilaṅkuvaḷai nekiḻac cāa yāṉē</l>
 <l>                yuḷeṉē vāḻi tōḻi cāraṟ</l>
 <l>                ṟaḻaiyaṇi yalkuṉ makaḷi ruḷḷum</l>
@@ -47,7 +45,7 @@
 <l>                tiraitōy vāṅkuciṉai yirukkun</l>
 <l>                taṇṇan tuṟaivaṉoṭu kaṇmā ṟiṉṟē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>I, [so] exhausted that shining bangles become loose,</l>
            <l>I am [still], oh friend.</l>
            <l rend="indent3">On the slope,<note place="foot">Syntax is here slightly puzzling. The relation between lines 1 and 2 can be explained by taking line 1 as an antepositioned subject (<term xml:lang="ta">cāay</term> as an abs. needs <term xml:lang="ta">uḷeṉ</term> as verbal complement). No obvious relation to the whole, then, has <term xml:lang="ta">cāral</term>, and anyway what follows, up to <term xml:lang="ta">eṉ-nalaṉē</term>, can be understood only as an exclamation.</note></l>

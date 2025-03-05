@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT156-kilavi">
-          <p type="edition">kaḻaṟiya pāṅkaṟkuk kiḻavaṉ aḻintu kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HIM in desolation, to the companion who urged ]him].</p>
+        <div rend="parallel">
+          <p xml:id="KT156-kilavi">kaḻaṟiya pāṅkaṟkuk kiḻavaṉ aḻintu kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by HIM in desolation, to the companion who urged ]him].</p>
           </div>
 
 
-        <div xml:id="KT156">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT156">
 <l>                pārppaṉa makaṉē pārppaṉa makaṉē</l>
 <l>                cempū murukki ṉaṉṉār kaḷaintu</l>
 <l>                taṇṭoṭu piṭitta tāḻkamaṇ ṭalattup</l>
@@ -39,7 +37,7 @@
 <l>                pirintōrp puṇarkkum paṇpiṉ</l>
 <l>                maruntu muṇṭō mayalō vituvē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Brahmin's son! Brahmin's son!<note place="foot">No matter whether seeing <term xml:lang="ta">pārppaṉa makaṉē</term> as a noun derivation of the Dravidian root <term xml:lang="ta">pār</term> "to see" (i.e. "son of a seer"; cf. DEDR 4091(b), though giving the meaning "brahmin") or, with the TL a Tamilisation of Skt. brāhmaṇa- ("son of a brahmin"), the further Sanskrit words and allusions (<term xml:lang="ta">taṇṭa</term>-, <term xml:lang="ta">kamaṇḍalu</term>-, unwritten teaching) are clear enough to recognise a description (and perhaps an ironic one) of Northern culture. But what precisely is said here? The description of the ascetic in lines 2-5 is specific enough, but specifying what? Is it conceivable that there was a certain familiarity with the sight of the strange culture, but no precise information as to the cultural and social varieties (Hindu, Jain and Buddhist religion)? In the same way the "unwritten teachings" seem to allude, though in Tamil words, to the Veda. Is this to be taken in a direct way as an allusion to the Atharva-Veda, which actually contains the words wished for (in the form of love charms of different kinds)? Is this irony against the strange "religion", like often enough against the own? Or, even more subtle, a criticism against the brahmins, who tend to be arrogant about wordly things like <term xml:lang="ta">kāmam</term>, and yet have the Atharvaveda as one of their holy texts?</note></l>
            <l rend="indent">Holding a dangling water jar by means of a stick</l>
            <l rend="indent">of the red-flowered coral tree, having stripped it of the good bark,</l>

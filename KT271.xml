@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT271-kilavi">
-        <p type="edition">talaimakaṉ vāyil nērntu pukka tōḻikkut talaimakaḷ colliyatu. </p>
-        <p type="translation" xml:lang="en">Uttered by HER to the confidante when HE entered after
+      <div rend="parallel">
+        <p xml:id="KT271-kilavi">talaimakaṉ vāyil nērntu pukka tōḻikkut talaimakaḷ colliyatu. </p>
+        <p xml:lang="en">Uttered by HER to the confidante when HE entered after
           having been granted the door/mediation. </p>
       </div>
 
-      <div xml:id="KT271">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT271">
           <l> aruvi yaṉṉa paruvuṟai citaṟi</l>
           <l> yāṟuniṟai pakaru nāṭaṉait tēṟi</l>
           <l> yuṟṟatu maṉṉu morunāṇ maṟṟatu</l>
@@ -38,7 +36,7 @@
           <l> vauvum paṇpi ṉōyā kiṉṟē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Believing the man from the land where the river voices [its] fullness</l>
           <l rend="indent2">[and] scatters big drops like a waterfall,</l>
           <l>it happened, in fact. <note place="foot">

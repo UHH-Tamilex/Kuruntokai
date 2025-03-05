@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,15 +29,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT48-kilavi">
-          <p type="edition">pakaṟkuṟikkaṇ kāṇum poḻutiṉuṅ kāṇāp poḻutu peritu ākaliṉ vēṟupaṭṭa kiḻattiyatu vēṟupāṭu kaṇṭu tōḻi colliyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by the confidante on seeing changes in HER who had changed, because the time she has not seen [him] was longer than the time she sees [him] during the day tryst. ( ≅ TP 105)</p>
+        <div rend="parallel">
+          <p xml:id="KT48-kilavi">pakaṟkuṟikkaṇ kāṇum poḻutiṉuṅ kāṇāp poḻutu peritu ākaliṉ vēṟupaṭṭa kiḻattiyatu vēṟupāṭu kaṇṭu tōḻi colliyatu.</p>
+          <p xml:lang="en">Spoken by the confidante on seeing changes in HER who had changed, because the time she has not seen [him] was longer than the time she sees [him] during the day tryst. ( ≅ TP 105)</p>
           </div>
 
 
 
-        <div xml:id="KT48">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT48">
 <l>                tātiṟ ceyta taṇpaṉip pāvai</l>
 <l>                kālai varuntuṅ kaiyā ṟōmpeṉa</l>
 <l>                vōrai yāyaṅ kūṟak kēṭṭu</l>
@@ -49,7 +47,7 @@
 <l>                licaiyātu kollō kātalar tamakkē.</l>
 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l>Is it not possible to the lover himself,</l>
              <l>a single word of a yearning kind,<note place="foot"><term xml:lang="ta">aṉṉa nacai āku paṉpiṉ</term> oru col: the meaning of the phrase is sufficiently clear, but not its exact syntax. Is it: "a single word of a nature to convey such longing"? And what about this aṉṉa, obviously here used in an attributive position, not as a particle of comparison, and corresponding (in which way?) to the iṉṉa of line 4?</note></l>
              <l rend="indent">so that pallor will leave the good forehead</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT120-kilavi">
-          <p type="edition">1. allakuṟippaṭṭu mīḷun talaimakaṉ taṉṉeñciṟkuc colliyatu.
+        <div rend="parallel">
+          <p xml:id="KT120-kilavi">1. allakuṟippaṭṭu mīḷun talaimakaṉ taṉṉeñciṟkuc colliyatu.
             2. iḵtu iyaṟkaippuṇarcci puṇarnta talaimakaṉ pirintavaḻik kalaṅkiṟṟūumām.</p>
-          <p type="translation" xml:lang="en">1. Uttered to [his] own heart by HIM who comes back led astray by a false sign.
+          <p xml:lang="en">1. Uttered to [his] own heart by HIM who comes back led astray by a false sign.
             2. HE who had consummated the natural union [with her] being upset about the separation.</p>
           </div>
 
 
-        <div xml:id="KT120">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT120">
 <l>                illō ṉiṉpaṅ kāmuṟ ṟāaṅ</l>
 <l>                karituvēṭ ṭaṉaiyā ṉeñcē kātali</l>
 <l>                nalla ḷākuta laṟintāṅ</l>
 <l>                kariya ḷākuta laṟiyā tōyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">In the way that a pauper desires pleasure,</l>
            <l>you really wanted that which is hard [to obtain], heart.</l>
            <l rend="indent">In the way that

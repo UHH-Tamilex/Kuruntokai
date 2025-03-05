@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT144-kilavi">
-          <p type="edition">makaṭpōkkiya cevilittāy colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by the foster-mother who had let [her] daughter go.</p>
+        <div rend="parallel">
+          <p xml:id="KT144-kilavi">makaṭpōkkiya cevilittāy colliyatu.</p>
+          <p xml:lang="en">Uttered by the foster-mother who had let [her] daughter go.</p>
           </div>
 
 
-        <div xml:id="KT144">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT144">
 <l>                kaḻiya kāvi kuṟṟuṅ kaṭala</l>
 <l>                veṇṭalaip puṇari yāṭiyu naṉṟē</l>
 <l>                pirivi lāya muriyatoṉ ṟayara</l>
@@ -39,7 +37,7 @@
 <l>                ceṉmaḻai tavaḻuñ ceṉṉi</l>
 <l>                viṇṇuyar piṟaṅkal vilaṅkumalai nāṭē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>It [was] good that she plucked lotuses in the backwaters and</l>
            <l>played in the white-headed sea waves.</l>
            <l>She who would on the one hand<note place="foot">TVG takes <term xml:lang="ta">ivvaḻi/avvaḻi</term> in spatial sense: "here"/"there".</note> not have<note place="foot"><term xml:lang="ta">Ollāḷ</term> is traditionally not taken as the subject of <term xml:lang="ta">ceṉṟaṉaḷ</term>, but is interpreted as a <term xml:lang="ta">muṟṟeccam</term>.</note></l>

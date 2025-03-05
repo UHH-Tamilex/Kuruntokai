@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT93-kilavi">
-          <p type="edition">vāyilākap pukkat tōḻikku vāyiṉ maṟuttatu.</p>
-          <p type="translation" xml:lang="en">Mediation/the door refused to the confidante who had entered as a mediator.</p>
+        <div rend="parallel">
+          <p xml:id="KT93-kilavi">vāyilākap pukkat tōḻikku vāyiṉ maṟuttatu.</p>
+          <p xml:lang="en">Mediation/the door refused to the confidante who had entered as a mediator.</p>
           </div>
 
 
 
-        <div xml:id="KT93">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT93">
 <l>                naṉṉalan tolaiya nalamikac cāa</l>
 <l>                yiṉṉuyir kaḻiyiṉu muraiya lavarnamak</l>
 <l>                kaṉṉaiyu mattaṉu mallarō tōḻi</l>
 <l>                pulaviyaḵ tevaṉō vaṉpilaṅ kaṭaiyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent">Even if [our] dear life is passing,</l>
                 <l rend="indent">since [our] innocence<note place="foot">Here again by another attribute, i.e. <term xml:lang="ta">nal</term> "good", <term xml:lang="ta">nalam</term> appears to be divided into two varieties, and presumably the distinguished kind refers again to her virginity (cf. <term xml:lang="ta">putu nalaṉ</term> KT 81).</note> is lost [and] beauty wasting away fast,</l>
                 <l rend="indent3">don't speak:</l>

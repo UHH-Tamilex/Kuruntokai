@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT346-kilavi">
-        <p type="edition">tōḻi kiḻattiyai iravukkuṟi nayappak kūṟiyatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT346-kilavi">tōḻi kiḻattiyai iravukkuṟi nayappak kūṟiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Spoken [to inform HIM] that SHE would grant night
+        <p xml:lang="en">Spoken [to inform HIM] that SHE would grant night
           trysts, by the confidante. </p>
       </div>
 
-      <div xml:id="KT346">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT346">
           <l> nākupiṭi nayanta muḷaikkōṭ ṭiḷaṅkaḷiṟu</l>
           <l> kuṉṟa naṇṇik kuṟava rārppa</l>
           <l> maṉṟam pōḻu nāṭaṉ ṟōḻi</l>
@@ -45,7 +43,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>The man from a land, friend,</l>
           <l rend="indent">where a young elephant bull with sprouting<note place="foot"> <term xml:lang="ta">  muḷai kōṭu </term> might also intend a comparison: "tusks [like] sprouts", i.e. still very small.    </note>  tusks,</l>
           <l rend="indent">who longed for the young female, [usually] staying in the hills<note place="foot"> What is the function of <term xml:lang="ta"> kuṉṟa naṇṇi </term> here? The elephant's place is the hills, but in search of his female he comes down into the village and gives people a fright – just like HE will upset HER people if she does not give in to him? </note> </l>

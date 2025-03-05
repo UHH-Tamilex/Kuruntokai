@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT338-kilavi">
-        <p type="edition">piriviṭait tōḻi vaṟpuṟuttu. </p>
+      <div rend="parallel">
+        <p xml:id="KT338-kilavi">piriviṭait tōḻi vaṟpuṟuttu. </p>
 
 
-        <p type="translation" xml:lang="en">Encouraged by the confidante in the time of separation. </p>
+        <p xml:lang="en">Encouraged by the confidante in the time of separation. </p>
       </div>
 
-      <div xml:id="KT338">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT338">
           <l> tirimarup piralai yaṇṇa ṉallē</l>
           <l> ṟarimaṭap piṇaiyō ṭalkuniḻa lacaii</l>
           <l> vītatai viyalariṟ ṟuñcip poḻutucelac</l>
@@ -44,7 +42,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent3">In the cool, dewy season, on the last day of the late dews</l>
           <l rend="indent3">at sorrowful evening, when the majestic good bull</l>
           <l rend="indent2">of the Iralai with twisted horns is chewing ample corn,</l>

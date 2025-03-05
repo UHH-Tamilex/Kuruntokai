@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT82-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ “varuvar” eṉṟu vaṟpuṟuttun tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">SHE, who is desolate when seeing the season, speaking to the confidante who encourages [her with the words] “he will come”.</p>
+        <div rend="parallel">
+          <p xml:id="KT82-kilavi">paruvaṅ kaṇṭu aḻinta talaimakaḷ “varuvar” eṉṟu vaṟpuṟuttun tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">SHE, who is desolate when seeing the season, speaking to the confidante who encourages [her with the words] “he will come”.</p>
           </div>
 
 
 
-        <div xml:id="KT82">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT82">
 <l>                vāruṟu vaṇarkatup puḷarip puṟañcēr</l>
 <l>                paḻāa leṉṟunam maḻutakaṇ ṭuṭaippār</l>
 <l>                yārā kuvarko ṟōḻi cāraṟ</l>
@@ -39,7 +37,7 @@
 <l>                koḻuṅkoṭi yavarai pūkku</l>
 <l>                marumpaṉi yaṟciram vārā tōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l>The one who used<note place="foot"><term xml:lang="ta">tuṭaippār</term> is taken by Cām. as a finite form and thus the end of the sentence. The form itself is ambiguous, either finite or participial noun and, as it is not marked by a sentence-final particle, the continuous construction seems preferable. The employment of the i.a. to denote a kind of habitual past is already taught in the Tol. Col. 248. Another possible interpretation, however, could take an independent sentence in present or future tense which includes a change of perspective: HER inner picture of what will happen when HE comes back.</note> to smooth [our] long curly hair, touch [our] back<note place="foot"><term xml:lang="ta">puṟam cēr</term>: literally “joining the back”, that is, probably, with TVG, HE just touches/strokes HER back. Another possible understanding is that HE joins her hair with the back, in other words he undoes her coiffure so that her hair hangs down touching her back.</note></l>
           <l rend="indent">[and] wipe our tear-stained eyes, saying “don't cry”,</l>
           <l>what will become of him, friend,</l>

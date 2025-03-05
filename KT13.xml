@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT13-kilavi">
-          <p type="edition">toḻiyiṟ kūṭṭaṅ kūṭṭi āṟṟuvakaiyāṉ āṟṟuvittup piriya vēṟupaṭṭa kiḻatti tōḻikku uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared to the confidante by HER who was changed when [he] separated after reassuring [her], he [himself being of] the type who has the strength after having begged the help of the confidante.</p>
+        <div rend="parallel">
+          <p xml:id="KT13-kilavi">toḻiyiṟ kūṭṭaṅ kūṭṭi āṟṟuvakaiyāṉ āṟṟuvittup piriya vēṟupaṭṭa kiḻatti tōḻikku uraittatu.</p>
+          <p xml:lang="en">Declared to the confidante by HER who was changed when [he] separated after reassuring [her], he [himself being of] the type who has the strength after having begged the help of the confidante.</p>
           </div>
 
-        <div xml:id="KT13">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT13">
 <l>                mācaṟak kaḻīiya yāṉai pōlap</l>
 <l>                perumpeya luḻanta virumpiṇart tuṟukaṟ</l>
 <l>                paita lorutalai cēkku nāṭa</l>
 <l>                ṉōytan taṉaṉē tōḻi</l>
 <l>                pacalai yārntaṉa kuvaḷaiyaṅ kaṇṇē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
 <l>Pain he gave, friend,</l>
 <l>the man from a [mountain] land</l>
 <l rend="indent4">who rests in the single cool spot</l>

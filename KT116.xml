@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT116-kilavi">
-          <p type="edition">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">HE who leaves [her] after having consummated the natural union, speaking to [his] own heart.</p>
+        <div rend="parallel">
+          <p xml:id="KT116-kilavi">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ taṉṉeñciṟkuc colliyatu.</p>
+          <p xml:lang="en">HE who leaves [her] after having consummated the natural union, speaking to [his] own heart.</p>
           </div>
 
 
-        <div xml:id="KT116">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT116">
 <l>                yāṉayan tuṟaivō ṭēmpāy kūntal</l>
 <l>                vaḷaṅkeḻu cōḻa ruṟantaip peruntuṟai</l>
 <l>                nuṇmaṇa laṟalvārn taṉṉa</l>
 <l>                naṉṉeṟi yavvē naṟuntaṇ ṇiyavē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>
             <choice>
           <seg>The honey-scented<note place="foot"><term xml:lang="ta">tēmpāy</term> can also mean "frequented by bees": <term xml:lang="ta">pāy</term>, the verb of movement, might be explained as a means to activate the (metonymic?) association of tēm with bee.</note></seg>

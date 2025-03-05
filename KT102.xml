@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,21 +37,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT102-kilavi">
-          <p type="edition">āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti yāṉ yāṅkaṉam (L1: yāṅṅaṉam) aṟṟuvēṉ eṉkiṉṟatu.</p>
-          <p type="translation" xml:lang="en">SHE saying “how shall I have the strength?” to the confidante who was anxious she might not have the strength.</p>
+        <div rend="parallel">
+          <p xml:id="KT102-kilavi">āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti yāṉ yāṅkaṉam (L1: yāṅṅaṉam) aṟṟuvēṉ eṉkiṉṟatu.</p>
+          <p xml:lang="en">SHE saying “how shall I have the strength?” to the confidante who was anxious she might not have the strength.</p>
           </div>
 
 
 
-        <div xml:id="KT102">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT102">
 <l>              uḷḷi ṉuḷḷam vēmē yuḷḷā</l>
 <l>              tiruppiṉem maḷavait taṉṟē varutti </l>
 <l>              vāṉṟōy vaṟṟē kāmañ</l>
 <l>              cāṉṟō rallaryā marīi yōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Remembering, it burns [us] inside;</l>
            <l>not remembering, it is measureless<note place="foot"><term xml:lang="ta">aḷavaittu</term> is to be understood as predicative (to <term xml:lang="ta">kāmam</term>), just as the postpositioned <term xml:lang="ta">kāmam</term> is the subject of all three sentences. To the first, however, it could also be the object, depending on a transitive or intransitive interpretation of <term xml:lang="ta">vēm</term>.</note> to us;<note place="foot">Problematic is the connection of <term xml:lang="ta">em</term>. It is hard to understand it as a genitive (as is suggested by form and position, unless we take it as in 2b). Either a locative ("with us") or, as above, a dativus ethicus, seem possible here.</note></l>
            <l>causing suffering it is such as to touch the skies – [that] desire.</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT72-kilavi">
-          <p type="edition">talaimakaṉ taṉ vēṟupāṭu kaṇṭu viṉāya pāṅkaṟku uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared by HIM to the companion who had questioned [him] when seeing changes in him.</p>
+        <div rend="parallel">
+          <p xml:id="KT72-kilavi">talaimakaṉ taṉ vēṟupāṭu kaṇṭu viṉāya pāṅkaṟku uraittatu.</p>
+          <p xml:lang="en">Declared by HIM to the companion who had questioned [him] when seeing changes in him.</p>
           </div>
 
 
 
-        <div xml:id="KT72">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT72">
 <l>                pūvot talamarun takaiya vēvot</l>
 <l>                tellāru maṟiya nōycey taṉavē</l>
 <l>                tēmoḻit tiraṇṭa meṉṟōṇ māmalaip</l>
 <l>                parīi vittiya vēṉaṟ</l>
 <l>                kurīi yōppuvāḷ perumaḻaik kaṇṇē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l rend="indent">Like flowers, like arrows that are fit to flit,</l>
           <l>they have caused pain
             <choice>

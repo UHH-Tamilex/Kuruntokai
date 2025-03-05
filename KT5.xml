@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,20 +27,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT5-kilavi">
-          <p type="edition">piriviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti <app><lem>uraittatu</lem><rdg wit="#C2">ituvumatu</rdg></app>.</p>
-          <p type="translation" xml:lang="en">Spoken by HER to the confidante who was anxious that she might not have the strength in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="KT5-kilavi">piriviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti <app><lem>uraittatu</lem><rdg wit="#C2">ituvumatu</rdg></app>.</p>
+          <p xml:lang="en">Spoken by HER to the confidante who was anxious that she might not have the strength in the time of separation.</p>
           </div>
 
-        <div xml:id="KT5">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT5">
 <l>atuko ṟōḻi kāma nōyē</l>
 <l>vatikuru kuṟaṅku miṉṉilaip puṉṉai</l>
 <l>yuṭaitirait tuvalai yarumpun tīnīr</l>
 <l>mellam pulampaṉ pirinteṉap</l>
 <l>pallita ḻuṇkaṇ pāṭol lāvē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
 <l>[Is] that, friend, the pain of desire?</l>
 <l rend="indent">Because of the separation from the tender man</l>
 <l rend="indent">of the sweet waters, budding with the spray of breaking waves</l>

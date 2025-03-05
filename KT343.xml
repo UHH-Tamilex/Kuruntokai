@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT343-kilavi">
-        <p type="edition">tōḻi kiḻattiyai uṭaṉpōkku nayappak kūṟiyatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT343-kilavi">tōḻi kiḻattiyai uṭaṉpōkku nayappak kūṟiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Spoken by the confidante in order to persuade HER of
+        <p xml:lang="en">Spoken by the confidante in order to persuade HER of
           going away together [with him]. </p>
       </div>
 
-      <div xml:id="KT343">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT343">
           <l> niṉaiyāy vāḻi tōḻi naṉaikavu</l>
           <l> ḷaṇṇal yāṉai yaṇimukam pāynteṉa</l>
           <l> mikuvali yirumpulip pakuvā yēṟṟai</l>
@@ -44,7 +42,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Think, oh friend, of the way</l>
           <l rend="indent">[you] <note place="foot"> The impersonal <term xml:lang="ta"> peyarum </term> speaks in favour of the traditional interpretation as an indirect invitation to eloping with HIM (thus already the <term xml:lang="ta"> kiḷavi </term>).</note> will move with the man from the land of high mountains,</l>
           <l rend="indent2">where the split-mouthed <note place="foot"> What is the meaning of this formulaic epithet here? In KT 193.2 it is used of a frog, in KT 155.4 and 279.2 of a bell, in KT 89.1 of a mortar. What is the analogy between the mouth of a tiger and these three? </note> male of the very strong big tiger</l>

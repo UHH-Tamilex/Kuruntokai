@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT34-kilavi">
-          <p type="edition">varaivu malintamai ūrmēl vaittut tōḻik kiḻattikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Spoken to HER by the confidante concerning the village when rejoicing about the [imminent] marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT34-kilavi">varaivu malintamai ūrmēl vaittut tōḻik kiḻattikkuc colliyatu.</p>
+          <p xml:lang="en">Spoken to HER by the confidante concerning the village when rejoicing about the [imminent] marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT34">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT34">
 <l>                oṟuppa vōvalar maṟuppat tēṟalar</l>
 <l>                tamiya ruṟaṅkuṅ kauvai yiṉṟā</l>
 <l>                yiṉiyatu kēṭṭiṉ puṟukaviv vūrē</l>
@@ -40,7 +38,7 @@
 <l>                kuṭṭuvaṉ māntai yaṉṉaveṅ</l>
 <l>                kuḻaiviḷaṅ kāynutaṟ kiḻavaṉu mavaṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l>Those who don't stop scolding don't understand that they reject.<note place="foot">Line 1 is a problem with regard to syntax as well as to content. My proposition is to take it as an aphoristic prelude (most of them noticeable for the lack of particle marking. We would then have here a general statement about the lack of sympathy on the part of the people of the village towards HER grief in the time of waiting (as it is to be found in KT 24).</note></l>
                <l>May this village have joy on hearing the sweet [news],</l>
                <l rend="indent">there being no affliction in slumber for the lonely.<note place="foot">Here the problem is tamiyar, honorific plural and not feminine, although it is certainly SHE who sleeps alone. But it might be possible to read a transition from the general statement of line 1 to the concrete situation of the poem: SHE is, until HE is accepted (which is the theme of what follows, as is also stated by the <term xml:lang="ta">kiḷavi)</term>, one of those reproached in public and alone in a double sense: HE is not there and no one stands by HER.</note></l>

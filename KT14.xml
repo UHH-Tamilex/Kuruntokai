@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,13 +21,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT14-kilavi">
-          <p type="edition">maṭaṉ mā kūṟumiṭaṉumār uṇṭē eṉpataṉāl tōḻi kuṟai maṟuttuḻit talaimakaṉ maṭal ēṟuval eṉpatupaṭac colliyatu.</p>
-          <p type="translation" xml:lang="en">HE speaking to make clear that he would mount the Palmyra-stem[-horse], when the confidante refused [his] request according to the teaching: “There definitely is an occasion for talking about the Palmyra horse.” (cf. TP 99, l. 20)</p>
+        <div rend="parallel">
+          <p xml:id="KT14-kilavi">maṭaṉ mā kūṟumiṭaṉumār uṇṭē eṉpataṉāl tōḻi kuṟai maṟuttuḻit talaimakaṉ maṭal ēṟuval eṉpatupaṭac colliyatu.</p>
+          <p xml:lang="en">HE speaking to make clear that he would mount the Palmyra-stem[-horse], when the confidante refused [his] request according to the teaching: “There definitely is an occasion for talking about the Palmyra horse.” (cf. TP 99, l. 20)</p>
           </div>
 
-        <div xml:id="KT14">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT14">
 <l>                amiḻtupoti cennā vañca vanta</l>
 <l>                vārntilaṅku vaiyeyiṟṟuc ciṉmoḻi yarivaiyaip</l>
 <l>                peṟukatil lamma yāṉē peṟṟāṅ</l>
@@ -38,7 +36,7 @@
 <l>                pallōr kūṟukayā nāṇukañ ciṟitē.</l>
 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent">The young woman of few words and shining, sharp teeth in a row</l>
                 <l rend="indent">which came so that the red tongue full of nectar was afraid,</l>
                 <l>if only I could get [her]!<note place="foot">The <term xml:lang="ta">amma</term>, ignored by Cām., in my opinion adds to til, the particle of wishing, in <term xml:lang="ta">peṟukatil</term> the nuance of an irreal wish (thus in KT 56.4). An air of hopelessness is also backed up by the <term xml:lang="ta">kiḷavi</term> which shows HIM on the verge of making use of the very last means, the mounting of the Palmyra horse.</note></l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT61-kilavi">
-          <p type="edition">tōḻi talaimakaṉ vāyilkaṭku uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared to HIS mediator by the confidante.</p>
+        <div rend="parallel">
+          <p xml:id="KT61-kilavi">tōḻi talaimakaṉ vāyilkaṭku uraittatu.</p>
+          <p xml:lang="en">Declared to HIS mediator by the confidante.</p>
           </div>
 
 
 
-        <div xml:id="KT61">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT61">
 <l>                taccaṉ ceyta ciṟumā vaiya</l>
 <l>                mūrntiṉ puṟāa rāyiṉuṅ kaiyi</l>
 <l>                ṉīrttiṉ puṟūu miḷaiyōr pōla</l>
@@ -39,7 +37,7 @@
 <l>                poykai yūraṉ kēṇmai</l>
 <l>                ceytiṉ puṟṟaṉeñ ceṟintaṉa vaḷaiyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l rend="indent">Like boys who have pleasure in pulling with the hand</l>
              <l rend="indent">the little horse-cart made by the carpenter,</l>
              <l rend="indent">even if they can't have the pleasure of mounting [it],</l>

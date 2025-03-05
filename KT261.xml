@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT261-kilavi">
-        <p type="edition">iravukkuṟikkaṇ talaimakaṉ ciṟaippuṟamākat tōḻikkuc colluvāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">Uttered as if speaking to the confidante, while HE is
+      <div rend="parallel">
+        <p xml:id="KT261-kilavi">iravukkuṟikkaṇ talaimakaṉ ciṟaippuṟamākat tōḻikkuc colluvāḷāyc colliyatu.</p>
+        <p xml:lang="en">Uttered as if speaking to the confidante, while HE is
           behind the hedge at the night tryst.</p>
       </div>
 
-      <div xml:id="KT261">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT261">
           <l> paḻamaḻai poḻinteṉap pataṉaḻin turukiya</l>
           <l> citaṭṭukkā yeṇṇiṉ cilpeyaṟ kaṭaināṭ</l>
           <l> cēṟṟunilai muṉaiiya ceṅkaṭ kārā</l>
@@ -48,7 +46,7 @@
           <l> ṉeñcupuṇ ṇuṟṟa viḻumat tāṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent2">In the distress from the wound in my heart,</l>
           <l rend="indent2">troubled because of the special manner of [time] calculation</l>
           <l>of the [night] watchmen, my eyes don't sleep, oh friend,</l>

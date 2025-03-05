@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT47-kilavi">
-          <p type="edition">irā vantoḻukuṅ kālai muṉṉilaip puṟamoḻiyāka nilāviṟku uraippāḷākat tōḻi uraittatu.</p>
-          <p type="translation" xml:lang="en">Declared to the confidante as if declared to the moonlight to scold the addressee in the time that was long as the night had come.</p>
+        <div rend="parallel">
+          <p xml:id="KT47-kilavi">irā vantoḻukuṅ kālai muṉṉilaip puṟamoḻiyāka nilāviṟku uraippāḷākat tōḻi uraittatu.</p>
+          <p xml:lang="en">Declared to the confidante as if declared to the moonlight to scold the addressee in the time that was long as the night had come.</p>
           </div>
 
 
 
-        <div xml:id="KT47">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT47">
 <l>                karuṅkāl vēṅkai vīyuku tuṟuka</l>
 <l>                lirumpulik kuruḷaiyiṟ ṟōṉṟuṅ kāṭṭiṭai</l>
 <l>                yelli varunar kaḷaviṟku</l>
 <l>                nallai yallai neṭuveṇ ṇilavē.</l>
 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l rend="indent">For the tryst with the one who comes at night</l>
              <l rend="indent">when a thick stone strewn with blossoms</l>
              <l rend="indent4">of the black-trunked Vēṅkai</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT235-kilavi">
-        <p type="edition">varaiyātu pirintu varuvāṉ vāṭaikku uraippāṉāyp pākaṟku uraittatu. </p>
-        <p type="translation" xml:lang="en">Told to the charioteer as if telling the north wind, by
+      <div rend="parallel">
+        <p xml:id="KT235-kilavi">varaiyātu pirintu varuvāṉ vāṭaikku uraippāṉāyp pākaṟku uraittatu. </p>
+        <p xml:lang="en">Told to the charioteer as if telling the north wind, by
           him who is coming after having separated without marrying. </p>
       </div>
 
-      <div xml:id="KT235">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT235">
           <l> ōmpumati vāḻiyō vāṭai pāmpiṉ</l>
           <l> ṟūṅkutōl kaṭukkun tūveḷ ḷaruvik</l>
           <l> kalluyar naṇṇi yatuvē nelli</l>
@@ -38,7 +36,7 @@
           <l> pulvēy kurampai nallō ḷūrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Live, north wind, beware</l>
           <l rend="indent2">of the village with grass-thatched huts of the good <note place="foot">
               <term xml:lang="ta">nal</term> , as so often, is problematic as an attribute here.

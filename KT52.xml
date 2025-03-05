@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT52-kilavi">
-          <p type="edition">varaivu malivu kēṭṭa talaimakaṭkut tōḻi muṉṉāḷiṉ (C1:muṉṉāḷiriṉ;C3:-liraṉ) aṟattoṭu niṉṟamai kāraṇattāṉ itu viḷaiṉntatu eṉpatupaṭak kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Told by the confidante to express [the following]: “this has come to pass because of [your] standing firm in duty previously” to HER who had heard of the prospect of marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT52-kilavi">varaivu malivu kēṭṭa talaimakaṭkut tōḻi muṉṉāḷiṉ (C1:muṉṉāḷiriṉ;C3:-liraṉ) aṟattoṭu niṉṟamai kāraṇattāṉ itu viḷaiṉntatu eṉpatupaṭak kūṟiyatu.</p>
+          <p xml:lang="en">Told by the confidante to express [the following]: “this has come to pass because of [your] standing firm in duty previously” to HER who had heard of the prospect of marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT52">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT52">
 <l>                ārkaḷi mititta nīrtikaḻ cilampiṟ</l>
 <l>                cūrnacain taṉaiyaiyāy naṭuṅkal kaṇṭē</l>
 <l>                naranta nāṟuṅ kuvaiyiruṅ kūnta</l>
 <l>                ṉirantilaṅku veṇpaṉ maṭantai</l>
 <l>                parantaṉe ṉallaṉō viṟaiyiṟai yāṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l rend="indent">On the slope glittering with water, trampled in full must,<note place="foot">TVG understands here, like Cām., an elliptical sentence: "on the mountain slope glittering with water [standing in the footprints] trampled by roaring elephants.</note></l>
              <l>I saw you trembling as one claimed by the deity,<note place="foot"><term xml:lang="ta">cūr nacaintaṉaiyai</term>: the evil spirit possessing another being seems to be a topos attested more often; a formulaic parallel is to be found in <term xml:lang="ta">Patiṟṟup</term>. 67.20: <term xml:lang="ta">kaṭum paṟai tumpi cūr nacaittāay</term>, where a bee is said to fly drowsily because of the <term xml:lang="ta">cūr</term>.</note></l>
              <l rend="indent">girl with white teeth shining in a row</l>

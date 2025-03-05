@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT221-kilavi">
-        <p type="edition">piriviṭai paruva varaviṉkaṇ vaṟpuṟuttun tōḻikkuk kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who encouraged [her] at
+      <div rend="parallel">
+        <p xml:id="KT221-kilavi">piriviṭai paruva varaviṉkaṇ vaṟpuṟuttun tōḻikkuk kiḻatti uraittatu. </p>
+        <p xml:lang="en">Told by HER to the confidante who encouraged [her] at
           the coming of the season in the time of separation. </p>
       </div>
 
-      <div xml:id="KT221">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT221">
           <l>avarō vārār mullaiyum pūttaṉa</l>
           <l>paṟiyuṭaik kaiyar maṟiyiṉat toḻiyap</l>
           <l>pāloṭu vantu kūḻoṭu peyarum</l>
@@ -39,7 +37,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l>He?<note place="foot">This is one of the places where -ō can be understood in the sense
             of a antepositioned question or as a demarcation of topic: "as for him, he has not

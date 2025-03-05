@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,22 +21,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT42-kilavi">
-          <p type="edition">iravukkuṟi vēṇṭiya kiḻavaṟkut tōḻi nērnta vāyppaṭṭāṉ maṟuttatu.</p>
-          <p type="translation" xml:lang="en">The confidante refusing HIM who wished for night trysts, while granting by implication.</p>
+        <div rend="parallel">
+          <p xml:id="KT42-kilavi">iravukkuṟi vēṇṭiya kiḻavaṟkut tōḻi nērnta vāyppaṭṭāṉ maṟuttatu.</p>
+          <p xml:lang="en">The confidante refusing HIM who wished for night trysts, while granting by implication.</p>
           </div>
 
 
 
-        <div xml:id="KT42">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT42">
 <l>                kāma moḻiva tāyiṉum yāmattuk</l>
 <l>                karuvi māmaḻai vīḻnteṉa varuvi</l>
 <l>                viṭarakat tiyampu nāṭaven</l>
 <l>                toṭarpun tēyumō niṉvayi ṉāṉē.</l>
 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l>Even if desire is passing,<note place="foot"><term xml:lang="ta">oḻivatu</term> as a form is ambiguous, that is, either finite verb or participial noun. If the latter, then the nuance might rather be attributive and general: "even if desire is transitory ...".</note>man of the mountains</l>  
              <l rend="indent">where inside a cave the waterfall is sounding</l>
              <l rend="indent">because so much rain has fallen at midnight</l>

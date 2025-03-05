@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,16 +24,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT339-kilavi">
-        <p type="edition">varaiviṭai vēṟupaṭṭa kiḻattiyait tōḻi kaṭuñcol colli vaṟpuṟīiyatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT339-kilavi">varaiviṭai vēṟupaṭṭa kiḻattiyait tōḻi kaṭuñcol colli vaṟpuṟīiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante encouraging, speaking harsh words to HER,
+        <p xml:lang="en">The confidante encouraging, speaking harsh words to HER,
           who had changed [awaiting] the time of marriage. </p>
       </div>
 
-      <div xml:id="KT339">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT339">
           <l> naṟaiyakil vayaṅkiya naḷipuṉa naṟumpukai</l>
           <l> yuṟaiyaṟu maiyiṟ pōkic cāraṟ</l>
           <l> kuṟavar pākkat tiḻitaru nāṭaṉ</l>
@@ -47,7 +45,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>To embrace the good chest with a garland of different blossoms</l>
           <l rend="indent">of the man from a land, where fragrant smoke from the vast fields,</l>
           <l rend="indent7">on which fragrant eagle wood has glowed up,</l>

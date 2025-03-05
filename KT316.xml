@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT316-kilavi">
-        <p type="edition">varaiviṭai “vēṟupaṭukiṉṟāy” eṉṟa tōḻikkuk kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who said “you are changing
+      <div rend="parallel">
+        <p xml:id="KT316-kilavi">varaiviṭai “vēṟupaṭukiṉṟāy” eṉṟa tōḻikkuk kiḻatti uraittatu. </p>
+        <p xml:lang="en">Told by HER to the confidante who said “you are changing
           [while awaiting] the time of marriage.” </p>
       </div>
 
-      <div xml:id="KT316">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT316">
           <l> āyvaḷai ñekiḻavu mayarvumey niṟuppavu</l>
           <l> nōymali varutta maṉṉai yaṟiyi</l>
           <l> ṉuḷeṉō vāḻi tōḻi viḷiyā</l>
@@ -41,7 +39,7 @@
           <l> tuṟaivaṉ collō piṟavā yiṉavē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent2">As choice bangles become loose</l>
           <l rend="indent6">and the body weighs forgetfulness,</l>
           <l rend="indent4">if mother gets to know of [this] painful, great suffering,</l>

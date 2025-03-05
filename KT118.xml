@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT118-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ poḻutu kaṇṭu tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante upon seeing the time [of day] by HER, when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT118-kilavi">varaivu nīṭṭittavaḻit talaimakaḷ poḻutu kaṇṭu tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante upon seeing the time [of day] by HER, when [he] delayed marriage.</p>
           </div>
 
 
-        <div xml:id="KT118">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT118">
 <l>                puḷḷu māvum pulampoṭu vatiya</l>
 <l>                naḷḷeṉa vanta nāriṉ mālai</l>
 <l>                palarpuku vāyi laṭaiyak kaṭavunar</l>
 <l>                varuvi ruḷirō veṉavum</l>
 <l>                vārār tōḻinaṅ kāta lōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">In bondless<note place="foot">TVG explains <term xml:lang="ta">nār il</term> as "without love". The metaphorical transposition is undoubtedly there, but it is hard to decide whether it is already a semantic extension. DEDR 3652 just gives "fibre, string, cord, rope".</note> evening that has come just like that<note place="foot">For <term xml:lang="ta">naḷ</term> cf. note on KT 6. Here we have obviously an ideophone, but what is the message? Is it the sound (or soundlessness) or is it something like "suddenly, inevitably"? TVG takes it to refer to the insects to be heard at night.</note></l>
            <l rend="indent">for birds and beasts to stay with loneliness,</l>
            <l rend="indent">even when they urge,</l>

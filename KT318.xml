@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT318-kilavi">
-        <p type="edition">kiḻavaṉ kēṭkum aṇmaiyaṉākat tōḻikkuk kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Spoken by HER to the confidante, while HE was close
+      <div rend="parallel">
+        <p xml:id="KT318-kilavi">kiḻavaṉ kēṭkum aṇmaiyaṉākat tōḻikkuk kiḻatti uraittatu. </p>
+        <p xml:lang="en">Spoken by HER to the confidante, while HE was close
           [enough] to hear. </p>
       </div>
 
-      <div xml:id="KT318">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT318">
           <l> eṟicuṟāk kalitta vilaṅkunīrp parappi</l>
           <l> ṉaṟuvī ñāḻaloṭu puṉṉai tāay</l>
           <l> veṟiyayar kaḷattiṉiṟ ṟōṉṟun tuṟaivaṉ</l>
@@ -41,7 +39,7 @@
           <l> kaḷvaṉuṅ kaṭavaṉum puṇaivaṉun tāṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>As for me, will I tell him who does not know</l>
           <l rend="indent2">that one thing is different, <note place="foot"> Cām. explains this to be the arrival of another suitor.  </note> whether he intends it or not, <note place="foot"> According to Cām.'s gloss whether HE intends to marry or not.  </note></l>
           <l>the man from the ghat, where in the expanse</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT195-kilavi">
-          <p type="edition">piriviṭaip paruva varaviṉkaṇ kiḻatti melintu kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER, becoming weak at the coming of the season in the time of separation.</p>
+        <div rend="parallel">
+          <p xml:id="KT195-kilavi">piriviṭaip paruva varaviṉkaṇ kiḻatti melintu kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by HER, becoming weak at the coming of the season in the time of separation.</p>
           </div>
           
 
-        <div xml:id="KT195">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT195">
 <l>                cuṭarciṉan taṇintu kuṉṟañ cērap</l>
 <l>                paṭarcuman teḻutaru paiyuṇ mālai</l>
 <l>                yāṇṭuḷar kollō vēṇṭuviṉai muṭina</l>
@@ -39,7 +37,7 @@
 <l>                ceyvuṟu pāvai yaṉṉaveṉ</l>
 <l>                meypiṟi tākuta laṟiyā tōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
               <l>Where is he,</l>
               <l rend="indent">in sorrowful evening that comes upon<note place="foot"><term xml:lang="ta">eḻu taru</term>: here <term xml:lang="ta">taru-tal</term> as an auxiliary, namely the evening which comes up irresistibly.</note> [me] laden with affliction,</l>
               <l rend="indent">as the [sun's] glowing anger subsides [and] joins the hills,</l>

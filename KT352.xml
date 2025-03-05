@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT352-kilavi">
-        <p type="edition">piriviṭait tōḻikkuk kiḻatti melintu kūṟiyatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT352-kilavi">piriviṭait tōḻikkuk kiḻatti melintu kūṟiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Spoken when weakening by HER to the confidante in the
+        <p xml:lang="en">Spoken when weakening by HER to the confidante in the
           time of separation. </p>
       </div>
 
-      <div xml:id="KT352">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT352">
           <l> neṭunī rāmpa laṭaippuṟat taṉṉa</l>
           <l> koṭumeṉ ciṟaiya kūrukirp paṟavai</l>
           <l> yakalilaip palaviṉ cāraṉ muṉṉip</l>
@@ -43,7 +41,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent5">Before I see him, friend,</l>
           <l>I know</l>
           <l>small <note place="foot"><term xml:lang="ta">ciṟu </term> is taken here by T.V.G. as denoting the short duration of evening. It might, however, as well function as an intensification of puṉ here. </note> bleak evening [will be] there,</l>

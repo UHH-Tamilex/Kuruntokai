@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT152-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷ “nī āṟṟukiṉṟilai” eṉṟu neruṅkiya tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante who approached HER [with the words] “you don't have the strength”, when she didn't have strength [anymore] as [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT152-kilavi">varaivu nīṭṭittavaḻi āṟṟāḷākiya talaimakaḷ “nī āṟṟukiṉṟilai” eṉṟu neruṅkiya tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante who approached HER [with the words] “you don't have the strength”, when she didn't have strength [anymore] as [he] delayed marriage.</p>
           </div>
 
 
-        <div xml:id="KT152">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT152">
 <l>                yāvatu maṟikilar kaḻaṟu vōrē</l>
 <l>                tāyiṉ muṭṭai pōla vuṭkiṭantu</l>
 <l>                cāyi ṉallatu piṟiteva ṉuṭaittō</l>
 <l>                yāmaip pārppi ṉaṉṉa</l>
 <l>                kāmaṅ kātalar kaiyaṟa viṭiṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>Nothing do they know, those who grumble.</l>
                 <l rend="indent">
                     <choice>

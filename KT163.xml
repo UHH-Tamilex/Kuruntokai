@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT163-kilavi">
-          <p type="edition">taṉṉuṭai (C2+5, Cām.: taṉṉuṭ) kaiyāṟu eytiṭu kiḷavi.</p>
-          <p type="translation" xml:lang="en">Words addressing her helplessness/motionlessness.</p>
+        <div rend="parallel">
+          <p xml:id="KT163-kilavi">taṉṉuṭai (C2+5, Cām.: taṉṉuṭ) kaiyāṟu eytiṭu kiḷavi.</p>
+          <p xml:lang="en">Words addressing her helplessness/motionlessness.</p>
           </div>
 
 
-        <div xml:id="KT163">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT163">
 <l>                yāraṇaṅ kuṟṟaṉai kaṭalē pūḻiyar</l>
 <l>                ciṟutalai veḷḷait tōṭuparan taṉṉa</l>
 <l>                mīṉār kurukiṉ kāṉalam peruntuṟai</l>
 <l>                veḷvīt tāḻait tiraiyalai</l>
 <l>                naḷḷeṉ kaṅkuluṅ kēṭkuniṉ kuralē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Who troubled you, ocean?<note place="foot"><term xml:lang="ta">yār aṇaṅku uṟṟaṉai</term> is literally "whom did you have/experience as trouble?" It is impossible to decide whether the p.a. here expresses a completeness of action (who has troubled you last night?), or a state which had begun in the past but does still last.</note></l>
            <l>We can hear your voice all through the deep night,</l>
            <l rend="indent">when waves slap<note place="foot">alai: this is a remarkable use of the mere verbal root, namely in a syntactically relevant position at the end of the penultimate line. What would be expected is the imperfective <term xml:lang="ta">peyareccam</term>, so frequently to be found in this position. But <term xml:lang="ta">aḷaikkum</term> would be hypermetrical here.</note> the white-blossomed Tāḻai trees</l>

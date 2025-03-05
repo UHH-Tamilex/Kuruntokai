@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT314-kilavi">
-        <p type="edition">piriviṭai vēṟupaṭṭa kiḻatti vaṟpuṟuttun tōḻikkup paruvaṅ kāṭṭi aḻintu
+      <div rend="parallel">
+        <p xml:id="KT314-kilavi">piriviṭai vēṟupaṭṭa kiḻatti vaṟpuṟuttun tōḻikkup paruvaṅ kāṭṭi aḻintu
           kūṟiyatu. </p>
-        <p type="translation" xml:lang="en">Spoken in desolation by HER, who had changed in the time
+        <p xml:lang="en">Spoken in desolation by HER, who had changed in the time
           of separation, when pointing out the season to the confidante who was encouraging [her]. </p>
       </div>
 
-      <div xml:id="KT314">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT314">
           <l> cēyuyar vicumpi ṉīruṟu kamañcūṟ</l>
           <l> ṟaṇkura leḻili yoṇcuṭa rimaippap</l>
           <l> peyaṟāḻ piruḷiya pulampukoṇ mālaiyum</l>
@@ -50,7 +48,7 @@
           <l> viṉṉā vaippiṟ curaṉiṟan tōrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent2">Even in the evening full of loneliness,</l>
           <l rend="indent6">darkened by rain hanging down,</l>
           <l rend="indent2">while bright glow flickers from the cool-voiced cloud,</l>

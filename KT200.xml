@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT200-kilavi">
-          <p type="edition">paruva varaviṉkaṇ āṟṟāḷākiya talaimakaṭkut tōḻi “paruvam aṉṟu vampu” eṉṟavaḻit talaimakaḷ colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by HER when the confidante said “the season is not in time”, to HER, who didn't have the strength [anymore] at the coming of the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT200-kilavi">paruva varaviṉkaṇ āṟṟāḷākiya talaimakaṭkut tōḻi “paruvam aṉṟu vampu” eṉṟavaḻit talaimakaḷ colliyatu.</p>
+          <p xml:lang="en">Uttered by HER when the confidante said “the season is not in time”, to HER, who didn't have the strength [anymore] at the coming of the season.</p>
           </div>
           
 
-        <div xml:id="KT200">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT200">
 <l>                peyta kuṉṟattup pūnāṟu taṇkaluḻ</l>
 <l>                mīmicait tāaya vīi cumantuvan</l>
 <l>                tiḻitarum puṉalum vārār tōḻi</l>
@@ -40,7 +38,7 @@
 <l>                muṉvara lēmañ ceytakaṉ ṟōrē.</l>
                 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
           <l>He has not come, friend, even with the descending flood,</l>
           <l rend="indent">coming laden with blossoms [that were] spread on the heights,<note place="foot"><term xml:lang="ta">mī micai</term>: this formulaic combination (cf. KT 284.2) can be taken either as a synonym compound (but in which function?), or as a locative, as is done by Cām. and TVG, who takes it as "on the surface" and connects it with the blossoms (which would be swimming on the surface of the water).</note>
             <note place="foot">

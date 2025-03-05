@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT247-kilavi">
-        <p type="edition">1.kaṭinakart tēlivu vilaṅkiṉmai aṟiyat tōḻi kūṟiyatu. 2. varaivuṭaṉpaṭṭa
+      <div rend="parallel">
+        <p xml:id="KT247-kilavi">1.kaṭinakart tēlivu vilaṅkiṉmai aṟiyat tōḻi kūṟiyatu. 2. varaivuṭaṉpaṭṭa
           tōḻi talaimakaṭkuk kūṟiyatūumām. </p>
-        <p type="translation" xml:lang="en">1. Spoken by the confidante in order to know of the absence
+        <p xml:lang="en">1. Spoken by the confidante in order to know of the absence
           of obstacles to clarity (placidity?) in the marriage house. 2. Spoken by HER to the
           confidante who had consented to marriage. </p>
       </div>
 
-      <div xml:id="KT247">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT247">
           <l>eḻiṉmika vuṭaiya tīṅkaṇip paṭūun</l>
           <l>tiṟavōr ceyviṉai yaṟava tākuṅ</l>
           <l>kiḷaiyuṭai māntarkkup puṇaiyumā rivveṉa</l>
@@ -42,7 +40,7 @@
           <l>mārpurit tākiya maṟuvi ṉaṭpē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Possessing much grace it grows close <note place="foot"><term xml:lang="ta">aṇip paṭuum</term>
             : how to understand the morphology and the syntax? <term xml:lang="ta">aṇi</term>presumably
             should be understood as DEDR 120, verbal root "to join with" or adv. "near". T.V.G.

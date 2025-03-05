@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT322-kilavi">
-        <p type="edition">talaimakaṉ varavuṇarntu tōḻikkut talaimakaḷ iṉaṟpaṭa moḻintatu. </p>
-        <p type="translation" xml:lang="en">Spoken by HER so that [his] qualities become clear, when
+      <div rend="parallel">
+        <p xml:id="KT322-kilavi">talaimakaṉ varavuṇarntu tōḻikkut talaimakaḷ iṉaṟpaṭa moḻintatu. </p>
+        <p xml:lang="en">Spoken by HER so that [his] qualities become clear, when
           realising HIS coming. </p>
       </div>
 
-      <div xml:id="KT322">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT322">
           <l> amarkka ṇāmā ṉañcevik kuḻavi</l>
           <l> kāṉava reṭuppa verīi yiṉantīrntu</l>
           <l> kāṉa naṇṇiya ciṟukuṭip paṭṭeṉa</l>
@@ -40,7 +38,7 @@
           <l> celvān tōḻi yolvāṅku naṭantē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Are there things more pleasing than joining [someone], <note place="foot"> <term xml:lang="ta"> maruviṉ iṉiyavum uḷavō </term>: the same construction as in KT 2.4,5 (<term xml:lang="ta"> kūntaliṉ/ naṟiyavum uḷa </term>), i.e. literally "are there things pleasing also from [the point of view of] joining?". </note> </l>
           <l rend="indent">like the pretty-eared calf of the wild cow with longing eyes, <note place="foot"> The parallel in KT 64, where the calf is termed <term xml:lang="ta"> maṭakkaṇ </term> makes me wonder whether <term xml:lang="ta"> amarkkaṇ </term> might here as well be rather an attribute of <term xml:lang="ta"> kuḻavi </term> than of <term xml:lang="ta"> āmāṉ </term>.</note></l>
           <l rend="indent">frightened because the forest people rouse it, leaving the herd, and,</l>

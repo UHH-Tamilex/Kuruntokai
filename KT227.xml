@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,9 +22,9 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT227-kilavi">
-        <p type="edition">ciṟaippuṟam.</p>
-        <p type="translation" xml:lang="en">Hedge.<note place="foot">T.V.G. understands the whole,
+      <div rend="parallel">
+        <p xml:id="KT227-kilavi">ciṟaippuṟam.</p>
+        <p xml:lang="en">Hedge.<note place="foot">T.V.G. understands the whole,
           in explanation of the very elusive <term xml:lang="ta">kiḷavi</term> , which says just
           "hedge" (<term xml:lang="ta">ciṟaippuṟam</term>), as an indirect message to HIM via the
           confidante speaking to HER, in order to explain a failed meeting: the women would have
@@ -39,15 +37,15 @@
           cut down the waterlilies.</note> </p>
       </div>
 
-      <div xml:id="KT227">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT227">
           <l>pūṇvaḷain taṉṉa polañcūṭṭu nēmi</l>
           <l>vāṇmukan tumippa vaḷḷitaḻ kuṟainta</l>
           <l>kūḻai neytalu muṭaittivaṭ</l>
           <l>ṭērōṉ pōkiya kāṉa lāṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>This place possesses only<note place="foot"><term xml:lang="ta">neytalum</term> : the <term xml:lang="ta">-um </term> is problematic here. Perhaps this is another case of a
             peculiar exclusive function: apart from myself (i.e. the speaker) also x (cf. KT 25.5 <term xml:lang="ta">kurukum uṇṭu</term>). T.V.G. explains it as an indefinite ("all the
             blue waterlilies"), which amounts to the same as far as contents are concerned.</note>

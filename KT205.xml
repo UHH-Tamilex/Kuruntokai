@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT205-kilavi">
-        <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she
+      <div rend="parallel">
+        <p xml:id="KT205-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu. </p>
+        <p xml:lang="en">Told by HER to the confidante who was anxious she
           wouldn't have the strength to [await] the time of marriage. </p>
       </div>
 
-      <div xml:id="KT205">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT205">
           <l>miṉṉuccey karuviya peyaṉmaḻai tūṅka</l>
           <l>vicumpā ṭaṉṉam paṟainivan tāṅkup</l>
           <l>polampaṭai polinta veṇṭē rēṟik</l>
@@ -41,7 +39,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Having mounted the white chariot glittering</l>
           <l rend="indent4">with the golden harness,<note place="foot">The most obvious meaning of <term xml:lang="ta">paṭai</term>
             is "weapon" (= DEDR 3860), thus in KT 333.1 and 350.6. But in the context with

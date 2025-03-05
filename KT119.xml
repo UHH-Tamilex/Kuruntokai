@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT119-kilavi">
-          <p type="edition">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ pāṅkaṟku uraittatu.</p>
-          <p type="translation" xml:lang="en">Told to the companion by HIM who leaves [her] after having consummated the natural union.</p>
+        <div rend="parallel">
+          <p xml:id="KT119-kilavi">iyaṟkaippuṇarcci puṇarntu nīṅkun talaimakaṉ pāṅkaṟku uraittatu.</p>
+          <p xml:lang="en">Told to the companion by HIM who leaves [her] after having consummated the natural union.</p>
           </div>
 
 
-        <div xml:id="KT119">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT119">
 <l>                ciṟuveḷ ḷaravi ṉavvarik kuruḷai</l>
 <l>                kāṉa yāṉai yaṇaṅki yāaṅ</l>
 <l>                kiḷaiyaṇ muḷaivā ḷeyiṟṟaḷ</l>
 <l>                vaḷaiyuṭaik kaiyaḷem maṇaṅki yōḷē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">Just as the young one with pretty stripes of the small white snake</l>
            <l rend="indent">has troubled the forest elephant,<note place="foot">The fact implied here – that a snake could trouble an elephant – is not backed up by a topos either in Tamil or Sanskrit literature that I would know of. TVG here suggests the cobra as an enemy of the elephant. If we dissolve the <term xml:lang="ta">sandhi</term> in a different way, namely <term xml:lang="ta">avvari</term> as the demonstrative pronoun <term xml:lang="ta">a-</term> plus <term xml:lang="ta">vari</term>, the line would refer to one particular snake ("that striped young one of the snake"), but if there is a story it is not known to TVG</note></l>
            <l>the youthful one, teeth bright as sprouts,</l>

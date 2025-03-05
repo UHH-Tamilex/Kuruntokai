@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT124-kilavi">
-          <p type="edition">puṇarntuṭaṉ pōkkiṉait talaimakaḷ oḻiyap pōkaluṟṟat talaimakaṟkut tōḻi colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by the confidante to HIM, who undertook to go while SHE would stay behind, about unitedly going away together.</p>
+        <div rend="parallel">
+          <p xml:id="KT124-kilavi">puṇarntuṭaṉ pōkkiṉait talaimakaḷ oḻiyap pōkaluṟṟat talaimakaṟkut tōḻi colliyatu.</p>
+          <p xml:lang="en">Uttered by the confidante to HIM, who undertook to go while SHE would stay behind, about unitedly going away together.</p>
           </div>
 
 
-        <div xml:id="KT124">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT124">
 <l>                umaṇar cērntu kaḻinta maruṅki ṉakaṉṟalai</l>
 <l>                yūrpāḻt taṉṉa vōmaiyam peruṅkā</l>
 <l>                ṭiṉṉā veṉṟi rāyi</l>
 <l>                ṉiṉiyavō peruma tamiyōrkku maṉaiyē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>If, [as] you would say,</l>
            <l rend="indent3">[it is] unsweet,</l>
            <l rend="indent">the big wilderness of Ōmai trees, like a ruined village</l>

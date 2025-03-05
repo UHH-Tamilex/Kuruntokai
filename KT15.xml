@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,13 +21,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT15-kilavi">
-          <p type="edition">uṭaṉpōyiṉapiṉṟait tōḻi cevilikku aṟattoṭu niṉṟāḷ (C2: niṉṟatu.) niṟpac cevilittāy naṟṟāykku aṟattoṭu niṉṟatu.</p>
-          <p type="translation" xml:lang="en">As, after [he and she] had gone away together, the confidante stood firm in duty to the foster-mother, the foster-mother standing firm in duty to the real mother.</p>
+        <div rend="parallel">
+          <p xml:id="KT15-kilavi">uṭaṉpōyiṉapiṉṟait tōḻi cevilikku aṟattoṭu niṉṟāḷ (C2: niṉṟatu.) niṟpac cevilittāy naṟṟāykku aṟattoṭu niṉṟatu.</p>
+          <p xml:lang="en">As, after [he and she] had gone away together, the confidante stood firm in duty to the foster-mother, the foster-mother standing firm in duty to the real mother.</p>
           </div>
 
-        <div xml:id="KT15">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT15">
 <l>                paṟaipaṭap paṇila mārppa viṟaikoḷpu</l>
 <l>                toṉmū tālattup potiyiṟ ṟōṉṟiya</l>
 <l>                nallūrk kōcar naṉmoḻi pōla</l>
@@ -37,7 +35,7 @@
 <l>                cēyilai veḷvēl viṭalaiyoṭu</l>
 <l>                tokuvaḷai muṉkai maṭantai naṭpē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent">Like the good word of the Kōcars from the
                     <choice>
                         <seg>good village,</seg>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT210-kilavi">
-        <p type="edition">pirintu vanta talaimakaṉ naṉku āṟṟuvittāy eṉṟāṟkut tōḻi uraittatu. </p>
-        <p type="translation" xml:lang="en">Told by the confidante to him who said “you have
+      <div rend="parallel">
+        <p xml:id="KT210-kilavi">pirintu vanta talaimakaṉ naṉku āṟṟuvittāy eṉṟāṟkut tōḻi uraittatu. </p>
+        <p xml:lang="en">Told by the confidante to him who said “you have
           reassured [her] well!”, [that is] HIM, who came after being separated. </p>
       </div>
 
-      <div xml:id="KT210">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT210">
           <l>tiṇṭēr naḷḷi kāṉat taṇṭar</l>
           <l>pallā payanta neyyiṟ ṟoṇṭi</l>
           <l>muḻutuṭaṉ viḷainta veṇṇel veñcō</l>
@@ -41,7 +39,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Even if [it] received a pot</l>
           <l rend="indent2">of a hot dish of white rice stewed together with the whole</l>
           <l rend="indent3">of Toṇṭi's <note place="foot">The positioning of <term xml:lang="ta">

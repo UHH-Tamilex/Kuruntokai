@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,22 +22,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT22-kilavi">
-        <p type="edition">celavuk kuṟippaṟintu āṟṟāḷākiya kiḻattiyait tōḻi vaṟpuṟuttiyatu.</p>
-        <p type="translation" xml:lang="en">The confidante encouraging HER who did not have the
+      <div rend="parallel">
+        <p xml:id="KT22-kilavi">celavuk kuṟippaṟintu āṟṟāḷākiya kiḻattiyait tōḻi vaṟpuṟuttiyatu.</p>
+        <p xml:lang="en">The confidante encouraging HER who did not have the
           strength [anymore] when she comprehended [his] intention to go.</p>
       </div>
 
 
-      <div xml:id="KT22">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT22">
           <l> nīrvār kaṇṇai nīyiva ṇoḻiya</l>
           <l> yārō pirikiṟ pavarē cāraṟ</l>
           <l> cilampaṇi koṇṭa valañcuri marāattu</l>
           <l> vēṉi lañciṉai kamaḻun</l>
           <l> tēmū roṇṇuta ṉiṉṉoṭuñ celavē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Who is able to separate</l>
           <l rend="indent">so that you would stay behind, o you whose eyes brim with water?</l>
           <l>Going [is possible] only with you of bright forehead</l>

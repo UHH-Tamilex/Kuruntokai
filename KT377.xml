@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,17 +24,17 @@
     </teiHeader>
     <text xml:lang="ta" type="edition">
         <body>
-            <div xml:id="KT377-kilavi">
-                <p type="edition">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti aḻintu kūṟiyatu. </p>
+            <div rend="parallel">
+                <p xml:id="KT377-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti aḻintu kūṟiyatu. </p>
 
 
-                <p type="translation" xml:lang="en">Uttered when being desolate by HER to the
+                <p xml:lang="en">Uttered when being desolate by HER to the
                     confidante, who was anxious that she would not have the strength [to await] the
                     time of marriage. </p>
             </div>
 
-            <div xml:id="KT377">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="KT377">
                     <l> malarē ruṇkaṇ māṇalan tolaiya</l>
                     <l> vaḷaiyēr meṉṟōṇ ñekiḻntataṉ ṟalaiyu</l>
                     <l> māṟṟā kiṉṟē tōḻiyāṟ ṟalaiyē</l>
@@ -46,7 +44,7 @@
 
                 </lg>
 
-                <lg type="translation" xml:lang="en">
+                <lg xml:lang="en">
                     <l rend="indent"> On top even of the soft shoulders pretty with <note place="foot">
                         <term xml:lang="ta"> vaḷai ēr </term>  is slightly puzzling; the usual comparison particle, as seen in line 1, cannot be meant, and Cām. glosses with  <term xml:lang="ta">  vaḷaiyaiyuṭaiya aḻakiya </term>, without apparent semantic basis (though even the comparison particle is missing in the DEDR). T.V.G. explains it as worthy to wear, which probably reveals that the strategy of both of them simply was to make sense in the context. There is a number of possible parallels in the NA, the most convincing of which is NA 258.11: <term xml:lang="ta"> neruṅku ēr el vaḷai </term> "tight, beautiful, bright bangles".    </note> bangles</l>
                 <l rend="indent9"> being emaciated,</l>

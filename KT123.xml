@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT123-kilavi">
-          <p type="edition">pakaṟkuṟiyiṭattu vanta talaimakaṉaik kāṇāt tōḻi avaṉ ciṟaippuṟattāṉātal aṟintu talaimakaṭkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Spoken to HER in the knowledge that he is behind the hedge, by the confidante who had not seen HIM come to the day tryst.</p>
+        <div rend="parallel">
+          <p xml:id="KT123-kilavi">pakaṟkuṟiyiṭattu vanta talaimakaṉaik kāṇāt tōḻi avaṉ ciṟaippuṟattāṉātal aṟintu talaimakaṭkuc colliyatu.</p>
+          <p xml:lang="en">Spoken to HER in the knowledge that he is behind the hedge, by the confidante who had not seen HIM come to the day tryst.</p>
           </div>
 
 
-        <div xml:id="KT123">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT123">
 <l>                iruṭiṇin taṉṉa vīrntaṇ koḻuniḻa</l>
 <l>                ṉilavukkuvit taṉṉa veṇmaṇa loruciṟaik</l>
 <l>                karuṅkōṭṭup puṉṉaip pūmpoḻil pulampa</l>
 <l>                viṉṉum vārār varūum</l>
 <l>                paṉmīṉ vēṭṭat teṉṉaiyar timilē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>Such that the grove of black-branched Puṉṉai trees grows lonely,<note place="foot">TVG here takes the infinitive <term xml:lang="ta">pulampa</term> in an optative sense: "may become lonely ...".</note></l>
            <l rend="indent">[on] one wing white sand like heaped moonlight,</l>
            <l rend="indent">[on the other] cool, moist, dense shadow like solid darkness,</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,14 +29,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT177-kilavi">
-          <p type="edition">kiḻavaṉ varavuṇarntu tōḻi kiḻattikku uraittatu.</p>
-          <p type="translation" xml:lang="en">Told to HER by the confidante after she had realised HIS coming.</p>
+        <div rend="parallel">
+          <p xml:id="KT177-kilavi">kiḻavaṉ varavuṇarntu tōḻi kiḻattikku uraittatu.</p>
+          <p xml:lang="en">Told to HER by the confidante after she had realised HIS coming.</p>
           </div>
 
 
-        <div xml:id="KT177">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT177">
 <l>                kaṭalpā ṭavintu kāṉaṉ mayaṅkit</l>
 <l>                tuṟainī riruṅkaḻi pulleṉ ṟaṉṟē</l>
 <l>                maṉṟavam peṇṇai maṭalcēr vāḻkkai</l>
@@ -47,7 +45,7 @@
 <l>                pulappiṉum pirivāṅ kañcit</l>
 <l>                taṇapparuṅ kāman taṇṭi yōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>The sea ceased singing, the seashore groves [fell] enchanted,</l>
            <l>the ghat waters [have become] dark backwaters – it is empty.<note place="foot">For <term xml:lang="ta">pulleṉṟaṉṟē</term> cf. <term xml:lang="ta">nalleṉṟaṉṟē</term> in KT 6.1.</note></l>
            <l rend="indent">Today, as the Aṉṟil is calling gently,</l>

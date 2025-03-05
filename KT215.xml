@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT215-kilavi">
-        <p type="edition">piriviṭait tōḻi vaṟpuṟuttiyatu. </p>
-        <p type="translation" xml:lang="en">The confidante encouraging in the time of separation. </p>
+      <div rend="parallel">
+        <p xml:id="KT215-kilavi">piriviṭait tōḻi vaṟpuṟuttiyatu. </p>
+        <p xml:lang="en">The confidante encouraging in the time of separation. </p>
       </div>
 
-      <div xml:id="KT215">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT215">
 
           <l>paṭarum paipayap peyaruñ cuṭaru</l>
           <l>meṉṟūḻ māmalai maṟaiyu miṉṟavar</l>
@@ -47,7 +45,7 @@
           <l>neṭuvarai maruṅkiṟ curaṉiṟan tōrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l rend="indent2">Today, when the glowing sun, which sets out, slowly moves [on],</l>
           <l rend="indent2">[and] vanishes behind the great mountains,</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT49-kilavi">
-          <p type="edition">talaimakaṉ parattaimāṭṭup pirintavaḻi āṟṟāḷākiya talaimakaḷ avaṉaik kaṇṭavaḻi avvāṟṟāmai nīṅkum aṉṟē. nīṅkiyavaḻi appaḷḷiyiṭattāṉākiya talaimakaṟkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">As SHE, who had no [more] strength, when HE had separated because of another woman/courtesan, saw him, the lack of strength left [her], didn't it (aṉṟē); spoken to HIM who was on that bed, when [the lack of strength] left [her].</p>
+        <div rend="parallel">
+          <p xml:id="KT49-kilavi">talaimakaṉ parattaimāṭṭup pirintavaḻi āṟṟāḷākiya talaimakaḷ avaṉaik kaṇṭavaḻi avvāṟṟāmai nīṅkum aṉṟē. nīṅkiyavaḻi appaḷḷiyiṭattāṉākiya talaimakaṟkuc colliyatu.</p>
+          <p xml:lang="en">As SHE, who had no [more] strength, when HE had separated because of another woman/courtesan, saw him, the lack of strength left [her], didn't it (aṉṟē); spoken to HIM who was on that bed, when [the lack of strength] left [her].</p>
           </div>
 
 
 
-        <div xml:id="KT49">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT49">
 <l>                aṇiṟpal laṉṉa koṅkumutir muṇṭakattu</l>
 <l>                maṇikkē ḻaṉṉa mānīrc cērppa</l>
 <l>                vimmai māṟi maṟumai yāyiṉu</l>
@@ -39,7 +37,7 @@
 <l>                yāṉā kiyarniṉ ṉeñcunēr pavaḷē.</l>
 
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
              <l>O man from a coast of great waters like the lustre of sapphires</l>
              <l rend="indent">where [are] Muṇṭakam shrubs, [their] pollen ripening,</l>
              <l rend="indent4">like squirrels' teeth,</l>

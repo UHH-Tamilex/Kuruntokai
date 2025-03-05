@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,18 +24,18 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT370-kilavi">
-        <p type="edition">kiḻatti taṉṉaip puṟaṉuraittāḷ eṉpatu kēṭṭup parattai avaṭkup pāṅkāyiṉār
+      <div rend="parallel">
+        <p xml:id="KT370-kilavi">kiḻatti taṉṉaip puṟaṉuraittāḷ eṉpatu kēṭṭup parattai avaṭkup pāṅkāyiṉār
           kēṭpac colliyatu. </p>
 
 
-        <p type="translation" xml:lang="en">Uttered, for those who are close to her to hear, by the
+        <p xml:lang="en">Uttered, for those who are close to her to hear, by the
           courtesan/the other woman, having heard [people] say that SHE had talked about her behind
           [her] back. </p>
       </div>
 
-      <div xml:id="KT370">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT370">
           <l> poykai yāmpa laṇiniṟak koḻumukai</l>
           <l> vaṇṭuvāy tiṟakkun taṇṭuṟai yūraṉō</l>
           <l> ṭiruppi ṉirumaruṅ kiṉamē kiṭappiṉ</l>
@@ -47,7 +45,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>The man from a village by the cool ghat, where bee mouths open</l>
           <l rend="indent">the rich buds in adorning colours on the waterlilies in the pond,</l>
           <l rend="indent7">when resting with him on a seat,</l>

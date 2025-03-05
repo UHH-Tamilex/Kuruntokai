@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,24 +22,24 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT146-kilavi">
-        <p type="edition">talaimakaṉ tamar varaivoṭu vantu collāṭukiṉṟuḻi varaivu
+      <div rend="parallel">
+        <p xml:id="KT146-kilavi">talaimakaṉ tamar varaivoṭu vantu collāṭukiṉṟuḻi varaivu
           maṟuppavō eṉak kavaṉṟa talaimakaṭkut tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">Uttered by the confidante to HER who was anxious they
+        <p xml:lang="en">Uttered by the confidante to HER who was anxious they
           would deny marriage, while they were talking, after HIS relations had come with [an offer
           of] marriage.</p>
       </div>
 
 
-      <div xml:id="KT146">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT146">
           <l> amma vāḻi tōḻi nammūrp</l>
           <l> pirintōrp puṇarppō riruntaṉar kollō</l>
           <l> taṇṭuṭaik kaiyar veṇṭalaic citavalar</l>
           <l> naṉṟunaṉ ṟeṉṉu mākkaḷō</l>
           <l> ṭiṉṟuperi teṉṉu māṅkaṇa tavaiyē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Alas, oh friend, in our village,</l>
           <l>have there [once] been those who united the separated?<note place="foot">puṇarppōr
             iruntaṉar: this construction with a predicative verb of existence following a

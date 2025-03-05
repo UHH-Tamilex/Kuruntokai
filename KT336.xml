@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +21,16 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT336-kilavi">
-        <p type="edition">talaimakaṉ iravukkuṟi nayantāṉait tōḻi colli maṟuttatu. </p>
+      <div rend="parallel">
+        <p xml:id="KT336-kilavi">talaimakaṉ iravukkuṟi nayantāṉait tōḻi colli maṟuttatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante refusing, speaking to HIM who had been
+        <p xml:lang="en">The confidante refusing, speaking to HIM who had been
           granted night trysts. </p>
       </div>
 
-      <div xml:id="KT336">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT336">
           <l> ceṟuvārk kuvakai yākat teṟuvara</l>
           <l> vīṅkiṉam varupavō tēmpāy tuṟaiva</l>
           <l> ciṟunā voṇmaṇi viḷari yārppak</l>
@@ -41,7 +39,7 @@
           <l> varuntiṉa ḷaḷiyaṇī pirintici ṉōḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l rend="indent">Being a pleasure to those who slander [her], <note place="foot"> <term xml:lang="ta"> ceṟuvār </term>: Cām. glosses with "HER enemies", which must presumably mean that part of the village people who are not favourable towards secret affairs. It seems best to take them also as the subject to <term xml:lang="ta"> varupa </term> in the following line: SHE is surrounded by evil gossip. The question, then, is rhetorical and implies that it would have been HIS duty to avoid such a situation.</note> </l>
           <l rend="indent8">so that it will scorch <note place="foot"> <term xml:lang="ta"> teṟu vara </term>: is this to be read as an auxiliary construction? So that it inevitably gives pain to HER?    </note> [her]</l>
           <l>will they come here in a group,</l>

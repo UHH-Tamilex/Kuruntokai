@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT126-kilavi">
-          <p type="edition">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER who is desolate at the sight of the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT126-kilavi">paruvaṅ kaṇṭu aḻinta talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER who is desolate at the sight of the season.</p>
           </div>
 
 
-        <div xml:id="KT126">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT126">
 <l>                iḷamai pārār vaḷanacaiic ceṉṟō</l>
 <l>                rivaṇum vārā revaṇa rōveṉap</l>
 <l>                peyalpuṟan tanta pūṅkoṭi mullait</l>
 <l>                tokumukai yilaṅkeyi ṟāka</l>
 <l>                nakumē tōḻi naṟuntaṇ kārē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l rend="indent">“The one who doesn't see [your] youth,</l>
            <l rend="indent3">who has gone yearning for wealth,</l>
            <l rend="indent">who also hasn't come here – where [is] he?”</l>

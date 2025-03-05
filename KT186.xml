@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,20 +21,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT186-kilavi">
-          <p type="edition">paruva varaviṉkaṇ āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
-          <p type="translation" xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
+        <div rend="parallel">
+          <p xml:id="KT186-kilavi">paruva varaviṉkaṇ āṟṟāḷ eṉak kavaṉṟa tōḻikkuk kiḻatti uraittatu.</p>
+          <p xml:lang="en">Told by HER to the confidante who was anxious she would not have the strength at the coming of the season.</p>
           </div>
           
 
-        <div xml:id="KT186">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT186">
 <l>               ārkali yēṟṟoṭu kārtalai maṇanta</l>
 <l>               kollaip puṉatta mullai meṉkoṭi</l>
 <l>               yeyiṟeṉa mukaikku nāṭaṟkut</l>
 <l>               tuyiṟuṟan taṉavāṟ ṟōḻiyeṉ kaṇṇē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
          <l>My eyes, friend, have actually given up sleep</l>  
          <l rend="indent">for the man from a land where the soft creepers of the field jasmine</l>
          <l rend="indent">bud, like teeth, in the clearing</l>

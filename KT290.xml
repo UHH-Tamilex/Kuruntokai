@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +21,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT290-kilavi">
-        <p type="edition">vaṟpuṟuttun tōḻikkut talaimakaḷ aḻivuṟṟuc colliyatu. </p>
-        <p type="translation" xml:lang="en">Spoken when falling into desolation by HER to the
+      <div rend="parallel">
+        <p xml:id="KT290-kilavi">vaṟpuṟuttun tōḻikkut talaimakaḷ aḻivuṟṟuc colliyatu. </p>
+        <p xml:lang="en">Spoken when falling into desolation by HER to the
           confidante who encourages [her]. </p>
       </div>
 
-      <div xml:id="KT290">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT290">
           <l> kāman tāṅkumati yeṉpōr tāmaḵ</l>
           <l> taṟiyalar kollō vaṉaimatu kaiyarkol</l>
           <l> yāmeṅ kātalark kāṇē māyiṟ</l>
@@ -39,7 +37,7 @@
           <l> mella mella villā kutumē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>“Endure desire!”, they say – as for them,</l>
           <l>don't they know? [Are] they that strong?</l>
           <l rend="indent2">If we don't see our lover,</l>

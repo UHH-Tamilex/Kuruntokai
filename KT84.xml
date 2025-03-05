@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,22 +29,22 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT84-kilavi">
-          <p type="edition">makaṭ pōkkiya cevilittāy colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered by the foster-mother who had found the daughter gone.</p>
+        <div rend="parallel">
+          <p xml:id="KT84-kilavi">makaṭ pōkkiya cevilittāy colliyatu.</p>
+          <p xml:lang="en">Uttered by the foster-mother who had found the daughter gone.</p>
           </div>
 
 
 
-        <div xml:id="KT84">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT84">
 <l>                peyarttaṉeṉ muyaṅkayāṉ viyarttaṉe ṉeṉṟaṉa</l>
 <l>                ḷiṉiyaṟin tēṉatu tuṉiyā kutalē</l>
 <l>                kaḻaṟoṭi yāay maḻaitavaḻ potiyil</l>
 <l>                vēṅkaiyuṅ kāntaḷu nāṟi</l>
 <l>                yāmpaṉ malariṉun tāṉṟaṇ ṇiyaḷē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l>
                     <choice>
                         <seg>I refused to embrace [her], I was upset about her who had spoken;<note place="foot">What is the exact syntax of line 1? However it is understood, there are problems of position and morphology. The inf. muyaṅka has to be taken together with peyarttaṉeṉ. If so, then the translation given above should not be blamed for connecting viyarttaṉeṉ with the postpositioned eṉṟaṉaḷ (the postpositioned object of line 2, ākutal, is marked by -ē). The particle-marking, or rather non-marking, seems to me to require three parallel (and consequently coordinated!) main verbs, each with object postpositioned. The problem with this is that it requires taking eṉṟaṉaḷ with the infix -aṉ- as a participial noun. In any case the theme is interesting: jealousy between the women, not on account of the man.</note></seg>

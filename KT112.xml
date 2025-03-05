@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT112-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ tōḻikkuc colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered to the confidante by HER when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT112-kilavi">varaivu nīṭṭittavaḻit talaimakaḷ tōḻikkuc colliyatu.</p>
+          <p xml:lang="en">Uttered to the confidante by HER when [he] delayed marriage.</p>
           </div>
 
 
-        <div xml:id="KT112">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT112">
 <l>                kauvai yañciṟ kāma meykku</l>
 <l>                meḷḷaṟa viṭiṉē yuḷḷatu nāṇē</l>
 <l>                peruṅkaḷiṟu vāṅka murintunilam paṭāa</l>
 <l>                nāruṭai yociya laṟṟē</l>
 <l>                kaṇṭiciṟ ṟōḻiyava ruṇṭaveṉ ṉalaṉē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>If one fears scandal desire will grow weary.</l>
            <l>
             <choice>

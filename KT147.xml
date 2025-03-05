@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT147-kilavi">
-          <p type="edition">talaimakaṉ pirintaviṭattuk kaṉāk kaṇṭu colliyatu.</p>
-          <p type="translation" xml:lang="en">Uttered at the sight of a dream when HE was separated [from her].</p>
+        <div rend="parallel">
+          <p xml:id="KT147-kilavi">talaimakaṉ pirintaviṭattuk kaṉāk kaṇṭu colliyatu.</p>
+          <p xml:lang="en">Uttered at the sight of a dream when HE was separated [from her].</p>
           </div>
 
 
-        <div xml:id="KT147">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT147">
 <l>                vēṉiṟ pātirik kūṉmala raṉṉa</l>
 <l>                mayirō ṭoḻukiya vaṅkaluḻ māmai</l>
 <l>                nuṇpūṇ maṭantaiyait tantōy pōla</l>
 <l>                viṉṟuyi leṭupputi kaṉavē</l>
 <l>                yeḷḷā ramma tuṇaippirin tōrē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
            <l>O dream, you arouse [me] from sweet sleep,</l>
            <l rend="indent2">as if you had brought<note place="foot"><term xml:lang="ta">tantōy pōla</term>: what is the relation of this construction of a finite verb plus the infinitive <term xml:lang="ta">pōla</term> to that of double finite verb as in KT 103.6: <term xml:lang="ta">vāḻēṉ pōlvaṉ</term>?</note> the girl with fine ornaments,</l>
            <l rend="indent">of beautiful, [now] dimming darkness that was grown</l>

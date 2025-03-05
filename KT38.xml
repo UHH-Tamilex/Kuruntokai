@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,15 +21,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT38-kilavi">
-          <p type="edition">varaivu nīṭṭittavaḻit talaimakaḷ taṉatu āṟṟāmai tōṉṟat tōḻikkuk kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">She talking to the confidante so that her lack of strength became apparent, when [he] delayed marriage.</p>
+        <div rend="parallel">
+          <p xml:id="KT38-kilavi">varaivu nīṭṭittavaḻit talaimakaḷ taṉatu āṟṟāmai tōṉṟat tōḻikkuk kūṟiyatu.</p>
+          <p xml:lang="en">She talking to the confidante so that her lack of strength became apparent, when [he] delayed marriage.</p>
           </div>
 
 
 
-        <div xml:id="KT38">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT38">
 <l>                kāṉa maññai yaṟaiyīṉ muṭṭai</l>
 <l>                veyilāṭu mucuviṉ kuruḷai yuruṭṭuṅ</l>
 <l>                kuṉṟa nāṭaṉ kēṇmai yeṉṟu</l>
@@ -39,7 +37,7 @@
 <l>                ṇīrō ṭōrāṅkut taṇappa</l>
 <l>                vuḷḷā takaṟal vallu vōrkkē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                <l>The intimacy with the man from the hills,</l>
                <l rend="indent">where the young of the langur, playing in the sunlight,</l>
                <l rend="indent">is rolling the egg laid on a rock by a peahen,</l>

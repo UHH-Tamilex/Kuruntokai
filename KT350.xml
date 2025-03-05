@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,17 +24,17 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="KT350-kilavi">
-        <p type="edition">pirivu nērnta talaimakaḷ avaṉatu nīkkattukkaṇ vēṟupaṭṭārait tōḻi
+      <div rend="parallel">
+        <p xml:id="KT350-kilavi">pirivu nērnta talaimakaḷ avaṉatu nīkkattukkaṇ vēṟupaṭṭārait tōḻi
           vaṟpuṟīiyatu. </p>
 
 
-        <p type="translation" xml:lang="en">The confidante encouraging the one who was unchanged at
+        <p xml:lang="en">The confidante encouraging the one who was unchanged at
           his departure, [namely] SHE, who had granted separation. </p>
       </div>
 
-      <div xml:id="KT350">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="KT350">
           <l> amma vāḻi tōḻi muṉṉiṉṟu</l>
           <l> paṉikkaṭuṅ kuraiyañ cellā tīmeṉac</l>
           <l> colliṉa māyiṟ celvar kollō</l>
@@ -49,7 +47,7 @@
 
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>Alas, oh friend,</l>
           <l>would he have gone, if we had said, <note place="foot">
             <term xml:lang="ta"> colliṉam </term>: this perfective aspect might mark the hypothetical character of the conditional. We know it must have been in the past because of the <term xml:lang="ta"> pirinticiṉōr </term>. So, in order not to have to understand <term xml:lang="ta">  celvar</term>  as a past tense, we have to explain it as a (tenseless) participial noun, i.e. literally "[would] he [have been] one who goes". </note> confronting [him],</l>

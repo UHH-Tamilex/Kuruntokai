@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,21 +21,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="KT153-kilavi">
-          <p type="edition">varaiyātu neṭuṅkālam vantoḻukiṉṟuḻi “nām avarai vēṟupaṭuttaṟkuk kāraṇam eṉṉai” eṉṟa tōḻikku “avar varavu namakku (C5: namatu) āṟṟāmaikkuk kāraṇam ām (C5: /)” eṉat talaimakaḷ kūṟiyatu.</p>
-          <p type="translation" xml:lang="en">Spoken by HER, when a long time had passed without marrying, to the confidante who has said “what [is] the reason for our changing him?', in order to say 'his coming is the reason for our lack of strength”.</p>
+        <div rend="parallel">
+          <p xml:id="KT153-kilavi">varaiyātu neṭuṅkālam vantoḻukiṉṟuḻi “nām avarai vēṟupaṭuttaṟkuk kāraṇam eṉṉai” eṉṟa tōḻikku “avar varavu namakku (C5: namatu) āṟṟāmaikkuk kāraṇam ām (C5: /)” eṉat talaimakaḷ kūṟiyatu.</p>
+          <p xml:lang="en">Spoken by HER, when a long time had passed without marrying, to the confidante who has said “what [is] the reason for our changing him?', in order to say 'his coming is the reason for our lack of strength”.</p>
           </div>
 
 
-        <div xml:id="KT153">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="KT153">
 <l>                kuṉṟak kūkai kuḻaṟiṉu muṉṟiṟ</l>
 <l>                palavi ṉiruñciṉaik kalaipāyn tukaḷiṉu</l>
 <l>                mañcuma ṉaḷitte ṉeñca miṉiyē</l>
 <l>                yāriruṭ kaṅku lavarvayiṟ</l>
 <l>                cāra ṉīḷiṭaic celavā ṉātē.</l>
              </lg>
-            <lg type="translation" xml:lang="en">
+            <lg xml:lang="en">
                 <l rend="indent">When the owl shrieks from the hills, and in the front-yard</l>
                 <l rend="indent">the monkey jumps to and fro<note place="foot"><term xml:lang="ta">pāyntu-ukaḷiṉ</term>: probably this is to be understood as a synonym compound with intensifying function ("to jump to and fro").</note> on the jackfruit tree’s big branches</l>
                 <l>fearful indeed [and] pitiable [is] my heart now:<note place="foot"><term xml:lang="ta">ṉiy-ē</term> is the syntactical junction connecting both sentences of the poem, and probably also expression of regret.</note></l>
