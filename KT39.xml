@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +24,8 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT39-kilavi">“piriviṭai āṟṟal vēṇṭum” eṉṟa tōḻikku “yāṅkaṉam āṟṟuvēṉ” eṉat taṉatu āṟṟāmai mikuti tōṉṟat talaimakaḷ kūṟukiṉṟāḷ. “nam mulaiyiṭait tuyiṉ muṉintu pōyiṉār ceṉṟavaḻi ippaṭippaṭṭa koṭumaittāl yāṉ eṅṅaṉam āṟṟiyuḷēṉ āvēṉ? yāṉ āṟṟukiṉṟilēṉ” eṉa “nī āṟṟāy ākiṉṟatu eṉ” eṉat tōḻikkut talaimakaḷ kūṟiyatu.</p>
+          <p xml:id="KT39-kilavi">“piriviṭai āṟṟal vēṇṭum” eṉṟa tōḻikku “<app><lem>yāṅkaṉam</lem><rdg wit="#C2">yāṅṅaṉam</rdg></app> āṟṟuvēṉ” eṉat taṉatu āṟṟāmai mikuti tōṉṟat talaimakaḷ kūṟukiṉṟāḷ. “nam mulaiyiṭait tuyiṉ muṉintu pōyiṉār ceṉṟavaḻi ippaṭippaṭṭa koṭumaittāl yāṉ eṅṅaṉam āṟṟiyuḷēṉ āvēṉ? yāṉ āṟṟukiṉṟilēṉ” eṉa “nī āṟṟāy ākiṉṟatu eṉ” eṉat tōḻikkut talaimakaḷ kūṟiyatu.<app><note xml:lang="en">Cām.: piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅaṉam āṟṟuvēṉ” eṉa+ taṉatu āṟṟāmai mikuti tōṉṟa+ talaimakaḷ kūṟiyatu</note></app>
+          </p>
           <p xml:lang="en">SHE, whose lack of strength appeared to be enormous, spoke to the confidante who said “it is necessary to have the strength in the time of separation”. Spoken by HER to the confidante, when she said “how is it that you do not have the strength?”, in order to say “because of the cruelty that has befallen since he has gone away, he who set off hating the sleep between our breasts, how am I to have the strenth? I do not have the strength”.</p>
           </div>
 
@@ -298,15 +301,12 @@
       <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
     </witness>
   </witness>
-</listWit></standOff><standOff corresp="#KT39-kilavi" type="apparatus"><listApp>
-<app><note xml:lang="en">C2: yāṅṅaṉam
-Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅaṉam āṟṟuvēṉ” eṉa+ taṉatu āṟṟāmai mikuti tōṉṟa+ talaimakaḷ kūṟiyatu</note></app>
-</listApp></standOff><standOff corresp="#KT39-kilavi" type="wordsplit">
-<interp type="alignment" select="0">6MG278MG93M,45MG67MG89MG68MG106M</interp>
+</listWit></standOff><standOff corresp="#KT39-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG253M,G21MG11MG15MG49M2G88MG15MG21MG30MG</interp>
 <entry>
-<form>“piriv<c type="elided">u</c></form>
+<form>piriv<c type="elided">u</c></form>
 <def>separation</def>
-<form type="sandhi">“piriv</form>
+<form type="sandhi">piriv</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -326,7 +326,7 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </gramGrp>
 </entry>
 <entry>
-<form>vēṇṭum”</form>
+<form>vēṇṭum</form>
 <def>is necessary</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
@@ -348,22 +348,11 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </gramGrp>
 </entry>
 <entry>
-<form>“yāṅkaṉam</form>
+<form>yāṅkaṉam</form>
 <def>how</def>
 </entry>
 <entry>
-<form>(C:</form>
-<def>(C2:</def>
-<form type="sandhi">(C2:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>yāṅṅaṉam)</form>
-<def>how)</def>
-</entry>
-<entry>
-<form>āṟṟuvēṉ”</form>
+<form>āṟṟuvēṉ</form>
 <def>I will be able</def>
 <gramGrp>
   <gram type="role">imperfect aspect</gram>
@@ -426,7 +415,7 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </gramGrp>
 </entry>
 <entry>
-<form>“nam</form>
+<form>nam</form>
 <def>our</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -551,7 +540,7 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </gramGrp>
 </entry>
 <entry>
-<form>āṟṟukiṉṟilēṉ”</form>
+<form>āṟṟukiṉṟilēṉ</form>
 <def>I am not able</def>
 <gramGrp>
   <gram type="role">present tense</gram>
@@ -594,7 +583,7 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </gramGrp>
 </entry>
 <entry>
-<form>eṉ”</form>
+<form>eṉ</form>
 <def>what</def>
 </entry>
 <entry>
@@ -621,127 +610,6 @@ Cām.: 'piriv* iṭai āṟṟal vēṇṭum' eṉṟa tōḻikku “yāṅṅa�
 </entry>
 <entry>
 <form>kūṟiyatu</form>
-<def>told-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>(Cām.:</form>
-<def>(Cām.:</def>
-<gramGrp>
-  <gram type="role">masculine</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="elided">u</c>piriv<c type="elided">u</c></form>
-<def>separation</def>
-<form type="sandhi">'piriv</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>iṭai</form>
-<def>middle</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āṟṟal</form>
-<def>being-able</def>
-<gramGrp>
-  <gram type="role">verbal noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vēṇṭum<c type="elided">u</c></form>
-<def>is-necessary</def>
-<form type="sandhi">vēṇṭum'</form>
-<gramGrp>
-  <gram type="role">habitual future</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉṟa</form>
-<def>said</def>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōḻikku</form>
-<def>confidante</def>
-<gramGrp>
-  <gram type="role">dative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>“yāṅṅaṉam</form>
-<def>how</def>
-</entry>
-<entry>
-<form>āṟṟuvēṉ”</form>
-<def>I shall be able</def>
-<gramGrp>
-  <gram type="role">imperfect aspect</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">first person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉa<c type="geminated">t</c></form>
-<def>say</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>taṉatu</form>
-<def>self</def>
-<gramGrp>
-  <gram type="role">genitive</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āṟṟāmai</form>
-<def>inability</def>
-<gramGrp>
-  <gram type="role">negative</gram>
-  <gram type="role">verbal noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mikuti</form>
-<def>muchness</def>
-<form type="sandhi">mikutu</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōṉṟa<c type="geminated">t</c></form>
-<def>appear</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>talaimakaḷ</form>
-<def>heroine</def>
-<gramGrp>
-  <gram type="role">feminine singular</gram>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kūṟiyatu.)</form>
 <def>told-it</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
