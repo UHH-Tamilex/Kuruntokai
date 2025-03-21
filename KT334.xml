@@ -317,15 +317,15 @@
 <app corresp="21,28">
         <lem wit="#L1 #C1 #C2 #C3 #G2v #Cam">peruntō</lem>
         <rdg wit="#G1 #Camv">peruntōṭ</rdg>
-<rdg wit="#G2 #Nacc #EA #I #AT #CamvFF">paintō</rdg>
+<rdg wit="#G2 #Nacc #EA #I #AT #Camv">paintō</rdg>
         </app>
 <app corresp="28,38">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #EA #Cam">ṭeṟitirait</lem>
-        <rdg wit="#G2FF">ṭeṟitilait</rdg>
+        <rdg wit="#G2">ṭeṟitilait</rdg>
         </app>
 <app corresp="45,53">
         <lem wit="#C2 #C3v #G1v #G2 #EA #Cam">yīrmpuṟa</lem>
-        <rdg wit="#L1 #C1 #C3 #G1FF">yīraṉpuṟa</rdg>
+        <rdg wit="#L1 #C1 #C3 #G1">yīraṉpuṟa</rdg>
         </app>
 <app corresp="62,71">
         <lem wit="#L1 #C2 #C3 #G1 #G2 #EA #Cam">paṉipulan</lem>
@@ -340,12 +340,12 @@ virunīrc</rdg>
 perunīrc</rdg>
 <rdg wit="#G2">kāṉa
 lavirum perunīrc</rdg>
-<rdg wit="#AT #VP #ERFF">kāṉa
+<rdg wit="#AT #VP #ER">kāṉa
 lirunīrc</rdg>
         </app>
 <app corresp="104,109">
         <lem wit="#L1 #C2 #C3v #G1v #EA #Cam">ṉīppi</lem>
-        <rdg wit="#C1 #C3 #G1 #G2FF"><note xml:lang="en">[om.]</note></rdg>
+        <rdg wit="#C1 #C3 #G1 #G2"><note xml:lang="en">[om.]</note></rdg>
         </app>
 <app corresp="116,123">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">miṉṉuyi</lem>
@@ -353,11 +353,11 @@ lirunīrc</rdg>
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

@@ -407,7 +407,7 @@
         </app>
 <app corresp="34,42">
         <lem wit="#C2 #C3v #Il #Nam #AT #Cam">vīḷaiyar</lem>
-        <rdg wit="#L1 #C1 #C3 #G1 #G2 #Ilv #Namv #EA #I #ATv #CamvFF">yiḷaiyar</rdg>
+        <rdg wit="#L1 #C1 #C3 #G1 #G2 #Ilv #Namv #EA #I #ATv #Camv">yiḷaiyar</rdg>
         </app>
 <app corresp="42,49">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">kalliṭu</lem>
@@ -424,7 +424,7 @@
 <app corresp="127,147">
         <lem wit="#C1 #C2 #C3 #G2 #Cam">kaṭuvicaik kalainiṟat</lem>
         <rdg wit="#G1v #EA">kaṭuvicai kalainiṟat</rdg>
-<rdg wit="#L1 #G1FF">kaṭuvicait talainiṟaḻ</rdg>
+<rdg wit="#L1 #G1">kaṭuvicait talainiṟaḻ</rdg>
         </app>
 <app corresp="178,182">
         <lem wit="#C2 #G1 #G2 #EA #Cam">vāḷi</lem>
@@ -437,7 +437,7 @@
         </app>
 <app corresp="194,200">
         <lem wit="#L1 #C1 #C2 #C3 #G2">vuṇkaṇ</lem>
-        <rdg wit="#C2v #EAFF">vuṇka</rdg>
+        <rdg wit="#C2v #EA">vuṇka</rdg>
         </app>
 <app corresp="207,213">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2v #EA #Cam">kūntaṟ</lem>
@@ -445,11 +445,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

@@ -287,7 +287,7 @@
 <app corresp="50,55">
         <lem wit="#C2 #C3c #C5 #Cam">tērai</lem>
         <rdg wit="#C3v">tērait</rdg>
-<rdg wit="#L1 #C1 #C3 #G1 #G2 #EAFF"><note xml:lang="en">[om.]</note></rdg>
+<rdg wit="#L1 #C1 #C3 #G1 #G2 #EA"><note xml:lang="en">[om.]</note></rdg>
         </app>
 <app corresp="62,70">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #EA #Cam">paṟaiyiṟ</lem>
@@ -297,12 +297,11 @@
         <lem wit="#C2 #C3v #Cam">maṉṉeṭun</lem>
         <rdg wit="#L1 #C1 #C3 #G1 #G2 #EA #AT #Camv">maṉṉaṉen</rdg>
 <rdg wit="#I">maṉṉaṉeṉ</rdg>
-<rdg wit="#C5 #Camv2 #VP #ERFF">maṉṉen</rdg>
+<rdg wit="#C5 #Camv2 #VP #ER">maṉṉen</rdg>
         </app>
-<app corresp="130,130">
-        <lem wit="#6a-cblankinC2 #butfilledin"/>
-        
-        </app>
+<app>
+        <note xml:lang="en">6a-c blank in C2, but filled in.</note>
+</app>
 </listApp>
 <listWit>
 <witness xml:id="C2" source="mss/C2_UVSL_183.xml">
@@ -373,11 +372,11 @@
     <abbr type="siglum">I</abbr>
     <expan>edition of <persName xml:lang="ta">Irāmarattiṉam</persName> from 1930 (rep. 2002)</expan>
   </witness>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

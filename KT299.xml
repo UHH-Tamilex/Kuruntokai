@@ -378,8 +378,9 @@
 <standOff corresp="#KT299" type="apparatus"><listApp>
 <app corresp="0,6">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">itumaṟ</lem>
-        <rdg wit="#இதுவுமற்C2v #இதுவுமற்C3v #Camvline1d-2cmissinginI"/>
-        </app>
+        <rdg wit="#C2v #C3v Camv">ituvumaṟ</rdg>
+</app>
+<app><note xml:lang="en">line 1d-2c missing in I.</note></app>
 <app corresp="51,59">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Camv">liṇarvīḻ</lem>
         <rdg wit="#Cam">liṇaraviḻ</rdg>
@@ -418,11 +419,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

@@ -86,7 +86,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT254">
-<interp type="alignment" select="0">18MG4MG97ML17MG15ML4ML19MG14M2G2M,198MG</interp>
+<interp type="alignment" select="0">18MG4MG97M#L17MG15ML4M#L19MG14M2G2M,198MG</interp>
 <entry>
 <form>ilai</form>
 <def>leaf</def>
@@ -402,15 +402,14 @@
         <lem wit="#C2v #G1 #G2 #EA #Cam">vārā</lem>
         <rdg wit="#L1 #C1 #C2 #C3 #Camv">vārār</rdg>
         </app>
-<app corresp="82,82">
-        <lem wit="#4missinginEA"/>
-        
-        </app>
+<app>
+        <note xml:lang="en">line 4 missing in EA.</note>
+</app>
 <app corresp="95,104">
         <lem wit="#L1v #C1v #C2 #Cam">ṟuyilavar</lem>
         <rdg wit="#C3">ṟuyilevar</rdg>
 <rdg wit="#L1 #C1 #G2 #I #Camv">ṟuyilvara(l</rdg>
-<rdg wit="#AT #VPFF">ṟuyilvu</rdg>
+<rdg wit="#AT #VP">ṟuyilvu</rdg>
         </app>
 <app corresp="104,114">
         <lem wit="#C2 #C3v #Cam">maṟantaṉar</lem>
@@ -427,15 +426,15 @@
         <lem wit="#L1 #C2 #C3v #EA #Cam">ṭaraṉacaiic</lem>
         <rdg wit="#G1 #G2">ṭaranacaiic</rdg>
 <rdg wit="#C3">ṭaranacaikuc</rdg>
-<rdg wit="#C1 #CamvFF">ṭaranaṭaiic</rdg>
+<rdg wit="#C1 #Camv">ṭaranaṭaiic</rdg>
         </app>
 <app corresp="161,166">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">ceṉṟō</lem>
-        <rdg wit="#PPFF">ceṉṟaṉa</rdg>
+        <rdg wit="#PP">ceṉṟaṉa</rdg>
         </app>
 <app corresp="166,173">
         <lem wit="#C2 #C3v #EA #Cam">reytiṉa</lem>
-        <rdg wit="#L1 #C1 #C3 #G1 #G2FF">reytaṉa</rdg>
+        <rdg wit="#L1 #C1 #C3 #G1 #G2">reytaṉa</rdg>
         </app>
 <app corresp="179,185">
         <lem wit="#L1 #C1 #C2 #C3 #EA #Cam">varūun</lem>
@@ -484,10 +483,10 @@
     </witness>
   </witness>
 <witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
     <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

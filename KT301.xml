@@ -57,7 +57,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT301">
-<interp type="alignment" select="0">116M2G23ML16MG4MG46ML8MG3ML9MG3M,236MG</interp>
+<interp type="alignment" select="0">116M2G23M#L16MG4MG46ML8MG3ML9MG3M,236MG</interp>
 <entry>
 <form>muḻavu</form>
 <def>drum</def>
@@ -388,7 +388,7 @@
         <lem wit="#C2 #C3v #G2 #EA #Cam">laraiya</lem>
         <rdg wit="#L1 #C1 #C3 #G1v">lacaiya</rdg>
 <rdg wit="#G1">vacaiya</rdg>
-<rdg wit="#G2FF">lacaiyak</rdg>
+<rdg wit="#G2">lacaiyak</rdg>
         </app>
 <app corresp="17,29">
         <lem wit="#L1 #C1 #C2 #C3v #EA #Cam">taṭavunilaip</lem>
@@ -396,7 +396,7 @@
         </app>
 <app corresp="52,59">
         <lem wit="#C2v #C3v #Nacc #Cam">ciṟukōṟ</lem>
-        <rdg wit="#L1 #C1 #C2 #C3 #G1 #G2 #Naccv #EA #I #CamvFF">ciṟupoṟ</rdg>
+        <rdg wit="#L1 #C1 #C2 #C3 #G1 #G2 #Naccv #EA #I #Camv">ciṟupoṟ</rdg>
         </app>
 <app corresp="75,81">
         <lem wit="#G1v #G2 #EA #Cam">laṉṟiṟ</lem>
@@ -417,11 +417,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

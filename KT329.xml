@@ -397,7 +397,7 @@
         </app>
 <app corresp="88,92">
         <lem wit="#C2 #C3v #G2 #EA #Cam">tāam</lem>
-        <rdg wit="#L1 #C1 #C3 #G1 #CamvFF">tāvum</rdg>
+        <rdg wit="#L1 #C1 #C3 #G1 #Camv">tāvum</rdg>
         </app>
 <app corresp="104,113">
         <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam">yaruñcura</lem>
@@ -405,11 +405,11 @@
         </app>
 <app corresp="140,147">
         <lem wit="#C1 #C2 #C3v #G1 #G2 #EA #Cam">ṇaṭunāṭ</lem>
-        <rdg wit="#L1 #C3 #G1vFF">ṇaṭunā</rdg>
+        <rdg wit="#L1 #C3 #G1v">ṇaṭunā</rdg>
         </app>
 <app corresp="147,155">
         <lem wit="#C2 #C3v #G1v #G2 #EA #Cam">ṭuyilari</lem>
-        <rdg wit="#L1 #C1 #C3 #G1FF">ṭuyilaru</rdg>
+        <rdg wit="#L1 #C1 #C3 #G1">ṭuyilaru</rdg>
         </app>
 <app corresp="166,176">
         <lem wit="#C2 #C3v #G2 #EA #Cam">nikarmalar</lem>
@@ -425,11 +425,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

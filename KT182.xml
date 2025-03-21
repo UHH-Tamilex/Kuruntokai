@@ -65,7 +65,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT182">
-<interp type="alignment" select="0">66MG43ML17MG11MG12MG29ML8MG10M2G2M,206MG</interp>
+<interp type="alignment" select="0">66MG43M#L17MG11MG12MG29ML8MG10M2G2M,206MG</interp>
 <superEntry type="ambiguous">
 <entry><entry>
 <form>viḻu<c type="geminated">t</c></form>
@@ -365,11 +365,11 @@
   <standOff corresp="#KT182" type="apparatus"><listApp>
 <app corresp="48,54">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #Nacc #EA #Camv">mārpiṟ</lem>
-        <rdg wit="#C2v #Naccv #CamFF">marapiṟ</rdg>
+        <rdg wit="#C2v #Naccv #Cam">marapiṟ</rdg>
         </app>
 <app corresp="59,65">
         <lem wit="#C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">veḷḷeṉ</lem>
-        <rdg wit="#L1FF">veḷḷeṉap</rdg>
+        <rdg wit="#L1">veḷḷeṉap</rdg>
         </app>
 <app corresp="87,94">
         <lem wit="#L1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">yorunāṇ</lem>
@@ -392,7 +392,7 @@
 <app corresp="168,185">
         <lem wit="#C2 #C3v #C5 #G1v #G2 #EA #Cam">melintila ṇāmviṭaṟ</lem>
         <rdg wit="#L1 #Camv">melintila ḷāmviṭaṟ</rdg>
-<rdg wit="#C1 #C3 #G1 #G2vFF">melinti ṉāmviṭaṟ</rdg>
+<rdg wit="#C1 #C3 #G1 #G2v">melinti ṉāmviṭaṟ</rdg>
         </app>
 <app corresp="185,193">
         <lem wit="#L1v #C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">kamainta</lem>
@@ -400,11 +400,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

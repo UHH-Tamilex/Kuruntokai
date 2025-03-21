@@ -67,7 +67,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT258">
-<interp type="alignment" select="0">16ML5MG11M2G92MG56MG19ML16M2G2M,225MG</interp>
+<interp type="alignment" select="0">16ML5MG11M2G92MG56MG19M#L16M2G2M,225MG</interp>
 <entry>
 <form>vāral</form>
 <def>don't come</def>
@@ -410,7 +410,7 @@
         <rdg wit="#G1 #Camv">vāralō (vāralē) vāraleñ cēri</rdg>
         </app>
 <app corresp="22,28">
-        <lem wit="#C2 #C3 #G1 #G2 #EA #Cam #FF">yalarā</lem>
+        <lem wit="#C2 #C3 #G1 #G2 #EA #Cam ">yalarā</lem>
         <rdg wit="#L1 #C1">yallarā</rdg>
         </app>
 <app corresp="34,40">
@@ -418,7 +418,7 @@
         <rdg wit="#L1 #C1 #C3 #G1 #Camv">perumā</rdg>
         </app>
 <app corresp="73,80">
-        <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam #FF">piṇitta</lem>
+        <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam ">piṇitta</lem>
         <rdg wit="#C3">maṇitta</rdg>
         </app>
 <app corresp="96,108">
@@ -427,10 +427,11 @@
         </app>
 <app corresp="108,133">
         <lem wit="#L1 #C1 #C3 #G1 #G2 #EA #AT #Camv">yariyari lampuka viḷaṅkōṭṭu</lem>
-        <rdg wit="#யரியலம்புகவினந்தோட்டுனங்கோட்டுC2c #யரியலம்புகவினந்தோட்டுனங்கோட்டுC2v #Cam #VP #ERline5originallymissinginC2"/>
+        <rdg wit="#C2v #Cam #VP #ER">yariyalam pukavi ṉantōṭṭu</rdg>
+        <note xml:lang="en">line 5 originally missing in C2.</note>
         </app>
 <app corresp="139,146">
-        <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam #FF">niraiya</lem>
+        <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam ">niraiya</lem>
         <rdg wit="#G1">ṉiraiya</rdg>
         </app>
 <app corresp="203,216">
@@ -440,11 +441,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

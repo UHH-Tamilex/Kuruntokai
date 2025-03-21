@@ -383,11 +383,11 @@
 <app corresp="15,25">
         <lem wit="#L1 #C2 #C3 #G1 #G2 #EA #Cam">pāṭi luṇkaṭ</lem>
         <rdg wit="#C3v">pāṭi luṇkaṇ</rdg>
-<rdg wit="#C1FF">pāṭi ṉuṇkaṭ</rdg>
+<rdg wit="#C1">pāṭi ṉuṇkaṭ</rdg>
         </app>
 <app corresp="48,56">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">ñekiḻtōṇ</lem>
-        <rdg wit="#G2vFF">ñekiḻtōṉ</rdg>
+        <rdg wit="#G2v">ñekiḻtōṉ</rdg>
         </app>
 <app corresp="77,84">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">tiraṇṭu</lem>
@@ -395,7 +395,7 @@
         </app>
 <app corresp="84,95">
         <lem wit="#L1 #C1 #C2v #C3 #G1 #G2 #EA #Cam">nalla veṉṉuñ</lem>
-        <rdg wit="#C2FF">nallai yeṉṉuñ</rdg>
+        <rdg wit="#C2">nallai yeṉṉuñ</rdg>
         </app>
 <app corresp="101,108">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">maṉṉiya</lem>
@@ -408,11 +408,11 @@
         </app>
 <app corresp="130,135">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">cēṇōṉ</lem>
-        <rdg wit="#L1FF">cēṇāṉ</rdg>
+        <rdg wit="#L1">cēṇāṉ</rdg>
         </app>
 <app corresp="135,144">
         <lem wit="#L1 #C1 #C2 #C3 #G1v #G2 #EA #Cam">ñekiḻiyiṟ</lem>
-        <rdg wit="#G1FF">ñekiḻiṟ</rdg>
+        <rdg wit="#G1">ñekiḻiṟ</rdg>
         </app>
 <app corresp="152,159">
         <lem wit="#C1 #C2 #C3 #G2 #EA #Cam">neṭunal</lem>
@@ -420,11 +420,11 @@
         </app>
 <app corresp="164,171">
         <lem wit="#L1 #C1 #C2v #C3 #G1 #G2 #EA #Cam">mīṉpaṭu</lem>
-        <rdg wit="#C2 #CamvFF">miṉpaṭu</rdg>
+        <rdg wit="#C2 #Camv">miṉpaṭu</rdg>
         </app>
 <app corresp="191,197">
         <lem wit="#C2 #C3 #G1v #G2 #EA #Cam">veṟpaṉ</lem>
-        <rdg wit="#L1 #C1 #C3v #G1FF">veṉṟapaṉ</rdg>
+        <rdg wit="#L1 #C1 #C3v #G1">veṉṟapaṉ</rdg>
         </app>
 <app corresp="197,203">
         <lem wit="#C2 #C3c #G1c #G2 #EA #Cam">maṇavā</lem>
@@ -434,11 +434,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

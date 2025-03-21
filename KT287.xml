@@ -58,7 +58,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT287">
-<interp type="alignment" select="0">27M2G12MG17ML10MG68MG38MR32M2G2M,214MG</interp>
+<interp type="alignment" select="0">27M2G12MG17M#L10MG68MG38MR32M2G2M,214MG</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -352,11 +352,11 @@
 <standOff corresp="#KT287" type="apparatus"><listApp>
 <app corresp="44,55">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #AT #Cam">munnāṟ ṟiṅka</lem>
-        <rdg wit="#EA #I #ATv #CamvFF">munnāṭ ṭiṅkaḷ</rdg>
+        <rdg wit="#EA #I #ATv #Camv">munnāṭ ṭiṅkaḷ</rdg>
         </app>
 <app corresp="85,94">
         <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam">pacumpuḷi</lem>
-        <rdg wit="#C3FF">pacumpuli</rdg>
+        <rdg wit="#C3">pacumpuli</rdg>
         </app>
 <app corresp="101,109">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">kaṭuñcūṉ</lem>
@@ -372,11 +372,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

@@ -305,7 +305,7 @@
 <app><note xml:lang="en">FF</note></app>
 <app corresp="12,17">
         <lem wit="#L1 #C1 #C2 #C3 #G2 #EA #Cam">ṉaṇṇa</lem>
-        <rdg wit="#G1FF">ṉaṇṇai</rdg>
+        <rdg wit="#G1">ṉaṇṇai</rdg>
         </app>
 <app corresp="17,24">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">ṉallēṟu</lem>
@@ -327,7 +327,7 @@
 <app corresp="95,104">
         <lem wit="#C2v #Cam">variniḻal</lem>
         <rdg wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #I #AT">varuniḻal</rdg>
-<rdg wit="#CamvFF">vaṟuniḻal</rdg>
+<rdg wit="#Camv">vaṟuniḻal</rdg>
         </app>
 <app corresp="143,152">
         <lem wit="#C1 #C2 #C3v #G1 #G2 #EA #Cam">viṉṟuṇaip</lem>
@@ -335,11 +335,11 @@
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>

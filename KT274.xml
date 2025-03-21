@@ -387,20 +387,14 @@
         <rdg wit="#G1 #G2">puṟavuppuṟat</rdg>
         </app>
 <app corresp="16,35">
-        <lem wit="#C2v #Cam">puṉkā lukāayk
-kāciṉai</lem>
-        <rdg wit="#???L1 #C1 #C3 #G1 #G2 #EA #I #Camv">puṉkā lukāat
-tucciṉai</rdg>
-<rdg wit="#AT">puṉkā lukāat
-turavucciṉai</rdg>
-<rdg wit="#C3v">puṉkā vukāayt
-tūcciṉai</rdg>
-<rdg wit="#???C2">puṉkā yukāat
-tucciṉai</rdg>
+        <lem wit="#C2v #Cam">puṉkā lukāayk | kāciṉai</lem>
+        <rdg wit="#L1 #C1 #C3 #G1 #G2 #EA #I #Camv">puṉkā lukāat | tucciṉai</rdg>
+<rdg wit="#AT">puṉkā lukāat | turavucciṉai</rdg>
+<rdg wit="#C3v">puṉkā vukāayt | tūcciṉai</rdg>
+<rdg wit="#C2">puṉkā yukāat | tucciṉai</rdg>
 <rdg wit="#VP #ER">puṉkā lukāat
 tiṟavucciṉai</rdg>
-<rdg wit="#CamvFF">puṉkā yukāyk
-kāciṉai</rdg>
+<rdg wit="#Camv">puṉkā yukāyk | kāciṉai</rdg>
         </app>
 <app corresp="48,54">
         <lem wit="#L1 #C1 #C2 #C3 #G2 #EA #Cam">yutira</lem>
@@ -408,7 +402,7 @@ kāciṉai</rdg>
         </app>
 <app corresp="76,85">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Camv">koṭiyavar</lem>
-        <rdg wit="#C2v #Cam #ERFF">kōṭivarpu</rdg>
+        <rdg wit="#C2v #Cam #ER">kōṭivarpu</rdg>
         </app>
 <app corresp="100,105">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #EA #Cam">vaṉka</lem>
@@ -417,7 +411,7 @@ kāciṉai</rdg>
 <app corresp="128,136">
         <lem wit="#L1 #C1 #C2 #C3 #Cam">ṉārmeṉṟu</lem>
         <rdg wit="#G2 #EA #I #AT">ṉārmeṉpa</rdg>
-<rdg wit="#G1FF">ṉārmeṉat</rdg>
+<rdg wit="#G1">ṉārmeṉat</rdg>
         </app>
 <app corresp="167,176">
         <lem wit="#L1 #C1 #C2 #C3c #G1 #G2 #EA #Cam">maṇimiṭai</lem>
@@ -432,7 +426,7 @@ kāciṉai</rdg>
         <rdg wit="#L1 #C1 #C3 #G2v #I #ATv #Camv">mūḻkiṉañ</rdg>
 <rdg wit="#G1">muḻkiṉañ</rdg>
 <rdg wit="#AT #Camv2 #VP #ER">muyaṅkiṉañ</rdg>
-<rdg wit="#???G2 #EA #CamvFF">muḻakkiṉañ</rdg>
+<rdg wit="#G2 #EA #Camv">muḻakkiṉañ</rdg>
         </app>
 <app corresp="211,217">
         <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">celiṉē</lem>
@@ -440,11 +434,11 @@ kāciṉai</rdg>
         </app>
 </listApp>
 <listWit>
-<witness xml:id="L1">
-    <abbr type="siglum">L1</abbr>
+<witness xml:id="#L1">
+    <abbr type="siglum">#L1</abbr>
     <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
-    <witness xml:id="L1v">
-      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+    <witness xml:id="#L1v">
+      <abbr type="siglum">#L1<hi rend="subscript">v</hi></abbr>
       <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
     </witness>
   </witness>
