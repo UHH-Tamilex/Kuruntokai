@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -355,7 +357,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT171-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ kūṟiyatu (C3: colliyatu). (C2+5: ituvumatu.)</p>
+          <p xml:id="KT171-kilavi">varaiviṭai āṟṟāḷ eṉak kavaṉṟa tōḻikkut talaimakaḷ <app><lem>kūṟiyatu</lem><rdg wit="#C3">colliyatu</rdg><rdg wit="#C2 #C5">kūṟiyatu ituvumatu</rdg></app>.</p>
           <p xml:lang="en">Spoken by HER to the confidante who was anxious that she would not have the strength [to await] the time of marriage.</p>
           </div>
 
@@ -552,7 +554,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT171-kilavi" type="wordsplit">
-<interp type="alignment" select="0">6MG78M,55MG11M18G</interp>
+<interp type="alignment" select="0">6MG47M,53MG</interp>
 <entry>
 <form>varaiv<c type="elided">u</c></form>
 <def>marriage</def>
@@ -609,22 +611,6 @@
 <entry>
 <form>kūṟiyatu</form>
 <def>told-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>(C:</form>
-<def>(C3:</def>
-<form type="sandhi">(C3:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>colliyatu)</form>
-<def>spoken-it</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>

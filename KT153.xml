@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -355,7 +357,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT153-kilavi">varaiyātu neṭuṅkālam vantoḻukiṉṟuḻi “nām avarai vēṟupaṭuttaṟkuk kāraṇam eṉṉai” eṉṟa tōḻikku “avar varavu namakku (C5: namatu) āṟṟāmaikkuk kāraṇam ām (C5: /)” eṉat talaimakaḷ kūṟiyatu.</p>
+          <p xml:id="KT153-kilavi">varaiyātu neṭuṅkālam vantoḻukiṉṟuḻi “nām avarai vēṟupaṭuttaṟkuk kāraṇam eṉṉai” eṉṟa tōḻikku “avar varavu <app><lem>namakku</lem><rdg wit="#C5">namatu</rdg></app> āṟṟāmaikkuk kāraṇam <app><lem>ām</lem><rdg wit="#C5"/></app>” eṉat talaimakaḷ kūṟiyatu.</p>
           <p xml:lang="en">Spoken by HER, when a long time had passed without marrying, to the confidante who has said “what [is] the reason for our changing him?', in order to say 'his coming is the reason for our lack of strength”.</p>
           </div>
 
@@ -613,7 +615,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT153-kilavi" type="wordsplit">
-<interp type="alignment" select="0">23MG7MG131M,104MG30MGM3G22MG</interp>
+<interp type="alignment" select="0">23MG7MG114M,145MG</interp>
 <entry>
 <form>varaiyātu</form>
 <def>marry-not</def>
@@ -738,22 +740,6 @@
 </gramGrp>
 </entry>
 <entry>
-<form>(C:</form>
-<def>(C5:</def>
-<form type="sandhi">(C5:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>namatu)</form>
-<def>our</def>
-<gramGrp>
-  <gram type="role">genitive</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
-</gramGrp>
-</entry>
-<entry>
 <form>āṟṟāmaikku<c type="geminated">k</c></form>
 <def>inability</def>
 <gramGrp>
@@ -768,29 +754,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ām</form>
+<form>ām”</form>
 <def>becomes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
-<entry>
-<form>(C:</form>
-<def>(C5:</def>
-<form type="sandhi">(C5:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<superEntry type="ambiguous">
-<entry><entry>
-<form/>
-</entry></entry>
-<entry><entry>
-<form>)”</form>
-<def>)</def>
-<form type="sandhi"/>
-</entry></entry>
-</superEntry>
 <entry>
 <form>eṉa<c type="geminated">t</c></form>
 <def>say</def>

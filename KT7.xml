@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -363,7 +365,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT7-kilavi">celaviṉkaṇ iṭaiccurattuk kaṇṭōr/kaṇṭār colliyatu (C2: kūṟiyatu).</p>
+          <p xml:id="KT7-kilavi">celaviṉkaṇ iṭaiccurattuk <app><lem>kaṇṭōr</lem><rdg>kaṇṭār</rdg></app> <app><lem>colliyatu</lem><rdg wit="#C2">kūṟiyatu</rdg></app>.</p>
           <p xml:lang="en">Spoken by those who saw [them] in the middle of the wilderness as [they were] going.
 
           </p>
@@ -661,7 +663,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT7-kilavi" type="wordsplit">
-<interp type="alignment" select="0">59M,29M7G11MG10MG</interp>
+<interp type="alignment" select="0">39M,38MG</interp>
 <entry>
 <form>celaviṉ</form>
 <def>going</def>
@@ -690,8 +692,7 @@
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
-<superEntry type="ambiguous">
-<entry><entry>
+<entry>
 <form>kaṇṭōr</form>
 <def>seen-they</def>
 <gramGrp>
@@ -700,19 +701,7 @@
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-</entry></entry>
-<entry><entry>
-<form>kaṇṭār</form>
-<def>seen-they</def>
-<form type="sandhi">kaṇṭōr</form>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry></entry>
-</superEntry>
+</entry>
 <entry>
 <form>colliyatu</form>
 <def>spoken-it</def>
@@ -722,22 +711,4 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-<entry>
-<form>(C:</form>
-<def>(C2:</def>
-<form type="sandhi">(C2:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>kūṟiyatu)</form>
-<def>spoken-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-</standOff><standOff corresp="#KT7-kilavi" type="apparatus"><listApp>
-<app><note xml:lang="en">C2: kūṟiyatu</note></app>
-</listApp></standOff></TEI>
+</standOff></TEI>

@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -641,7 +643,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT30-kilavi" type="wordsplit">
-<interp type="alignment" select="0">40MG87MG67M,72MG15MG90M2GMG12MG</interp>
+<interp type="alignment" select="0">40MG63MG49M,153MG</interp>
 <entry>
 <form>“avar</form>
 <def>that-one</def>
@@ -725,38 +727,7 @@
 </entry>
 <entry>
 <form>ākiṉṟatu</form>
-<def>(C2:</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>(C:</form>
-<def>been-able</def>
-<form type="sandhi">(C2:</form>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āṟṟi</form>
-<def>be-not</def>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-  <gram type="role">negative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>irātu</form>
-<def>it became</def>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ākiṉṟatu)</form>
 <def>what</def>
-<form type="sandhi">ākiṉaṟatu)</form>
 </entry>
 <entry>
 <form>eṉ”</form>
@@ -873,25 +844,6 @@
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>(C</form>
-<def>(C1,</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>G:</form>
-<def>G2:</def>
-<form type="sandhi">G2:</form>
-</entry>
-<entry>
-<form>kūṟukiṉṟāḷ)</form>
-<def>she tells</def>
-<gramGrp>
-  <gram type="role">feminine singular</gram>
-  <gram type="role">present tense</gram>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#KT30-kilavi" type="apparatus"><listApp>

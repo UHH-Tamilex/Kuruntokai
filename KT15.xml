@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -355,7 +357,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT15-kilavi">uṭaṉpōyiṉapiṉṟait tōḻi cevilikku aṟattoṭu niṉṟāḷ (C2: niṉṟatu.) niṟpac cevilittāy naṟṟāykku aṟattoṭu niṉṟatu.</p>
+          <p xml:id="KT15-kilavi">uṭaṉpōyiṉapiṉṟait tōḻi cevilikku aṟattoṭu <app><lem>niṉṟāḷ</lem><rdg wit="#C2">niṉṟatu</rdg></app>. niṟpac cevilittāy naṟṟāykku aṟattoṭu niṉṟatu.</p>
           <p xml:lang="en">As, after [he and she] had gone away together, the confidante stood firm in duty to the foster-mother, the foster-mother standing firm in duty to the real mother.</p>
           </div>
 
@@ -663,7 +665,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT15-kilavi" type="wordsplit">
-<interp type="alignment" select="0">98M,46MG50MG</interp>
+<interp type="alignment" select="0">86M,44MG40MG</interp>
 <entry>
 <form>uṭaṉpōyiṉa</form>
 <def>gone-away-together</def>
@@ -702,23 +704,12 @@
 </entry>
 <entry>
 <form>niṉṟāḷ</form>
-<def>stood-she(part.n.p.a.p.a.f.sg.)</def>
+<def>stood-she</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>(C:</form>
-<def>(C2:</def>
-<form type="sandhi">(C2:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>niṉṟatu.)</form>
-<def>standing)</def>
 </entry>
 <entry>
 <form>niṟpa<c type="geminated">c</c></form>
@@ -729,7 +720,7 @@
 </entry>
 <entry>
 <form>cevili<c type="geminated">t</c></form>
-<def>foster-mother</def>
+<def>foster mother</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -760,7 +751,9 @@
 <entry>
 <form>aṟattoṭu</form>
 <def>virtue</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>niṉṟatu</form>

@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -363,7 +365,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT165-kilavi">piṉṉiṉṟa talaimakaṉ maṟukkappaṭṭup peyarntuṅ (C5: peyarttuṅ) kūṭaluṟu neñciṟkuc colliyatu.</p>
+          <p xml:id="KT165-kilavi">piṉṉiṉṟa talaimakaṉ maṟukkappaṭṭup <app><lem>peyarntuṅ</lem><rdg wit="#C5">peyarttuṅ</rdg></app> kūṭaluṟu neñciṟkuc colliyatu.</p>
           <p xml:lang="en">Uttered by HIM, who had begged, to the heart which wanted cohabitation, after he had been refused [meetings] several times.</p>
           </div>
 
@@ -631,7 +633,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT165-kilavi" type="wordsplit">
-<interp type="alignment" select="0">82M,43MG37MG</interp>
+<interp type="alignment" select="0">68M,67MG</interp>
 <entry>
 <form>piṉ</form>
 <def>behind</def>
@@ -674,21 +676,6 @@
 <form>peyarntum</form>
 <def>repeatedly</def>
 <form type="sandhi">peyarntuṅ</form>
-<gramGrp>
-  <gram type="role">adverb</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>(C:</form>
-<def>(C5:</def>
-<form type="sandhi">(C5:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>peyarttum)</form>
-<def>repeatedly</def>
-<form type="sandhi">peyarttuṅ)</form>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
