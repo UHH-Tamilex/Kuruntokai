@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -772,7 +774,7 @@
 </standOff><standOff corresp="#KT198-kilavi" type="apparatus"><listApp>
 <app><note xml:lang="en">C3+5: peyarttu</note></app>
 </listApp></standOff><standOff corresp="#KT198-kilavi" type="wordsplit">
-<interp type="alignment" select="0">46M,21M4GM11G8MG</interp>
+<interp type="alignment" select="0">31M,30MG</interp>
 <entry>
 <form>tōḻi</form>
 <def>confidante</def>
@@ -797,7 +799,6 @@
 <entry>
 <form>peyarntu<c type="geminated">k</c></form>
 <def>moved</def>
-<form type="sandhi">peyarntu<c type="geminated">k</c>(C3+</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
