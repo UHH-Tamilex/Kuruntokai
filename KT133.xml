@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -355,7 +357,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT133-kilavi">(C1: remnants of a longer kiḷavi.) varaivu nīṭṭittaviṭattut talaimakaḷ colliyatu.</p>
+          <p xml:id="KT133-kilavi"><note xml:lang="en">C1: remnants of a longer <term xml:lang="ta">kiḷavi</term>.</note> varaivu nīṭṭittaviṭattut talaimakaḷ colliyatu.</p>
           <p xml:lang="en">Uttered by HER when [he] delayed marriage.</p>
           </div>
 
@@ -608,11 +610,10 @@
 </superEntry>
 </standOff>
 <standOff corresp="#KT133-kilavi" type="wordsplit">
-<interp type="alignment" select="0">72M,25GM4G41MG</interp>
+<interp type="alignment" select="0">43M,42MG</interp>
 <entry>
 <form>varaivu</form>
 <def>marriage</def>
-<form type="sandhi">vi.)varaivu</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>

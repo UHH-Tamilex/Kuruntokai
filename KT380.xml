@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -363,8 +365,8 @@
     <body>
       <div rend="parallel">
         <p xml:id="KT380-kilavi">paṉipparuvaṅ kuṟittup pirintāṉ talaimakaṉ piriya “paruvavaraviṉkaṇ
-          vēṟupaṭuvāḷ āyiṉuṅ katumeṉa āṟṟuvippatu aritu” eṉṉuṅ karuttiṉā¬ḷāyk kūtirp paruvattut
-          talaimakaḷ/ṉ kēṭpat taṉatu āṟṟāmai viḷaṅkat tōḻi colliyatu. </p>
+          vēṟupaṭuvāḷ āyiṉuṅ katumeṉa āṟṟuvippatu aritu” eṉṉuṅ karuttiṉāḷāyk kūtirp paruvattut
+          talaimakaḷ kēṭpat taṉatu āṟṟāmai viḷaṅkat tōḻi colliyatu. </p>
 
 
         <p xml:lang="en">He separated intending to [use] the season of dew; as HE
@@ -714,7 +716,7 @@ kayattut</rdg>
         </app>
 </listApp>
 </standOff><standOff corresp="#KT380-kilavi" type="wordsplit">
-<interp type="alignment" select="0">51MG25MG115M,119MG30M2G40MG</interp>
+<interp type="alignment" select="0">51MG25MG112M,44MG59MG84MG</interp>
 <entry>
 <form>paṉi<c type="geminated">p</c></form>
 <def>dew</def>
@@ -761,9 +763,9 @@ kayattut</rdg>
 </gramGrp>
 </entry>
 <entry>
-<form>“paruva<c type="uncertain">m</c></form>
+<form>paruva<c type="uncertain">m</c></form>
 <def>season</def>
-<form type="sandhi">“paruva</form>
+<form type="sandhi">paruva</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -817,7 +819,7 @@ kayattut</rdg>
 </gramGrp>
 </entry>
 <entry>
-<form>aritu”</form>
+<form>aritu</form>
 <def>difficult-it</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
@@ -835,7 +837,6 @@ kayattut</rdg>
 <entry>
 <form>karuttiṉāḷ</form>
 <def>considered-she</def>
-<form type="sandhi">karuttiṉā¬ḷ</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>

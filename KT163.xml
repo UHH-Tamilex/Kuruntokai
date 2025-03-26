@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -355,7 +357,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <div rend="parallel">
-          <p xml:id="KT163-kilavi">taṉṉuṭai (C2+5, Cām.: taṉṉuṭ) kaiyāṟu eytiṭu kiḷavi.</p>
+          <p xml:id="KT163-kilavi"><app><lem>taṉṉuṭai</lem><rdg wit="#C2 #C5 #Cam">taṉṉuṭ</rdg></app> kaiyāṟu eytiṭu kiḷavi.</p>
           <p xml:lang="en">Words addressing her helplessness/motionlessness.</p>
           </div>
 
@@ -613,7 +615,7 @@
         </app>
 </listApp>
 </standOff><standOff corresp="#KT163-kilavi" type="wordsplit">
-<interp type="alignment" select="0">36MG10M,10MGM2G32MG</interp>
+<interp type="alignment" select="0">18MG10M,28MG</interp>
 <entry>
 <form>taṉ</form>
 <def>self</def>
@@ -628,34 +630,6 @@
 <def>possess</def>
 <gramGrp>
   <gram type="role">postposition</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>(C<c type="geminated">2</c></form>
-<def>(C2+5.</def>
-<form type="sandhi">(C<c type="geminated">2</c>+</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>Cām.:</form>
-<def>Cām.:</def>
-</entry>
-<entry>
-<form>taṉ</form>
-<def>self</def>
-<gramGrp>
-  <gram type="role">oblique</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="geminated">ṉ</c>uḷ)</form>
-<def>inside</def>
-<form type="sandhi"><c type="geminated">ṉ</c>uṭ)</form>
-<gramGrp>
-  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
