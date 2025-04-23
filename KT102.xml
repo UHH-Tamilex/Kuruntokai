@@ -1,10 +1,8 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 102. <persName xml:lang="ta">Avvaiyār (Auvaiyār)</persName>: <i>SHE</i></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 102. <persName xml:lang="ta">Avvaiyār (Auvaiyār)</persName>: <hi rend="italic">SHE</hi></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -549,17 +547,17 @@
 </entry>
 </standOff>
 <standOff corresp="#KT102" type="apparatus"><listApp>
-<app corresp="19,29">
+<app loc="19,29">
         <lem wit="#L1 #C2 #C3 #G2 #EA #Cam">tiruppiṉem</lem>
         <rdg wit="#C1 #G1">tiruppiṉe</rdg>
         </app>
-<app corresp="42,49">
+<app loc="42,49">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">varutti</lem>
         <rdg wit="#Camv">varuttiṉ</rdg>
 <rdg wit="#C2v #Camv2">varuntiṉ</rdg>
 <rdg wit="#I">varunti</rdg>
         </app>
-<app corresp="70,87">
+<app loc="70,87">
         <lem wit="#C1 #C2 #C3v #G1 #G2 #EA #Cam">rallaryā marīi yōrē</lem>
         <rdg wit="#L1">rallayā marīi yōrē</rdg>
 <rdg wit="#C3">rallayā marī____rē</rdg>

@@ -1,10 +1,8 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 171. <persName xml:lang="ta">Pūṅkaṇuttiraiyār (C1+2: Pūṅkaṇṇuttiraiyār)</persName>: <i>SHE</i></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 171. <persName xml:lang="ta">Pūṅkaṇuttiraiyār (C1+2: Pūṅkaṇṇuttiraiyār)</persName>: <hi rend="italic">SHE</hi></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -535,20 +533,20 @@
 </entry>
 </standOff>
 <standOff corresp="#KT171" type="apparatus"><listApp>
-<app corresp="20,29">
+<app loc="20,29">
         <lem wit="#C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">kaṭumpuṉa</lem>
         <rdg wit="#L1">kamēpuṉa</rdg>
 <rdg wit="#L1v">kamaipuṉa</rdg>
         </app>
-<app corresp="29,39">
+<app loc="29,39">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1v #EA #Cam">laṭaikarai</lem>
         <rdg wit="#G1">vaṭaikarai</rdg>
         </app>
-<app corresp="68,72">
+<app loc="68,72">
         <lem wit="#C1 #C2 #C3v #C5 #G1v #EA #Cam">ṭāaṅ</lem>
         <rdg wit="#L1 #C3 #G1">ṭāṅ</rdg>
         </app>
-<app corresp="85,101">
+<app loc="85,101">
         <lem wit="#L1 #C1 #C2v #C3 #C5 #G1 #G2 #EA #Cam">notumalar talaiyē</lem>
         <rdg wit="#C2 #C3v #Camv">notumalart talaiyē</rdg>
         </app>

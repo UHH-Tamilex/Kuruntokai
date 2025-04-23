@@ -1,10 +1,8 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 198. <persName xml:lang="ta">Kapilar</persName>: <i>the confidante / SHE</i></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 198. <persName xml:lang="ta">Kapilar</persName>: <hi rend="italic">the confidante / SHE</hi></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -732,41 +730,41 @@
 </entry>
 </standOff>
     <standOff corresp="#KT198" type="apparatus"><listApp>
-<app corresp="0,4">
+<app loc="0,4">
         <lem wit="#C2c #C3v #C5 #G2 #AT #Cam">yāaṅ</lem>
         <rdg wit="#C2v">yāṅ</rdg>
 <rdg wit="#L1 #C1 #C5v #G2v #EA #ATv #Camv">māaṅ</rdg>
 <rdg wit="#C3 #G1 #Camv2">māvuṅ</rdg>
         </app>
-<app corresp="9,17">
+<app loc="9,17">
         <lem wit="#C1v #C2 #C3 #C5 #G1 #G2 #EA #Cam ">marañcuṭ</lem>
         <rdg wit="#L1 #C1 #C2c">māñcuṭ</rdg>
         </app>
-<app corresp="24,36">
+<app loc="24,36">
         <lem wit="#L1 #C1 #C2v #C3 #C5 #G1 #EA #Camv">karumpumaruṇ</lem>
         <rdg wit="#Cam">karuppumaruṇ</rdg>
         <rdg wit="#C2"/>
         </app>
-<app corresp="80,88">
+<app loc="80,88">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G2 #EA #Cam ">pālvārpu</lem>
         <rdg wit="#C5v #G1 #G2v">paralvārpu</rdg>
         </app>
-<app corresp="98,108">
+<app loc="98,108">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">ṭiṟaiñciya</lem>
         <rdg wit="#AT">ṭiṟaiñciyaṟ</rdg>
         </app>
-<app corresp="108,115">
+<app loc="108,115">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #EA #Cam">ceṟikōṭ</lem>
         <rdg wit="#VP #ER">ceṟikkōṭ</rdg>
 <rdg wit="#Nam #Camv">ceṟikōṟ</rdg>
 <rdg wit="#C2v #G2v #Nacc #Camv2">ceṟitāṭ</rdg>
         </app>
-<app corresp="143,149">
+<app loc="143,149">
         <lem wit="#C2 #C3v #C5 #G2 #EA #Cam">maṭupō</lem>
         <rdg wit="#C1 #C3 #G1 ">mapō</rdg>
 <rdg wit="#L1">pērā</rdg>
         </app>
-<app corresp="198,210">
+<app loc="198,210">
         <lem wit="#L1 #C1 #C2 #C3 #C5 #G1 #G2 #EA #AT #Cam">vāraṟka tilla</lem>
         <rdg wit="#C5v #G2v #Nacc #ATv #Camv">vāraṉmaṟ ṟaiya</rdg>
         </app>

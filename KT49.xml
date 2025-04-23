@@ -1,10 +1,8 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Kuṟuntokai</title> 49. <persName xml:lang="ta">Ammūvaṉār</persName>: <i>SHE</i></title>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 49. <persName xml:lang="ta">Ammūvaṉār</persName>: <hi rend="italic">SHE</hi></title>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -593,27 +591,27 @@
 </entry>
 </standOff>
 <standOff corresp="#KT49" type="apparatus"><listApp>
-<app corresp="12,22">
+<app loc="12,22">
         <lem wit="#L1 #C2 #C3 #G1 #EA #Cam">koṅkumutir</lem>
         <rdg wit="#C4 #G2">kōṅkumutir</rdg>
         </app>
-<app corresp="44,50">
+<app loc="44,50">
         <lem wit="#C2 #C3v #C4 #G1v #G2 #EA #Cam">mānīrc</lem>
         <rdg wit="#L1 #C1 #C3 #G1 #Camv">māṇīrc</rdg>
         </app>
-<app corresp="50,56">
+<app loc="50,56">
         <lem wit="#L1 #C1 #C2 #C3v #C4 #G1v #G2 #EA #Cam">cērppa</lem>
         <rdg wit="#C3 #G1">cēppa</rdg>
         </app>
-<app corresp="83,90">
+<app loc="83,90">
         <lem wit="#L1 #C1 #C2 #C3 #C4 #G1 #G2 #Il #Nacc #EA #Camv">kiyareṅ</lem>
         <rdg wit="#I #Cam">kiyareṉ</rdg>
         </app>
-<app corresp="103,111">
+<app loc="103,111">
         <lem wit="#C2 #C3v #C4 #G1v #G2 #EA #Cam">kiyarniṉ</lem>
         <rdg wit="#C1 #C3 #G1">kiyāṉiṉ</rdg>
         </app>
-<app corresp="111,119">
+<app loc="111,119">
         <lem wit="#C2 #C4 #G1v #G2 #EA #Cam">ṉeñcunēr</lem>
         <rdg wit="#L1 #C1 #C2v #C3 #G1 #Camv">ṉeñciṉēr</rdg>
         </app>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -668,23 +666,23 @@
 </entry>
 </standOff>
 <standOff corresp="#KT380" type="apparatus"><listApp>
-<app corresp="0,22">
+<app loc="0,22">
         <lem wit="#C2 #C3v #G2 #EA #Cam">vicumpukaṇ putaiyap pāay</lem>
         <rdg wit="#L1 #C1 #C3 #G1 #Camv">vicumpu kaṇputaip pāa</rdg>
         </app>
-<app corresp="28,41">
+<app loc="28,41">
         <lem wit="#C2 #C3v #G2 #EA #Cam">veṉṟeṟi muraci</lem>
         <rdg wit="#L1 #C1 #C3 #G1">veṉṟa ṟiki</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app corresp="97,103">
+<app loc="97,103">
         <lem wit="#L1 #C1 #C2 #C3 #G2 #EA #Cam">ṉalarē</lem>
         <rdg wit="#G1">ṉavarē</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app corresp="103,112">
+<app loc="103,112">
         <lem wit="#C2 #C3v #G2 #Cam">yāṅkuccey</lem>
         <rdg wit="#L1 #C1 #C3 #EA">yāṅkucey</rdg>
         </app>
-<app corresp="121,135">
+<app loc="121,135">
         <lem wit="#C2v #C3v #Cam">yīṅkaiya
 vaṇṇat</lem>
         <rdg wit="#Camv">yīrṅkai
@@ -698,16 +696,16 @@ kayattut</rdg>
 <rdg wit="#AT">yīṅkak
 kayattut</rdg>
         </app>
-<app corresp="135,143">
+<app loc="135,143">
         <lem wit="#L1 #C1 #C2 #EA #Cam">tuymmala</lem>
         <rdg wit="#G2">tuyymmala</rdg>
 <rdg wit="#C3 #G1">tuymala</rdg>
         </app>
-<app corresp="143,149">
+<app loc="143,149">
         <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">rutira</lem>
         <rdg wit="#C2v">rutirā</rdg>
         </app>
-<app corresp="149,162">
+<app loc="149,162">
         <lem wit="#C2v #Cam">muṉṉart tōṉṟum</lem>
         <rdg wit="#C3v">muṉṉar tōṉṟum</rdg>
 <rdg wit="#C1 #C3 #G1v #G2 #EA #I #AT #Camv">muṉṉā teṉpa</rdg>
