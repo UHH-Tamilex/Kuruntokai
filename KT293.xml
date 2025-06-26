@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -458,7 +460,7 @@
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-<note> For <term xml:lang="ta"> pañci </term> the DEDR only gives the meaning "cotton", but here the "fibre" read by Cām./T.V.G. seems to make much more sense. </note>
+<note xmlns="http://www.tei-c.org/ns/1.0"> For <term xml:lang="ta"> pañci </term> the DEDR only gives the meaning "cotton", but here the "fibre" read by Cām./T.V.G. seems to make much more sense. </note>
 </entry>
 <entry>
 <form>kuṟum</form>
@@ -621,9 +623,10 @@
 </entry>
 <entry>
 <form>varum-ē</form>
-<def>comes(hab-fut.)</def>
+<def>comes</def>
 <form type="simple">varum</form>
 <gramGrp>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -665,6 +668,11 @@
 <entry>
 <form><c type="glide">v</c>aḷiyēṉ</form>
 <def>pity/love-I</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>yāṉ-ē</form>
