@@ -1,0 +1,790 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> 284. <persName xml:lang="ta">Miḷaivēḷ Tittaṉ</persName>
+          : <hi rend="italic">the confidante / SHE</hi></title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+
+      <listWit>
+  <witness xml:id="Ed">
+    <abbr type="siglum">Ed</abbr>
+    <expan>Wilden edition</expan>
+  </witness>
+  <witness xml:id="C1" source="mss/C1_UVSL_1076.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>UVSL 1076/1075, palm-leaf manuscript</expan>
+    <witness xml:id="C1v">
+        <abbr type="siglum">C1<hi rend="subscript">v</hi></abbr>
+        <expan>UVSL 1076/1075, palm-leaf manuscript, variant reading</expan>
+    </witness>
+    <witness xml:id="C1c">
+        <abbr type="siglum">C1<hi rend="subscript">c</hi></abbr>
+        <expan>UVSL 1076/1075, palm-leaf manuscript, correction</expan>
+    </witness>
+  </witness>
+  <witness xml:id="L1">
+    <abbr type="siglum">L1</abbr>
+    <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell)</expan>
+    <witness xml:id="L1v">
+      <abbr type="siglum">L1<hi rend="subscript">v</hi></abbr>
+      <expan>paper manuscript from London [Or. 2726] complete (1874, Maturai, for Burnell), variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C2" source="mss/C2_UVSL_183.xml">
+    <abbr type="siglum">C2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183]</expan>
+    <witness xml:id="C2v">
+      <abbr type="siglum">C2<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+    <witness xml:id="C2vc">
+      <abbr type="siglum">C2<hi rend="subscript">vc</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], scribal correction of variant reading</expan>
+    </witness>
+    <witness xml:id="C2v2">
+      <abbr type="siglum">C2<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], variant reading</expan>
+    </witness>
+    <witness xml:id="C2c">
+      <abbr type="siglum">C2<hi rend="subscript">c</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 183], correction</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C3" source="mss/C3_UVSL_184.xml">
+    <abbr type="siglum">C3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184]</expan>
+    <witness xml:id="C3v">
+      <abbr type="siglum">C3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+    <witness xml:id="C3v2">
+      <abbr type="siglum">C3<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], variant reading</expan>
+    </witness>
+    <witness xml:id="C3c">
+      <abbr type="siglum">C3<hi rend="subscript">c</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 184], correction</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C4" source="mss/C4_UVSL_185.xml">
+    <abbr type="siglum">C4</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 185]</expan>
+    <witness xml:id="C4v">
+      <abbr type="siglum">C4<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 185], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="C5" source="mss/C5_UVSL_186.xml">
+    <abbr type="siglum">C5</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 186]</expan>
+    <witness xml:id="C5v">
+      <abbr type="siglum">C5<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 186], variant reading</expan>
+    </witness>
+    <witness xml:id="C5v2">
+      <abbr type="siglum">C5<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [UVSL 186], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="G1" source="mss/G1_GOML_TD65.xml">
+    <abbr type="siglum">G1</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+    <witness xml:id="G1v2">
+      <abbr type="siglum">G1<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], variant reading</expan>
+    </witness>
+    <witness xml:id="G1c">
+      <abbr type="siglum">G1<hi rend="subscript">c</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TD65], correction</expan>
+    </witness>
+  </witness>
+  <witness xml:id="G2" source="mss/G2_GOML_TR1072.xml">
+    <abbr type="siglum">G2</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072]</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+    <witness xml:id="G2v2">
+      <abbr type="siglum">G2v2</abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1072], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="G3" source="mss/G3_GOML_TR1298.xml">
+    <abbr type="siglum">G3</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1298]</expan>
+    <witness xml:id="G3v">
+      <abbr type="siglum">G3<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> [GOML TR1298], variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="A1">
+    <abbr type="siglum">A1</abbr>
+    <expan>fragments of a palm leaf manuscript from <term xml:lang="ta">Aṇṇāmalai</term></expan>
+  </witness>
+  <witness xml:id="EA" source="mss/EA.xml">
+    <abbr type="siglum">EA</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">Caurip Perumāḷ Araṅkaṉ</persName> 1915</expan>
+  </witness>
+  <witness xml:id="I">
+    <abbr type="siglum">I</abbr>
+    <expan>edition of <persName xml:lang="ta">Irāmarattiṉam</persName> from 1930 (rep. 2002)</expan>
+  </witness>
+  <witness xml:id="AT">
+    <abbr type="siglum">AT</abbr>
+    <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933</expan>
+    <witness xml:id="ATv">
+      <abbr type="siglum">AT<hi rend="subscript">v</hi></abbr>
+      <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933, variant reading</expan>
+    </witness>
+    <witness xml:id="ATv2">
+      <abbr type="siglum">AT<hi rend="subscript">v2</hi></abbr>
+      <expan>edition of <persName xml:lang="ta">Aruṇācala Tēcikar</persName> from 1933, variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="Cam" source="mss/Cam.xml">
+    <abbr type="siglum">Cām</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937</expan>
+    <witness xml:id="Camv">
+      <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv2">
+      <abbr type="siglum">Cām<hi rend="subscript">v2</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv3">
+      <abbr type="siglum">Cām<hi rend="subscript">v3</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+    <witness xml:id="Camv4">
+      <abbr type="siglum">Cām<hi rend="subscript">v4</hi></abbr>
+      <expan><title xml:lang="ta">Kuṟuntokai</title> ed. <persName xml:lang="ta">U. Vē. Cāminātaiyar</persName> 1937, variant reading</expan>
+    </witness>
+  </witness>
+  <witness xml:id="VP">
+    <abbr type="siglum">VP</abbr>
+    <expan><persName xml:lang="ta">Vaiyāpurip Piḷḷai</persName>'s <term xml:lang="ta">Caṅka Ilakkiyam</term> edition from 1940</expan>
+  </witness>
+  <witness xml:id="IrV">
+    <abbr type="siglum">IrV</abbr>
+    <expan>edition of <persName xml:lang="ta">Irāka Vaiyaṅkār</persName> from 1946</expan>
+  </witness>
+  <witness xml:id="ER">
+    <abbr type="siglum">ER</abbr>
+    <expan>editon <persName xml:lang="ta">Rājam</persName> from 1957</expan>
+  </witness>
+  <witness xml:id="SS" source="mss/SS.xml">
+    <abbr type="siglum">SS</abbr>
+    <expan><title xml:lang="ta">Kuṟuntokai</title> Śaiva Siddhānta edition, 1955</expan>
+  </witness>
+  <witness xml:id="IrVp">
+    <abbr type="siglum">[IrV]</abbr>
+    <expan>paper ms. by <persName xml:lang="ta">Irāka Vaiyaṅkār</persName> (dated 1899)</expan>
+  </witness>
+  <witness xml:id="PP">
+    <abbr type="siglum">PP</abbr>
+    <expan>palm leaf ms. (<term xml:lang="ta">ēṭṭu kuṟippu?</term>) of <persName xml:lang="ta">Pūṇṭiyappap Pulavar</persName></expan>
+  </witness>
+  <witness xml:id="AA">
+    <abbr type="siglum">AA</abbr>
+    <expan>paper ms. of <persName xml:lang="ta">Aṭikaḷāciriyar</persName></expan>
+  </witness>
+  <witness xml:id="CP">
+    <abbr type="siglum">CP</abbr>
+    <expan>edition with critical apparatus of <persName xml:lang="ta">Caṇmukam Piḷḷai</persName> from 1985</expan>
+  </witness>
+  <witness xml:id="Nakk">
+    <abbr type="siglum">Nakk</abbr>
+    <expan><persName xml:lang="ta">Nakkīraṉ</persName> on <title xml:lang="ta">Iṟaiyaṉār Akapporuḷ</title></expan>
+  <witness xml:id="Nakkv">
+    <abbr type="siglum">Nakk<hi rend="subscript">v</hi></abbr>
+    <expan><persName xml:lang="ta">Nakkīraṉ</persName> on <title xml:lang="ta">Iṟaiyaṉār Akapporuḷ</title>, variant reading</expan>
+  </witness>
+  </witness>
+  <witness xml:id="IK">
+    <abbr type="siglum">IK</abbr>
+    <expan><title xml:lang="ta">Ilakkaṇak Kottu</title></expan>
+  </witness>
+  <witness xml:id="Il">
+    <abbr type="siglum">Iḷ</abbr>
+    <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+    <witness xml:id="Ilv">
+      <abbr type="siglum">Iḷ<hi rend="subscript">v</hi></abbr>
+      <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+    <witness xml:id="Ilv2">
+      <abbr type="siglum">Iḷ<hi rend="subscript">v2</hi></abbr>
+      <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+    <witness xml:id="Il2">
+      <abbr type="siglum">Iḷ<hi rend="subscript">2</hi></abbr>
+      <expan><persName xml:lang="ta">Iḷampūraṇar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, second quotation</expan>
+    </witness>
+  </witness>
+  <witness xml:id="Cen">
+    <abbr type="siglum">Cēṉ</abbr>
+    <expan><persName xml:lang="ta">Cēṉāvaraiyar</persName> on <title xml:lang="ta">Tolkāppiyam Collatikāram</title></expan>
+  </witness>
+  <witness xml:id="Per">
+    <abbr type="siglum">Pēr</abbr>
+    <expan><persName xml:lang="ta">Pērāciriyar</persName> on <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+      <witness xml:id="Perv">
+        <abbr type="siglum">Pēr<hi rend="subscript">v</hi></abbr>
+        <expan><persName xml:lang="ta">Pērāciriyar</persName> on <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+      </witness>
+  </witness>
+  <witness xml:id="PerK">
+    <abbr type="siglum">Pēr(K)</abbr>
+    <expan><persName xml:lang="ta">Pērāciriyar</persName> on <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, <term xml:lang="ta">Kaḻakam</term> edition</expan>
+  </witness>
+  <witness xml:id="Nacc">
+    <abbr type="siglum">Nacc</abbr>
+    <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title></expan>
+    <witness xml:id="Naccv">
+      <abbr type="siglum">Nacc<hi rend="subscript">v</hi></abbr>
+      <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+    <witness xml:id="Naccv2">
+      <abbr type="siglum">Nacc<hi rend="subscript">v2</hi></abbr>
+      <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, variant reading</expan>
+    </witness>
+    <witness xml:id="Nacc2">
+      <abbr type="siglum">Nacc<hi rend="subscript">2</hi></abbr>
+      <expan><persName xml:lang="ta">Nacciṉārkkiṉiyar</persName> on <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title>, <title xml:lang="ta">Tolkāppiyam Collatikāram</title>, <title xml:lang="ta">Tolkāppiyam Poruḷatikāram</title>, second quotation</expan>
+    </witness>
+  </witness>
+  <witness xml:id="Tey">
+    <abbr type="siglum">Tey</abbr>
+    <expan><persName xml:lang="ta">Teyvacilaiyar</persName> on <title xml:lang="ta">Tolkāppiyam Collatikāram</title></expan>
+  </witness>
+  <witness xml:id="Kal">
+    <abbr type="siglum">Kal</abbr>
+    <expan><persName xml:lang="ta">Kallāṭaṉār</persName> on <title xml:lang="ta">Tolkāppiyam Collatikāram</title></expan>
+  </witness>
+  <witness xml:id="YV">
+    <abbr type="siglum">YV</abbr>
+    <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title></expan>
+      <witness xml:id="YVv">
+        <abbr type="siglum">YV<hi rend="subscript">2</hi></abbr>
+        <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title>, variant reading</expan>
+      </witness>
+      <witness xml:id="YV2">
+        <abbr type="siglum">YV<hi rend="subscript">2</hi></abbr>
+        <expan><title xml:lang="ta">Yāpparuṅkala Virutti</title>, second quotation</expan>
+      </witness>
+  </witness>
+  <witness xml:id="NV">
+    <abbr type="siglum">NV</abbr>
+    <expan><title xml:lang="ta">Naṉṉūl Virutti</title></expan>
+  </witness>
+  <witness xml:id="PV">
+    <abbr type="siglum">PV</abbr>
+    <expan><title xml:lang="ta">Pirayōka Vivēkam</title></expan>
+  </witness>
+  <witness xml:id="YK">
+    <abbr type="siglum">YK</abbr>
+    <expan><persName xml:lang="ta">Kuṇacākarar</persName> on <title xml:lang="ta">Yāpparuṅkalak Kārikai</title></expan>
+  </witness>
+  <witness xml:id="TV">
+    <abbr type="siglum">TV</abbr>
+    <expan><title xml:lang="ta">Tamiḻneṟi Viḷakkam</title>, <term xml:lang="ta">urai</term></expan>
+  </witness>
+  <witness xml:id="Nam">
+    <abbr type="siglum">Nam</abbr>
+    <expan><persName xml:lang="ta">Nampi</persName> on <title xml:lang="ta">Akapporuḷ Viḷakkam</title></expan>
+      <witness xml:id="Namv">
+        <abbr type="siglum">Nam<hi rend="subscript">v</hi></abbr>
+        <expan><persName xml:lang="ta">Nampi</persName> on <title xml:lang="ta">Akapporuḷ Viḷakkam</title>, variant reading</expan>
+      </witness>
+      <witness xml:id="Nam2">
+        <abbr type="siglum">Nam<hi rend="subscript">2</hi></abbr>
+        <expan><persName xml:lang="ta">Nampi</persName> on <title xml:lang="ta">Akapporuḷ Viḷakkam</title>, second quotation</expan>
+      </witness>
+  </witness>
+  <witness xml:id="KK">
+    <abbr type="siglum">KK</abbr>
+    <expan><title xml:lang="ta">Kaḷaviyal Kārikai</title>, <term xml:lang="ta">urai</term></expan>
+      <witness xml:id="KKv">
+        <abbr type="siglum">KK</abbr>
+        <expan><title xml:lang="ta">Kaḷaviyal Kārikai</title>, <term xml:lang="ta">urai</term>, variant reading</expan>
+      </witness>
+  </witness>
+  <witness xml:id="May">
+    <abbr type="siglum">May</abbr>
+    <expan><persName xml:lang="ta">Mayilainātar</persName> on <title xml:lang="ta">Naṉṉūl</title></expan>
+  </witness>
+  <witness xml:id="Kul">
+    <abbr type="siglum">Kūḻ</abbr>
+    <expan><persName xml:lang="ta">Kūḻaṅkaittampiraṉ</persName> on <title xml:lang="ta">Naṉṉūl</title></expan>
+  </witness>
+  <witness xml:id="Can">
+    <abbr type="siglum">Caṅ</abbr>
+    <expan><persName xml:lang="ta">Caṅkaranamaccivāyar</persName> on <title xml:lang="ta">Naṉṉūl</title></expan>
+  </witness>
+  <witness xml:id="IV">
+    <abbr type="siglum">IV</abbr>
+    <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title></expan>
+  <witness xml:id="IVv">
+    <abbr type="siglum">IV<hi rend="subscript">v</hi></abbr>
+    <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title>, variant reading</expan>
+  </witness>
+  <witness xml:id="IV2">
+    <abbr type="siglum">IV<hi rend="subscript">2</hi></abbr>
+    <expan><persName xml:lang="ta">Vaittiyanāta Tecikar</persName> on <title xml:lang="ta">Ilakkaṇa Viḷakkam</title>, second quotation</expan>
+  </witness>
+  </witness>
+</listWit></sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="KT284-kilavi">varaiviṭait tōḻik kiḻattikku uraippāḷāy uraittatu. </p>
+        <p xml:lang="en">Told by the confidante as if talking to HER at the time
+          of marriage. </p>
+      </div>
+
+      <div rend="parallel">
+        <lg xml:id="KT284">
+          <l> poruta yāṉaip pukarmukaṅ kaṭuppa</l>
+          <l> maṉṟat tuṟukaṉ mīmicaip palavuṭa</l>
+          <l> ṉoṇceṅ kānta ḷaviḻu nāṭa</l>
+          <l> ṉaṟava ṉāyiṉu malla ṉāyiṉu</l>
+          <l> nammē cuvarō tammilar kollō</l>
+          <l> varaiyiṟ ṟāḻnta vālveḷ ḷaruvi</l>
+          <l> koṉṉilaik kurampaiyi ṉiḻitaru</l>
+          <l> miṉṉā tiruntavic ciṟukuṭi yōrē.</l>
+        </lg>
+
+        <lg xml:lang="en">
+          <l rend="indent2">The man from a land, where bright red Malabar lilies open,</l>
+          <l rend="indent4">many together, on an elevation of thick stones in the open, <note place="foot"> <term xml:lang="ta"> maṉṟam </term> cannot very well be understood here in its usual sense of "village common". It may also mean "free, open space" – perhaps thus?  </note></l>
+          <l rend="indent5">so that it resembles the spotted face of a slain elephant, <note place="foot"> So the stones have blood-red lily spots (the confusion between stones and elephants being a standard comparison).  </note></l>
+          <l rend="indent2">whether he is dutiful or not</l>
+          <l>are they abusing us,</l>
+          <l>the [people] from these little homes to whom it wasn't right, <note place="foot"> That is, what has taken place between HER and the man.</note></l>
+          <l rend="indent">where the pure white waterfall hanging down from the mountain</l>
+          <l rend="indent2">comes down upon the vainly <note place="foot"> For <term xml:lang="ta"> koṉ </term> cf. note on KT 91.7. One possibility to make sense of <term xml:lang="ta"> koṉ </term> might to apply it adverbially to the leaves, which supposedly cover the huts. So the wild waters will ruin the huts? Cām., on his part, glosses with <term xml:lang="ta"> accattai tarum </term>, "fear-inspiring". </note> leaf[-thatched] huts?</l>
+          <l rend="indent4">Do they have nothing [to abuse] themselves [with]? <note place="foot"> <term xml:lang="ta"> tam ilar kollō </term>: this elliptical statement is hard to interpret, but probably it is to be read as a negated parallel construction to <term xml:lang="ta"> nam ēcuvar-ō  </term> with an elliptical verb, meaning that they should mind their own business. </note> </l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#KT284">
+<interp type="alignment" select="0">75MR15MG11MGMR10MG9MG64MG20MG2M,214MG</interp>
+<entry>
+<form>poruta</form>
+<def>fought</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai<c type="geminated">p</c></form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukar</form>
+<def>spot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+<form type="sandhi">mukaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭuppa</form>
+<def>resemble</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉṟam</form>
+<def>village common</def>
+<form type="sandhi">maṉṟat</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟu</form>
+<def>thick</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<form type="sandhi">kaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mī</form>
+<def>height</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>micai<c type="geminated">p</c></form>
+<def>elevation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uṭaṉ</form>
+<def>together</def>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāntaḷ</form>
+<def>Malabar glory lily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aviḻum</form>
+<def>opening-</def>
+<form type="sandhi">aviḻun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟavaṉ</form>
+<def>duty-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>allaṉ</form>
+<def>not-so-he</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nam</form>
+<def>we</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">m</c>ēcuvar-ō</form>
+<def>they abuse</def>
+<form type="simple">ēcuvar</form>
+<form type="sandhi"><c type="geminated">m</c>ēcuvar</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tam</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">m</c>ilar-kollō</form>
+<def>not-they</def>
+<form type="simple">ilar</form>
+<form type="sandhi"><c type="geminated">m</c>ilar</form>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>varaiyiṉ</form>
+<def>mountain</def>
+<form type="sandhi">varaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḻnta</form>
+<def>come-down</def>
+<form type="sandhi">ṟāḻnta</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāl</form>
+<def>purity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>aruvi</form>
+<def>waterfall</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>ilai<c type="geminated">k</c></form>
+<def>leaf</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kurampaiyiṉ</form>
+<def>hut</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻi</form>
+<def>fall</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tarum</form>
+<def>giving-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṉāt<c type="elided">u</c></form>
+<def>pleasing-not-it</def>
+<form type="sandhi">iṉṉāt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irunta</form>
+<def>been</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>i<c type="geminated">c</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiyōr-ē</form>
+<def>home-they</def>
+<form type="simple">kuṭiyōr</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#KT284" type="apparatus"><listApp>
+<app loc="0,6">
+        <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam">poruta</lem>
+        <rdg wit="#C3">porunta</rdg>
+        </app>
+<app loc="64,75">
+        <lem wit="#L1 #C1 #C2 #C3 #G2 #EA #Cam">kānta ḷaviḻu</lem>
+        <rdg wit="#G1 #Camv">kāntaḷ vīḻu</rdg>
+        </app>
+<app loc="79,85">
+        <lem wit="#L1 #C1 #C2 #C3v #G1 #G2 #EA #Cam">ṉaṟava</lem>
+        <rdg wit="#C3">ṉaṟaṉva</rdg>
+<rdg wit="#Camv">ṉavala</rdg>
+        </app>
+<app loc="85,91">
+        <lem wit="#L1 #C1 #C2 #C3 #G2 #EA #Cam">ṉāyiṉu</lem>
+        <rdg wit="#G1">nāyiṉu</rdg>
+        </app>
+<app loc="134,140">
+        <lem wit="#C1 #C2 #C3 #G1 #G2 #EA #Cam">ṟāḻnta</lem>
+        <rdg wit="#L1">ṟāḷnta</rdg>
+        </app>
+<app loc="140,146">
+        <lem wit="#L1 #C1 #C2 #C3 #G1 #G2 #EA #Cam">vālveḷ</lem>
+        <rdg wit="#AT #Camv">vāḷveḷ</rdg>
+        </app>
+</listApp>
+</standOff><standOff corresp="#KT284-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG40M,46MG</interp>
+<entry>
+<form>varaiv<c type="elided">u</c></form>
+<def>marriage</def>
+<form type="sandhi">varaiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭai<c type="geminated">t</c></form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi<c type="geminated">k</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻattikku</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraippāḷ</form>
+<def>talk-she</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

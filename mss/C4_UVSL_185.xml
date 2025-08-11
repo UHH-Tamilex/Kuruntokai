@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><title xml:lang="ta">Kuṟuntokai</title> paper manuscript, UVSL 185
+        </title>
+        <editor>
+          <persName>Eva Wilden</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+        <editor>
+          <persName>Charles Li</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Tamilex</publisher>
+        <date>2025</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>U. V. Swaminatha Iyer Library</orgName>
+            </repository>
+            <idno type="shelfmark">UVSL 185</idno>
+            <idno type="alternate"/>
+            <idno type="URI">https://archive.org/details/uvsl-185</idno>
+          </msIdentifier>
+          <msContents class="#STM">
+            <summary>This paper manuscript contains poems 41 to 99 from the <title xml:lang="ta">Kuṟuntokai</title>.</summary>
+            <msItem xml:id="C4" defective="false">
+              <title xml:lang="ta">Kuṟuntokai</title>
+              <textLang mainLang="tam"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex" rend="manuscript">
+              <supportDesc material="paper">
+                <support>
+                           
+                        </support>
+                <extent>
+                  <measure unit="folio" quantity="58"/>
+                  <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                  <dimensions type="leaf" unit="mm">
+                    <width quantity="170"/>
+                    <height quantity="210"/>
+                  </dimensions>
+                  <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                        
+                     </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="ink black"/>
+            </handDesc>
+            <additions>
+                  </additions>
+            <bindingDesc>
+              <binding>
+                <decoNote type="stringhole">
+                  <measure unit="stringhole"/>
+                </decoNote>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="gregorian"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+                     
+                  </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Madras lexicon transliteration.</p>
+    </encodingDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <facsimile>
+    <graphic url="https://iiif.archive.org/iiif/uvsl-185/manifest.json"/>
+  </facsimile>
+  <text corresp="#C4" xml:lang="ta">
+    <body>
+      <milestone n="1" facs="5" unit="folio"/>
+      <lg xml:id="KT41">
+        <l>kātala ruḻaiya rākap perituvantu</l>
+        <l>cāṟuko ḷūriṟ pukalvēṉ maṉṟa</l>
+        <l>vatta naṇṇiya vaṅkuṭic cīṟūr</l>
+        <l>makkaḷ pōkiya vaṇilāṭu muṉṟiṟ</l>
+        <l>pulappil pōlap pulleṉ</l>
+        <l>ṟalappēṉ ṟōḻiyava rakaṉṟa ñāṉṟē.</l>
+      </lg>
+      <milestone n="2" facs="6" unit="folio"/>
+      <lg xml:id="KT42">
+        <l>kāma moḻiva tāyiṉum yāmattuk</l>
+        <l>karuvi māmaḻai vīḻnteṉa varuvi</l>
+        <l>viṭarakat tiyampu nāṭaven</l>
+        <l>toṭarpun tēyumō niṉvayi ṉāṉē.</l>
+      </lg>
+      <milestone n="3" facs="7" unit="folio"/>
+      <lg xml:id="KT43">
+        <l>celvā rallareṉ ṟiyāṉikaḻn taṉaṉē</l>
+        <l>yīvā ḷallaḷeṉ ṟavarikaḻn taṉarē</l>
+        <l rend="indent4">yāyiṭai</l>
+        <l>yirupē rāṇmai ceyta pūca</l>
+        <l>nallārk katuvi yāṅke</l>
+        <l>ṉalla ṉeñca malamalak kuṟumē.</l>
+      </lg>
+      <milestone n="4" facs="8" unit="folio"/>
+      <lg xml:id="KT44">
+        <l>kālē paritap piṉaveṉ kaṇṇē</l>
+        <l>nōkki nōkki vāḷiḻan taṉavē</l>
+        <l>yakaliru vicumpiṉ mīṉiṉum</l>
+        <l>palarē maṉṟaviv vulakattup piṟarē.</l>
+      </lg>
+      <milestone n="5" facs="9" unit="folio"/>
+      <lg xml:id="KT45">
+        <l>kālai yeḻuntu kaṭuntēr paṇṇi</l>
+        <l>vāliḻai makaḷirt taḻīiya ceṉṟa</l>
+        <l>malla lūra ṉelliṉaṉ periteṉa</l>
+        <l>maṟuvaruñ ciṟuvaṉ ṟāyē</l>
+        <l>teṟuva tammavit tiṇaippiṟat tallē.</l>
+      </lg>
+      <milestone n="6" facs="10" unit="folio"/>
+      <lg xml:id="KT46">
+        <l>āmpaṟ pūviṉ cāmpa laṉṉa</l>
+        <l>kūmpiya ciṟakar maṉaiyuṟai kurīi</l>
+        <l>muṉṟi luṇaṅkaṉ mānti maṉṟa</l>
+        <l>teruviṉuṇ ṭātu kuṭaivaṉa vāṭi</l>
+        <l>yilliṟaip paḷḷittam piḷḷaiyoṭu vatiyum</l>
+        <l>puṉkaṇ mālaiyum pulampu</l>
+        <l>miṉṟuko ṟōḻiyavar ceṉṟa nāṭṭē.</l>
+      </lg>
+      <milestone n="7" facs="11" unit="folio"/>
+      <lg xml:id="KT47">
+        <l>karuṅkāl vēṅkai vīyuku tuṟuka</l>
+        <l>lirumpulik kuruḷaiyiṟ ṟōṉṟuṅ kāṭṭiṭai</l>
+        <l>yelli varunar kaḷaviṟku</l>
+        <l>nallai yallai neṭuveṇ ṇilavē.</l>
+      </lg>
+      <milestone n="8" facs="12" unit="folio"/>
+      <lg xml:id="KT48">
+        <l>tātiṟ ceyta taṇpaṉip pāvai</l>
+        <l>kālai varuntuṅ kaiyā ṟōmpeṉa</l>
+        <l>vōrai yāyaṅ kūṟak kēṭṭu</l>
+        <l>miṉṉa paṇpi ṉiṉaiperi tuḻakku</l>
+        <l>naṉṉutaṟ pacalai nīṅka vaṉṉa</l>
+        <l>nacaiyāku paṇpi ṉoruco</l>
+        <l>licaiyātu kollō kātalar tamakkē.</l>
+      </lg>
+      <milestone n="9" facs="14" unit="folio"/>
+      <lg xml:id="KT49">
+        <l>aṇiṟpal laṉṉa kōṅkumutir muṇṭakattu</l>
+        <l>maṇikkē ḻaṉṉa mānīrc cērppa</l>
+        <l>vimmai māṟi maṟumai yāyiṉu</l>
+        <l>nīyā kiyareṅ kaṇavaṉai</l>
+        <l>yāṉā kiyarniṉ ṉeñcunēr pavaḷē.</l>
+      </lg>
+      <milestone n="10" facs="15" unit="folio"/>
+      <lg xml:id="KT50">
+        <l>aiyavi yaṉṉa ciṟuvī ñāḻal</l>
+        <l>cevvī marutiṉ cemmaloṭu tāayt</l>
+        <l>tuṟaiyaṇin taṉṟava rūrē yiṟaiyiṟan</l>
+        <l>tilaṅkuvaḷai nekiḻac cāayp</l>
+        <l>pulampaṇin taṉṟavar maṇanta tōḷē.</l>
+      </lg>
+      <milestone n="11" facs="16" unit="folio"/>
+      <lg xml:id="KT51">
+        <l>kūrmuṇ muṇṭakak kūṉi māmalar</l>
+        <l>nūlaṟu muttiṟ kāloṭu pāṟit</l>
+        <l>tuṟaitoṟum parikkun tūmaṇaṟ cērppaṉai</l>
+        <l>yāṉuṅ kātalēṉ yāyunaṉi veyya</l>
+        <l>ḷentaiyuṅ koṭīiyar vēṇṭu</l>
+        <l>mampa lūru mavaṉoṭu moḻimē.</l>
+      </lg>
+      <milestone n="12" facs="17" unit="folio"/>
+      <lg xml:id="KT52">
+        <l>ārkali mititta nīrtikaḻ cilampiṟ</l>
+        <l>kūracait taṉaiyaiyāy naṭuṅkal kaṇṭē</l>
+        <l>naranta nāṟuṅ kuvaiyiruṅ </l>
+        <l>kūntal
+virintilaṅku veṇpaṉ maṭantai</l>
+        <l>parantaṉe ṉallaṉō viṟaiyiṟai yāṉē.</l>
+      </lg>
+      <milestone n="13" facs="18" unit="folio"/>
+      <lg xml:id="KT53">
+        <l>emmaṇaṅ kiṉavē makiḻna muṉṟi</l>
+        <l>ṉaṉaimutir puṉkiṉ pūttāḻ veṇmaṇal</l>
+        <l>vēlaṉ puṉainta veṟiyayar kaḷantoṟuñ</l>
+        <l>cennel vāṉpori citaṟi yaṉṉa</l>
+        <l>vekkar naṇṇiya vemmūr viyaṉṟuṟai</l>
+        <l>nēriṟai muṉkai paṟṟic</l>
+        <l>cūrara makaḷirō ṭuṟṟa cūḷē.</l>
+      </lg>
+      <milestone n="14" facs="19" unit="folio"/>
+      <lg xml:id="KT54">
+        <l>yāṉē yīṇṭai yēṉē </l>
+        <l>yeṉṉala
+ṉēṉal kāvalar kavaṇoli verīik</l>
+        <l>kāṉa yāṉai kaiviṭu pacuṅkaḻai</l>
+        <l>mīṉeṟi tūṇṭili ṉivakkuṅ</l>
+        <l>kāṉaka nāṭaṉō ṭāṇṭoḻin taṉṟē.</l>
+      </lg>
+      <milestone n="15" facs="20" unit="folio"/>
+      <lg xml:id="KT55">
+        <l>mākkaḻi maṇippūk kūmpat tūttiraip</l>
+        <l>poṅkupitirt tuvalaiyoṭu maṅku ṟaiik</l>
+        <l>kaiyaṟa vanta taivara lūtaiyō</l>
+        <l>ṭiṉṉā vuṟaiyuṭ ṭākuñ</l>
+        <l>ciṉṉāṭ ṭammavic ciṟunal lūrē.</l>
+      </lg>
+      <milestone n="16" facs="21" unit="folio"/>
+      <lg xml:id="KT56">
+        <l>vēṭṭac cennāy kiḷaittūṇ micciṟ</l>
+        <l>kuḷavi moytta vaḻukaṟ ciṉṉīr</l>
+        <l>vaḷaiyuṭaik kaiya ḷemmo ṭuṇīiya</l>
+        <l>varukatil lamma tāṉē</l>
+        <l>yaḷiyaḷō vaḷiyaḷeṉ ṉeñcamarn tōḷē.</l>
+      </lg>
+      <milestone n="17" facs="23" unit="folio"/>
+      <lg xml:id="KT57">
+        <l>pūviṭaip paṭiṉum yāṇṭukaḻin taṉṉa</l>
+        <l>nīruṟai makaṉṟiṟ puṇarcci pōlap</l>
+        <l>pirivari tākiya taṇṭāk kāmamō</l>
+        <l>ṭuṭaṉuyir pōkuka tilla kaṭaṉaṟin</l>
+        <l>tiruvē mākiya vulakat</l>
+        <l>toruvē mākiya puṉmainā muyaṟkē.</l>
+      </lg>
+      <milestone n="18" facs="24" unit="folio"/>
+      <lg xml:id="KT58">
+        <l>iṭikkuṅ kēḷir nuṅkuṟai yāka</l>
+        <l>niṟukka lāṟṟiṉō naṉṟumaṟ ṟilla</l>
+        <l>ñāyiṟu kāyum vevvaṟai maruṅkiṟ</l>
+        <l>kaiyi lūmaṉ kaṇṇiṟ kākkum</l>
+        <l>veṇṇe yuṇaṅkal pōlap</l>
+        <l>parantaṉ ṟinnōy nōṉṟukoḷaṟ karitē.</l>
+      </lg>
+      <milestone n="19" facs="25" unit="folio"/>
+      <lg xml:id="KT59">
+        <l>patalaip pāṇip paratavar kōmāṉ</l>
+        <l>ṟalaikkuṉṟat takalvāyk kuṇṭucuṉaik kuvaḷaiyoṭu</l>
+        <l>potinta kuḷavi nāṟuniṉ ṉaṟunuta</l>
+        <l>ṟāveṉa maṟapparō maṟṟē muyalavuñ</l>
+        <l>curampala vilaṅkiya varumporu</l>
+        <l>ṇirampā vākali ṉīṭalō viṉṟē.</l>
+      </lg>
+      <milestone n="20" facs="26" unit="folio"/>
+      <lg xml:id="KT60">
+        <l>kuṟuntāṭ kūtaḷi rāṭiya neṭuvaraip</l>
+        <l>peruntēṉ kaṇṭa virukkai muṭava</l>
+        <l>ṉuṭkaic cīṟuṭai kōlik </l>
+        <l>kīḻirun
+tūṭṭupu nakki yāṅkuk kātalar</l>
+        <l>nalkār nayavā rāyiṉum</l>
+        <l>palkāṟ kāṇṭalu muḷḷattuk kiṉitē.</l>
+      </lg>
+      <milestone n="21" facs="27" unit="folio"/>
+      <lg xml:id="KT61">
+        <l>taccaṉ ceyta ciṟumā vaiya</l>
+        <l>mūrntiṉ puṟāa rāyiṉuṅ kaiyi</l>
+        <l>ṉīrttiṉ puṟūu miḷaiyōr pōla</l>
+        <l>vuṟṟiṉ puṟēe māyiṉu naṟṟērp</l>
+        <l>poykai yūraṉ kēṇmai</l>
+        <l>ceytiṉ puṟṟaṉañ ceṟintaṉa vaḷaiyē.</l>
+      </lg>
+      <milestone n="22" facs="28" unit="folio"/>
+      <lg xml:id="KT62">
+        <l>kōṭa letirmukaip pacuvī mullai</l>
+        <l>nāṟitaḻk kuvaḷaiyō ṭiṭaipaṭa viraii</l>
+        <l>yaitutoṭai māṇṭa kōtai pōla</l>
+        <l>naṟiya ṇallōṇ mēṉi</l>
+        <l>muṟiyiṉum vāyatu muyaṅkaṟku miṉitē.</l>
+      </lg>
+      <milestone n="23" facs="29" unit="folio"/>
+      <lg xml:id="KT63">
+        <l>ītalun tuyttalu millōrk killeṉac</l>
+        <l>ceyviṉai kaimmika veṇṇuti yavviṉaik</l>
+        <l>kammā varivaiyum varumō</l>
+        <l>vemmai yuyttiyō vuraittici ṉeñcē.</l>
+      </lg>
+      <milestone n="24" facs="30" unit="folio"/>
+      <lg xml:id="KT64">
+        <l>pallā neṭuneṟik kaṉṟu varunteṉap</l>
+        <l>puṉṟalai maṉṟa nōkki mālai</l>
+        <l>maṭakkaṭ kuḻavi yavaṇvan taṉṉa</l>
+        <l>nōyē mākuta laṟintuñ</l>
+        <l>cēyar tōḻi cēynāṭ ṭōrē.</l>
+      </lg>
+      <milestone n="25" facs="31" unit="folio"/>
+      <lg xml:id="KT65">
+        <l>vaṉpāṟ ṟeḷḷaṟal parukiya viralaitaṉ</l>
+        <l>ṉiṉpuṟu tuṇaiyoṭu maṟuvan tukaḷat</l>
+        <l>tāṉvan taṉṟē taḷitaru taṇkār</l>
+        <l>vārā tuṟaiyunar varaṉacaii</l>
+        <l>varuntinon tuṟaiya viruntaṉṟā leṉavē.</l>
+      </lg>
+      <milestone n="26" facs="32" unit="folio"/>
+      <lg xml:id="KT66">
+        <l>maṭava maṉṟa taṭavunilaik koṉṟai</l>
+        <l>kalpiṟaṅ kattañ ceṉṟōr kūṟiya</l>
+        <l>paruvam vārā vaḷavai neritarak</l>
+        <l>kompucēr koṭiyiṇa rūḻtta</l>
+        <l>vampa māriyaik kāreṉa matittē.</l>
+      </lg>
+      <milestone n="27" facs="33" unit="folio"/>
+      <lg xml:id="KT67">
+        <l>uḷḷār kollō tōḻi kiḷḷai</l>
+        <l>vaḷaivāyk koṇṭa vēppa voṇpaḻam</l>
+        <l>putunū ṉuḻaippā ṉutimāṇ vaḷḷukirp</l>
+        <l>polaṅkala vorukā cēykku</l>
+        <l>nilaṅkari kaḷḷiyaṅ kāṭiṟan tōrē.</l>
+      </lg>
+      <milestone n="28" facs="34" unit="folio"/>
+      <lg xml:id="KT68">
+        <l>pūḻkkā laṉṉa ceṅkā luḻunti</l>
+        <l>ṉūḻppaṭu mutukā yuḻaiyiṉaṅ kavaru</l>
+        <l>marumpaṉi yaṟciran tīrkku</l>
+        <l>maruntupiṟi tillaiyavar maṇanta mārpē.</l>
+      </lg>
+      <milestone n="29" facs="35" unit="folio"/>
+      <lg xml:id="KT69">
+        <l>karuṅkaṭ ṭākkalai perumpiṟi tuṟṟeṉak</l>
+        <l>kaimmai yuyyāk kāmar manti</l>
+        <l>kallā vaṉpaṟaḻ kiḷaimutaṟ cērtti</l>
+        <l>yōṅkuvarai yaṭukkattup pāyntuyir cekukkuñ</l>
+        <l>cāra ṉāṭa naṭunāḷ</l>
+        <l>vāral vāḻiyōo varuntutum yāmē.</l>
+      </lg>
+      <milestone n="30" facs="36" unit="folio"/>
+      <lg xml:id="KT70">
+        <l>oṭuṅkī rōti yoṇṇutaṟ </l>
+        <l>kuṟumaka
+ṇaṟunta ṇīra ḷāraṇaṅ kiṉaḷē</l>
+        <l>yiṉaiya ḷeṉṟavaṭ puṉaiyaḷa vaṟiyēṉ</l>
+        <l>cilamel liyavē kiḷavi</l>
+        <l>yaṇaimel liyaḷyāṉ muyaṅkuṅ kālē.</l>
+      </lg>
+      <milestone n="31" facs="37" unit="folio"/>
+      <lg xml:id="KT71">
+        <l>marunteṉiṉ maruntē vaippeṉiṉ vaippē</l>
+        <l>yarumpiya cuṇaṅki ṉampakaṭ ṭiḷamulaip</l>
+        <l>peruntō ṇuṇukiya nucuppiṟ</l>
+        <l>kalkeḻu kāṉavar nalkuṟu makaḷē.</l>
+      </lg>
+      <milestone n="32" facs="38" unit="folio"/>
+      <lg xml:id="KT72">
+        <l>pūvot talamarun takaiya vēvot</l>
+        <l>tellāru maṟiya nōycey taṉavē</l>
+        <l>tēmoḻit tiraṇṭa meṉṟōṇ māmalaip</l>
+        <l>parīi vittiya vēṉaṟ</l>
+        <l>kurīi yōppuvāḷ perumaḻaik kaṇṇē.</l>
+      </lg>
+      <milestone n="33" facs="39" unit="folio"/>
+      <lg xml:id="KT73">
+        <l>makiḻnaṉ mārpē veyyai yāṉī</l>
+        <l>yaḻiyal vāḻi tōḻi naṉṉa</l>
+        <l>ṉaṟumā koṉṟa ñāṭpiṟ pōkiya</l>
+        <l>voṉṟumoḻik kōcar pōla</l>
+        <l>vaṉkaṭ cūḻcciyum vēṇṭumāṟ ciṟitē.</l>
+      </lg>
+      <milestone n="34" facs="40" unit="folio"/>
+      <lg xml:id="KT74">
+        <l>viṭṭa kutirai viyappi ṉaṉṉa</l>
+        <l>vicumputōy pacuṅkaḻaik kuṉṟa nāṭaṉ</l>
+        <l>yāntaṟ paṭarntamai yaṟiyāṉ ṟāṉum</l>
+        <l>vēṉi lāṉēṟu pōlac</l>
+        <l>cāyiṉa ṉeṉpanam māṇala nayantē.</l>
+      </lg>
+      <milestone n="35" facs="41" unit="folio"/>
+      <lg xml:id="KT75">
+        <l>nīkaṇ ṭaṉaiyō kaṇṭārkkēṭ ṭaṉaiyō</l>
+        <l>voṉṟu teḷiya nacaiyiṉa moḻimō</l>
+        <l>veṇkōṭ ṭiyāṉai pūñcuṉai paṭiyum</l>
+        <l>poṉmali pāṭiṉi peṟīiyar</l>
+        <l>yārvāyk kēṭṭaṉai kātalar varavē.</l>
+      </lg>
+      <milestone n="36" facs="42" unit="folio"/>
+      <lg xml:id="KT76">
+        <l>kāntaḷ vēli yōṅkumalai naṉṉāṭṭuc</l>
+        <l>celpa veṉpanaṅ kalvarai mārpar</l>
+        <l>cilampiṟ cēmpi ṉalaṅkal vaḷḷilai</l>
+        <l>peruṅkaḷiṟṟuc ceviyiṉ māṉat taiit</l>
+        <l>taṇvaral vāṭai tūṅkuṅ</l>
+        <l>kaṭumpaṉi yaṟcira naṭuṅkaña ruṟavē.</l>
+      </lg>
+      <milestone n="37" facs="43" unit="folio"/>
+      <lg xml:id="KT77">
+        <l>amma vāḻi tōḻi yāvatun</l>
+        <l>tavaṟeṉiṟ ṟavaṟō vilavē veñcurat</l>
+        <l>tulanta vampala ruvaliṭu patukkai</l>
+        <l>neṭunal yāṉaik kiṭuniḻa lāku</l>
+        <l>mariya kāṉañ ceṉṟōrk</l>
+        <l>keḷiya vākiya taṭameṉ ṟōḷē.</l>
+      </lg>
+      <milestone n="38" facs="44" unit="folio"/>
+      <lg xml:id="KT78">
+        <l>peruvarai micaiyatu neṭuveḷ ḷaruvi</l>
+        <l>mutuvāyk kōṭiyar muḻaviṟ ṟatumpic</l>
+        <l>cilampi ṉiḻitaru milaṅkumalai veṟpa</l>
+        <l>nōtak kaṉṟē kāmam yāvatu</l>
+        <l>naṉṟeṉa vuṇarār māṭṭuñ</l>
+        <l>ceṉṟē niṟkum perumpē taittē.</l>
+      </lg>
+      <milestone n="39" facs="45" unit="folio"/>
+      <lg xml:id="KT79">
+        <l>kāṉa yāṉai tōṉayan tuṇṭa</l>
+        <l>poritā ḷōmai vaḷiporu neṭuñciṉai</l>
+        <l>yalaṅka lulavai yēṟi yoyyeṉap</l>
+        <l>pulamputaru kurala puṟavuppeṭai payiru</l>
+        <l>matta naṇṇiya vaṅkuṭic cīṟūr</l>
+        <l>cērntaṉar kollō tāmē yāntamak</l>
+        <l>kollē meṉṟa tappal</l>
+        <l>collā takaṟal vallu vōrē.</l>
+      </lg>
+      <milestone n="40" facs="46" unit="folio"/>
+      <lg xml:id="KT80">
+        <l>kūnta lāmpaṉ muḻuneṟi yaṭaiccip</l>
+        <l>perumpuṉal vanta viruntuṟai virumpi</l>
+        <l>yāmaḵ tayarkañ cēṟun tāṉaḵ</l>
+        <l>tañcuva tuṭaiya ḷāyiṉ vempōr</l>
+        <l>nukampaṭak kaṭakkum palvē leḻiṉi</l>
+        <l>muṉaiyāṉ perunirai pōlak</l>
+        <l>kiḷaiyoṭu kākkataṉ koḻunaṉ mārpē.</l>
+      </lg>
+      <milestone n="41" facs="47" unit="folio"/>
+      <lg xml:id="KT81">
+        <l>ivaḷē</l>
+        <l>niṉcoṟ koṇṭa veṉcoṟ ṟēṟip</l>
+        <l>pacunaṉai ñāḻaṟ palciṉai yoruciṟaip</l>
+        <l>putunala ṉiḻanta pulampumā ruṭaiya</l>
+        <l>ḷutukkāṇ ṭeyya vuḷḷal vēṇṭu</l>
+        <l>nilavu miruḷum pōlap pulavuttiraik</l>
+        <l>kaṭaluṅ kāṉalun tōṉṟu</l>
+        <l>maṭaṟāḻ peṇṇaiyeñ ciṟunal lūrē.</l>
+      </lg>
+      <milestone n="42" facs="48" unit="folio"/>
+      <lg xml:id="KT82">
+        <l>vāruṟu vaṇarkatup puḷarip puṟañcēr</l>
+        <l>paḻāa leṉṟunam maḻutakaṇ ṭuṭaippār</l>
+        <l>yārā kuvarko ṟōḻi cāraṟ</l>
+        <l>perumpuṉak kuṟavaṉ ciṟutiṉai maṟukāṟ</l>
+        <l>koḻuṅkoṭi yavarai pūkku</l>
+        <l>marumpaṉi yaṟciram vārā tōrē.</l>
+      </lg>
+      <milestone n="43" facs="49" unit="folio"/>
+      <lg xml:id="KT83">
+        <l>arumpeṟa lamiḻta mārpata mākap</l>
+        <l>perumpeya rulakam peṟīiyarō vaṉṉai</l>
+        <l>tammiṟ ṟamatuṇ ṭaṉṉa ciṉaitoṟun</l>
+        <l>tīmpaḻan tūṅkum palavi</l>
+        <l>ṉōṅkumalai nāṭaṉai varumeṉ ṟōḷē.</l>
+      </lg>
+      <milestone n="44" facs="50" unit="folio"/>
+      <lg xml:id="KT84">
+        <l>peyarttaṉeṉ muyaṅkayāṉ viyarttaṉe ṉeṉṟaṉa</l>
+        <l>ḷiṉiyaṟin tēṉatu tuṉiyā kutalē</l>
+        <l>kaḻaṟoṭi yāay maḻaitavaḻ potiyil</l>
+        <l>vēṅkaiyuṅ kāntaḷu nāṟi</l>
+        <l>yāmpaṉ malariṉun tāṉṟaṇ ṇiyaḷē.</l>
+      </lg>
+      <milestone n="45" facs="51" unit="folio"/>
+      <lg xml:id="KT85">
+        <l>yāriṉu miṉiyaṉ pōṉa piṉṉē</l>
+        <l>yuḷḷūrk kurīit tuḷḷunaṭaic cēval</l>
+        <l>cūṉmutir pēṭaik kīṉi liḻaiiyar</l>
+        <l>tēmpotik koṇṭa tīṅkaḻaik karumpi</l>
+        <l>ṉāṟā veṇpūk koḻutum</l>
+        <l>yāṇa rūraṉ pāṇaṉ vāyē.</l>
+      </lg>
+      <milestone n="46" facs="53" unit="folio"/>
+      <lg xml:id="KT86">
+        <l>ciṟaipaṉi yuṭainta cēyari maḻaikkaṭ</l>
+        <l>poṟaiyaru nōyoṭu pulampalaik kalaṅkip</l>
+        <l>piṟaruṅ kēṭkuna ruḷarkol luṟaiciṟan</l>
+        <l>tūtai tūṟṟuṅ kūtir yāmat</l>
+        <l>tāṉuḷam ṟuḷampu pulamputo ṟulampu</l>
+        <l>nānavil koṭumaṇi nalkūr kuralē.</l>
+      </lg>
+      <milestone n="47" facs="54" unit="folio"/>
+      <lg xml:id="KT87">
+        <l>maṉṟa marāatta pēemutir kaṭavuḷ</l>
+        <l>koṭiyōrt teṟūu meṉpa yāvatuṅ</l>
+        <l>koṭiya rallareṅ kuṉṟukeḻu nāṭar</l>
+        <l>pacaiip pacantaṉṟu nutalē</l>
+        <l>ñekiḻa ñekiḻntaṉṟu taṭameṉ ṟōḷē.</l>
+      </lg>
+      <milestone n="48" facs="55" unit="folio"/>
+      <lg xml:id="KT88">
+        <l>oliveḷ ḷaruvi yōṅkumalai nāṭaṉ</l>
+        <l>ciṟukaṭ peruṅkaḷiṟu vayappuli tākkit</l>
+        <l>toṉmuraṇ kollun tuṉṉaruñ cōlai</l>
+        <l>naṭunāḷ varutalum varūum</l>
+        <l>vaṭunā ṇalamō tōḻi nāmē.</l>
+      </lg>
+      <p xml:id="KT89-kilavi2"/>
+      <lg xml:id="KT89"/>
+      <note xml:lang="en">KT89 missing</note>
+      <milestone n="49" facs="56" unit="folio"/>
+      <lg xml:id="KT90">
+        <l>eṟṟō vāḻi tōḻi muṟṟupu</l>
+        <l>kaṟivaḷa raṭukkat tiraviṉ muḻaṅkiya</l>
+        <l>maṅkuṉ māmaḻai vīḻnteṉap poṅkumayirk</l>
+        <l>kalaitoṭa viḻukkiya pūnāṟu palavukaṉiyiṉai</l>
+        <l>varaiyiḻi yaruvi yuṇṭuṟait tarūuṅ</l>
+        <l>kuṉṟa nāṭaṉ kēṇmai</l>
+        <l>meṉṟōḷ cāyttuñ cālpiṉ ṟaṉṟē.</l>
+      </lg>
+      <milestone n="50" facs="58" unit="folio"/>
+      <lg xml:id="KT91">
+        <l>arippavarp pirampiṉ varippuṟa viḷaikaṉi</l>
+        <l>kuṇṭunī rilañcik keṇṭai katūun</l>
+        <l>taṇṭuṟai yūraṉ peṇṭiṉai yāyiṟ</l>
+        <l>palavā kukaniṉ ṉeñciṉiṟ paṭarē</l>
+        <l>yōvā tīyu māri vaṇkaik</l>
+        <l>kaṭumpakaṭ ṭiyāṉai neṭuntē rañci</l>
+        <l>koṉmuṉai yiravūr pōlac</l>
+        <l>cilavā kukanī tuñcu nāḷē.</l>
+      </lg>
+      <milestone n="51" facs="60" unit="folio"/>
+      <lg xml:id="KT92">
+        <l>ñāyiṟu paṭṭa vakalvāy vāṉat</l>
+        <l>taḷiya tāmē koṭuñciṟaip paṟavai</l>
+        <l>yiṟaiyuṟa vōṅkiya neṟiyayaṉ marātta</l>
+        <l>piḷḷai yuḷvāyc cerīiya</l>
+        <l>viraikoṇ ṭamaiyiṉ viraiyumāṟ celavē.</l>
+      </lg>
+      <milestone n="52" facs="61" unit="folio"/>
+      <lg xml:id="KT93">
+        <l>nannalan tolaiya nalamikac cāa</l>
+        <l>yiṉṉuyir kaḻiyiṉu muraiya lavarnamak</l>
+        <l>kaṉṉaiyu mattaṉu mallarō </l>
+        <l>pulaviya tevaṉō vaṉpilaṅ kaṭaiyē.</l>
+      </lg>
+      <milestone n="53" facs="62" unit="folio"/>
+      <lg xml:id="KT94">
+        <l>peruntaṇ mārip pētaip pittikat</l>
+        <l>tarumpē muṉṉu mikacciṟan tiruntaṉavē</l>
+        <l>yāṉē maruḷvēṉ ṟōḻi pāṉā</l>
+        <l>ḷiṉṉun tamiyar kēṭpiṟ peyarttu</l>
+        <l>meṉṉā kuvarkol pirintici ṉōrē</l>
+        <l>yaruvi māmalait takka</l>
+        <l>karuvi māmaḻaic cilaitaruṅ kuralē.</l>
+      </lg>
+      <milestone n="54" facs="63" unit="folio"/>
+      <lg xml:id="KT95">
+        <l>mālvarai yiḻitarun tūveḷ ḷaruvi</l>
+        <l>kaṉmukait tatumpum paṉmalarc cāraṟ</l>
+        <l>ciṟukuṭik kuṟavaṉ peruntōṭ kuṟumaka</l>
+        <l>ṇīrō raṉṉa </l>
+        <l>cāyal
+tīyō raṉṉaveṉ ṉuraṉavit taṉṟē.</l>
+      </lg>
+      <milestone n="55" facs="64" unit="folio"/>
+      <lg xml:id="KT96">
+        <l>aruvi vēṅkaip perumalai nāṭaṟ</l>
+        <l>kiyāṉevaṉ ceykō veṉṟi yāṉatu</l>
+        <l>nakaiyeṉa vuṇarē ṉāyi</l>
+        <l>ṉeṉṉā kuvaiko ṉaṉṉuta ṉīyē.</l>
+      </lg>
+      <milestone n="56" facs="65" unit="folio"/>
+      <lg xml:id="KT97">
+        <l>yāṉē yīṇṭai yēṉē yeṉṉalaṉē</l>
+        <l>yāṉā nōyoṭu kāṉa laḵtē</l>
+        <l>tuṟaivaṉ ṟammū rāṉē</l>
+        <l>maṟaiyala rāki maṉṟat taḵtē.</l>
+      </lg>
+      <milestone n="57" facs="66" unit="folio"/>
+      <lg xml:id="KT98">
+        <l>iṉṉa ḷāyiṉa ṇaṉṉuta leṉṟavart</l>
+        <l>tuṉṉac ceṉṟu ceppunarp peṟiṉē</l>
+        <l>naṉṟumaṉ vāḻi tōḻinam paṭappai</l>
+        <l>nīrvār paimputaṟ kalitta</l>
+        <l>mārip pīrat talarcila koṇṭē.</l>
+      </lg>
+      <milestone n="58" facs="67" unit="folio"/>
+      <lg xml:id="KT99">
+        <l>uḷḷiṉe ṉallaṉō yāṉē yuḷḷi</l>
+        <l>niṉaittaṉe ṉallaṉō peritē niṉaittu</l>
+        <l>maruṇṭaṉe ṉallaṉō vulakattup paṇpē</l>
+        <l>nīṭiya māatta kōṭutōy malirciṟai</l>
+        <l>yiṟaittuṇaic ceṉṟaṟ ṟāaṅ</l>
+        <l>kaṉaipperuṅ kāma mīṇṭukaṭaik koḷalē.</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
