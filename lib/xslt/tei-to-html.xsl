@@ -116,10 +116,10 @@
                 <xsl:element name="div">
                     <xsl:choose>
                         <xsl:when test="x:facsimile/x:graphic">
-                            <xsl:attribute name="class">record thin</xsl:attribute>
+                            <xsl:attribute name="id">record-thin</xsl:attribute>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:attribute name="class">record fat</xsl:attribute>
+                            <xsl:attribute name="id">record-fat</xsl:attribute>
                         </xsl:otherwise>
                     </xsl:choose>
                     <xsl:element name="div">
@@ -139,11 +139,6 @@
             </xsl:element>
             <xsl:variable name="manifest" select="x:facsimile/x:graphic/@url"/>
             <xsl:if test="$manifest">
-                <div id="togglers">
-                    <div id="recordtoggle" class="toggle" title="hide text">&gt;</div>
-                    <div id="rotator" title="rotate">↺</div>
-                    <div id="viewertoggle" class="toggle" title="hide images">&lt;</div>
-                </div>  
                 <xsl:element name="div">
                     <xsl:attribute name="id">viewer</xsl:attribute>
                     <xsl:attribute name="data-manifest">
