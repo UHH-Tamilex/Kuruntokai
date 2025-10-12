@@ -24,42 +24,44 @@
         </xsl:attribute>
     </xsl:element>
     <xsl:element name="section">
-        <xsl:attribute name="class">
-            <xsl:text>teitext</xsl:text>
-            <xsl:if test="@type='edition'">
-                <xsl:text> edition</xsl:text>
-            </xsl:if>
-        </xsl:attribute>
-        <xsl:attribute name="data-synch"><xsl:value-of select="@synch"/></xsl:attribute>
-        <xsl:attribute name="data-corresp"><xsl:value-of select="$textid"/></xsl:attribute>
         <xsl:call-template name="lang"/>
-        <xsl:element name="table">
-            <xsl:attribute name="class">texttitle</xsl:attribute>
-            <xsl:element name="tr">
-                <xsl:element name="td">
-                    <xsl:variable name="title" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:msContents/x:msItem[@xml:id=$textid]/x:title"/>
-                    <xsl:attribute name="lang"><xsl:value-of select="$title/@xml:lang"/></xsl:attribute>
-                    <xsl:if test="not(@type='edition')">
-                        <span class="line-view-icon" title="diplomatic display">
-                            <svg height='25px' width='25px' fill="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512"><g id="#hamburger"><g><g><path d="M486,493H26c-3.866,0-7-3.134-7-7V26c0-3.866,3.134-7,7-7h460c3.866,0,7,3.134,7,7v460C493,489.866,489.866,493,486,493z      M33,479h446V33H33V479z"></path></g><g><path d="M436,133H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,133,436,133z"></path></g><g><path d="M436,263H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,263,436,263z"></path></g><g><path d="M436,393H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,393,436,393z"></path></g></g></g></svg>
-                        </span>
-                    </xsl:if>
-                    <xsl:apply-templates select="$title"/>
-                </xsl:element>
-                <xsl:if test="not(@type='edition')">
-                    <xsl:element name="td">
-                        <xsl:attribute name="class">text-siglum</xsl:attribute>
-                        <xsl:attribute name="lang">en</xsl:attribute>
-                        <xsl:variable name="cu" select="translate(@synch,'#','')"/>
-                        <xsl:value-of select="$cu"/>
-                        <xsl:if test="$cu and $textid">
-                            <xsl:text>, </xsl:text>
-                        </xsl:if>
-                        <xsl:value-of select="$textid"/>
+        <xsl:choose>
+            <xsl:when test="@type='edition'">
+            <xsl:attribute name="class">
+                <xsl:text>teitext edition</xsl:text>
+            </xsl:attribute>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:attribute name="class">
+                    <xsl:text>teitext</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name="data-synch"><xsl:value-of select="@synch"/></xsl:attribute>
+                <xsl:attribute name="data-corresp"><xsl:value-of select="$textid"/></xsl:attribute>
+                <xsl:element name="table">
+                    <xsl:attribute name="class">texttitle</xsl:attribute>
+                    <xsl:element name="tr">
+                        <xsl:element name="td">
+                            <xsl:variable name="title" select="ancestor::x:TEI/x:teiHeader/x:fileDesc/x:sourceDesc/x:msDesc/x:msContents/x:msItem[@xml:id=$textid]/x:title"/>
+                            <xsl:attribute name="lang"><xsl:value-of select="$title/@xml:lang"/></xsl:attribute>
+                            <span class="line-view-icon" title="diplomatic display">
+                                <svg height='25px' width='25px' fill="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512"><g id="#hamburger"><g><g><path d="M486,493H26c-3.866,0-7-3.134-7-7V26c0-3.866,3.134-7,7-7h460c3.866,0,7,3.134,7,7v460C493,489.866,489.866,493,486,493z      M33,479h446V33H33V479z"></path></g><g><path d="M436,133H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,133,436,133z"></path></g><g><path d="M436,263H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,263,436,263z"></path></g><g><path d="M436,393H86c-3.866,0-7-3.134-7-7s3.134-7,7-7h350c3.866,0,7,3.134,7,7S439.866,393,436,393z"></path></g></g></g></svg>
+                            </span>
+                            <xsl:apply-templates select="$title"/>
+                        </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:attribute name="class">text-siglum</xsl:attribute>
+                            <xsl:attribute name="lang">en</xsl:attribute>
+                            <xsl:variable name="cu" select="translate(@synch,'#','')"/>
+                            <xsl:value-of select="$cu"/>
+                            <xsl:if test="$cu and $textid">
+                                <xsl:text>, </xsl:text>
+                            </xsl:if>
+                            <xsl:value-of select="$textid"/>
+                        </xsl:element>
                     </xsl:element>
-                </xsl:if>
-            </xsl:element>
-        </xsl:element>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:apply-templates/>
     </xsl:element>
 </xsl:template>
@@ -435,6 +437,7 @@
 <xsl:template match="x:g">
         <xsl:variable name="ref" select="@ref"/>
         <xsl:variable name="rend" select="@rend"/>
+        <xsl:variable name="entityrend" select="$TST//tst:entityrend/tst:entry[@key=$rend]"/>
         <xsl:variable name="cname" select="$TST//tst:entityclasses/tst:entry[@key=$ref]"/>
         <xsl:variable name="ename" select="$TST//tst:entitynames/tst:entry[@key=$ref]"/>
         <xsl:variable name="rname" select="$TST//tst:rendnames/tst:entry[@key=$rend]"/>
@@ -443,9 +446,9 @@
             <xsl:call-template name="lang"/>
             <xsl:attribute name="class">
                 <xsl:text>gaiji</xsl:text>
-                <xsl:if test="$rend">
+                <xsl:if test="$entityrend">
                     <xsl:text> </xsl:text>
-                    <xsl:value-of select="$TST//tst:entityrend/tst:entry[@key=$rend]"/>
+                    <xsl:value-of select="$entityrend"/>
                 </xsl:if>
                 <xsl:if test="$cname">
                     <xsl:text> </xsl:text><xsl:value-of select="$cname"/>
@@ -460,7 +463,12 @@
                         </xsl:if>
                     </xsl:when>
                     <xsl:when test="$rend">
-                        <xsl:value-of select="$rname"/>
+                        <xsl:choose>
+                            <xsl:when test="$rname">
+                                <xsl:value-of select="$rname"/>
+                            </xsl:when>
+                            <xsl:otherwise><xsl:value-of select="$rend"/></xsl:otherwise>
+                        </xsl:choose>
                     </xsl:when>
                     <xsl:otherwise/>
                 </xsl:choose>
@@ -473,7 +481,7 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:attribute name="data-glyph"><xsl:value-of select="$txt"/></xsl:attribute>
-                            <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+                            <xsl:apply-templates/>
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
@@ -560,6 +568,14 @@
         <xsl:with-param name="hyphen"><xsl:value-of select="$hyphen"/></xsl:with-param>
     </xsl:call-template>
 </xsl:template>
+
+<xsl:template match="x:rubric/x:lb[1] | x:incipit/x:lb[1] | x:explicit/x:lb[1] | x:finalRubric/x:lb[1] | x:colophon/x:lb[1]">
+    <xsl:call-template name="lb">
+        <xsl:with-param name="hyphen">no</xsl:with-param>
+        <xsl:with-param name="excerpt">yes</xsl:with-param>
+    </xsl:call-template>
+</xsl:template>
+
 <xsl:template match="x:q[@rend='block']//x:lg//x:lb | x:quote[@rend='block']//x:lg//x:lb | x:q[not(@rend)]//x:lb | x:quote[not(@rend)]//x:lb | x:standOff[@type='apparatus']//x:lb">
     <xsl:call-template name="lb">
         <xsl:with-param name="diplo">false</xsl:with-param>
@@ -569,10 +585,12 @@
 <xsl:template name="lb">
     <xsl:param name="diplo">true</xsl:param>
     <xsl:param name="hyphen">yes</xsl:param>
+    <xsl:param name="excerpt">no</xsl:param>
     <xsl:element name="span">
         <xsl:attribute name="class">
             <xsl:text>lb</xsl:text>
             <xsl:if test="$diplo = 'true'"><xsl:text> diplo</xsl:text></xsl:if>
+            <xsl:if test="$excerpt = 'yes'"><xsl:text> nobreak</xsl:text></xsl:if>
             <xsl:if test="not(@n)"><xsl:text> unnumbered</xsl:text></xsl:if>
         </xsl:attribute>
         <xsl:attribute name="lang">en</xsl:attribute>
@@ -629,6 +647,12 @@
 
 <xsl:template match="x:pb">
     <xsl:param name="excerpt">no</xsl:param>
+    <xsl:call-template name="pb">
+        <xsl:with-param name="excerpt"><xsl:value-of select="$excerpt"/></xsl:with-param>
+    </xsl:call-template>
+</xsl:template>
+<xsl:template match="x:rubric/x:pb[1] | x:incipit/x:pb[1] | x:explicit/x:pb[1] | x:finalRubric/x:pb[1] | x:colophon/x:pb[1]">
+    <xsl:param name="excerpt">yes</xsl:param>
     <xsl:call-template name="pb">
         <xsl:with-param name="excerpt"><xsl:value-of select="$excerpt"/></xsl:with-param>
     </xsl:call-template>
@@ -765,6 +789,18 @@
     </xsl:element>
 </xsl:template>
 
+<xsl:template match="x:mod">
+    <xsl:element name="span">
+        <xsl:attribute name="class">unclear</xsl:attribute>
+        <xsl:attribute name="data-anno">
+            <xsl:text>modified</xsl:text>
+            <xsl:if test="@rend">
+                <xsl:text> (</xsl:text><xsl:value-of select="@rend"/><xsl:text>)</xsl:text>
+            </xsl:if>
+        </xsl:attribute>
+    </xsl:element>
+</xsl:template>
+
 <xsl:template match="x:unclear">
     <xsl:variable name="r" select="@reason"/>
     <xsl:variable name="reason" select="$TST//tst:reason//tst:entry[@key=$r]"/>
@@ -799,6 +835,15 @@
     <xsl:element name="span">
         <xsl:call-template name="lang"/>
         <xsl:attribute name="class">expan</xsl:attribute>
+        <xsl:attribute name="data-anno">abbreviation</xsl:attribute>
+        <xsl:apply-templates/>
+    </xsl:element>
+</xsl:template>
+
+<xsl:template match="x:abbr">
+    <xsl:element name="span">
+        <xsl:call-template name="lang"/>
+        <xsl:attribute name="class">abbr</xsl:attribute>
         <xsl:attribute name="data-anno">abbreviation</xsl:attribute>
         <xsl:apply-templates/>
     </xsl:element>
