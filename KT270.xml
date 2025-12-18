@@ -352,9 +352,9 @@
     </fileDesc>
     <revisionDesc/>
   </teiHeader>
-  <text xml:lang="ta" type="edition">viṉaimuṟṟip pukunta talaimakaṉ kiḻattiyōṭuṭaṉ iruntu kūṟiyatu. <body>
+  <text xml:lang="ta" type="edition"> <body>
       <div rend="parallel">
-        <p xml:id="KT270-kilavi"> </p>
+        <p xml:id="KT270-kilavi">viṉaimuṟṟip pukunta talaimakaṉ kiḻattiyōṭuṭaṉ iruntu kūṟiyatu.</p>
         <p xml:lang="en">Spoken, when he was together with HER, by HIM, who
     entered after having completed work. </p>
       </div>
@@ -749,4 +749,67 @@
         <rdg wit="#L1 #C1 #C3 #G1">kūntal</rdg>
         </app>
 </listApp>
+</standOff><standOff corresp="#KT270-kilavi" type="wordsplit">
+<interp type="alignment" select="0">38MG19M,57MG</interp>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṟṟi<c type="geminated">p</c></form>
+<def>accomplished</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukunta</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻattiyoṭ<c type="elided">u</c></form>
+<def>with the heroine</def>
+<form type="sandhi">kiḻattiyōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭaṉ</form>
+<def>together</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iruntu</form>
+<def>been</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
