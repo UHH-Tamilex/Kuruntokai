@@ -384,7 +384,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT43">
-<interp type="alignment" select="0">28MG14MG14MG15MG32MG7M#L14MG4MG2M,137MG</interp>
+<interp type="alignment" select="0">28MG14MG14MG15MG32MG7ML14MG4MG2M,137MG</interp>
 <entry>
 <form>celvār</form>
 <def>he will go</def>
@@ -455,7 +455,7 @@
 </entry>
 <entry>
 <form>avar</form>
-<def>that-one</def>
+<def>that one</def>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
@@ -472,7 +472,9 @@
 <entry>
 <form><c type="glide">y</c>āyiṭai</form>
 <def>at that time</def>
-<note>TVG, like Cām., explains ā-y-iṭai as a special sandhi of poetic texts between the enclitic pronoun a- and iṭai.</note>
+<gramGrp>
+</gramGrp>
+<note xmlns="http://www.tei-c.org/ns/1.0">TVG, like Cām., explains ā-y-iṭai as a special sandhi of poetic texts between the enclitic pronoun a- and iṭai.</note>
 </entry>
 <entry>
 <form><c type="glide">y</c>iru</form>
@@ -495,7 +497,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note>Is the meaning of <term xml:lang="ta">āṇmai</term> special here, or how is it possible to connect lines 1 + 2 with line 3? TVG's understanding of the line is: "the encounter of two great individual prestiges".</note>
+<note xmlns="http://www.tei-c.org/ns/1.0">Is the meaning of <term xml:lang="ta">āṇmai</term> special here, or how is it possible to connect lines 1 + 2 with line 3? TVG's understanding of the line is: "the encounter of two great individual prestiges".</note>
 </entry>
 <entry>
 <form>ceyta</form>
@@ -539,6 +541,8 @@
 <form>yāṅk<c type="elided">u</c></form>
 <def>like</def>
 <form type="sandhi">yāṅk</form>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
 <form>eṉ</form>
@@ -581,7 +585,7 @@
   <gram type="role">habitual future</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note><term xml:lang="ta">alamalakku</term> can also be read as one lexeme denoting more or less the same, but with a certain onomatopoeic quality.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">alamalakku</term> can also be read as one lexeme denoting more or less the same, but with a certain onomatopoeic quality.</note>
 </entry>
 </standOff>
 <standOff corresp="#KT43" type="apparatus"><listApp>
@@ -625,4 +629,46 @@
 </listApp>
 </standOff><standOff corresp="#KT43-kilavi" type="apparatus"><listApp>
 <app><note xml:lang="en">C4: uraittatu</note></app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff corresp="#KT43-kilavi" type="wordsplit">
+<interp type="alignment" select="0">47M,34MG11MG</interp>
+<entry>
+<form>piriviṭai</form>
+</entry>
+<entry>
+<form>melinta</form>
+<def>softened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻatti</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>(C:</form>
+<form type="sandhi">(C4:</form>
+</entry>
+<entry>
+<form>uraittatu)</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

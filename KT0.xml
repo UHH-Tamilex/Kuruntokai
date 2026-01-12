@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -403,7 +402,7 @@
 </entry>
 <entry>
 <form>puraiyum</form>
-<def>resembling-</def>
+<def>resembling</def>
 <form type="sandhi">puraiyuṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -419,6 +418,9 @@
 <entry>
 <form>cē</form>
 <def>red</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aṭi<c type="geminated">p</c></form>
@@ -429,7 +431,7 @@
 </entry>
 <entry>
 <form>pavaḷatt<c type="elided">u</c></form>
-<def>coral-</def>
+<def>coral</def>
 <form type="sandhi">pavaḷatt</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -451,7 +453,7 @@
 </entry>
 <entry>
 <form>tikaḻ</form>
-<def>glitter-</def>
+<def>glitter</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -465,11 +467,14 @@
 </entry>
 <entry>
 <form>kuṉṟi</form>
-<def>Kuṉṟi [seed]</def>
+<def>seed</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>ēykkum</form>
-<def>resembling-</def>
+<def>resembling</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -633,6 +638,11 @@
 <interp type="alignment" select="0">39M,38MG</interp>
 <entry>
 <form>pāratam</form>
+<def>Bhārata</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pāṭiya</form>

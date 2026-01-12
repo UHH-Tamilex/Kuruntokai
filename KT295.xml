@@ -418,7 +418,7 @@
 </entry>
 <entry>
 <form>pūṇṭ<c type="elided">u</c>-um</form>
-<def>put-on</def>
+<def>put on</def>
 <form type="simple">pūṇṭu</form>
 <form type="sandhi">pūṇṭ</form>
 <gramGrp>
@@ -482,7 +482,6 @@
 <form>varuti</form>
 <def>come-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -502,8 +501,12 @@
 <def>this</def>
 <form type="simple">iḵtu</form>
 <form type="sandhi"><c type="glide">y</c>iḵt</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-<note> Cām.'s <term xml:lang="ta"> patavurai </term> reads: <term xml:lang="ta"> iḵtu-ōr-āṉ </term>. Or does this only mean he takes <term xml:lang="ta">-ō </term> as an expletive?  </note>
+<note xmlns="http://www.tei-c.org/ns/1.0"> Cām.'s <term xml:lang="ta"> patavurai </term> reads: <term xml:lang="ta"> iḵtu-ōr-āṉ </term>. Or does this only mean he takes <term xml:lang="ta">-ō </term> as an expletive?  </note>
 </entry>
 <entry>
 <form><c type="glide">v</c>ōr<c type="elided">u</c></form>
@@ -585,6 +588,9 @@
 <entry>
 <form><c type="glide">v</c>iṉi</form>
 <def>now</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>viḻav<c type="elided">u</c></form>
@@ -605,14 +611,17 @@
 </entry>
 <entry>
 <form>eṉṉum</form>
-<def>sayiy</def>
+<def>saying</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>i<c type="geminated">v</c></form>
-<def>this-</def>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>ūr-ē</form>
