@@ -381,13 +381,15 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT25">
-<interp type="alignment" select="0">14MG31M2G52M2G20M2G2M,125MG</interp>
+<interp type="alignment" select="0">3MG11MG31M2G52M2G20M2G2M,126MG</interp>
 <entry>
-<form>yārum</form>
+<form>yār-um</form>
 <def>anyone</def>
+<form type="simple">yār</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>illai<c type="geminated">t</c></form>
@@ -430,10 +432,13 @@
 <entry>
 <form>atu</form>
 <def>that</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>poyppiṉ</form>
-<def>lie-if</def>
+<def>lie if</def>
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
@@ -449,12 +454,19 @@
 <entry>
 <form>evaṉ</form>
 <def>what</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>ceyk<c type="elided">u</c>-ō</form>
 <def>do-I</def>
 <form type="simple">ceyku</form>
 <form type="sandhi">ceyk</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
