@@ -383,11 +383,17 @@
 <form>paim</form>
 <def>green</def>
 <form type="sandhi">paiṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kāl</form>
 <def>leg</def>
 <form type="sandhi">kāṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kokkiṉ</form>
@@ -399,33 +405,51 @@
 <entry>
 <form>puṉ</form>
 <def>low</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>puṟatt<c type="elided">u</c></form>
-<def>back-</def>
+<def>back</def>
 <form type="sandhi">puṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kuṇṭu</form>
 <def>depth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>āmpal-um</form>
 <def>waterlily</def>
 <form type="simple">āmpal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kūmpiṉa</form>
-<def>they-closed</def>
+<def>they closed</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
@@ -433,40 +457,67 @@
 <entry>
 <form><c type="glide">v</c>iṉi<c type="glide">y</c>ē</form>
 <def>now</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>vantaṉṟu</form>
-<def>it-came</def>
+<def>it came</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>vāḻi-<c type="glide">y</c>ō</form>
 <def>live</def>
 <form type="simple">vāḻi</form>
+<gramGrp>
+  <gram type="role">subjunctive</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>mālai</form>
 <def>evening</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tāṉ</form>
 <def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aṉṟ<c type="elided">u</c>-ē</form>
-<def>is-not-so</def>
+<def>is not so</def>
 <form type="simple">aṉṟu</form>
 <form type="sandhi">aṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>kaṅkul-um</form>
 <def>night</def>
 <form type="simple">kaṅkul</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -474,8 +525,11 @@
 <def>possess-it</def>
 <form type="simple">uṭaittu</form>
 <form type="sandhi">uṭaitt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note><term xml:lang="ta">uṭaittu</term> is, according to Lehmann 1994: 89, to be taken as a finite form of a defective verb <term xml:lang="ta">uṭai</term>.</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uṭaittu</term> is, according to Lehmann 1994: 89, to be taken as a finite form of a defective verb <term xml:lang="ta">uṭai</term>.</note>
 </entry>
 </standOff>
 <standOff corresp="#KT122" type="apparatus"><listApp>
@@ -515,7 +569,7 @@
 </entry>
 <entry>
 <form>aḻintatu</form>
-<def>been-desolate-it</def>
+<def>been desolate-it</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>

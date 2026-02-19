@@ -387,7 +387,7 @@
     </body>
   </text>
 <standOff type="wordsplit" corresp="#KT138">
-<interp type="alignment" select="0">12MG13MG13MG32M#L19MG31M2G2M,128MG</interp>
+<interp type="alignment" select="0">12MG13MG13MG32ML19MG31M2G2M,128MG</interp>
 <entry>
 <form>koṉ</form>
 <def>koṉ</def>
@@ -401,11 +401,11 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note><term xml:lang="ta">koṉ</term> is one of the remaining difficult particles; cf. note on KT 91. Here Cām. chooses greatness among the four meanings enumerated in the Tolkāppiyam (in fact the only one which makes at least a vague sense, though not one very specific to the poem).</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">koṉ</term> is one of the remaining difficult particles; cf. note on KT 91. Here Cām. chooses greatness among the four meanings enumerated in the Tolkāppiyam (in fact the only one which makes at least a vague sense, though not one very specific to the poem).</note>
 </entry>
 <entry>
 <form>tuñciṉ-um</form>
-<def>sleep-if-even</def>
+<def>sleep if even</def>
 <form type="simple">tuñciṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
@@ -424,7 +424,7 @@
 </entry>
 <entry>
 <form>tuñcalam-ē</form>
-<def>we-don't-sleep</def>
+<def>we don't sleep</def>
 <form type="simple">tuñcalam</form>
 <gramGrp>
   <gram type="role">negative</gram>
@@ -468,6 +468,9 @@
 <entry>
 <form>umpar</form>
 <def>beyond</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mayil</form>
@@ -522,7 +525,7 @@
 </entry>
 <entry>
 <form>miku</form>
-<def>become-much</def>
+<def>become much</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -632,4 +635,143 @@
         <rdg wit="#YV #PP">yōrntē</rdg>
         </app>
 </listApp>
+</standOff><standOff corresp="#KT138-kilavi" type="wordsplit">
+<interp type="alignment" select="0">48M2G49MG5M,80MG23MG</interp>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piḻaitta</form>
+<def>failed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟṟai</form>
+<def>later</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāṉṟu</form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iravu<c type="geminated">k</c></form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide"/>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<form type="sandhi"><c type="glide"/>ḻi<c type="geminated">t</c></form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated">p</c></form>
+<def>wing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>outside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">k</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iravu<c type="geminated">k</c></form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērntatu-um</form>
+<def>granted-it</def>
+<form type="simple">nērntatu</form>
+<form type="sandhi">nērntatū</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ām</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>

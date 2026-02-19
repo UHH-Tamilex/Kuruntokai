@@ -450,11 +450,11 @@
   <gram type="role">root noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note place="foot">The exact nuance of <term xml:lang="ta">piṇi</term> is unclear. The verb is obviously used in the sense of "to fetter" (cf. KT 129.6), and in the formula poruṭpiṇi also the noun has the meaning "fetter". But it can also mean "illness" (Cām. glosses with <term xml:lang="ta">nōy</term> "pain"), and it has to be thought in a complementary relation to <term xml:lang="ta">aṇaṅku</term> (here unequivocally something like "torment").</note>
+<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The exact nuance of <term xml:lang="ta">piṇi</term> is unclear. The verb is obviously used in the sense of "to fetter" (cf. KT 129.6), and in the formula poruṭpiṇi also the noun has the meaning "fetter". But it can also mean "illness" (Cām. glosses with <term xml:lang="ta">nōy</term> "pain"), and it has to be thought in a complementary relation to <term xml:lang="ta">aṇaṅku</term> (here unequivocally something like "torment").</note>
 </entry>
 <entry>
 <form>aṉṟ<c type="elided">u</c>-ē</form>
-<def>is-not-so</def>
+<def>is not so</def>
 <form type="simple">aṉṟu</form>
 <form type="sandhi">aṉṟ</form>
 <gramGrp>
@@ -464,7 +464,7 @@
 </entry>
 <entry>
 <form>nuṇaṅki<c type="geminated">k</c></form>
-<def>become-fine</def>
+<def>become fine</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -489,9 +489,12 @@
 </entry>
 <entry>
 <form>iṉṟ<c type="elided">u</c>-ē</form>
-<def>is-not</def>
+<def>is not</def>
 <form type="simple">iṉṟu</form>
 <form type="sandhi">iṉṟ</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
@@ -533,7 +536,7 @@
 </entry>
 <entry>
 <form>pōla<c type="geminated">p</c></form>
-<def>be-similar</def>
+<def>be similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -565,7 +568,7 @@
 </entry>
 <entry>
 <form>peṟiṉ-ē</form>
-<def>obtain-if</def>
+<def>obtain if</def>
 <form type="simple">peṟiṉ</form>
 <gramGrp>
   <gram type="role">conditional</gram>

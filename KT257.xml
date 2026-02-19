@@ -429,6 +429,9 @@
 <entry>
 <form>or</form>
 <def>one</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>āṅku<c type="geminated">t</c></form>
@@ -448,7 +451,7 @@
 </entry>
 <entry>
 <form>pōla<c type="geminated">t</c></form>
-<def>be-similar</def>
+<def>be similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -470,6 +473,9 @@
 <entry>
 <form>kīḻ</form>
 <def>below</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tāḻv<c type="elided">u</c></form>
@@ -510,7 +516,7 @@
 </entry>
 <entry>
 <form>ār</form>
-<def>become-full</def>
+<def>become full</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -553,7 +559,7 @@
 </entry>
 <entry>
 <form>akaliṉ-um</form>
-<def>depart-if-even</def>
+<def>depart if even</def>
 <form type="simple">akaliṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
@@ -563,7 +569,7 @@
 </entry>
 <entry>
 <form>akalāt<c type="elided">u</c></form>
-<def>depart-not-it</def>
+<def>depart not-it</def>
 <form type="sandhi">akalāt</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
@@ -579,7 +585,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ikalum</form>
-<def>being-hostile</def>
+<def>being hostile</def>
 <form type="sandhi"><c type="glide">y</c>ikalun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -635,4 +641,45 @@
         <rdg wit="#L1">maka lāki</rdg>
         </app>
 </listApp>
+</standOff><standOff corresp="#KT257-kilavi" type="wordsplit">
+<interp type="alignment" select="0">7MG33M,40MG</interp>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarttiya</form>
+<def>informed</def>
+<form type="sandhi">ṇarttiya</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">k</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻatti</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
