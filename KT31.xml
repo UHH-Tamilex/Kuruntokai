@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -385,7 +387,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#KT31">
-<interp type="alignment" select="0">24ML30M2G2MG19MG12ML4MG11MG36MG12ML4MG2M,166MG</interp>
+<interp type="alignment" select="0">24ML30M2G21MG12ML4MG11MG36MG12ML4MG2M,165MG</interp>
 <entry>
 <form>maḷḷar</form>
 <def>warrior</def>
@@ -443,12 +445,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>yāṇṭ<c type="elided">u</c>(um)</form>
+<form>yāṇṭ<c type="elided">u</c>-um</form>
 <def>where</def>
-<form type="sandhi">yāṇṭuṅ</form>
+<form type="simple">yāṇṭu</form>
+<form type="sandhi">yāṇṭ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kāṇēṉ</form>
