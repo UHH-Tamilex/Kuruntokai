@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -578,7 +578,7 @@
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">Here is one of the especially awkward etymologies to be found in the TL: <term xml:lang="ta">cettu</term> is supposed to be from <term xml:lang="ta">citvā</term>, but
+<note>Here is one of the especially awkward etymologies to be found in the TL: <term xml:lang="ta">cettu</term> is supposed to be from <term xml:lang="ta">citvā</term>, but
         how otherwise to analyse the form?</note>
 </entry>
 <entry>
@@ -664,7 +664,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">mutukkuṟaimai </term> is a problem. While <term xml:lang="ta">mutu </term>
+<note><term xml:lang="ta">mutukkuṟaimai </term> is a problem. While <term xml:lang="ta">mutu </term>
         is, of course, "old", <term xml:lang="ta">kuṟaimai</term> is not attested otherwise, besides
         in <term xml:base="ta">Kali</term> 62.9 (disputably dependent on the KT passage); one <term xml:lang="ta"> mutukkuṟai</term> is to be found in NA 366.9. Cām. glosses with <term xml:lang="ta">mikka aṟivuṭaimai</term> , "great wisdom" (thus also T.V.G.'s understanding,
         who explains it as <term xml:lang="ta"> mutukku-uṟaimai</term> , which likewise does not

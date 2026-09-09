@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -515,7 +513,7 @@
   <gram type="role">negative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">cālā</term>: for the negative neuter plural see Agesthialingom p. 113.</note>
+<note><term xml:lang="ta">cālā</term>: for the negative neuter plural see Agesthialingom p. 113.</note>
 </entry>
 <entry>
 <form>pū<c type="geminated">p</c></form>

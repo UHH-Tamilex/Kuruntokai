@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -425,7 +425,7 @@
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">nōtaka</term>: Index/Cām. read an infinitive, but that should be <term xml:lang="ta">nōva/nōka</term>, so it might be preferable to separate into <term xml:lang="ta">nō taka</term>.</note>
+<note place="foot"><term xml:lang="ta">nōtaka</term>: Index/Cām. read an infinitive, but that should be <term xml:lang="ta">nōva/nōka</term>, so it might be preferable to separate into <term xml:lang="ta">nō taka</term>.</note>
 </entry>
 <entry>
 <form>nīr</form>

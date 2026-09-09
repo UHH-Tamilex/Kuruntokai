@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -509,7 +509,7 @@
   <gram type="role">comparative</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">aṇavā</term> is given in the TL as a lexicalised compound of aṇa + <term xml:lang="ta">vā</term> with the same meaning as the simplex <term xml:lang="ta">aṇa</term> "to raise the head".</note>
+<note><term xml:lang="ta">aṇavā</term> is given in the TL as a lexicalised compound of aṇa + <term xml:lang="ta">vā</term> with the same meaning as the simplex <term xml:lang="ta">aṇa</term> "to raise the head".</note>
 </entry>
 <entry>
 <form>nōyēm</form>

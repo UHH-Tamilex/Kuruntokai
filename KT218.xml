@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -439,7 +439,7 @@
   <gram type="role">dative</gram>
   <gram type="role">proper name</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">cūli</term>, quite obviously a designation of a god here, is widely interpreted as Skt. <term xml:lang="sa">śūlin-</term> <q>spear/trident bearer</q> and in Tamil is supposed to be a feminine, i.e. <term xml:lang="sa">Durgā</term> as a bearer of the trident (which should go back to Skt. <term xml:lang="sa">śūlinī</term>, but since <term xml:lang="ta">-i</term> is feminine suffix in Tamil, this short version might be conceivable). This is the only occurrence in all of <term xml:lang="ta">Caṅkam</term> literature.</note>
+<note><term xml:lang="ta">cūli</term>, quite obviously a designation of a god here, is widely interpreted as Skt. <term xml:lang="sa">śūlin-</term> <q>spear/trident bearer</q> and in Tamil is supposed to be a feminine, i.e. <term xml:lang="sa">Durgā</term> as a bearer of the trident (which should go back to Skt. <term xml:lang="sa">śūlinī</term>, but since <term xml:lang="ta">-i</term> is feminine suffix in Tamil, this short version might be conceivable). This is the only occurrence in all of <term xml:lang="ta">Caṅkam</term> literature.</note>
 </entry>
 <entry>
 <form>kaṭaṉ-um</form>
@@ -509,7 +509,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">viricci</term> is not included in the DEDR; according to TP 58 it is an utterance on part of a passer-by overheard by HER (thus KT 218, NA 40.4 and PN 280.6). Are <term xml:lang="ta">cūli</term> and <term xml:lang="ta">viricci</term> to be seen as hints to a late origin of this poem?</note>
+<note><term xml:lang="ta">viricci</term> is not included in the DEDR; according to TP 58 it is an utterance on part of a passer-by overheard by HER (thus KT 218, NA 40.4 and PN 280.6). Are <term xml:lang="ta">cūli</term> and <term xml:lang="ta">viricci</term> to be seen as hints to a late origin of this poem?</note>
 </entry>
 <entry>
 <form>nillām</form>

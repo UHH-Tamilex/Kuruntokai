@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -409,7 +409,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kōḷ</term>: Cām. glosses <term xml:lang="ta">paḻakulai</term> "bunch of fruit"; cf. KT 198.4, 257.3.</note>
+<note><term xml:lang="ta">kōḷ</term>: Cām. glosses <term xml:lang="ta">paḻakulai</term> "bunch of fruit"; cf. KT 198.4, 257.3.</note>
 </entry>
 <entry>
 <form>palaviṉ</form>
@@ -478,7 +478,7 @@
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">aṟinticiṉōr</term>: this is one of the cases where it is impossible to understand a preterite. Now this is a general question: what is the function of aspects with participial nouns?</note>
+<note place="foot"><term xml:lang="ta">aṟinticiṉōr</term>: this is one of the cases where it is impossible to understand a preterite. Now this is a general question: what is the function of aspects with participial nouns?</note>
 </entry>
 <entry>
 <form>cāral</form>
@@ -563,7 +563,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The -ō in this place is very odd and certainly not to be understood as an interrogative particle. Perhaps it is best understood as belonging to an older layer of function, mostly preserved in formulae (as for example nōkō yāṉē), where –ō seems to have a flavour of lament.</note>
+<note place="foot">The -ō in this place is very odd and certainly not to be understood as an interrogative particle. Perhaps it is best understood as belonging to an older layer of function, mostly preserved in formulae (as for example nōkō yāṉē), where –ō seems to have a flavour of lament.</note>
 </entry>
 <entry>
 <form>perit<c type="elided">u</c>-ē</form>

@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -448,7 +448,7 @@
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">nāṭṭar</term>in contradistinction to the frequent <term xml:lang="ta">nāṭaṉ</term>, is not to be understood as a lexicalised pronominal noun, but
+<note><term xml:lang="ta">nāṭṭar</term>in contradistinction to the frequent <term xml:lang="ta">nāṭaṉ</term>, is not to be understood as a lexicalised pronominal noun, but
         as a denominative, meaning "one who [temporarily dwells] in a land (see also nāṭṭār KT
         228.5).</note>
 </entry>

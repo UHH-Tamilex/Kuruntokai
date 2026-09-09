@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -444,7 +444,7 @@
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">TVG explains <term xml:lang="ta">paci</term> as thirst which is alleviated by chewing the moist bark.</note>
+<note>TVG explains <term xml:lang="ta">paci</term> as thirst which is alleviated by chewing the moist bark.</note>
 </entry>
 <entry>
 <form>kaḷaiiya</form>

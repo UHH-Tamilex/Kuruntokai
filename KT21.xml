@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -576,7 +576,7 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0" place="foot"><term xml:lang="ta">yāṉō</term>: this is an example of the special usage of <term xml:lang="ta">-ō</term> as a particle demarcating a topic ("as for me, I don't believe it").</note>
+<note place="foot"><term xml:lang="ta">yāṉō</term>: this is an example of the special usage of <term xml:lang="ta">-ō</term> as a particle demarcating a topic ("as for me, I don't believe it").</note>
 </entry>
 <entry>
 <form>tēṟēṉ</form>

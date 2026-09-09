@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -528,7 +528,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ceṟivu</term>, noun to the frequent adjective <term xml:lang="ta">
+<note><term xml:lang="ta">ceṟivu</term>, noun to the frequent adjective <term xml:lang="ta">
 ceṟi </term> "close, tight", is attested only here in the old anthologies. While in the
 poetological idiom it denotes the HER confinement by the family (note the <term xml:lang="ta">kiḷavi</term> phrase <term xml:lang="ta">ceṟivaṟivuṟīi</term>), in this
 context it may mean "restraint" in the sense of self-restraint (Cām. glosses with <term xml:lang="ta">aṭakkam</term> "patience").</note>

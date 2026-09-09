@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -414,7 +414,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">
+<note>
         <term xml:lang="ta">maṟi</term> is one of the terms denoting the young of an animal, and
         especially a lamb, but T.V.G. asserts that the offering consists in the young of a goat, as
         is mostly the custom nowadays. Neither this poem nor KT 362, however, contains any hint that

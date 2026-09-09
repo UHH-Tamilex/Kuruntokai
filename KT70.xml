@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -478,7 +478,7 @@
   <gram type="role">pronominalised noun</gram>
   <gram type="role">feminine singular</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">nīraḷ</term>: tradition here takes "nature, disposition" as a meaning for <term xml:lang="ta">nīr</term>, but I rather like the metaphor of HER being like water.</note>
+<note><term xml:lang="ta">nīraḷ</term>: tradition here takes "nature, disposition" as a meaning for <term xml:lang="ta">nīr</term>, but I rather like the metaphor of HER being like water.</note>
 </entry>
 <entry>
 <form>ār<c type="elided">u</c></form>

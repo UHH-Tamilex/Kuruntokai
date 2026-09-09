@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -450,7 +450,7 @@
   <gram type="role">root noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The exact nuance of <term xml:lang="ta">piṇi</term> is unclear. The verb is obviously used in the sense of "to fetter" (cf. KT 129.6), and in the formula poruṭpiṇi also the noun has the meaning "fetter". But it can also mean "illness" (Cām. glosses with <term xml:lang="ta">nōy</term> "pain"), and it has to be thought in a complementary relation to <term xml:lang="ta">aṇaṅku</term> (here unequivocally something like "torment").</note>
+<note place="foot">The exact nuance of <term xml:lang="ta">piṇi</term> is unclear. The verb is obviously used in the sense of "to fetter" (cf. KT 129.6), and in the formula poruṭpiṇi also the noun has the meaning "fetter". But it can also mean "illness" (Cām. glosses with <term xml:lang="ta">nōy</term> "pain"), and it has to be thought in a complementary relation to <term xml:lang="ta">aṇaṅku</term> (here unequivocally something like "torment").</note>
 </entry>
 <entry>
 <form>aṉṟ<c type="elided">u</c>-ē</form>

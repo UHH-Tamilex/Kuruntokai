@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -416,7 +416,7 @@
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has
+<note><term xml:lang="ta">uyarntaṉṟu</term>: 3rd sg. n.p.a.: "has
         risen" = "is high"? Of the three predicates in anteposition this is the only one not marked
         with -ē as is to be expected. TVG explains this by metrical reasons: <term xml:lang="ta">
         uyarntaṉṟē</term> would exceed the boundaries of one metrical foot.</note>

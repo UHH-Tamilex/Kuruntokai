@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -541,7 +541,7 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">vantataṉṟalaiyum</term>: this form presents morphological
+<note><term xml:lang="ta">vantataṉṟalaiyum</term>: this form presents morphological
         difficulties. It might either be analysed as absolutive vantu plus the usual "conjunction" <term xml:lang="ta">ataṉṟalaiyum</term> "and on top of that, moreover" (which literally is a
         pointed locative of the demonstrative pronoun atu plus -um), but in this case one would
         rather expect a finite n.sg. than an absolutive, or as <term xml:lang="ta">

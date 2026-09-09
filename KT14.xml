@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -435,7 +435,7 @@
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">vārntu</term>, abs. to <term xml:lang="ta">vār</term>, is explained by TVG as "standing in a row" which might be one way of interpreting the TL entry "to be in order".</note>
+<note><term xml:lang="ta">vārntu</term>, abs. to <term xml:lang="ta">vār</term>, is explained by TVG as "standing in a row" which might be one way of interpreting the TL entry "to be in order".</note>
 </entry>
 <entry>
 <form>ilaṅku</form>
@@ -514,7 +514,7 @@
 <gramGrp>
   <gram type="role">comparative</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">A problem here is <term xml:lang="ta">peṟṟāṅku</term>. The usual form of absolutive + <term xml:lang="ta">āṅku</term> as a particle of comparison does not fit. Cām. glosses <term xml:lang="ta">peṟṟapiṉpu</term> "after having obtained", and this seems to be the only thing that makes sense.</note>
+<note>A problem here is <term xml:lang="ta">peṟṟāṅku</term>. The usual form of absolutive + <term xml:lang="ta">āṅku</term> as a particle of comparison does not fit. Cām. glosses <term xml:lang="ta">peṟṟapiṉpu</term> "after having obtained", and this seems to be the only thing that makes sense.</note>
 </entry>
 <entry>
 <form>aṟika-tillamma</form>
@@ -599,7 +599,7 @@
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">yām</term>, that is, the exclusive "we", will hardly be employed by chance here.</note>
+<note><term xml:lang="ta">yām</term>, that is, the exclusive "we", will hardly be employed by chance here.</note>
 </entry>
 <entry>
 <form>nāṇukam</form>

@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -489,7 +489,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">naṉṉar</term>: how to account for this formation? A <hi rend="italic">nomen agentis</hi> does not seem to fit here. cf. KT 265.6.</note>
+<note><term xml:lang="ta">naṉṉar</term>: how to account for this formation? A <hi rend="italic">nomen agentis</hi> does not seem to fit here. cf. KT 265.6.</note>
 </entry>
 <entry>
 <form>neñcam</form>
@@ -587,7 +587,7 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">uḷaṉ</term>: noticeable is here the choice of the pronominal suffix, namely sg., not h., in spite of the designation <term xml:lang="ta">entai</term>.</note>
+<note><term xml:lang="ta">uḷaṉ</term>: noticeable is here the choice of the pronominal suffix, namely sg., not h., in spite of the designation <term xml:lang="ta">entai</term>.</note>
 </entry>
 <entry>
 <form>vēṟu</form>
