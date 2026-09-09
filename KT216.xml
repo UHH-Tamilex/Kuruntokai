@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -418,7 +418,7 @@
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">Here the question arises whether <term xml:lang="ta">avarē</term> and <term xml:lang="ta">yāṉē</term> have not been interpolated to ensure the better understanding on the part of the listener. (Similar in KT 300.5,6 <term xml:lang="ta">nīyē, yāṉē</term>).</note>
+<note>Here the question arises whether <term xml:lang="ta">avarē</term> and <term xml:lang="ta">yāṉē</term> have not been interpolated to ensure the better understanding on the part of the listener. (Similar in KT 300.5,6 <term xml:lang="ta">nīyē, yāṉē</term>).</note>
 </entry>
 <entry>
 <form>kēṭ<c type="elided">u</c></form>
@@ -602,7 +602,7 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kūrnticiṉ</term>: the forms in -ticiṉ usually stand for an
+<note><term xml:lang="ta">kūrnticiṉ</term>: the forms in -ticiṉ usually stand for an
 imperative of the 2nd sg. (KT 11.8, 30.1, 63.4, 112.5), but here it seems impossible to
 avoid connecting it with the <term xml:lang="ta">yāṉē</term> of line 3, and accordingly read
 it as a 1st singular. Similar are KT 217.7: <term xml:lang="ta">eṉṟiciṉ</term>, KT 262.5 <term xml:lang="ta">āynticiṉ</term> .</note>

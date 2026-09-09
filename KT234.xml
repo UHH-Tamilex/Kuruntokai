@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -484,7 +484,7 @@
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">
+<note>
         <term xml:lang="ta">eṉmaṉār</term> : for this participle noun formation see Agesthialingom,
         p. 178, column 2.</note>
 </entry>
@@ -548,7 +548,7 @@
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"> pular, elsewhere (KT 150.3, 347.1, 372.6) used in the sense of drying, according to
+<note> pular, elsewhere (KT 150.3, 347.1, 372.6) used in the sense of drying, according to
         DEDR 4305 can also be "to dawn".</note>
 </entry>
 <entry>

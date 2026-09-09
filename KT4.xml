@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -454,7 +454,7 @@
   <gram type="role">comparative</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">tīyppu</term>: the Index reads a verbal noun meaning “the act of scorching”. Better might be an absolutive to the transitive <term xml:lang="ta">tīy-ttal</term> "burn".</note>
+<note><term xml:lang="ta">tīyppu</term>: the Index reads a verbal noun meaning “the act of scorching”. Better might be an absolutive to the transitive <term xml:lang="ta">tīy-ttal</term> "burn".</note>
 </entry>
 <entry>
 <form>kaṇṇīr</form>
@@ -478,7 +478,7 @@
   <gram type="role">dative</gram>
   <gram type="role">verbal noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ākutal</term>: the function of the verbal noun here is a pointed "that" (cf. KT 195.7, 360.2, 386.6).</note>
+<note><term xml:lang="ta">ākutal</term>: the function of the verbal noun here is a pointed "that" (cf. KT 195.7, 360.2, 386.6).</note>
 </entry>
 <entry>
 <form>amainta</form>

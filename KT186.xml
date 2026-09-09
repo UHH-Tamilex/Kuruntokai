@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -418,7 +418,7 @@
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">talaimaṇanta</term> is already lexicalised, according to the TL, but presumably it still retains the erotic component of <term xml:lang="ta">maṇa</term>- "to unite".</note>
+<note><term xml:lang="ta">talaimaṇanta</term> is already lexicalised, according to the TL, but presumably it still retains the erotic component of <term xml:lang="ta">maṇa</term>- "to unite".</note>
 </entry>
 <entry>
 <form>kollai<c type="geminated">p</c></form>

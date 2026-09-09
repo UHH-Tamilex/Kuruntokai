@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -422,7 +422,7 @@
 <gramGrp>
   <gram type="role">genitive</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">karaiyatu</term> might here for once actually be interpreted as a
+<note><term xml:lang="ta">karaiyatu</term> might here for once actually be interpreted as a
         genitive, unlike <term xml:lang="ta">micaiyatu</term> of KT 78.1 and <term xml:lang="ta">
         tiraiyatu</term> of KT 128.1, though it remains unclear why it should be marked as such.
         Just for metrical reasons, i.e. in order to complete the foot?</note>

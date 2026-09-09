@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -451,7 +451,7 @@
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">ila</term>: n.pl., can be connected either with <term xml:lang="ta">tavaṟu</term> or with <term xml:lang="ta">tōḷ</term>.</note>
+<note><term xml:lang="ta">ila</term>: n.pl., can be connected either with <term xml:lang="ta">tavaṟu</term> or with <term xml:lang="ta">tōḷ</term>.</note>
 </entry>
 <entry>
 <form>vem</form>
@@ -483,7 +483,7 @@
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">Is <term xml:lang="ta">vampalaṉ</term> really ambiguous and does it designate the traveller as well as the highwayman who attacks him? Literally it should just mean "new-comer".</note>
+<note>Is <term xml:lang="ta">vampalaṉ</term> really ambiguous and does it designate the traveller as well as the highwayman who attacks him? Literally it should just mean "new-comer".</note>
 </entry>
 <entry>
 <form>uval</form>
@@ -505,7 +505,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">patukkai</term>: for an explanation why this is, contrary to the traditional explanation, rather a "stone-heap" than a "leaf-heap" see note on KT 297.4.</note>
+<note><term xml:lang="ta">patukkai</term>: for an explanation why this is, contrary to the traditional explanation, rather a "stone-heap" than a "leaf-heap" see note on KT 297.4.</note>
 </entry>
 <entry>
 <form>neṭu</form>
@@ -556,7 +556,7 @@
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">aṟiya</term>: just as with <term xml:lang="ta">tamiya</term> (KT 9.2), it might be preferable to read an adjective derivation in the sg., though it is tempting to see the parallel construction <term xml:lang="ta">aṟiya kāṉam – eḷiya</term> ... <term xml:lang="ta">tōḷ</term>.</note>
+<note><term xml:lang="ta">aṟiya</term>: just as with <term xml:lang="ta">tamiya</term> (KT 9.2), it might be preferable to read an adjective derivation in the sg., though it is tempting to see the parallel construction <term xml:lang="ta">aṟiya kāṉam – eḷiya</term> ... <term xml:lang="ta">tōḷ</term>.</note>
 </entry>
 <entry>
 <form>kāṉam</form>
@@ -593,7 +593,7 @@
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">eḷiya ākiya</term>: of a kind that have become thin? Or a predication, like Sanskrit <hi rend="italic">bhavati</hi>?</note>
+<note><term xml:lang="ta">eḷiya ākiya</term>: of a kind that have become thin? Or a predication, like Sanskrit <hi rend="italic">bhavati</hi>?</note>
 </entry>
 <entry>
 <form>taṭa</form>

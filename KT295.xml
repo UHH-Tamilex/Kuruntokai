@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -506,7 +506,7 @@
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"> Cām.'s <term xml:lang="ta"> patavurai </term> reads: <term xml:lang="ta"> iḵtu-ōr-āṉ </term>. Or does this only mean he takes <term xml:lang="ta">-ō </term> as an expletive?  </note>
+<note> Cām.'s <term xml:lang="ta"> patavurai </term> reads: <term xml:lang="ta"> iḵtu-ōr-āṉ </term>. Or does this only mean he takes <term xml:lang="ta">-ō </term> as an expletive?  </note>
 </entry>
 <entry>
 <form><c type="glide">v</c>ōr<c type="elided">u</c></form>

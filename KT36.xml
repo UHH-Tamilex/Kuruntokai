@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -626,7 +626,7 @@
 <def>side-I</def>
 <form type="simple">vayiṉāṉ</form>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">niṉvayiṉāṉ</term>: it seems possible that <term xml:lang="ta">vayiṉ</term> here is to be understood as semantically stronger than a mere locative suffix. Then for the locative there would still be the suffix <term xml:lang="ta">-āṉ</term>, generally understood as an expletive, especially frequent at the end of a poem.</note>
+<note><term xml:lang="ta">niṉvayiṉāṉ</term>: it seems possible that <term xml:lang="ta">vayiṉ</term> here is to be understood as semantically stronger than a mere locative suffix. Then for the locative there would still be the suffix <term xml:lang="ta">-āṉ</term>, generally understood as an expletive, especially frequent at the end of a poem.</note>
 </entry></entry>
 </superEntry>
 </standOff>

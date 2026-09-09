@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -462,7 +462,7 @@
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">eṉṟi</term> has to be a 2nd person sg. here; <term xml:lang="ta">eṉṟiyāṉ</term> as such could also be understood as the sandhi form of <term xml:lang="ta">eṉṟu</term> plus <term xml:lang="ta">yāṉ</term>, but the over-short <term xml:lang="ta">-i</term> resulting from that sandhi always goes to the beginning of the subsequent <term xml:lang="ta">cīr</term>, which is metrically impossible here.</note>
+<note><term xml:lang="ta">eṉṟi</term> has to be a 2nd person sg. here; <term xml:lang="ta">eṉṟiyāṉ</term> as such could also be understood as the sandhi form of <term xml:lang="ta">eṉṟu</term> plus <term xml:lang="ta">yāṉ</term>, but the over-short <term xml:lang="ta">-i</term> resulting from that sandhi always goes to the beginning of the subsequent <term xml:lang="ta">cīr</term>, which is metrically impossible here.</note>
 </entry>
 <entry>
 <form>yāṉ</form>

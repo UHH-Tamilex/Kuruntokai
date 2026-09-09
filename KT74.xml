@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -520,7 +520,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">Tradition reads <term xml:lang="ta">āṉ ēṟu</term>, which would either be "bull bull" or the "bull of cows".</note>
+<note>Tradition reads <term xml:lang="ta">āṉ ēṟu</term>, which would either be "bull bull" or the "bull of cows".</note>
 </entry>
 <entry>
 <form>pōla<c type="geminated">c</c></form>

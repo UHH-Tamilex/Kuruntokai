@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -561,7 +561,7 @@
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">Here we have the only poem in the KT which ends on <term xml:lang="ta">aṉṉāy</term> instead of the usual <term xml:lang="ta">-ē</term> (a few variants have <term xml:lang="ta">-ō</term> instead of <term xml:lang="ta">-ē</term>; see KT 158)! For <term xml:lang="ta">aṉṉay</term> cf. note on 33.1.</note>
+<note>Here we have the only poem in the KT which ends on <term xml:lang="ta">aṉṉāy</term> instead of the usual <term xml:lang="ta">-ē</term> (a few variants have <term xml:lang="ta">-ō</term> instead of <term xml:lang="ta">-ē</term>; see KT 158)! For <term xml:lang="ta">aṉṉay</term> cf. note on 33.1.</note>
 </entry>
 </standOff>
 <standOff corresp="#KT150" type="apparatus"><listApp>

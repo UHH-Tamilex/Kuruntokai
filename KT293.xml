@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -458,7 +458,7 @@
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"> For <term xml:lang="ta"> pañci </term> the DEDR only gives the meaning "cotton", but here the "fibre" read by Cām./T.V.G. seems to make much more sense. </note>
+<note> For <term xml:lang="ta"> pañci </term> the DEDR only gives the meaning "cotton", but here the "fibre" read by Cām./T.V.G. seems to make much more sense. </note>
 </entry>
 <entry>
 <form>kuṟum</form>

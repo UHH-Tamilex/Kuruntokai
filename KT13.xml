@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -474,7 +474,7 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">paital</term> is not without problems semantically; it should be a kind of nominal derivation of pai <q>become green/pale</q> (though not the verbal noun of the 11th class = <term xml:lang="ta">paittal</term>). The TL gives, among others, the meanings "affliction" and "cold". The former might be derived from the second connotation of "become green", i.e. not the fresh sprouting of plants, but bodily decline. The latter, seemingly the only one to make sense here, is harder to justify, though the DEDR includes it under the same lemma 3821.</note>
+<note><term xml:lang="ta">paital</term> is not without problems semantically; it should be a kind of nominal derivation of pai <q>become green/pale</q> (though not the verbal noun of the 11th class = <term xml:lang="ta">paittal</term>). The TL gives, among others, the meanings "affliction" and "cold". The former might be derived from the second connotation of "become green", i.e. not the fresh sprouting of plants, but bodily decline. The latter, seemingly the only one to make sense here, is harder to justify, though the DEDR includes it under the same lemma 3821.</note>
 </entry>
 <entry>
 <form>oru</form>
@@ -482,7 +482,7 @@
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note>
+<note>What is achieved by <term xml:lang="ta">oru</term> here, is wholly unclear to me; in any case its relation to paital is formulaic – see KT 180.4 – where it is equally unclear. Could it mean "at the single cool spot"?</note>
 </entry>
 <entry>
 <form>talai</form>
