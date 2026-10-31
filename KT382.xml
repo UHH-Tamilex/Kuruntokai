@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -398,7 +400,7 @@
         </body>
     </text>
     <standOff type="wordsplit" corresp="#KT382">
-<interp type="alignment" select="0">9MG88M2G15MG6MG26MG11MG2M,163MG</interp>
+<interp type="alignment" select="0">9MG88M2G8MG7MG6MG26MG11MG2M,164MG</interp>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
@@ -542,11 +544,13 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>peyyumār</form>
+<form>peyyum-ār</form>
 <def>rains</def>
+<form type="simple">peyyum</form>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
 </entry>
 <entry>
 <form>maḻai-<c type="glide">y</c>ē</form>
