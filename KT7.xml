@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -422,7 +424,7 @@
   <gram type="role">neuter plural</gram>
   <gram type="role">denominative</gram>
 </gramGrp>
-<note><term xml:lang="ta">kālaṉa</term>: here one pointed example for a denominative usage of the pronominal noun, just as <term xml:lang="ta">mēlavum</term> in line 2 (i.e. literally: "anklets [are] on the legs of the man with the bow").</note>
+<note xmlns="http://www.tei-c.org/ns/1.0"><term xml:lang="ta">kālaṉa</term>: here one pointed example for a denominative usage of the pronominal noun, just as <term xml:lang="ta">mēlavum</term> in line 2 (i.e. literally: "anklets [are] on the legs of the man with the bow").</note>
 </entry>
 <entry>
 <form>kaḻal-ē</form>
@@ -604,10 +606,16 @@
 <entry><entry>
 <form>payil</form>
 <def>rustle</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry></entry>
 <entry><entry>
 <form>payil</form>
 <def>become dense</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry></entry>
 </superEntry>
 <entry>
